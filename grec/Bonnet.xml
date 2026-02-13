@@ -1,5 +1,4 @@
 <?xml version="1.0"?>
-<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="gr">
 	<teiHeader>
 		<fileDesc>
@@ -17,7 +16,7 @@
 		</revisionDesc>
 		<encodingDesc>
 			<refsDecl>
-				<citeStructure unit="transcription" match="//body/div/p/milestone" use="@n" />
+				<citeStructure unit="milestone" match="//body/div/p/milestone" use="@n" />
 			</refsDecl>
 		</encodingDesc>
 	</teiHeader>
@@ -25,7 +24,7 @@
 	<body>
 		<div>
 			<p>
-		<milestone n="titre" /><pb n="292" />
+		
 		<head type="initial"><lb n="1" />Περίοδοι καὶ μαρτύριον τοῦ ἁγίου Βαρνάβα τοῦ ἀποστόλου.</head>
 		<milestone n="1" /><lb n="2" />
 		Ἐπειδήπερ ἀπὸ τῆς καθόδου τῆς τοῦ σωτῆρος ἡμῶν<lb n="3" />
