@@ -11,30 +11,35 @@
 				<pubPlace>Lausanne</pubPlace>
 				<date>2017…</date>
 			</publicationStmt>
-		<sourceDesc>
-			<msDesc xml:id="C">
-				<msIdentifier>
-					<country>United Kingdom</country>
-					<settlement>Cambridge</settlement>
-					<repository>University Library</repository>
-					<collection>Add.</collection>
-					<idno>4489</idno>
-				</msIdentifier>
-			</msDesc>
-		</sourceDesc>
-	</fileDesc>
-	<revisionDesc status="approved">
-		<change />
-	</revisionDesc>
+			<sourceDesc>
+				<msDesc xml:id="C">
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<settlement>Cambridge</settlement>
+						<repository>University Library</repository>
+						<collection>Add.</collection>
+						<idno>4489</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="approved">
+			<change />
+		</revisionDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//body/div/p/milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 	</teiHeader>
 <text>
 <body>
 	<div>
-		<milestone n="11" />
 		<gap />
 		<pb n="11r-inf" /><cb n="1" />
-	<p>
-				<lb n="1" />
+		<p>
+		<milestone n="11" />
+		<lb n="1" />
 		ρεβάλλομεν  ἡμέρας τρεῖς· καὶ<lb n="2" />
 		ἐδέξατο ἡμᾶς ἀνὴρ
 		τίς εὔ<lb n="3" />φημος
