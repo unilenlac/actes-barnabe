@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="LatrA78">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Rome</settlement>
+					<repository>Archivio capitolare Lateranense</repository>
+					<collection></collection>
+					<idno>A 78 (Alias A)</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div>
+			<milestone n="titre-prologue" />
+			<pb n="168v" /><cb n="1" />
+						<head type="initial"><lb n="15" />
+				In natale sancti Barnabȩ apostoli.
+			</head>
+			<milestone n="prologue" />
+			<p><lb n="16" />
+				Barnabas hebraicȩ,
+				latine inter<lb n="17" />pretatur
+				filius prophetȩ, uel filius<lb n="18" />
+				consolationis. Barnabas qui et<lb n="19" />
+				Ioseph natione Cyprie ciuitatis<lb n="20" />
+				a  Cyro rege Persarum fundata,<lb n="21" />
+				cum Paulo ingentibus apostolatum<lb n="22" />
+				adeptus est. Deinde propter Iohannem<lb n="23" />
+				discipulum, qui etiam cognomen<lb n="24" />to
+				Marcus appellatur  seiunctus<lb n="25" />
+				a Paulo,  nichilominus euangelii<lb n="26" />
+				predicationem sibi iniunctam exer<lb n="27" />cuit.
+				Martirio coronatur. Cuius<lb n="28" />
+				festiuitas celebratur tertio idus<lb n="29" />
+				iunii.
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

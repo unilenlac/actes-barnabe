@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 55)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF16820b">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>16820</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="41v" /><cb n="2" />
+				<head type="initial"><lb n="10" />
+			In natale sancti<lb n="11" />
+			Barnabe apostoli.
+		</head>
+			<milestone n="1.1" />
+			<p>
+				<seg type="lectio" place="inline" hand="manus1">Lectio i.</seg>
+				<lb n="12" />
+				Redemptor et salua<lb n="13" />tor
+				noster dominus Iesus<lb n="14" />
+				Christus antequam de<lb n="15" />
+				interitu Sathanȩ<lb n="16" />
+				triumphans ui<lb n="17" />ctor
+				et exultans pen<subst>
+					<del rend="dotted">i</del>
+					<add place="above" hand="manus1-dubia">e</add>
+				</subst>traret re<lb n="18" />gna
+				polorum,  sanctam ȩcclesiam quam<lb n="19" />
+				pretioso suo sanguine adquisiuit,<lb n="20" />
+				per beatos apostolos et apostolicos uiros<lb n="21" />
+				immobiliter muniens fundauit,<lb n="22" />
+				mirabiliter corroborans<lb n="23" />
+				solidauit, scilicet ut<lb n="24" />
+				et ipsa inuiolata sem<lb n="25" />per
+				gloriosa maneret,<lb n="26" />
+				et illorum predicatione<lb n="27" />
+				nouam sibi progeniem<lb n="28" />
+				plurimosque <c type="justif" />
+				<gap />
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

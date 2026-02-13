@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 16)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="StuHBXIV18">
+				<msIdentifier>
+					<country>Allemagne</country>
+					<settlement>Stuttgart</settlement>
+					<repository>Württembergische Landesbibliothek</repository>
+					<collection>HB XIV</collection>
+					<idno>18</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<pb n="34r" />
+		<milestone n="titre-principal" />
+		<head type="initial"><lb n="27" />
+			Barnabe apostoli.
+		</head>
+			<milestone n="Ac4" />
+			<p>
+				Apud Cyprum sancti Barnabe<lb n="29" />
+				apostoli. Qui cum a parentibus fuerit Ioseph cognominatus ab<lb n="30" />
+				apostolis Barnabas id est filius consolationis est uocatus pro eo dum<lb n="31" />
+				habuerit agrum, enimque uendidit, et precium eius ante pedes apostolorum<lb n="32" />
+				ad consolationem pauperum posuerit.
+				<milestone n="Ac9" />
+				Qui cum genere Iudeus im<lb n="33" />mo
+				leuites sed natione Cyprius non solum Iudeos ceteros fidei scilicet iu<pb n="34v" />gare,
+				sed et ipsum apostolum Paulum a Christo de celo uocatum, sed propter antiqui<lb n="2" />ores
+				persecucionis in manitates christianus suspectum apostolorum<lb n="3" />
+				choro sonare curauit.
+				<milestone n="Ac11" />
+				Cum ergo ob illius gencium apostolus ordi<lb n="4" />natus
+				et plurima ab credulis professus in iurias sed causa<lb n="5" />
+				communis eorum discipuli ut pocius dispensatione diuina ab eo<lb n="6" />
+				corpore diuisus mente tamen unitus, nichilominus euuangelice<lb n="7" />
+				praedicationis iniunctum sed opus expleuit. De cuius scitare<lb n="8" />
+				unum beati Luce testimonium fidelibus sufficere debebit, quia nichil<lb n="9" />
+				erat uir bonus plenus spiritu sancto et fide.
+				<milestone n="epilogue" />
+				Cuius corpus tem<lb n="10" />pore
+				Zenonis imperatoris ipso reuelatum apostolum esse. Hic unam<lb n="11" />
+				edificationem ecclesie pertinente scripsisse ferat epistolam<lb n="12" />
+				inter apocrifas deputatur.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

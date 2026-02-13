@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 10)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="MunUB">
+				<msIdentifier>
+					<country>Allemagne</country>
+					<settlement>Munich</settlement>
+					<repository>Universitatsbibliothek</repository>
+					<collection>4° Cod. ms.</collection>
+					<idno>310</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-partie2" />
+		<pb n="25v" /><cb n="1" />
+				<head type="initial"><lb n="12" />
+			Barnabe apostoli.
+		</head>
+		<milestone n="2.2" />
+		<p><lb n="13" />
+			Ego Iohannes qui et Marcus  discipulus<lb n="14" />
+			Pauli, et Barnabe, et baptizatus per eos,<lb n="15" />
+			<milestone n="2.3" />
+			uidi in uisione post baptismum, uidi uirum<lb n="16" />
+			splendidum,  qui dixit michi : constans e<lb n="17" />sto
+			Iohannes quoniam non amodo Iohannes sed Mar<lb n="18" />cus
+			uocaberis.
+			<milestone n="2.4" />
+			Cumque euigilarem proci<lb n="19" />di
+			ad pedes Barnabe  sibi quia uisum re<lb n="20" />uelaui.
+			Qui dixit mihi. Et ego uidi Christum<lb n="21" />
+			dicentem mihi. Quoniam pro sancta deuocione primium<lb n="22" />
+			accipies ac tamen conuoca Iohannem ministrum<lb n="23" />
+			tuum, quoniam et ipse uidit misteria.
+			<milestone n="2.7" />
+			Cum<lb n="24" />
+			post haec essemus Antyochie  angelica<lb n="25" />
+			uisio facta est Paulo dicens. Celerius<lb n="26" />
+			propera Ierusalem   quoniamquidem fratres  sunt separati<lb n="27" />
+			qui postolabantur aduentum tuum.
+			<milestone n="2.8" />
+			Quod cum<lb n="28" />
+			Barnabe panderet, qui fuit Cyprius, genere<lb n="29" />
+			unus ex lxxii discipulis Christi ait. Fiat uolun<lb n="30" />tas
+			domini
+			<milestone n="2.9" />
+			tamen obsecro, intercede pro me,  nam<lb n="31" />
+			propero Cyprum, ibique finem compleo uite.  <sic>Protho<lb n="32" />lor</sic>
+			faciem tuam amplius non	uisurus. Hec<lb n="33" />
+			dicens cecidit ad pedes eius flens amare<lb n="34" />
+			<milestone n="2.10" />
+			Cui Paulus compaciens ait. Noli merere.<lb n="35" />
+			Nam apparuit mihi dominus hac nocte dicens. No<lb n="36" />li
+			Paule prohibere  Barnabam ire Cyprum<cb n="2" /><lb n="1" />
+			quoniam ibi illuminabit multos et  complebit martirium<lb n="2" />
+			Tunc positis genibus orantes et osculantes<lb n="3" />
+			inuicem, uale <sic>fecinus</sic>
+			<milestone n="2.11" />
+			et nauigantes
+			<milestone n="2.12" />
+			uenimus<lb n="4" />
+			in ciuitatem, Anemor,
+			ubi uiri et mulieres
+			audien<lb n="5" />tes
+			uerba Barnabe compuncti sunt corde,
+			<milestone n="2.13" />
+			baptiza<lb n="6" />tique
+			induti sunt uestibus religionis christiane<lb n="7" />
+			<milestone n="2.14" />
+			Nauigantes autem inde peruenimus Cyprum,  ibique in<lb n="8" />uenimus
+			Tymonem et Aristonem, famulos<lb n="9" />
+			domini
+			<milestone n="2.15" />
+				Tymon autem urebatur  febribus. <sic>Consue<lb n="10" />uerat</sic>
+			autem Barnabas euuangelium beati Mathei secum fer<lb n="11" />re,
+			et super infirmos ponere, et    continuo  sanabantur<lb n="12" />
+			Quod et posuit super Tymonem, qui et stattim cura<lb n="13" />batur.
+			<milestone n="2.18" />
+			Hiis itaque gestis obuium habuimus im<lb n="14" />pium
+			Iudeum, quem Paulus lumine priuauerat ad<lb n="15" />
+			tempus. Hic  in commotus prohibuit nos introire<lb n="16" />
+			in Paphum,
+			<milestone n="2.19" />
+			proinde reuertentes uenimus in locum in<lb n="17" />
+			quo ethnici uiri et mulieres  ludendo nudi<lb n="18" />
+			currebant, hic cum uidisset  Barnabas  indignatus<lb n="19" />
+			est, super tale facinus, et maledixit templum,<lb n="20" />
+			statimque pars corruit,  et magnam multitudinem<lb n="21" />
+			opprosit.<!--verifier -->
+			<milestone n="2.22" />
+			Introeuntibus itaque in Salominam, in<lb n="22" />uenimus
+			synagogam Iudeorum quam apostolus exhor<lb n="23" />tari
+			cepit,  et per euuangelium sancti Mathei Christi gratiam in<lb n="24" />troducere.
+			<milestone n="2.23" />
+			Hoc cum comperisset Barien,   sedicione<lb n="25" />
+			facta fecit eum comprehendi et quaerebant eum trader<lb n="26" />e
+			consulibus ciuitatis  afflientes eum suppli<lb n="27" />ciis.
+			Cum igitur peni multatus  ducerent ad<lb n="28" />
+			iudicandum,  accidit ut deueniret in eandem<lb n="29" />
+			insulam quidam magnus de progenie imperatoris<lb n="30" />
+			et timuerunt Iudei, ut ut illum eriperet,   li<lb n="31" />gabant
+			funem in collo eius nocturno tempore, et<lb n="32" />
+			dilaceratum traxerunt   foras portam, ibique<lb n="33" />
+			igne combusserunt. 	Sic apostolus  adustus, pro Christi<lb n="34" />
+			amore, migrauit ad deum. Im<lb n="35" />pii
+			autem Iudei non sic saciati, sustulerunt<lb n="36" />
+			corpus sacratissimum,   et in locello plumbeo reclu<pb n="26r" /><cb n="1" /><lb n="1" />dentes
+			in mare praecipitare disponebant.
+			<milestone n="2.24" />
+			E<lb n="2" />go
+			uero cum Tymone et Radono nocturnis<lb n="3" />
+			horis tulimus illud  et collocauimus in cripta  que<lb n="4" />
+			olim erat Iebuseorum, iiio  idus iunii.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

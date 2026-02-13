@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 8)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Cob">
+				<msIdentifier>
+					<country>Allemagne</country>
+					<settlement>Coblence</settlement>
+					<repository>Landeshauptarchiv</repository>
+					<collection>Best. 701</collection>
+					<idno>114</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="23r" /><cb n="2" />
+				<head type="initial"><lb n="1" />
+			Barnabe apostoli.
+		</head>
+		<milestone n="FC8-introduction" />
+		<p><lb n="2" />
+			Ioseph qui cognominatus est Bar<lb n="3" />nabas,
+			quod in sermone latino so<lb n="4" />nat
+			filius consolacionis, quoniam primum<lb n="5" />
+			apostolos domini praedicantes audiuit,<lb n="6" />
+			suoque cordi fides catholica sane il<lb n="7" />luxit,
+			agrum unum quem habebat uem<lb n="8" />didit,
+			tulitque precium ad pedes apostolorum<lb n="9" />
+			in spem et repromissionem uite eter<lb n="10" />ne.
+			Sed quoniam scriptum est, quos uo<lb n="11" />cauit
+			hos et iustificauit, magni<lb n="12" />ficauit
+			et glorificauit.  Impletur  di<lb n="13" />uinitus
+			itaque ille dei famulus spiritu<lb n="14" />
+			sapiencie et intellectus, et donatur<lb n="15" />
+			multa gratia praedicacionis, sanctusque est<lb n="16" />
+			unus ex septuaginta duobus Christi dis<lb n="17" />cipulis.
+			<add place="margin-left" hand="corr1"><unclear reason="illegible" unit="character" quantity="4" /></add>
+			Neque hoc silencio praetere<lb n="18" />
+			undum putauimus inter cetera tanti<lb n="19" />
+			uiri merita, quod cum primum beatus<lb n="20" />
+			Paulus uas electionis conuersus esset<lb n="21" />
+			ad fidem, iste idem Barnabas in ipso<lb n="22" />
+			illius conuersionis inicio illum ap<lb n="23" />prehendere
+			et ad ceteros ducere apostolos<lb n="24" />
+			dignus habitus est. Narrauitque<lb n="25" />
+			tunc illis apostolis qualiter ipse Paulus<lb n="26" />
+			conuersus sit, et quomodo ei dominus in uia<lb n="27" />
+			qua ibat in Damascum apparuit, que<lb n="28" />
+			ei locutus sicut 	et quomodo ipse Paulus<lb n="29" />
+			postea Christum constans praedicans Iu<lb n="30" />deos
+			in synagogis  plerumque  confuderit.<lb n="31" />
+			Itaque ut iam diximus et <unclear reason="reproduction" unit="character" atLeast="2" atMost="3" /> ex scriptis<pb n="23v" /><cb n="1" /><lb n="1" />
+			et testimonio beati Luce euuangeliste sane<lb n="2" />
+			colligimus ipse beatus Barnabas cum<lb n="3" />
+			sancto Paulo eodem anno toto conuersi<lb n="4" />onis
+			sue primo conuersatus et commora<lb n="5" />tus
+			est et consolabatur eum in Christo, nam<lb n="6" />
+			et filius dicebatur consolacionis, con<lb n="7" />struxit
+			ex scripturis, et ad praedicandum<lb n="8" />
+			informauit. Interea quod cum ita si<lb n="9" />militer
+			essent, in Anthiochiam pariter<lb n="10" />
+			profecti sunt, ubi nomine Christi praedican<lb n="11" />tes
+			populum infinitum ad fidem sanctam<lb n="12" />
+			conuerterunt. Quid plura ? Impleto<lb n="13" />
+			itaque eo anno ut duximus praedica<lb n="14" />cionis
+			eorum primo, dedit deus eis cog<lb n="15" />noscere
+			que uentura erant, quoniam ad<lb n="16" />
+			ampliorem ad huc praedicacionis glo<lb n="17" />riam
+			in dispersionem gencium et Iudeo<lb n="18" />rum
+			<sic>ab</sic> inuicem separari debebant, non in<lb n="19" />
+			quam amplius se corporaliter uisiri, uo<lb n="20" />ce
+			namque ueritatis dictum est. De<lb n="21" />  illis
+			separate mihi Barnabam et Paulum<lb n="22" />
+			in opus misterii ad quod assumpsi<lb n="23" />
+			eos.
+			<milestone n="2.9" />
+			Tunc inuicem sibi cum fletu uale<lb n="24" />
+			dicentes, alterque alterius manus<lb n="25" />
+			et genua de osculantes, mutuis se<lb n="26" />
+			domino commendabant omnibus, et exo<lb n="27" />rabant
+			ipsam ut dei demencia bono<lb n="28" />
+			sine complere dignaretur eorum cer<lb n="29" />tamina.
+			Talis erat finis uerbis, et<lb n="30" />
+			tunc Iherosolima Paulum recepit,<lb n="31" />
+			<milestone n="2.10-22" />
+			Barnabas uero reuersus est in Ciprum<cb n="2" /><lb n="1" />
+			insulam, de qua ipse ortus fuerat,<lb n="2" />
+			ubi quidem iugi praedicacioni insistens,<lb n="3" />
+			multus perpetrauit domino credencium ple<lb n="4" />bem,
+			<milestone n="2.23" />
+			qui et tandem ibidem hoc modo cum<lb n="5" />
+			palma martyrii assumptus est. Cum<lb n="6" />
+			quadam nocte diseruus solito in<lb n="7" />uigilans
+			diuinis laudibus, circum<lb n="8" />dederunt
+			illum impii, finemque mitten<lb n="9" />tes
+			in collum eius impie traxerunt, atque<lb n="10" />
+			trahendo miserabilius, et penitus<lb n="11" />
+			distraxerunt et dilacerauerunt.<lb n="12" />
+			Neque ad huc infelices illi hoc modo<lb n="13" />
+			morte eius faciati, tunc corporis sa<lb n="14" />cri
+			reliquias in ignem deposuerunt<lb n="15" />
+			ad comburendum, scilicet et exustas cine<lb n="16" />res
+			post hec in plumbeo locello redu<lb n="17" />serunt,
+			ut qui essem titane praecipitarent<lb n="18" />
+			illas in maris undas, ne eum sibi<lb n="19" />
+			christianem martyrem facerent,
+			<milestone n="2.24" />
+			sed tam<lb n="20" />
+			iniquum eorum concilium diuina non<lb n="21" />
+			paciente demencia, ita inuitatum<lb n="22" />
+			est. Uenerunt eadem nocte uiri christi<lb n="23" />ani
+			Rado, Thimo, et Iohannes, cum plu<lb n="24" />ribus
+			aliis, et hii subleuantes praefa<lb n="25" />tum
+			locellum cum sacris cineribus sepul<lb n="26" />ture
+			commendauerunt in ymniis et<lb n="27" />
+			laudibis, iii idus iunii, locantes<lb n="28" />
+			in quadam cripte que olim habita<lb n="29" />cio
+			Ihebuseroum fierat. Ubi usque<lb n="30" />
+			hodie deus in sancti sui meritis praedica<lb n="31" />tur
+			ab omnibus magnus et laudabilis.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

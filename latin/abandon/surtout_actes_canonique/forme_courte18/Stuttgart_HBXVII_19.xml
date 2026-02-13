@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 18)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="StuHBXVII19">
+				<msIdentifier>
+					<country>Allemagne</country>
+					<settlement>Stuttgart</settlement>
+					<repository>Württembergische Landesbibliothek</repository>
+					<collection>HB XVII</collection>
+					<idno>19</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="12v" /><cb n="2" />
+				<head type="initial"><lb n="4" />
+			De sancto Barnabe
+		</head>
+		<milestone n="Ac4" />
+		<p><lb n="5" />
+			Ioseph qui cognominatus est Barnabas<lb n="6" />
+			ab apostolis, quod interpretatur filius <add place="above" hand="manus1">con</add>solatio<lb n="7" />nis,
+			leuites, Cyprius genere, cum haberet<lb n="8" />
+			agrum  uendidit illum,  et attulit precium,<lb n="9" />
+			et posuit ante pedes apostolorum.
+			<milestone n="Ac9" />
+			Cum uenisset<lb n="10" />
+			autem Saulus Hierusalem, temptabat seiun<lb n="11" />gere
+			discipulis, et omnes timebant eum, non<lb n="12" />
+			credentes quia esset discipulis.  Barnabas<lb n="13" />
+			autem apprehensum illum duxit ad apostolos,  et<lb n="14" />
+			narrauit illis  quomodo  in uia uidisset dominum,<lb n="15" />
+			et quia locutus est ei, et quomodo in Damas<lb n="16" />co
+			fiducialiter egerit in nomine  domini.
+		</p>
+		<milestone n="Ac11" />
+		<p><lb n="17" />
+			Erant autem quidam ex credentibus uiri<lb n="18" />
+			Cyprii et Cirenei. Qui cum introissent<lb n="19" />
+			Antiochiam, loquebantur ad Grecos, annun<lb n="20" />ciantes
+			dominum Iesum et erat manus domini cum<lb n="21" />
+			eis, multusque numerus credentium con<lb n="22" />uersus
+			est ad dominum. Peruenit autem sermo<lb n="23" />
+			ad aures ȩcclesie quȩ erat Hierosolimis<lb n="24" />
+			super istis, et miserunt Barnaban usque An<lb n="25" />tiochiam.
+			Quocum peruenisset et uidisset<lb n="26" />
+			gratiam dei gauisus est, et hortabatur omnes<lb n="27" />
+			proposito cordis permanere in domino, quia<lb n="28" />
+			erat uir bonus et plenus spiritu sancto, et fide.<lb n="29" />
+			Et apposita est turba multa in domino.<lb n="30" />
+			Profectus est autem Tharsum, ut quere<lb n="31" />ret
+			Saulum. Quem cum inuenisset, perduxit<lb n="32" />
+			Antiochiam, et annum totum conuersati sunt<lb n="33" />
+			in ȩcclesia et docuerunt turbam multam, ita<lb n="34" />
+			ut cognominarentur primum Antiochiȩ<lb n="35" />
+			discipuli christiani. In diebus autem illis super<lb n="36" />uenerunt
+			ab Hierosolimis prophetȩ Anti<lb n="37" />ochiam,
+			et surgens unus ex eis nomine<lb n="38" />
+			Agabus, significabat per spiritum famem<lb n="39" />
+			magnam futuram in uniuerso orbe ter<lb n="40" />rarum,
+			quȩ facta est sub Claudio.<pb n="13r" /><cb n="1" /><lb n="1" />
+			Discipuli autem prout quis habebat proposu<lb n="2" />erunt
+			in ministerium mittere habitan<lb n="3" />tibus
+			in Iudea fratribus, quod et fecerunt, mitten<lb n="4" />tes
+			ad seniores per manus Barnabȩ et Sauli.<lb n="5" />
+		</p>
+		<milestone n="Ac13" />
+		<p>
+			Barnabas autem et Saulus reuersi sunt ab Hie<lb n="6" />rosolimis
+			expleto ministerio, assump<lb n="7" />to
+			Iohanne qui cognominatus est Marcus.  Erant<lb n="8" />
+			autem in ȩcclesia quȩ erat Antiochiȩ  prophetȩ<lb n="9" />
+			et doctores,  in quibus Barnabas et Simeon<lb n="10" />
+			qui uocabatur Niger et Lucius Cyrenen<lb n="11" />sis,
+			et Manaen qui erat Herodis te<lb n="12" />thrarchȩ
+			collactaneus, et Saulus.<lb n="13" />
+			Ministrantibus autem illis domino et ieiunan<lb n="14" />tibus,
+			dixit spiritus sanctus. Separate mihi Barna<lb n="15" />ban
+			et Saulum in opus quod assumpsi eos.<lb n="16" />
+			Tunc ieiunantes et orantes, imponen<lb n="17" />tesque
+			eis manus dimiserunt illos.
+		</p>
+		<p>
+			Et ipsi<lb n="18" />
+			quidem missi a spiritu sancto abierunt Seleutiam, et<lb n="19" />
+			inde nauigauerunt Ciprum. Et cum peruenis<lb n="20" />sent
+			Salaminam, praedicabant uerbum dei in<lb n="21" />
+			sinagogis Iudeorum. Habebant autem et<lb n="22" />
+			Iohannem in ministerio. Et cum perambulas<lb n="23" />sent
+			uniuersam insulam usque Paphum, in<lb n="24" />uenerunt
+			quendam uirum magum pseudo<lb n="25" />
+			prophetam Iudeum, cui nomen erat Barieu,<lb n="26" />
+			qui erat cum proconsule Segio Paulo. Hic<lb n="27" />
+			accersitis Barnaba et Paulo, deside<lb n="28" />rabat
+			audire uerbum dei, et admirans<lb n="29" />
+			super doctrina domini credidit.
+		</p>
+		<p>
+			Secuti<lb n="30" />
+			sunt autem multi Iudeorum et colentium ad<lb n="31" />uenarum
+			Paulum et Barnaban. Qui loquen<lb n="32" />tes
+			suadebant eis ut permanerent in<lb n="33" />
+			gratia dei. Sequenti uero sabbato pene uni<lb n="34" />uersa
+			ciuitas conuenit audire uerbum<lb n="35" />
+			dei. Uidentes autem turbas Iudei, repleti<lb n="36" />
+			sunt zelo, et contradicebant his quȩ a Pau<lb n="37" />lo dicebantur,
+			blasphemantes.  Tunc<lb n="38" />
+			constanter Paulus et Barnabas dixerunt.<lb n="39" />
+			Uobis oportebat primum loqui uerbum<lb n="40" />
+			dei, sed quoniam repulistis illud et indignos<cb n="2" /><lb n="1" />
+			uos iudicastis ȩternȩ uitȩ, ecce conuertimur<lb n="2" />
+			ad gentes. Sic enim praecepit nobis deus. Po<lb n="3" />sui
+			te in lumen gentibus, ut sis in salutem<lb n="4" />
+			usque ad extremum terre.
+		</p>
+		<p>
+			Audientes<lb n="5" />
+			autem gentes gauisȩ sunt, et glorificabant<lb n="6" />
+			uerbum Domini, et crediderunt quotquot <add place="margin-right" hand="manus1">erant</add><lb n="7" />
+			praeordinati ad uitam ȩternam. Dissemina<lb n="8" />batur
+			autem uerbum domini per uniuersam regionem,<lb n="9" />
+			Iudei autem concitauerunt religiosas mulie<lb n="10" />res
+			et honestas, et primos ciuitatis, et<lb n="11" />
+			excitauerunt persecutionem in Paulum et<lb n="12" />
+			Barnaban, et eiecerunt eos afinibus suis.<lb n="13" />
+			At illi excusso puluere pedum in eos,<lb n="14" />
+			uenerunt Iconium. Discipuli quoque reple<lb n="15" />bantur
+			gaudio et spiritu sancto.
+		</p>
+		<milestone n="Ac14" />
+		<p>
+			Et quidam<lb n="16" />
+			uir in Listris infirmus pedibus,  sede<lb n="17" />bat
+			claudus ex utero matris suȩ,<lb n="18" />
+			qui nunquam ambulauerat. Hic audi<lb n="19" />uit
+			Paulum loquentem. Qui intuitis<lb n="20" />
+			eum, et uidens quia haberet fidem<lb n="21" />
+			ut saluus fieret, dixit magna uoce.<lb n="22" />
+			Surge super pedes tuos rectus. Et<lb n="23" />
+			exiliuit et ambulabat. Turbȩ  autem<lb n="24" />
+			cum uidissent quod fecerat Paulus,<lb n="25" />
+			leuauerunt uocem suam licaoniȩ dicentes.<lb n="26" />
+			Dii similes facti hominum descenderunt<lb n="27" />
+			ad nos. Et uocabant Barnaban Iouem,<lb n="28" />
+			Paulum uero Mercurium, quoniam ipse erat<lb n="29" />
+			dux uerbi. Sacerdos quoque Iouis<lb n="30" />
+			qui erat ante ciuitatem, tauros et coro<lb n="31" />nas
+			ante ferens ad ianuas, cum populis uole<lb n="32" />bat
+			sacrificare. Quod ubi audierunt apostoli<lb n="33" />
+			Barnabas et Paulus, concissis suis tu<lb n="34" />nicis
+			exilierunt in turbas clamantes<lb n="35" />
+			et dicentes. Uiri quid hȩc facitis, et<lb n="36" />
+			nos mortales sumus similes uobis ho<lb n="37" />mines,
+			annunciantes uobis ab his ua<lb n="38" />nis
+			conuerti ad deum uiuum qui fecit<lb n="39" />
+			cȩlum et terram et mare et omnia quȩ<lb n="40" />
+			in eis sunt.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

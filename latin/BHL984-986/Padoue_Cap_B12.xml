@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="PadCap">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Padoue</settlement>
+					<repository>Biblioteca Capitolare</repository>
+					<collection>B</collection>
+					<idno>12</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="104v" /><cb n="2" />
+				<head type="initial"><lb n="1" />
+			In festo sancti Barnabe<lb n="2" />
+			apostoli.
+		</head>
+		<milestone n="prologue" />
+		<p>
+			Barnabas<lb n="3" />
+			ebraice, lati<lb n="4" />ne
+			interpreta<lb n="5" />tur
+			filius pro<lb n="6" />phete,
+			uel filius conso<lb n="7" />lationis.
+			Barnabas qui<lb n="8" />
+			et Ioseph natione Cy<lb n="9" />prie
+			ciuitatis, <add place="above" hand="corr1">que</add> ex Cyro<lb n="10" />
+			rege Persarum fundata,<lb n="11" />
+			cum Paulo ingentibus<lb n="12" />
+			apostolatum adeptus est.<lb n="13" />
+			Deinde propter Iohannem di<lb n="14" />scipulum,
+			qui etiam cogno<lb n="15" />mento
+			Marcus appel<lb n="16" />latur
+			seiunctus a Pau<lb n="17" />lo,
+			nichilominus euangeli<lb n="18" />ce
+			praedicationis sibi o<lb n="19" />pus
+			iniunctum exercuit,<lb n="20" />
+			martirio coronatus. Cu<lb n="21" />ius
+			festiuitas, celebra<lb n="22" />tur
+			tercio ydus iunii.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

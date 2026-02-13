@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 29)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Maz398">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque Mazarine</repository>
+					<collection></collection>
+					<idno>398</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision2-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div>
+		<milestone n="titre-principal" />
+			<pb n="46r" /><cb n="1" />
+					<!-- pour comprendre voir la ligne du dessus, à ne pas éditer :
+				 Hic incipiunt legende de festis<lb />
+				 sanctorum, pro tempore estiuali.
+		-->
+		<head type="initial">
+			<seg place="inline" hand="manus1" type="order-number">Primo</seg><note type="editorial">Il s'agit du premier texte de la partie du lectionnaire consacrée aux lectures hagiographiques pour l'été.</note>
+			de sancto Barnaba<lb n="20" />
+			apostolo,
+				xiia lectiones in albis.
+		</head>
+			<p>
+				<milestone n="1.3" />
+				<seg place="inline" hand="manus1" type="lectio">lectio <lb n="21" />prima</seg>
+				Beatus<lb n="22" />
+				Barnabas apostolus<lb n="23" />
+				qui et Ioseph Cy<lb n="24" />prius
+				genere, eo fere tempore<lb n="25" />
+				quo sancta  ecclesia<lb n="26" />
+				graciam spiritus sancti suscepit tercio 	ui<lb n="27" />delicet
+				post domini passionem anno cum<lb n="28" />
+				Paulo apostolo ad apostolatus celsitudi<lb n="29" />nem,
+				et gentium predicacionem uo<lb n="30" />cante
+				spiritu sancto  electus est.  Qui quali<lb n="31" />ter
+				quamque perfecte in assignato sibi<cb n="2" /><lb n="1" />
+				diuinitus ministerio desudauerit,<lb n="2" />
+				Lucas euangelista in actibus apostolorum<lb n="3" />
+				luculento sermone declarat.
+			</p>
+			<milestone n="1.4" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">iia</seg><lb n="4" />
+				Quomodo uero per martirii pal<lb n="5" />mam
+				ad coronam gloriae perue<lb n="6" />nerit.
+				Iohannes discipulus eiusdem<lb n="7" />
+				Barnabe cognomento Marcus fide<lb n="8" />li
+				relacione ostendit.
+				<milestone n="1.33" />
+				Idem enim Lucas<lb n="9" />
+				beato Paulo apostolo in predicacione<lb n="10" />
+				semper coherens,  sancti Barnabe  fi<lb n="11" />nem
+				cernere non ualuit.
+				<milestone n="2.2" />
+				Barnabas<lb n="12" />
+				igitur cum esset Yconium cum beato apostolo<lb n="13" />
+				Paulo,
+				<milestone n="2.3" />
+				apparuit ei per uisum dominus<lb n="14" />
+				Iesus dicens. 	Constans esto Barna<lb n="15" />ba
+				credendo uerissime, quoniam pro sancta<lb n="16" />
+				deuocione qua reliquisti generacio<lb n="17" />nem
+				tuam  pro nomine meo, pre<lb n="18" />mia
+				eterna percipies.
+			</p>
+			<milestone n="2.5" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">iiia</seg>
+				<lb n="19" />
+				Cumque de Yconio pertransisset<lb n="20" />
+				Antiochiam,
+				<milestone n="2.7" />
+				angelica uisio per<lb n="21" />
+				noctem facta est beato  Paulo  apostolo dicens.<lb n="22" />
+				Celeriter propera Iherusalem
+				nec moram<lb n="23" />
+				facias  quoniam fratres ualde praestolantur<lb n="24" />
+				aduentum tuum.
+				<milestone n="2.8" />
+				Quod cum beato<lb n="25" />
+				Barnaba panderet,  ait beatus Barnabas.<lb n="26" />
+				Quia uoluntati dei contradicere non<lb n="27" />
+				expedit, fiat domini uoluntas.
+				<milestone n="2.9" />
+				Tantum<lb n="28" />
+				obsecro,
+				pro me intercede ad dominum,<lb n="29" />
+				ut decertatio mea fiat acceptabilis<lb n="30" />
+				in conspectu eius.  Nunc enim
+				propero<lb n="31" />
+				Cyprum et postmodum finem com<lb n="32" />plebo
+				uite,  faciem tuam prestolor<lb n="33" />
+				ultra corporaliter non uisurus.<pb n="46v" /><cb n="1" /><lb n="1" />
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">iiiia</seg>
+				Tunc procidit Barnabas ad<lb n="2" />
+				pedes Pauli, et fleuit diu ama<lb n="3" />re.
+				<milestone n="2.10" />
+				Cuius dolori Paulus compaciens,<lb n="4" />
+				noli inquit merere frater  non enim<lb n="5" />
+				<subst>
+					<del rend="scratched" atLeast="15" atMost="20" />
+					<add place="inline" hand="corr1">sine diuino misterio</add>
+				</subst><!-- encre noire plutot que marron, pas tout à fait le même dictus -->
+				id agitur. Namque<lb n="6" />
+				apparuit michi hac nocte dominus di<lb n="7" />cens.
+				Ne prohibeas Barnaba ire<lb n="8" />
+				Cyprum  quoniam preparata est ei gracia<lb n="9" />
+				dei ad illuminacionem multorum et sa<lb n="10" />crum
+				martirium perficiendum. Tu<lb n="11" />
+				autem perge Iherusalem ad sacra uisitan<lb n="12" />da.
+				Tunc positis genibus orantes,<lb n="13" />
+				oscula dantes sibi  ad inuicem uale<lb n="14" />
+				fecerunt.
+				<milestone n="2.11" />
+				Barnabas uero ascendens<lb n="15" />
+				nauem,  descendit Laodiciam, decertans<lb n="16" />
+				ut pergeret Cyprum.
+			</p>
+			<milestone n="2.14" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">va</seg><lb n="17" />
+				Cum autem peruenisset Cyprum,<lb n="18" />
+				inuenit ibi  Symonem et Ari<lb n="19" />stionem
+				famulos dei.
+				<milestone n="2.15" />
+				Symon autem<lb n="20" />
+				urebatur  febribus. Cui cum manus<lb n="21" />
+				imposuisset beatus Barnabas et sa<lb n="22" />crum
+				euangelium per		inuocacionem<lb n="23" />
+				domini saluatoris statim febris fuga<lb n="24" />ta
+				est, et adeo corroboratus est infir<lb n="25" />mus,
+				ut continuo apostolum cum<lb n="26" />
+				gaudio sequeretur. Ex doctrina nam<lb n="27" />que
+				apostolorum beatus Barnabas eu<lb n="28" />angelium
+				sancti Mathei secum ferebat,<lb n="29" />
+				et ubicumque inueniebat infirmos,<lb n="30" />
+				ponebat illud super illos,  et continuo<lb n="31" />
+				sanabantur a quocumque languore te<lb n="32" />nebantur.
+			</p>
+			<milestone n="2.18" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">via</seg>
+				Uisitatis<lb n="33" />
+				igitur et in fide consortatis pa<cb n="2" /><lb n="1" />rentibus
+				suis<note type="editorial">Cf. AB 2.7</note>, beatus Barnabas exi<lb n="2" />uit
+				a Cypro, inde Paphum transiturus.<lb n="3" />
+				<milestone n="2.19" />
+				Cum itaque a Cypro Paphum transi<lb n="4" />ret,
+				obuium habuit impium et male<lb n="5" />ficum
+				Iudeum Barleir,<!-- en consultant directement le ms, on a le trait au dessus du i, le l est bien là comme le montre sa hauteur -->
+				quem fidei<lb n="6" />
+				resistentem
+				olim beatus Paulus non per<lb n="7" />petualiter,
+				sed ad tempus, lumine pri<lb n="8" />uauerat
+				dicens.
+				<subst>
+					<del rend="scratched" atLeast="0" atMost="2" />
+					<add place="inline" hand="corr2">E</add>
+				</subst>ris
+				<!-- corr2 distinct de corr1 : pas la même encre ni le même dictus -->
+				cecus, usque ad<lb n="9" />
+				tempus. De quo liquido constat quod<lb n="10" />
+				ad precem Sergii proconsulis per beatum<lb n="11" />
+				apostolum conuersus lumen receperit,<lb n="12" />
+				sed postmodum sicut ille Symon ma<lb n="13" />gus
+				apostando transgressor factus<lb n="14" />
+				sit.
+				<milestone n="2.18-a" />
+				Hic itaque cum cognouisset beatum<lb n="15" />
+				Barnabam malicia commotus prohi<lb n="16" />buit
+				eum introire Paphum.
+				<milestone n="2.22" />
+				Per in<lb n="17" />de
+				apostolus reuertens, introuit  Sa<lb n="18" />laminam.
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">viia</seg>
+				Inuenit itaque<lb n="19" />
+				in Salamina beatus Barnabas  syna<lb n="20" />gogam
+				Iudeorum  quam ingressus<lb n="21" />
+				exhortari cepit ad fidem, et  per euan<lb n="22" />gelium
+				sancti Mathei Christi graciam<lb n="23" />
+				introducere.
+				<milestone n="2.23" />
+				Hoc prefatus comperisset<lb n="24" />
+				Barieu,  et quia plurimi Iudeorum rece<lb n="25" />pissent
+				predicacionem sancti apostoli,<lb n="26" />
+				omnem maliciam iniquitatis sue<lb n="27" />
+				ostendens, sedicione facta  contra sanctum<lb n="28" />
+				apostolum fecit eum comprehendi. Et<lb n="29" />
+				querebant tradere consuli eiusdem<lb n="30" />
+				Salamine ciuitatis,  affligentes eum<lb n="31" />
+				multis suppliciis et uariis cruciati<lb n="32" />bus.
+				Sed ueriti nimium  ne eriperetur<lb n="33" />
+				de manibus eorum, ligantes funem<pb n="47r" /><cb n="1" /><lb n="1" />
+				in collo eius nocturno tempore a sy<lb n="2" />nagoga
+				in ippodromum pertraxerunt.
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio"><lb n="3" />viiia</seg>
+				Post hec autem circumdantes<lb n="4" />
+				illum 	igne, crudeliter cremaue<lb n="5" />runt.
+				Sicque beatus apostolus post<lb n="6" />
+				multos agones et diuturna certa<lb n="7" />mina
+				pro Christi amore adustus mi<lb n="8" />grauit
+				ad gaudia sempiterna. Impii<lb n="9" />
+				autem Iudei non <sic>saciasti</sic>
+				de nece illius,<lb n="10" />
+				zelo concitati tulerunt sacratissimum<lb n="11" />
+				corpus eius  et in locello plumbeo re<lb n="12" />cludentes
+				in mare precipitare dispo<lb n="13" />nebant.
+				<milestone n="2.24" />
+				Interim beatus Iohannes discipulus<lb n="14" />
+				eius qui et Marcus una cum aliis fi<lb n="15" />delibus
+				occulte nocturno tempore tu<lb n="16" />lerunt
+				illud  et collocauerunt in cripta<lb n="17" />
+				que olim fuerat habitacio Iebuseorum,<lb n="18" />
+				tercio idus iunii,  hoc est undecima die<lb n="19" />
+				ipsius mensis.
+				<milestone n="epilogue" />
+				Propter hanc itaque<lb n="20" />
+				occultam collocacionem plurim<subst>
+					<del rend="scratched">a</del>
+					<add place="inline" hand="incerta">i</add>
+				</subst>s<lb n="21" /><!-- qu'il y ait eu un a avant se voit très bien sur le ms original -->
+				annorum curriculis uenerabile corpus<lb n="22" />
+				illud latuit,  nec inueniri a christicolis<lb n="23" />
+				ualuit. Sed  per graciam Christi que non<lb n="24" />
+				patitur occultari gloriam sanctorum, tempore<lb n="25" />
+				Zenonis imperatoris et sancti Gelasii<lb n="26" />
+				pape eodem sancto apostolo reuelante<lb n="27" />
+				inuentum est,  atque cum hymnis et<lb n="28" />
+				laudibus mirifice collocatum ad lau<lb n="29" />dem
+				et gloriam domini nostri  Iesu Christi. Qui ui<lb n="30" />uit
+				et  regnat<!-- pas signe de ponctuation mais decod de la ligne du dessous -->
+				in saecula saeculorum. Amen.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

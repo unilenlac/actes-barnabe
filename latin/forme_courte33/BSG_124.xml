@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 33)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BSG124">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque Sainte-Geneviève</repository>
+					<collection></collection>
+					<idno>124</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="114v" /><cb n="1" />
+				<head type="initial"><lb n="16" />
+			Sancti Barnabȩ apostoli.
+		</head>
+			<milestone n="1.5" />
+			<p><lb n="17" />
+				Iste est, ille Barnabas sanctissimus, qui et Ioseph, unus<lb n="18" />
+				de septuaginta duobus discipulis domini saluatoris,<lb n="19" />
+				qui secundum nominis sui praesagium tali nomine uocatus est.<lb n="20" />
+				Nam Barnabas ebraice, latine filius consolationis<lb n="21" />
+				dicitur. Communiter autem cum apostolis degebat, et consolatio<lb n="22" />nem
+				maximam prebebat,
+				<milestone n="1.6" />
+				inter eos uidelicet quibus<lb n="23" />
+				erat unum cor et anima una.
+			</p>
+		<milestone n="2.15" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio secunda</seg>
+			<lb n="24" />
+				Ex doctrina apostolorum beatus Barnabas euangelium sancti<lb n="25" />
+				Mathei secum ferebat, et ubicumque inueniebat in<lb n="26" />firmos
+				ponebat illud super eos, et continuo sana<lb n="27" />bantur
+				a quocumque languore tenebantur.
+				<milestone n="2.19" />
+				Quodam tempore<lb n="28" />
+				sanctus Barnabas uenit in locum, in quo ethnici uiri<lb n="29" />
+				et feminȩ ludendo nudi currebant. Haec cum uidisset,<lb n="30" />
+				indignatus est super tale facinus, et maledixit continuo<lb n="31" />
+				templum. Statimque pars templi funditus corruit,<lb n="32" />
+				magnaque contritio facta est, ex ethnicis qui sub<lb n="33" />
+				<sic>sub</sic> ruina ipsa mortui sunt.
+			</p>
+		<milestone n="2.23" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio tercia</seg>
+			<lb n="34" />
+				Comperientes autem Iudei aduentum eius uerentes<lb n="35" />
+				nimium ire eriperetur de manibus eorum, ligantes<lb n="36" />
+				funem in collo eius, nocturno tempore dilaceratum a sy<lb n="37" />nagoga
+				in yppodromum pertraxerunt, et deinde foris<lb n="38" />
+				portam. Post haec autem circumdantes illum igne, crude<lb n="39" />liter
+				cremauerunt. Sicque beatus apostolus post multos ago<lb n="40" />nes,
+				et diuturna certamina, pro Christi amore adustus,<lb n="41" />
+				migrauit ad gaudia sempiterna.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Prologue - fragmentaire)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="NapDio">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Naples</settlement>
+					<repository>Archivio Storico Diocesano</repository>
+					<collection>Fondo Ebdomadari,  Miscellanea</collection>
+					<idno>1, VI</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="31v" /><cb n="2" />
+		<head type="initial"><lb n="8" />
+			<unclear reason="reproduction" atLeast="0" atMost="8" /><lb n="9" />
+			<unclear reason="reproduction" atLeast="0" atMost="12" />
+		</head>
+				<milestone n="prologue" />
+				<p><lb n="10" />
+				Bar<lb n="11" />nabas
+				hebrai<lb n="12" />ce,
+				latine in<lb n="13" />terpretatur
+				filius pro<lb n="14" />phete,
+				uel filius conso<lb n="15" />lationis.
+				Barnabas<lb n="16" />
+				qui et Ioseph, natione<lb n="17" />
+				Cire ciuitatis, ex Cyro<lb n="18" />
+				rege Persarum funda<lb n="19" />ta.
+				Cum Paulo ingen<lb n="20" />tibus
+				apostolatus ad<lb n="21" />eptus
+				est, deinde propter<lb n="21" />
+				Iohannem discipulum, qui<lb n="22" />
+				etiam cognomento Marcus<gap />
+				</p>
+	</div>
+</body>
+</text>
+</TEI>

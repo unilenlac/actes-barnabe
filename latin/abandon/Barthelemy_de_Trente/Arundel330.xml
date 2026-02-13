@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 14)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BLAru">
+				<msIdentifier>
+					<country>Royaume-Uni</country>
+					<settlement>Londres</settlement>
+					<repository>British Library</repository>
+					<collection>Arundel</collection>
+					<idno>330</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="23r" /><cb n="1" />
+				<head type="initial"><lb n="37" />
+			Barnabe apostoli
+		</head>
+		<milestone n="Ac4" />
+		<p><lb n="38" />
+			Barnabas qui filius consolationis in
+			tempus<lb n="39" />
+			et cognomento Ioseph dicitur, agrum<lb n="40" />
+			suum uendidit, et precium apostolis dedit<lb n="41" />
+			et se omni proprietate spoliauit,
+			de lxx<lb n="42" />
+			discipulis unus fuit.
+			Ciprius genere<cb n="2" /><lb n="1" />
+			<milestone n="Ac9" />
+			audax corde,
+			Paulum  quem alii timebant<lb n="2" />
+			apprehensa manu ad apostolos perduxit et ei<lb n="3" />
+			corde et corpore consociatus
+			plenus spiritu sancto<lb n="4" />
+			<milestone n="Ac11" />
+			ab apostolis Anthiochiam mittitur, et in humi<lb n="5" />litatis
+			spiritu putans se tante gente non<lb n="6" />
+			sufficere, Paulum a Tarso adduxit, et tot con<lb n="7" />uerterunt
+			ut Anthiochie primum discipuli sunt<lb n="8" />
+			christiani. Collectam factam in sanctos Ierusalimis<lb n="9" />
+			per Barnabam et Paulum apostolis miserunt<lb n="10" />
+			<milestone n="Ac13" />
+			prophetie spiritum habuit,  et spiritu sancto ut praedicaret<lb n="11" />
+			gentibus cum Paulo publice segregatus<lb n="12" />
+			fuit.  Seleuciam et Ciprum deuenerunt<lb n="13" />
+			Bariem qui Elymas hunc ad tempus priuauerunt<lb n="14" />
+			Sergium qui et Paulus conuerterunt. Iudeis<lb n="15" />
+			eorum praedicationem  respuentibus ad gen<lb n="16" />tes
+			se conuerterunt, et multi fidem per<lb n="17" />
+			eos susceperunt.  Unde Iudei etiam religi<lb n="18" />osas
+			mulieres contra eos concicauerunt,
+			et eos<lb n="19" />
+			a finibus suis eiecerunt, claudum sanant<lb n="20" />
+			<milestone n="Ac14" />
+			Dii putantur, Barnabas Mercurius<lb n="21" />
+			Paulus Iouis, corone et <del rend="strike">alienis</del>
+			alia eis<lb n="22" />
+			offeruntur, sed cuncta respuunt, quoniam exaltan<lb n="23" />tur.
+			Deinde Derben
+			<milestone n="Ac15" />
+			postea Ierosolimam ad<lb n="24" />
+			apostolos uenerunt  narrantes mirabilia Christi.<lb n="25" />
+			Iterum Anthiochiam remittuntur<del rend="scratched" atLeast="3" atMost="5" />
+			ut<lb n="26" />
+			fideles confortet, et ab heresibus defen<lb n="27" />dant,
+			post dies aliquod placuit Paulo<lb n="28" />
+			ut Ierusalem reliteruntur<!--relitere = se cacher à nouveau, donc peut être se retirer? -->, sed <sic>Barnabas</sic><lb n="29" />
+			cognomento Marcum, quem
+			in Iconio ab<lb n="30" />
+			ydolorum cultura conuerterant,<note type="editorial">Cf. AB 2.2.</note>
+			et ab eis de<lb n="31" />
+			Pamphilia discusserat secum assumere<lb n="32" />
+			uolebat,
+			sed Paulo contradicente. Paulus<lb n="33" />
+			Ierusalem rediens multos conuerteret assumpto<lb n="34" />
+			sibi Syla, et Barnabas cum Iohanne ad suos<lb n="35" />
+			parentes Cyprum ueniret,
+			haec autem discessio<lb n="36" />
+			<add place="margin-left" hand="manus1">non</add>
+			est facta sine nutu diuino.<note type="editorial">Cf. AB 2.10</note>
+			<milestone n="2.3-4" />
+			Nam et Iohanni uir<lb n="37" />
+			splendidus apparuit, et Marcum id est excelsum<lb n="38" />
+			nominauit, et multa passurum  praedixit silic<lb n="39" />et
+			apostolo.
+			<milestone n="2.10" />
+			Barnabe apostolo deo
+			praecepit ut<lb n="40" />
+			Cyprum pergeret et Paulo ut Ierusalem<lb n="41" />
+			rediret,  et Paulus Barnabe dixit<lb n="42" />
+			sibi adeo reuelatum, quod
+			Cypri esset passurus<pb n="23v" /><cb n="1" /><lb n="1" />
+			Dantes ergo
+			sibi oscula <sic>ab</sic> inuicem re<lb n="2" />cesserunt.
+			<milestone n="2.12" />
+			Uenit ergo Barnabas cum<lb n="3" />
+			Iohanne in ciuitatem Anemoria multos<lb n="4" />
+			sagaces ethnicos conuertens sua sagaci<lb n="5" />tace.
+			<milestone n="2.14" />
+			Ciprum autem uenientes inuenerint<!--pourquoi ce futur antérieur? a moins que ce soit un u?--><lb n="6" />
+			Timonem et Aristonem famulos Christi.
+			<milestone n="2.15" />
+			Timo<lb n="7" />nem
+			<sic>fabricantem</sic>,
+			sanctus Barnabas euangelio<lb n="8" />
+			Mathei quod secundum mandatum apostolorum secum<lb n="9" />
+			ferebat imposito sanabat, et alios<lb n="10" />
+			multos eodem modo.
+			<milestone n="2.16" />
+			Post haec Eradium
+			<milestone n="2.17" />
+			quem<lb n="11" />
+			ipse cum Paulo episcopum ordinauerat
+			inuenit
+			<milestone n="2.18" />
+			<lb n="12" />
+			et Rodonem quem baptizauerat a quibus
+			benig<lb n="13" />ne fuit susceptus.
+			Tandem occurrit ei<lb n="14" />
+			Elymas magus de quo est  praedictum
+			quod omnem<lb n="15" />
+			sedicionem in Barnabam suscitauit, et<lb n="16" /><note type="editorial">Pour le vocabulaire, cf. AB 2.23, et ce texte 2.23.</note>
+			prohibuit ne intrare Paphum.
+			<milestone n="2.19" />
+			Die igitur<lb n="17" />
+			quadam uidit more ethnicorum
+			homines<lb n="18" />
+			utriusque sexus nudos currentes, et<lb n="19" />
+			sua festa celebrantes, orat pars templi<lb n="20" />
+			corruit et multos incredulos oppressit<lb n="21" />
+			<milestone n="2.22" />
+			Ultimo Salamamam peruenit, Iudeos docet<lb n="22" />
+			<milestone n="2.23" />
+			Elymas occurens sedicionem mouet<lb n="23" />
+			Barnabas trahitur ut consuli praesentet<lb n="24" />
+			Superuenit Eusebius de genere Neronis. Unde<lb n="25" />
+			Iudei timentes ne eum eriperet, nocte<lb n="26" />
+			ipsum igne cremauerunt, et corpus in uase<lb n="27" />
+			plumbeo conditum in mare submiserunt<lb n="28" />
+			<milestone n="2.24" />
+			sed a dicto Iohanne inuentum, et ab eo, et Timo<lb n="29" />ne
+			et Aristone occulte sepultum,
+			<milestone n="epilogue" />
+			tempore<lb n="30" />
+			Zenonis imperatoris et Galasii papae ipso<lb n="31" />
+			apostolo reuelante repertum est.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="FloMug15">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Florence</settlement>
+					<repository>Biblioteca Medicea Laurenziana</repository>
+					<collection>Mugellano</collection>
+					<idno>15</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="57v" /><cb n="1" />
+				<head type="initial"><lb n="24" />
+			In sancti<lb n="25" />
+			Barnabe apostoli.
+		</head>
+		<milestone n="prologue" />
+		<div>
+			<p>
+				<seg type="lectio" hand="manus1" place="inline">Lectio ia</seg>
+				<lb n="26" />
+				Barnabas he<lb n="27" />brayce,
+				latine<lb n="28" />
+				dicitur uel interpre<lb n="29" />tatur
+				filius con<lb n="30" />solationis
+				uel<lb n="31" />
+				filius prophete. Barnabas qui<lb n="32" />
+				et Ioseph natione Cyprie ci<lb n="33" />uitatis,
+				que ex Cyro rege<lb n="34" />
+				Persarum fundata extitit,<lb n="35" />
+				cum Paulo ingentibus apostola<cb n="2" /><lb n="1" />tum
+				adeptus est. Deinde propter<lb n="2" />
+				Iohannem discipulum qui etiam<lb n="3" />
+				cognomento Marcus appel<lb n="4" />latur,
+				seiunctus a Paulo,<lb n="5" />
+				nichilominus euangelii<lb n="6" />
+				praedicatione sibi opus iniunc<lb n="7" />tum
+				exercuit,  martirio co<lb n="8" />ronatus.
+				Cuius festa <sic>celebran<lb n="9" />tur</sic>
+				tertio ydus iunii.
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

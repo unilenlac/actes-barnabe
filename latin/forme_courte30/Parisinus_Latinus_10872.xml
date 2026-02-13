@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 30)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF10872">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>10872</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="38v" /><cb n="1" />
+		<head type="initial"><lb n="13" />
+			Passio sancti Barnabe<lb n="14" />
+			apostoli.
+		</head>
+		<milestone n="2.2" />
+		<div>
+						<p><lb n="14" />
+				<seg place="inline" hand="manus1" type="lectio">Lectio <lb n="15" />prima</seg>
+				<lb n="15" />
+				Iohannes qui et Marcus fa<lb n="15" />mulus
+				domini nostri Iesu Christi discipulus<lb n="16" />
+				sanctorum apostolorum Pauli et Barnabe, mistica<lb n="17" />
+				dei opera que diuinitus uidi, et diligen<lb n="18" />ter
+				cognoui, gradiendo scilicet cum praedictis apostolis<lb n="19" />
+				sanctis et famulando in ministerio eorum, omni<lb n="20" />bus
+				fidelibus in Christi ecclesia commorantibus per gra<lb n="21" />ciam
+				domini fideliter pando. Denique cum essem<lb n="22" />
+				ethnicus et famulator ydolorum  in ministerio<lb n="23" />
+				Cyrilli quondam pontificis nephandissimi,<lb n="24" />
+				templi Iouis, annuente gratia domini nostri<lb n="25" />
+				Iesu Christi baptizatus sum per beatum Paulum et<lb n="26" />
+				Barnabam  qui digni fuerunt uocacione<lb n="27" />
+				dei in loco  qui dicitur Yconium.
+			</p>
+			<milestone n="2.3" />
+			<p><lb n="28" />
+				<seg place="inline" hand="manus1" type="lectio">Lectio ii</seg>
+				Postquam uero sacrum baptismum<lb n="29" />
+				suscepi,  uidi in uisione uirum splen<lb n="30" />didum
+				atque mirabilem,  amictum stola candidi,<lb n="31" />
+				qui dixit mihi. Constans esto Iohannes,  et crede<lb n="32" />
+				fiducialiter, quoniamquidem amodo non Iohannes<lb n="33" />
+				sed Marcus, id est excelsus uocaberis  et glori<lb n="34" />am
+				excellencie tue ubique praedicari,  et glorifi<lb n="35" />cari
+				oportet,  pro eo scilicet  quia quae hactenus<lb n="36" />
+				fuerunt in te,  penitus effugata sunt,  et da<lb n="37" />ta
+				est tibi gratia et intellectus,  ut cognoscas mi<lb n="38" />nisteria
+				dei omnipotentis.
+			</p>
+			<milestone n="2.4" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio iii</seg><lb n="39" />
+				Cernendo  itaque hanc uisionem, ob<lb n="40" />stupui,
+				fateor. Et euigilans, proci<cb n="2" /><lb n="1" />di
+				ad pedes Barnabe, ac ser<add place="above" hand="corr1">ia</add>tim illi omnia<lb n="2" />
+				quae a predicto uiro cognoui, professus sum.<lb n="3" />
+				Interea beatus Paulus ibi non erat,  quoniam hec<lb n="4" />
+				secreta dei sancto Barnabe pandere studebam.<lb n="5" />
+				Post<add place="inline" hand="corr1-dubia">quam</add>
+				uero idem  Barnabas diligenter aduertit<lb n="6" />
+				nostram reuelacionem,  commonuit me dicens.<lb n="7" />
+				Precaue diligenter,  et pone custodiam ori<lb n="8" />
+				tuo,  ne alicui uirtutem misterii quam uidisti,<lb n="9" />
+				asseras. Nam et michi similiter apparuit<lb n="10" />
+				hac nocte	dominus Iesus Christus dicens. Con<lb n="11" />stans
+				esto Barnaba, credendo uerissime,<lb n="12" />
+				quoniam pro sancta deuocione qua reliquisti generacio<lb n="13" />nem
+				tuam  pro nomine meo,  perseuerando, praemia<lb n="14" />
+				eterna percipies. Attamen conuoca Iohannem mi<lb n="15" />nistrum
+				tuum, quoniamquidem et ipse uidit quaedam mis<lb n="16" />teria.
+				Interim conserua omnia  quae uidisti<lb n="17" />
+				et audisti, quia ueniet tempus, quando ma<lb n="18" />nifestus
+				apparebit.
+			</p>
+			<milestone n="2.5" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio iiii</seg><lb n="19" />
+				Hanc commonitionem  ab illo percipi<lb n="20" />endo,
+				commorati sumus in predicto Yconio<lb n="21" />
+				per dies aliquot,  in quo erat quidam homo<lb n="22" />
+				iustus et timoratus, qui nos recepit,  et<lb n="23" />
+				hospitalitatem benigne exhibuit. Cuius domum<lb n="24" />
+				beatus Paulus placide benedixit. Deinde ue<lb n="25" />nimus
+				<sic>Sendeuciam</sic>,  in qua mansimus die<lb n="26" />bus
+				tribus. Inde nauigantes, uenimus<lb n="27" />
+				Cyprum. Eramque in ministerio eorum, donec<lb n="28" />
+				de Cypro egrederemur. Exeuntes autem de<lb n="29" />
+				Cypro, uenimus Panphilíam. Illis autem<lb n="30" />
+				abeuntibus ad predicandum,  commoratus<lb n="31" />
+				sum ibi mensibus duobus. Cumque dispo<lb n="32" />nerem
+				ire in partes occidentis,  prohibuit  spi<lb n="33" />ritus
+				sanctus.
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio quinta</seg>
+				<lb n="34" />
+				Igitur cum audissem, quod iidem<lb n="35" />
+				sancti apostoli Paulus et Barnabas Anthí<lb n="36" />ochie
+				essent,  continuo perrexi ad illos,
+				<milestone n="2.6" />
+				in<lb n="37" />uenique
+				beatum Paulum fatigatum ex itinere,<lb n="38" />
+				atque in grabatum requiescentem. Qui cum me<lb n="39" />
+				cerneret,  gauisus est. Sed arguere me<lb n="40" />
+				cepit, pro eo  quod moram fecissem uenire<pb n="39r" /><cb n="1" /><lb n="1" />
+				de Pamphilia,  et detinuissem libros praedi<lb n="2" />cationis.
+				Recreati autem ex itinere, ceperunt<lb n="3" />
+				predicare uerbum domini,  ad quorum praedica<lb n="4" />cionem
+				plurimi Iudeorum atque gentilium illu<lb n="5" />minati,
+				crediderunt in dominum Iesum Christum.
+			</p>
+			<milestone n="2.7" />
+			<p><lb n="6" />
+				<seg place="inline" hand="manus1" type="lectio">Lectio vi</seg>
+				Expleta namque praedicatione,<lb n="7" />
+				statuerunt ire ad predicandum<lb n="8" />
+				in orientem,  ut tunc demum reuertentur in Cy<lb n="9" />prum,
+				ut uisitarent ecclesias  in quibus uerbum<lb n="10" />
+				domini predicauerunt. Sed beatus Barnabas ex<lb n="11" />orabat,
+				ut prius irent in Cyprum, ad uisi<lb n="12" />tandos
+				parentes suos,  et postea Ierusalem<lb n="13" />
+				communiter pergerent. Inter hec autem angelica<lb n="14" />
+				uisio  per noctem facta est, beato Paulo dicens.<lb n="15" />
+				Celerius propera Iherusalem,  nec moram faci<lb n="16" />as,
+				quoniamquidem ualde fratres  prestolantur<lb n="17" />
+				aduentum tuum.
+				<milestone n="2.8" />
+				Quod cum beato Barnabe<lb n="18" />
+				panderet,  ait. Quia uoluntati dei con<lb n="19" />tradicere
+				non expedit,  fiat uoluntas domini.<lb n="20" />
+				<milestone n="2.9" />
+				Tantum obsecro, intercede pro me ad dominum,<lb n="21" />
+				ut decertatio mea fiat acceptabilis in conspectu<lb n="22" />
+				eius, secundum deuocionem  qua famulati<lb n="23" />
+				sumus in ministerio  quod datum est nobis.<lb n="24" />
+				Nunc autem propero Cyprum,  ibique finem con<lb n="25" />pleo
+				uite,  faciemque tuam heu prochdolor cor<lb n="26" />poraliter
+				non uisurus. Hec proloquens, ce<lb n="27" />cidit
+				ad pedes eius, et fleuit amare.<lb n="28" />
+				<milestone n="2.10" />
+				Cuius dolori beatus Paulus compaciens, no<lb n="29" />li
+				inquit merere frater,  non enim   sine mi<lb n="30" />nisterio
+				diuino agitur.
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio vii</seg>
+				<lb n="31" />
+				Tunc positis genibus, orantes,<lb n="32" />
+				et osculantes nos ad inuicem,<lb n="33" />
+				uale fecimus.
+				<milestone n="2.11" />
+				Et nauigantes, descen<lb n="34" />dimus
+				Laodociam, decertantes,  ut pergeremus<lb n="35" />
+				Cyprum.
+				<milestone n="2.12" />
+				Deinde uenimus in ciuitatem que<lb n="36" />
+				dicitur Anemora,  in qua inuenimus iustos ui<lb n="37" />ros,
+				quamquam ethnicos, sagacitate tamen<lb n="38" />
+				pollentes. Qui sagaciter nos interroga<lb n="39" />re
+				ceperunt, dicentes. O uiri, qui estis ?<lb n="40" />
+				unde et quo, uel quae res uos attulit nostris curis ?<cb n="2" /><lb n="1" />
+				Animaduertens autem beatus Barnabas illorum, sa<lb n="2" />gacitatem,
+				sagaciter eis respondere studuit.<lb n="3" />
+				Si nosse inquit cupitis  qui sumus,  unde, et<lb n="4" />
+				quo,  uel quam ob rem uenimus,  scitote  quia famuli<lb n="5" />
+				sumus domini nostri Iesu Christi creatoris celi et<lb n="6" />
+				terre. Uenientes ab Iherosolimis, pergimus u<lb n="7" />bique
+				ad predicandum nomen eius,  quia ip<lb n="8" />se
+				est filius dei omnipotentis, et qui credi<lb n="9" />derit
+				in illum  non morietur,  sed uitam recipiet<lb n="10" />
+				sempiternam. Uerumptamen si hoc cognoscere<lb n="11" />
+				cupitis,  exuite uos uestimentis  que ueteres<lb n="12" />cunt
+				et pereunt, et induimini uestimentis quae non<lb n="13" />
+				pereunt, sed gloriosa et splendida permanent in eter<lb n="14" />num.
+			</p>
+		<milestone n="2.18" />
+			<p>
+				<seg type="lectio" hand="manus1" place="inline">Lectio viii</seg>
+				Hiis itaque gestis,<lb n="15" />
+				obuium habuimus impium, et maleficum<lb n="16" />
+				Iudeum nomine Bariésum,  quem olim beatus Paulus<lb n="17" />
+				lumine priuauerat. Hic namque cum cognouis<lb n="18" />set
+				beatum apostolum malicia commotus prohibuit nos<lb n="19" />
+				introire in Paphim.
+				<milestone n="2.22" />
+				Introeuntibus itaque nobis<lb n="20" />
+				in Salamía,  inuenimus synagogam Iudeorum,<lb n="21" />
+				quam beatus apostolus exhortari cepit,  et per euuange<lb n="22" />lium
+				sancti Mathei, Christi gratiam introducere.
+				<milestone n="2.23" />
+				Hec<lb n="23" />
+				dum praefatus comperisset Bariésus,  et quia pluri<lb n="24" />mi
+				Iudeorum recepissent praedicationem sancti a<lb n="25" />postoli,
+				omnem maliciam iniquitatis sue osten<lb n="26" />dens,
+				seditione factam contra sanctum apostolum con<lb n="27" />prehenderunt
+				eum, et quaerebant tradere consuli,<lb n="28" />
+				eiusdem Salamine ciuitatis  affligentes illum,<lb n="29" />
+				multis suppliciis, et uariis cruciatibus. De hinc<lb n="30" />
+				cum iam maceratum et  quassatum penis ducerent ad<lb n="31" />
+				iudicandum,  accidit  ut deueniret in eandem<lb n="32" />
+				insulam ex Cypro quidam magnus et praepotens<lb n="33" />
+				nomine Eusebius, scilicet de progenie Neronis impera<lb n="34" />toris.
+				Comperientes autem Iudei aduentum eius,<lb n="35" />
+				uerentes nimium,  ne illum eriperet de manibus<lb n="36" />
+				ligantes funem in collo eius, nocturno tempore<lb n="37" />
+				dilaceratum, a synagoga in podromum pertraxe<lb n="38" />runt,
+				et <del rend="dotted" hand="manus1">de</del> deinde foris portam. Post hec<lb n="39" />
+				autem circumdantes illum igne crudeliter, cre<lb n="40" />mauerunt.
+				Sicque beatus apostolus post multos agones<pb n="39v" /><cb n="1" /><lb n="1" />
+				et diuturna certamina pro Christi adustus mi<lb n="2" />grauit
+				ad gaudia sempiterna.
+			</p>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio nona</seg><lb n="3" />
+				Impii autem Iudei non saciati de nece illius,<lb n="4" />
+				zelo diu concitati, tulerunt sacratissimum<lb n="5" />
+				corpus eius,  et in locello plumbeo recludentes<lb n="6" />
+				in mare precipitare deponebant.
+				<milestone n="2.24" />
+				Interim e<lb n="7" />go
+				praefatus Iohannes, qui et Marcus, una cum<lb n="8" />
+				predictis, Thimone, et Rodone occulte noctur<lb n="9" />nis
+				horis tulimus illud,  et collocauimus<lb n="10" />
+				in <del rend="dotted" hand="manus1">scri</del>
+				cripta. Que olim fuerat habitacio<lb n="11" />
+				Iebuseorum. Tercio idus iunii,  hoc est in<lb n="12" />decima
+				die ipsius mensis.
+				<milestone n="epilogue" />
+				Propter hanc<lb n="12" />
+				itaque occultam collocationem, plurimis an<lb n="14" />norum
+				curriculis, uenerabile corpus illius,<lb n="15" />
+				latuit  nec inueniri a christicolis potuit.<lb n="16" />
+				Sed deus omnipotens non patitur occul<lb n="17" />tari
+				gloriam sanctorum.  Tempore Zenuis et<lb n="18" />
+				sancti Gelasii pape, eodem sancto apostolo reuelan<lb n="19" />te,
+				inuentum est corpus eius,  atque cum ym<lb n="20" />nis
+				et laudibus mirifice collocatum est,<lb n="21" />
+				ad honorem  domini nostri Iesu Christi  qui cum<lb n="22" />
+				patre et spiritu sancto uiuit  et regnat deus per<lb n="23" />
+				infinita secula seculorum amen.
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

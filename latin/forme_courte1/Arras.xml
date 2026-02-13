@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 1)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Arr">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Arras</settlement>
+					<repository>Bibliothèque municipale</repository>
+					<collection></collection>
+					<idno>512 (600)</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" /><pb n="119r" /><cb n="1" />
+		<head type="initial"><lb n="17" />
+			Passio sancti Barnabe apostoli.
+		</head>
+		<milestone n="1.1" />
+		<p><lb n="18" />
+			Redemptor et saluator noster dominus<lb n="19" />
+			Iesus Christus antequam de interitu<lb n="20" />
+			Sathane triumphans uictor<lb n="21" />
+			et exultans penetraret regna polorum,<lb n="22" />
+			sanctam ecclesiam, quam pretioso sanguine<lb n="23" />
+			suo adquisiuit, per beatos  apostolos et apo<lb n="24" />stolicos
+			uiros immobiliter fundauit,<lb n="25" />
+			mirabiliter corroborans solidauit.<lb n="26" />
+			<milestone n="1.2" />
+			<seg type="lectio" place="margin-left" hand="corr1">ia Lectio</seg>
+			Ergo cum sanctorum apostolorum natalicia cele<lb n="27" />bramus,
+			dignum equidem atque salu<lb n="28" />tare uidetur,
+			ut beati Barnabe nata<lb n="29" />litia
+			deuotissime celebremus,
+			<milestone n="1.3" />
+			quoniamquidem,<lb n="30" />
+			et si non est in ordine apostolatus eorum,  non<lb n="31" />
+			tamen deest de cathalogo predicatio<lb n="32" />nis,
+			quia excellentiam miraculorum<lb n="33" />
+			sicut Lucas euangelista refert in actibus<lb n="34" />
+			apostolorum mirabiliter pat<add place="above" hand="manus1-dubia">ra</add>uit. Nam eo<lb n="35" />
+			fere tempore quo sancta ecclesia gratiam spiritus<lb n="36" />
+			sancti suscepit, tercio uidelicet post passio<lb n="37" />nem
+			domini	anno, cum Paulo apostolo  ad<lb n="38" />
+			apostolatus celsitudinem et praedicationem<cb n="2" /><lb n="1" />
+			diuinitus electus est, uocante illos<lb n="2" />
+			eodem spiritu sancto, atque dicente. Segre<lb n="3" />gate
+			mihi Barnabam et Saulum in opus<lb n="4" />
+			quod assumpsi eos.
+			<milestone n="1.4" />
+			<seg type="lectio" place="margin-right" hand="corr1">iiia Lectio</seg>
+			Sed qualiter uir<lb n="5" />
+			iste domini Barnabas deuotissime<lb n="6" />
+			fidem catholicam predicando, et infi<lb n="7" />deles
+			ab errore iniquitatis redimendo,<lb n="8" />
+			opprobria et contumelias pro Christi<lb n="9" />
+			amore sustinuerit, dicere studeamus.<lb n="10" />
+			<milestone n="2.19" />
+			Quodam tempore cum uenisset in<lb n="11" />
+			locum  in quo ethnici uiri et femine<lb n="12" />
+			ludendo nudi currebant, indignatus<lb n="13" />
+			super tale facinus beatus Barnabas  male<lb n="14" />dixit
+			continuo templum, statimque<lb n="15" />
+			pars templi funditus corruit,  mag<lb n="16" />naque
+			contritio ex ethnicis facta est,<lb n="17" />
+			qui sub ruina ipsa mortui sunt.<lb n="18" />
+			<seg type="lectio" place="margin-right" hand="corr1">iiiia Lectio</seg>
+			Ceteri autem qui euaserunt, fuge<lb n="19" />runt
+			in templum Apollinis.
+			<milestone n="2.22" />
+			Intro<lb n="20" />eunte autem illo in Salaminam, inue<lb n="21" />nit
+			synagogam Iudeorum, quam exhorta<lb n="22" />ri
+			cepit, et per euangelium sancti Mathei<lb n="23" />
+			Christi gratiam introducere.
+			<milestone n="2.23" />
+			At quidam<lb n="24" />
+			Bariesus et plurimi Iudeorum, hoc com<lb n="25" />perientes
+			omnem maliciam iniqui<lb n="26" />tatis
+			sue ostendentes, seditione fa<lb n="27" />cta
+			contra sanctum apostolum, fecerunt eum<lb n="28" />
+			comprehendere, et querebant tradere<lb n="29" />
+			consuli eiusdem Salamine ciuitatis,<lb n="30" />
+			affligentes eum multis suppliciis<lb n="31" />
+			et uariis cruciatibus.
+			<seg place="margin-right" type="lectio" hand="corr1">va Lectio</seg>
+			Post hec autem<lb n="32" />
+			ligantes funem in collo eius, no<lb n="33" />cturno
+			tempore dilaceratum a sy<lb n="34" />nagoga,
+			in ypodromum pertraxerunt,<lb n="35" />
+			et deinde foris portam, circum<lb n="36" />dantesque
+			illum, igne crudeliter crema<lb n="37" />uerunt.
+			Sicque beatus apostolus post mul<lb n="38" />tos
+			agones, et diuturna certamina<pb n="119v" /><cb n="1" /><lb n="1" />
+			pro Christi amore adustus, migrauit<lb n="2" />
+			ad gaudia sempiterna.
+			<seg place="margin-left" type="lectio" hand="corr1">via Lectio</seg> Impii autem<lb n="3" />
+			Iudȩi non satiati de nece illius, zelo<lb n="4" />
+			diu concitati, tulerunt sacratissimum<lb n="5" />
+			corpus eius, et in locello plumbeo recluden<lb n="6" />tes
+			in mare precipitare disponebant.<lb n="7" />
+			<milestone n="2.24" />
+			Interim ego Iohannes qui et Mar<lb n="8" />cus,
+			occulte nocturnis horis tuli<lb n="9" />
+			illud, et collocaui in cripta que olim<lb n="10" />
+			fuerat habitatio Ihebuseorum, iiio idus iunii.
+			<note type="scribal" hand="corr1" place="inline">
+				Septima de <unclear reason="illegible" atLeast="3" atMost="5" />
+				uiiia de Corinthiis prima
+				et ixa lectio apostolorum
+			</note>
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

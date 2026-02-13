@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="R">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Grec</collection>
+					<idno>1179A</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="approved">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div>
+			<milestone n="24"/><lb n="1" />
+			<gap />
+			<pb n="2r" /><cb n="1" />
+	<p>
+				δωδεκάτου· κατὰ δὲ ῥωμαίους.<lb n="2" />
+		μηνὶ ἰουνίω ι̅α̅·
+		<milestone n="25" />
+		ὡς δὲ ἐκρύ<lb n="3" />βημεν
+		ἐν τῶ τόπω. ζήτησιν<lb n="4" />
+		οὐκ  ὀλίγην ἐποιήσαντο  ἰουδαῖοι<lb n="5" />
+		καθ ημῶν· καὶ μόλις εὑρόντες,<lb n="6" />
+		κατεδίωξαν ἡμᾶς ἕως τῆς<lb n="7" />
+		κώμης λεδρῶν· καὶ εὑρόντες<lb n="8" />
+		κακεῖ σπήλαιον ἐν τῶ ὄρει πλη<lb n="9" />σίον
+		τῆς κώμης,
+		ἀνελθόντες<lb n="10" />
+		κατεφύγομεν ἐν αὐτῶ· καὶ οὕ<lb n="11" />τως
+		διελίθασαν ἡμας· ἀπἐ<lb n="12" />κρύβημεν
+		δὲ ἐν τῶ σπηλαίω<lb n="13" />
+		ἡμέρας τρεῖς· καὶ ἀναχωρη<lb n="14" />σάντων
+		τῶν ἰουδαίων,
+		ἐξελ<lb n="15" />θόντες κατελείψαμεν τὸν τόπον·<lb n="16" />
+		προσλαβόμενοι δὲ ἀρίστωνα<lb n="17" /> καὶ
+		ῥόδωνα. ἤλθομεν ἐν κώ<lb n="18" />μη
+		λιμνητὶ·
+		<milestone n="26"/>
+		εὑρόντες δὲ πλοῖ<lb n="19" />ον
+		αἰγύπτιον,
+		ἀνήλθομεν ἐν αὐ<lb n="20" />τῶ·
+		καὶ πλέυσαντες,
+		κατήχθη<lb n="21" />μεν
+		ἐν ἀλεξανδρεῖα· κακεῖ ἔμει<lb n="22" />να
+		διδάσκων τοὺς προσφυγόν<lb n="23" />τας
+		ἀδελφοὺς. τὸν λόγον τοῦ <abbr type="ns">θυ</abbr>·<lb n="24" />
+		φωτίζων αὐτοὺς καὶ εὐαγγελι<lb n="25" />ζόμενος·
+		ἅπερ ἐδιδάχθην<lb n="26" />
+		ὑπὸ τῶν ἁγίων τοῦ <abbr type="ns">χυ</abbr>
+		ἀποστόλων,<lb n="27" />
+		τῶν καὶ βαπτισάντων με εἰς<lb n="28" />
+		τὸ ὄνομα τοῦ <abbr type="ns">πρς</abbr> καὶ τοῦ υἱοῦ<lb n="29" />
+		καὶ τοῦ ἁγίου <abbr type="ns">πνς</abbr>· τῶν καὶ
+		με<lb n="30" />τονομασάντων
+		με μάρκον. ἐν<lb n="31" />
+		τῶ ὕδατι τοῦ ἁγίου βαπτίσμα<lb n="32" />τος·
+		ἐν ῶ ἐλπίζω πρὸσἐνέγ<lb n="33" />και
+		πολλοὺς εἰς τὴν δόξαν<lb n="34" />
+		τοῦ <abbr type="ns">κυ</abbr>,  διὰ
+		τῆς αὐτοῦ ἀγαθότη<lb n="35" />τος·
+		ὅτι αὐτῶ πρέπει πᾶσα  δό<lb n="36" />ξα
+		τιμὴ καὶ προσκύνησιν νῦν<cb n="2" /><lb n="1" />
+		καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας<lb n="2" /> τῶν αἰώνων
+		ἀμήν.
+	</p>
+</div>
+</body>
+</text>
+</TEI>

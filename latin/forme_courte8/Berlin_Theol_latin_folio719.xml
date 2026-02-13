@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 8)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="B719">
+				<msIdentifier>
+					<country>Allemagne</country>
+					<settlement>Berlin</settlement>
+					<repository>Staatsbibliothek — Preußischer Kulturbesitz</repository>
+					<collection>Manuscriptus theologicus latinus in folio</collection>
+					<idno>719</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="14v" /><cb n="1" />
+				<head type="initial"><lb n="22" />
+			Barnabe apostoli, <seg type="reading-date" place="inline" hand="manus1" >iiio idus<lb n="23" />
+				iunii</seg>
+		</head>
+		<milestone n="FC8-introduction" />
+		<p>
+			Ioseph qui cognominatur Barnabas<lb n="24" />
+			quod in sermone latino sonat filius consola<lb n="25" />tionis,
+			cum primum apostolos domini praedicantes<lb n="26" />
+			audierat, suoque cordi fides catholica sa<lb n="27" />ne
+			illuxerat, agrum unum quem habebat<lb n="28" />
+			uendidit, tulitque precium ad pedes<lb n="29" />
+			apostolorum, orans eorum fieri eterne saluationis<lb n="30" />
+			particeps. Et quoniam scriptum est quod dominus uo<lb n="31" />cat
+			et iustificat, hoc et magnitudo glo<lb n="32" />rificat,
+			impleuit eum dominus spiritus sapiente et<cb n="2" /><lb n="1" />
+			intellectus, et donauit multam gratiam<lb n="2" />
+			praedicationis, qui pro ea  connumeratus inter apostolos<lb n="3" />
+			factus est unus  ex <del rend="strike" hand="manus1-dubia">lxxii</del>
+			discipulis Christi. Hic<lb n="4" />
+			est etiam ille discipulus, qui primo beati<lb n="5" />
+			Pauli apostoli conuersionis anno ipsum compre<lb n="6" />hendere
+			et ad ceteros  apostolos ducere dignus<lb n="7" />
+			habitus est. Narrauitque illis domini apostolis<lb n="8" />
+			qualiter dominus Iesus Christus huic beato Pau<lb n="9" />lo
+			in uia qua ibat Damascum apparu<lb n="10" />erit,
+			et quomodo eum corripiendo conuerterit,<lb n="11" />
+			quomodo et hi demum in iudaismo non<lb n="12" />
+			profitiens, plerumque sinagogas Iuderorum<lb n="13" />
+			in Christi nomine confuderit. Non etiam ab<lb n="14" />surde
+			hi domini famulus filius consolationis est<lb n="15" />
+			appelatus, nam ipsum Paulum in nouel<lb n="16" />la
+			conuersione sua est consolatus, quem et primum<lb n="17" />
+			informauit ad uerbum domini praedicandum.<lb n="18" />
+			Cumque hic cum ipso apostolo postea fuisset<lb n="19" />
+			aliquo tempore conuersatus, praedicans cum<lb n="20" />
+			eo in Antiochia, et in multis aliis<lb n="21" />
+			regionibus uerbum domini, tandem cogno<lb n="22" />uit
+			a Paulo separari debere, iuxta id<lb n="23" />
+			quod hac uoce ueritatis significatum est<lb n="24" />
+			eis. Separate mihi Barnabam et Paulum<lb n="25" />
+			in opus ministerii ad quod assumpsi<lb n="26" />
+			eos.
+			<milestone n="2.9" />
+			Igitur paulo post sibi inuicem fratres ua<lb n="27" />ledixerunt,
+			et alter alterius gentia de<lb n="28" />osculans
+			se domino mutuis orationibus<lb n="29" />
+			commendabant,
+			et ita separati sunt<lb n="30" />
+			<milestone n="2.10-22" />
+			ab inuicem non amplius corporaliter se  ui<lb n="31" />suri.
+			Tunc Paulus adiit Iherosolimam<lb n="32" />
+			et Barnabas reuersus est in Ciprum,<pb n="15r" /><cb n="1" /><lb n="1" />
+			insulam de qua ipse natus fuerat.<lb n="2" />
+			Cumque in praedicta insula Barnabas pro ea<lb n="3" />
+			aliquo tempore commoratus fuisset, iugi<lb n="4" />
+			<sic>praedicationi</sic> insistens,
+			<milestone n="2.23" />
+			aliqua dierum<lb n="5" />
+			insidiis impiorum circumdatus est. Qui eum  compre<lb n="6" />hendentes,
+			quouisque exspirauit ita distrax<lb n="7" />erunt.
+			Quid plura ? Nondum illi sati<lb n="8" />ati
+			in sanguine amici domini, corpus<lb n="9" />
+			tunc sacrum igne conburentes in cineres<lb n="10" />
+			redegerunt, quos cineres in plum<lb n="11" />beo
+			locello recludebant ut mane<lb n="12" />
+			praecipitarent in undas maris, ne<lb n="13" />
+			christiani secundum hunc sibi martirem face<lb n="14" />rent.
+			<milestone n="2.24" />
+			Sed iniquum hi eorum consilium di<lb n="15" />uina
+			clementia hi modo immutare<lb n="16" />
+			dignata est. Uenerunt de nocte<lb n="17" />
+			uenerabiles uiri christiani. Rado, Thimo,<lb n="18" />
+			et Iohannes, qui subleuantes praefatum lo<lb n="19" />cellum
+			cum sacris cineribus, commendaue<lb n="20" />runt
+			sepulture cum ymnis et laudibus<lb n="21" />
+			in quadam cripta, que olim habitatio<lb n="22" />
+			Iebuseorum fuerat.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,282 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 31)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BSG131">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque Sainte-Geneviève</repository>
+					<collection></collection>
+					<idno>131</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="84v" /><cb n="1" />
+				<head type="initial"><lb n="18" />
+			De sancto<lb n="19" />
+			Barnaba
+		</head>
+		<milestone n="introduction-FC31" />
+			<p>
+				<seg hand="manus1" type="lectio" place="inline">Lectio i</seg>
+				Beatus<lb n="20" />
+				Barnabas,  qui et<lb n="21" />
+				Ioseph primo dic<lb n="22" />tus
+				est Ciprius genere, licet inter<lb n="23" />
+				duodecim apostolos, quos elegit<lb n="24" />
+				dominus, non fuerit ad apostola<lb n="25" />tum
+				electus, non tamen ab<lb n="26" />
+				apostolatus gratia, et officio uidetur<lb n="27" />
+				omnino seclusus ordinante<lb n="28" />
+				ipsum spiritu sancto pariter, cum<cb n="2" /><lb n="1" />
+				Saulo in apostolatum gentium,<lb n="2" />
+				sicut scriptum est in actibus<lb n="3" />
+				apostolorum, ubi etiam quomodo<lb n="4" />
+				conuersus ex Iudeis ad fidem<lb n="5" />
+				uenerit, sic refertur.
+				<milestone n="Ac4" />
+				Ioseph<lb n="6" />
+				autem qui cognominatus est<lb n="7" />
+				Barnabas ab apostolis, quod est<lb n="8" />
+				interpretatum filius consola<lb n="9" />tionis,
+				leuites et Ciprius genere,<lb n="10" />
+				cum haberet agrum uendidit<lb n="11" />
+				illum, et attulit precium et<lb n="12" />
+				posuit  ante pedes apostolorum.
+			</p>
+		<milestone n="Ac9" />
+				<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio<lb n="13" /> secunda</seg>
+				Hic Saulum nouiter<lb n="14" />
+				conuersum uenientem<lb n="15" />
+				Iherosolimam, et discipulis<lb n="16" />
+				se coniungere temptantem,<lb n="17" />
+				ad huc eum timentibus nec cre<lb n="18" />dentibus
+				quod esset discipulis, ap<lb n="19" />prehensum
+				duxit ad apostolos<lb n="20" />
+				et narrauit illis quomodo in<lb n="21" />
+				uia uidisset dominum, et<lb n="22" />
+				quia dominus locutus est ei,<lb n="23" />
+				et quomodo in Damasco fidu<lb n="24" />cialiter
+				egit, in nomine Iesu.<lb n="25" />
+				<milestone n="Ac11" />
+				Proficiente autem ecclesia apud<lb n="26" />
+				Antiochiam, et credentium<lb n="27" />
+				numero crescente, missus<lb n="28" />
+				illuc Barnabas ab apostolis, cum<pb n="85r" /><cb n="1" /><lb n="1" />
+				uidisset gratiam dei gauisus est,<lb n="2" />
+				et hortabatur omnes proposito<lb n="3" />
+				cordis permanere in domino,<lb n="4" />
+				quia erat uir bonus et plenus<lb n="5" />
+				spiritu sancto et fide, et apposita est<lb n="6" />
+				turba multa <del rend="dotted">in</del> domino. Pro<lb n="7" />fectus
+				est autem Tharsum, ut que<lb n="8" />reret
+				Saulum. Quem cum in<lb n="9" />uenisset,
+				perduxit Antiochiam,<lb n="10" />
+				et annum totum conuersati sunt<lb n="11" />
+				in ecclesia, et docuerunt turbam<lb n="12" />
+				multam, ita ut cognominaren<lb n="13" />tur
+				primum Antiochie disci<lb n="14" />puli
+				Christiani.
+			</p>
+			<p>
+				<seg type="lectio" place="inline" hand="manus1">Lectio tercia</seg><lb n="15" />
+				Tempore famis cum pro<lb n="16" />posuissent
+				discipuli<lb n="17" />
+				mittere aliquid habitantibus<lb n="18" />
+				in Iudea fratribus, id fecerunt<lb n="19" />
+				per manus Barnabe et Sauli.
+				<milestone n="Ac12" />
+				Qui<lb n="20" />
+				reuersi ab Iherosolimis expleto<lb n="21" />
+				ministerio assumpto Iohan<lb n="22" />ne,
+				qui cognominatus est<lb n="23" />
+				Marcus,
+				<milestone n="Ac13" />
+				cum essent Antiochie<lb n="24" />
+				cum ceteris ministrantibus<lb n="25" />
+				domino, et ieiunantibus, dixit<lb n="26" />
+				spiritus sanctus. Segregate mihi<lb n="27" />
+				Barnabam et Saulum, in opus<lb n="28" />
+				quo assumpsi eos. Tunc ieiu<cb n="2" /><lb n="1" />nantes
+				et orantes, imponentes<lb n="2" />que
+				ei manus, dimiserunt eos.<lb n="3" />
+				Et ipsi quidem missi a spiritu<lb n="4" />
+				sancto abierunt Seleutiam, et in<lb n="5" />de
+				nauigauerunt Ciprum. Et<lb n="6" />
+				cum uenissent Salamínam,<lb n="7" />
+				predicabant uerbum dei in<lb n="8" />
+				synagogis Íudeorum. Habebant<lb n="9" />
+				autem et Iohannem in minis<lb n="10" />terio.
+				Et cum perambulassent<lb n="11" />
+				uniuersam insulam usque Pa<lb n="12" />phum,
+				inuenerunt quendam<lb n="13" />
+				urium magum, pseudopro<lb n="14" />phetam
+				Iudeum, cui nomen<lb n="15" />
+				erat Barieu, qui erat cum pro<lb n="16" />consule
+				Sergio Paulo uiro pru<lb n="17" />dente.
+				Hic accersitis Barnaba<lb n="18" />
+				et Saulo, desiderabat audire<lb n="19" />
+				uerbum dei. Qui pro eos conuer<lb n="20" />sus
+				credidit, admirans super<lb n="21" />
+				doctrina domini.
+			</p>
+		</div>
+		<div>
+			<p><lb n="22" />
+				<seg place="inline" hand="manus1" type="lectio">Lectio iiii</seg>
+				Cum autem uenissent<lb n="23" />
+				Antiochiam Barna<lb n="24" />bas
+				et Paulus, reppellentibus<lb n="25" />
+				Iudeis uerbum dei, conuersi<lb n="26" />
+				aco gentes disseminabant uer<lb n="27" />bum
+				dei per uniuersam regio<lb n="28" />nem,
+				credideruntque per eos quot<pb n="85v" /><cb n="1" /><lb n="1" />quot
+				erant preordinati ad<lb n="2" />
+				uitam eternam.
+				<milestone n="Ac14" />
+				Sed et inde<lb n="3" />
+				Iudeorum inuidia repulsi, ue<lb n="4" />nientes
+				Yconium, multitudi<lb n="5" />nem
+				Iudeorum et Grecorum ad fidem<lb n="6" />
+				conuerterunt. Apud Listram<lb n="7" />
+				cum claudum quendam cu<lb n="8" />rasset
+				Paulus, turbe uidentes<lb n="9" />
+				signum, exclamantes dixerunt.<lb n="10" />
+				Dii similes facti hominibus<lb n="11" />
+				descenderunt ad nos. Et uoca<lb n="12" />bant
+				Barnabam Iouem, Pau<lb n="13" />lum
+				Mercurium,  uolebantque<lb n="14" />
+				eis	sacrificare. At illi scissis<lb n="15" />
+				tunicis  homines mortales se<lb n="16" />
+				proclamentes, uix sedauerunt<lb n="17" />
+				turbas ne eis immolarent. Pro<lb n="18" />fecti
+				inde circuentes per loca,<lb n="19" />
+				confirmabant ubique discipu<lb n="20" />lorum
+				corda, et ordinantes eis<lb n="21" />
+				presbiteros commendabant<lb n="22" />
+				eos domino inquem credide<lb n="23" />rant,
+				transferentesque redierunt<lb n="24" />
+				Antiochiam, unde erant tra<lb n="25" />diti
+				gratie dei.
+			</p>
+			<milestone n="Ac15" />
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio quinta</seg>
+				<lb n="26" />
+				Post hec quibusdam uo<lb n="27" />lentibus
+				inducere circon<lb n="28" />cisionem
+				his qui ex gentibus cre<cb n="2" /><lb n="1" />diderant,
+				facta seditione sta<lb n="2" />tutum
+				est ut ascenderent Ihe<lb n="3" />rosolimam
+				Paulus et Barna<lb n="4" />bas
+				ad apostolos super hac questio<lb n="5" />ne.
+				Cum quorum epistola et senten<lb n="6" />tia
+				redeuntes consolati sunt<lb n="7" />
+				fratres, docentes et euangelizantes<lb n="8" />
+				uerbum dei. Post aliquos dies<lb n="9" />
+				uolente Paulo uisitare fratres<lb n="10" />
+				et ciuitates quibus predicaue<lb n="11" />rant
+				cum uellet Barnabas<lb n="12" />
+				secum assumere Iohannem<lb n="13" />
+				qui cognominatus est Marcus,<lb n="14" />
+				contradicente Paulo facta est<lb n="15" />
+				inter eos dissensio, ita ut dis<lb n="16" />cederent
+				abinuicem<note type="editorial">Cf. AB 2.10</note>, et Barna<lb n="17" />bas
+				assumpto Marco nauiga<lb n="18" />ret
+				Cyprum.
+				<milestone n="2.12-13" />
+				Ineundo autem<lb n="19" />
+				multos ethnicos de uerbo fidei<lb n="20" />
+				prudentes inquirentes suisque<lb n="21" />
+				predicationibus rationabiliter<lb n="22" />
+				adquiescentes, conuertit ad fi<lb n="23" />dem.
+				<milestone n="2.14" />
+				Perueniens autem Cyprum,<lb n="24" />
+				<milestone n="2.15" />
+				Tymonem quendam iam fi<lb n="25" />delem
+				febribus laborantem, in<lb n="26" />uocato
+				nomine Christi sanauit.<lb n="27" />
+				Quoscumque etiam egros, euange<lb n="28" />lii
+				beati Mathei quod secum fe<pb n="86r" /><cb n="1" /><lb n="1" />rebat
+				tactu, ab omni langore<lb n="2" />
+				curabat.
+				<milestone n="2.18" />
+				Radonem quendam<lb n="3" />
+				uirum honorabilem ex ethni<lb n="4" />co
+				conuersum ad fidem, socium<lb n="5" />
+				sibi iunxit.
+			</p>
+			<milestone n="2.18-19" />
+			<p><lb n="6" />
+				<seg place="inline" hand="manus1" type="lectio">Lectio sexta</seg>
+				Intera quidam maleficus no<lb n="7" />mine
+				Barieu qui refertur in<lb n="8" />
+				actibus apostolorum, ab apostolo Paulo<lb n="9" />
+				comitante Barnaba cecitate<lb n="10" />
+				percussus ad tempus, cum Barna<lb n="11" />bam
+				aduentasse cognosceret,<lb n="12" />
+				malicia commotus prohibuit<lb n="13" />
+				eum introire Paphum. Qui<lb n="14" />
+				diuertens inde, uidit ethni<lb n="15" />cos
+				mares cum feminis nudos<lb n="16" />
+				ludere. Quod abhorens cum<lb n="17" />
+				maledixisset templo circa quod<lb n="18" />
+				ludebant, pars maxima tem<lb n="19" />pli
+				corruens, multos ethnicos<lb n="20" />
+				subuertit.
+				<milestone n="2.22" />
+				Ueniens autem Sa<lb n="21" />laminam,
+				cum multos ex Iu<lb n="22" />deis
+				ibi conuertisset,
+				<milestone n="2.23" />
+				predictus<lb n="23" />
+				nequam Barieu, mota seditione<lb n="24" />
+				ipsum comprehendi fecit. Quem<lb n="25" />
+				Iudei multis quassatum pe<lb n="26" />nis
+				cum ad iudicandum tra<lb n="27" />herent,
+				timentes aquodam<lb n="28" />
+				nobili uiro superueniente sibi<cb n="2" /><lb n="1" />
+				cum auferri, ligato fune in<lb n="2" />
+				collo eius nocturno tempore<lb n="3" />
+				dilaceratum extra portam per<lb n="4" />trahentes,
+				crudeliter igne cre<lb n="5" />mauerunt.
+				Cuius etiam combus<lb n="6" />tum
+				corpus locello plumbeo in<lb n="7" />
+				clusum eum in mare dispone<lb n="8" />rent
+				praecipitare,
+				<milestone n="2.24" />
+				predictus Iohannes<lb n="9" />
+				cum aliis fidelibus nocte sulla<lb n="10" />tum,
+				occulte sepelierunt.
+				<milestone n="epilogue" />
+				Post<lb n="11" />ea
+				uero tempore Zenonis impe<lb n="12" />ratoris
+				et pape Gelasii, ipso re<lb n="13" />uelante
+				repertum, honorifice col<lb n="14" />locatum
+				est.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

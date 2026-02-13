@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 29)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF12615">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>12615</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="98v" />
+				<head type="initial"><lb n="1" />
+			Incipit  sermo sancti Barnabe apostoli.
+			<seg type="order-number">xxv</seg>
+		</head>
+		<milestone n="1.3" />
+		<p>
+			Beatus Barnabas qui et Ioseph Ciprius genere, eo fere<lb n="2" />
+			tempore quo sancta  ecclesia gratiam spiritus sancti suscepit,<lb n="3" />
+			tertio 	uidelicet  post domini passionem anno, cum Pau<lb n="4" />lo
+			apostolo ad apostolatus celsitudinem et gentium predicatio<lb n="5" />nem
+			uocante  spiritu sancto  electus est.
+			Qui qualiter quamque perfecte<lb n="6" />
+			in assignato sibi diuinitus ministerio desudauerit, Lucas eu<lb n="7" />angelista
+			in actibus apostolorum luculento sermone declarat.<lb n="8" />
+			<milestone n="1.4" />
+			Quomodo uero per martyrii palmam ad coronam gloriae uenerit<lb n="9" />
+			Iohannes discipulus eiusdem Barnabe 		cognomento Mar<lb n="10" />cus,
+			fideli relatione ostendit.
+			<milestone n="1.33" />
+			Idem  enim Lucas beato apostolo<lb n="11" />
+			Paulo in praedicatione semper coherens  sancti Barnabe  finem cer<lb n="12" />nere
+			non ualuit.
+			<milestone n="2.3" />
+			Barnabas igitur cum esset apud Ichonium cum<lb n="13" />
+			beato Paulo apostolo apparuit ei per uisum dominus Iesus Christus dicens.<lb n="14" />
+			Constans esto Barnaba, credendo uerissime  quoniam pro sancta deuo<lb n="15" />tione
+			qua reliquisti generationem tuam  pro nomine meo, praemia perci<lb n="16" />pies
+			eterna.
+			<milestone n="2.5" />
+			Cumque de Ichonio pertransissent Antiochiam,
+			<milestone n="2.7" />
+			ange<lb n="17" />lica
+			uisio per noctem facta est beato  Paulo  apostolo dicens.  Propera<lb n="18" />
+			Iherusalem  nec moram facias,  quoniam fratres ualde praestolantur ad<lb n="19" />uentum
+			tuum.
+			<milestone n="2.8" />
+			Cum hanc uisionem beatus Paulus apostolus beato<lb n="20" />
+			Barnabe panderet,  ait beatus Barnabas.  Quia uoluntati dei<lb n="21" />
+			contradicere non expedit fiat uoluntas domini.
+			<milestone n="2.9" />
+			Tantum obsecro<lb n="22" />
+			intercede pro me ad dominum,  ut decertatio mea fiat acceptabilis<lb n="23" />
+			in conspectu eius.  Nunc enim  propero Ciprum, et post modicum<lb n="24" />
+			finem implebo uite,  faciem tuam prothdolor ultra corporaliter<lb n="25" />
+			non uisurus. Tunc procidit Barnabas ad pedes Pauli, et<lb n="26" />
+			fleuit diu amare.
+			<milestone n="2.10" />
+			Cuius dolori Paulus compatiens, noli<lb n="27" />
+			inquit merere frater,  non enim  sine diuino mysterio id agitur. Namque<pb n="99r" /><lb n="1" />
+			apparuit mihi hac nocte dominus dicens. Ne prohibeas Barnabam<lb n="2" />
+			ire Ciprum,  quoniam praeparata est ei gratia mea  ad illuminationem	multo<lb n="3" />rum,
+			et sacrum martyrium perficiendum. Tu autem perge Iherusalem, ad<lb n="4" />
+			loca sancta uisitanda. Tunc positis genibus et oscula sibi dan<lb n="5" />tes
+			ad  inuicem uale fecerunt.
+			<milestone n="2.11" />
+			Beatus uero Barnabas ascendens<lb n="6" />
+			nauem,  descendit Laod<subst>
+				<del rend="dotted">o</del>
+				<add place="above" hand="corr1">i</add>
+			</subst>tiam
+			decertans  ut pergeret Ciprum.
+			<milestone n="2.14" />
+			Cum au<lb n="7" />tem
+			peruenisset Ciprum inuenit ibi  Timonem et Aristionem famu<lb n="8" />los
+			domini.
+			<milestone n="2.15" />
+			Timon autem  urebatur  febribus. Cui cum manus impo<lb n="9" />suisset
+			beatus Barnabas et sacrum euuangelium per		inuocationem<lb n="10" />
+			domini saluatoris statim febris fugata est, et adeo corrobora<lb n="11" />tus
+			est infirmus,  ut continuo apostolum cum gaudio sequeretur. Ex<lb n="12" />
+			doctrina namque apostolorum, beatus Barnabas euuangelium sancti Mathei<lb n="13" />
+			semper secum ferebat,  et ubicumque inueniebat infirmos,  po<lb n="14" />nebat
+			illud super eos,  et continuo sanabantur a quocumque<lb n="15" />
+			languore tenebantur.
+			<milestone n="2.19" />
+			Uisitatis igitur et in fide consorta<lb n="16" />tis
+			parentibus suis exiuit a Cipro, inde Paphum transiturus.<lb n="17" />
+			Cum itaque a Cipro Paphum transiret, obuium habuit impium<lb n="18" />
+			et maleficum Iudeum Barieu nomine quem fidei resistentem olim beatus<lb n="19" />
+			Paulus non perpetualiter sed ad tempus lumine odiorum priuauerat,<lb n="20" />
+			dicens. Eris cecus usque ad tempus. De quo liquido constat,<lb n="21" />
+			quod ad precem Sergii Pauli proconsulis per beatum Paulum apostolum con<lb n="22" />uersus
+			lumen receperit, sed postmodum sicut ille Symon magus a<lb n="23" />postatando
+			transgressor fratres sit.
+			Hic itaque cum cognouisset<lb n="24" />
+			beatum Barnabam, malitia commotus prohibuit eum introire Pa<lb n="25" />phum.
+			<milestone n="2.22" />
+			Proinde apostolus reuertens introuit  Salaminam.
+			Inuenit<lb n="26" />
+			itaque apostolus Barnabas in Salamina sinagogam Iudeorum.<lb n="27" />
+			Quam ingressus exhortari cepit ad fidem, et  per euuangelium<lb n="28" />
+			sancti Mathei Christi gloriam praedicare.
+			<milestone n="2.23" />
+			Hoc cum praefatus comperisset<pb n="99v" /><lb n="1" />
+			Barieu,  et quia plurimi Iudeorum recepissent praedicationem sancti apostoli<lb n="2" />
+			omnem malitiam iniquitatis sue ostendens  seditione excitata<lb n="3" />
+			contra sanctum apostolum fecit eum comprehendi. Querebant ergo im<lb n="4" />pii
+			Iudei eum tradere consuli eiusdem ciuitatis Salamine  affli<lb n="5" />gentes
+			illum multis suppliciis et uariis cruciatibus. Sed ueriti<lb n="6" />
+			nimium  ne eriperetur de manibus eorum, ligantes funem in collum<lb n="7" />
+			eius, nocturno tempore de sinagoga in ippodromum pertraxe<lb n="8" />runt,
+			et deinde foris portam. <seg type="lectio" place="margin-left" hand="corr2">vii</seg> Post hec autem circundantes<lb n="9" />
+			eum igne crudeliter cremauerunt. Sicque beatus apostolus post multos<lb n="10" />
+			agones et diuturna certamina pro Christi amore adustus, mi<lb n="11" />grauit
+			ad gaudia sempiterna. Impii autem Iudei non satiati<lb n="12" />
+			de nece illius, zelo concitati tulerunt sanctum  corpus eius,  et in<lb n="13" />
+			locello plumbeo recludentes in mari praecipitare dispone<lb n="14" />bant.
+			<milestone n="2.24" />
+			<seg type="lectio" place="margin-left" hand="corr2">viii</seg>
+			Interim praefatus Iohannes discipulus qui et Marcus, una<lb n="15" />
+			cum aliis fidelibus occulte nocturno tempore tulerunt illud<lb n="16" />
+			et collocauerunt inscripta,  quae olim fuerat habitatio Iebuseorum<lb n="17" />
+			iii idus iunii,  hoc est undecima die  mensis ipsius.
+			<milestone n="epilogue" />
+			Propter<lb n="18" />
+			hanc itaque occultam collocationem plurimis annorum curriculis<lb n="19" />
+			uenerabile corpus illud latuit,  nec inueniri a christicolis<lb n="20" />
+			ualuit,  sed  tempore Zenonis imperatoris et sancti Gelasii pa<lb n="21" />pe
+			eodem sancto apostolo reuelante repertum est corpus eius  atque cum<lb n="22" />
+			hymnis et laudibus decentissime collocatum, per gratiam illius<lb n="23" />
+			qui non patitur latere gloriam sanctorum suorum qui uiuit et  regnat per<lb n="24" />
+			omnia secula seculorum. Amen.
+		</p>
+		<milestone n="explicit-principal" />
+		<div>
+			<head type="final"><lb n="25" />
+			Explicit passio sancti Barnabe apostoli.
+				<note type="scribal" hand="corr3" place="inline">Barnabe apostoli</note>
+			</head>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

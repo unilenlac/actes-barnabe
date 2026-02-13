@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 10)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<country></country>
+					<settlement></settlement>
+					<repository></repository>
+					<collection></collection>
+					<idno></idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-inprocessing">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div>
+
+			<head type="initial">
+				Passio sancti Barnabe apostoli.
+			</head>
+			<p>
+				Ego Iohannes qui et Marcus
+				discipulus  Pauli et Barnabe,
+				baptizatus sum per eos in loco
+				qui dicitur Yconium. Post
+				baptismum  uero uidi in uisione
+				uirum splendidum,  qui dixit
+				michi.  Constans esto Iohannes,
+				quoniam ammodo non Iohannes
+				sed Marchus, id est excelsus
+				uocaberis.   Cernendo  itaque
+				obstupui, et euigilans procidi
+				ad pedes Barnabe,  et illi omnia
+				que cognoui professus sum.
+				Interea Paulus non erat ibi.
+				Postquam uero auidiuit, dixit.
+				Et michi similiter  apparuit
+				Christus dicens.  Quoniam pro sancta
+				deuocione praemia eterna percipies.
+				Attamen conuoca Iohannem
+				ministrum tuum, quoniamquidem et ipse
+				similiter uidit quedam mysteria.
+				Cum autem post hec essemus
+				Anthiochie,  angelica uisio
+				facta est Paulo dicens. Celerius
+				propera Iherusalem,   quoniam
+				quidam fratres  prestolantur aduentum
+				tuum. Quod cum Barnabe,
+				panderet,  ait Barnabas : fiat
+				uoluntas domini.  Tantum obsecro
+				intercede pro me. Nam propero
+				Cyprum, ibique finem complebo
+				uite,  faciem tuam prohdolor
+				amplius non	uisurus. Hec
+				dicens cecide ad pedes eius,
+				et fleuit diu amare. Cui Paulus
+				compaciens, noli inquit
+				timere,  nam apparuit michi
+				dominus hac nocte dicens. Ne
+				prohibeas Barnabam ire Ciprum,
+				quoniam illic praeparata est ei gracia
+				ad illuminacionem multorum,
+				et  perficiendum martyrium.
+				Tunc positis genibus orantes
+				et osculantes nos mutuo
+				uale fecimus,  et nauigantes
+				uenimus in ciuitatem
+				que uocatur Aremonia.  In
+				hac qua inuenimus uiros iustos,
+				quamuis ethnicos, tamen
+				sagacitate pollentes. Hos
+				sagaciter interrogare animaduertens
+				Barnabas,  sagaciter eis
+				respondere studuit. Audientes
+				autem eius uerba, actoniti et compuncti
+				sunt corde. Et baptizauit
+				eos, induitque uestibus
+				eos	sancte religionis admonens
+				ut permanerent in gratia
+				dei.  Nauigantes autem inde
+				peruenimus Ciprum,  ibique inuenimus
+				Thymonem et Aristonem
+				famulos domini. Thymon
+				autem, urebatur  febribus. Cui
+				cum manus imposuisset Barnabas
+				et sacrum euuangelium,
+				statim febris fugata est. Ex
+				doctrina namque apostolorum, Barnabas
+				euuangelium sancti Mathei
+				secum ferebat,  et ubicumque inueniebat
+				infirmos  ponebat
+				super illos,  et continuo omnes
+				sanabantur. Exeuntes
+				autem inde inuenimus  Erapium,
+				quem Paulus  ordinauerat
+				episcopum  ad commonicionem
+				fidelium.  Postea inuenimus
+				Rodonem, quamuis ethnicum
+				tamen iustum et benignum.
+				Huic cum apostolus fidem  exponeret,
+				baptizatus est,  et secutus est
+				nos. Hiis itaque gestis, obuium
+				habuimus impium Iudeum,
+				quem olim  Paulus lumine
+				priuauerat ad tempus.
+				Hic  malicia commotus, prohibuit
+				nos introire in Paphum.
+				Proinde reuertentes, uenimus
+				in locum, ubi ethnici uiri et femine
+				ludendo nudi currebant.
+				Hoc cum uidisset  Barnabas,  indignatus
+				est super tale facinus,
+				maledixitque templum. Statimque
+				templi pars corruit,  magnaque
+				contricio ex ethnicis
+				facta est.  Introeuntibus itaque
+				nobis in Salaminam, inuenimus
+				synagogam Iudeorum.
+				Quam apostolus exhortari cepit,
+				et per euuangelium sancti Mathei,
+				Christi gratiam introducere. Hoc
+				dum comperisset Barien,   sedicione
+				facta, fecit eum comprehendi.
+				Et querebant eum tradere
+				consuli ciuitatis,  affligentes
+				eum multis suppliciis. De
+				hinc cum iam  quassatum penis
+				ducerent ad iudicandum,  accidit
+				ut deueniret in eandem
+				insulam quidam uir magnus
+				de progenie imperatoris.
+				Comperientes autem Iudei aduentum
+				eius, uerentes ne illum
+				eriperet,  ligantes funem
+				in collo eius, nocturno tempore
+				dylaceratum, a synagoga
+				traxerunt,   foras portam. Post
+				hec autem circumeuntes,  illum igne
+				humiliter cremauerunt. Sicque
+				apostolus  pro Christi amore est  adustus,
+				migrauitque ad gaudia
+				sempiterna. Impii autem
+				Iudei non saciati de morte eius,
+				zelo dii concitati tulerunt
+				sacratissimum corpus eius,  et
+				in locello plumbeo recludentes,
+				in mare precipitare disponebant.
+				Interim ego prefatus
+				Iohannes qui et Marchus,
+				una cum Thymone et Rodone
+				occulte nocturnis oris tulimus
+				illud,  et collocauimus
+				in cripta,  que olim fuerat
+				habitacio Iebuseorum, tercio
+				idus iunii, hoc est undecima
+				die ipsius mensis. Propter
+				hanc itaque collocacionem,
+				plurimis annorum curriculis
+				uenerabile corpus illud
+				latuit,  nec inueniri a
+				christicolis potuit. Sed deus
+				omnipotens, non patitur
+				occultari gloriam sanctorum suorum.
+				Unde tempore Zenonis imperatoris
+				et Gelasii pape, eodem
+				apostolo reuelante, inuentum
+				est corpus illud,  atque cum ymnis
+				et laudibus mirifice collocatum,
+				ad honorem et gloriam domini
+				nostri Iesu Christi,  qui cum patre
+				et spiritu sancto uiuit  et regnat
+				deus, per omnia secula seculorum. Amen.
+			</p>
+		</div>
+		</body>
+</text>
+</TEI>

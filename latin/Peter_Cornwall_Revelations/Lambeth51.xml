@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Peter of Cornwall's Book of Revelations)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Lam">
+				<msIdentifier>
+					<country>Royaume-Uni</country>
+					<settlement>Londres</settlement>
+					<repository>Lambeth Library</repository>
+					<collection></collection>
+					<idno>51</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<pb n="239v" /><cb n="2" />
+		<div>
+			<milestone n="titre-principal" />
+			<head type="initial"><lb n="7" />
+				Rubrica.<lb n="8" />
+			</head>
+			<milestone n="Peter-Cornwall-rubrique" />
+			<p>
+				Qualiter angelus domini, apparuit<lb n="9" />
+				Iohanni famulo Barnabe apostoli uocans<lb n="10" />
+				eum Marcum, et Christus apparuit Barnabe apostolo<lb n="11" />
+				loquens de predicto Iohanne, et dominus appa<lb n="12" />ruit
+				Paulo apostolo loquens de Barnaba, et<lb n="13" />
+				praecepit ut ipse Paulus praeparet in Ierusalem.<lb n="14" />
+			</p>
+			<milestone n="Peter-Cornwall-intro" />
+			<p>
+				<seg place="margin-right" hand="manus1" type="order-number">cccl</seg>
+				Barnabas apostolus qui cum Paulo<lb n="15" />
+				missus est in praedicationis minis<lb n="16" />terium
+				Cyprius fuit genere qui et dicebatur<lb n="17" />
+				Ioseph, et erat unus ex lxxii discipulis Christi.<lb n="18" />
+				Iohannes autem qui postea et Marchus dictus est<lb n="19" />
+				discipulus erat apostolorum Pauli et Barnabe,<lb n="20" />
+				qui praedicationem Pauli et Barnabe descri<lb n="21" />bent
+				inter alia, ita dicit.
+				<milestone n="2.2" />
+				Ego Iohannes cum<lb n="22" />
+				adhuc essem ethnicus, et famulator<lb n="23" />
+				ydolorum commorando scilicet in ministerio<lb n="24" />
+				Cirili, quondam pontificis nefandis<lb n="25" />simi
+				templi Iouis, annuente gracia<lb n="26" />
+				domini nostri Iesu Christi baptizatus sum, per bea<lb n="27" />tos
+				apostolos Paulum et Barnabam, qui digni<lb n="28" />
+				fuerant uocatione dei, in loco qui dicitur<lb n="29" />
+				Iconium.
+				<milestone n="2.3" />
+				Postquam uero ita sacrum baptisma<lb n="30" />
+				suscepi, uidi in uisione uirum splendi<lb n="31" />dum,
+				atque mirabiliter amictum stola can<lb n="32" />dida,
+				dicentem mihi. Constans esto Iohannes,<lb n="33" />
+				et crede fiducialiter quoniamquidem amodo non<lb n="34" />
+				Iohannes sed Marchus id est excelsus uocaberis,<lb n="35" />
+				et gloriam excellencie tue ubique predi<lb n="36" />cari
+				et glorificari oportet, pro eo scilicet<lb n="37" />
+				quia tenebre hactenus fuerunt in te<lb n="38" />
+				et nunc penitus effugate sunt, data est tibi<lb n="39" />
+				<del rend="strike">mihi</del> gratia et intellectus ut cognoscas mis<pb n="240r" /><cb n="1" /><lb n="1" />teri
+				dei omnipotentis.
+				<milestone n="2.4" />
+				Cernens itaque ego hanc<lb n="2" />
+				reuelacionem, obstupui fateor, et euigi<lb n="3" />lans
+				procidi ad pedes beati Barnabe, ac se<lb n="4" />riacim,
+				illi omnia que per uisionem cogno<lb n="5" />ueram
+				studui enarrare. Que cum ille<lb n="6" />
+				diligenter secum perpenderet, commonuit<lb n="7" />
+				me dicens. Precaue diligenter, et pone cus<lb n="8" />todiam
+				ori tuo, nec alicui uirtutem mis<lb n="9" />terii
+				indices quod uidisti. Nam et michi<lb n="10" />
+				nocte similiter apparuit dominus Iesus Christus,<lb n="11" />
+				dicens. Constans esto Barnaba fidelissi<lb n="12" />me
+				minister meus credendo uerissime quoniam<lb n="13" />
+				per sanctam deuotionem qua reliquisti patri<lb n="14" />am
+				et generationem tuam, et tradidisti ani<lb n="15" />mam
+				tuam pro nomine meo, perseueran<lb n="16" />do
+				mea
+				praemia eterna percipies. Ac tunc conuo<lb n="17" />ca
+				Iohannem, ministrum tuum, quoniamquidem et ipse<lb n="18" />
+				similiter uidit quedam misteria. Interim<lb n="19" />
+				ergo karissime conserua omnia que uidisti<lb n="20" />
+				quia ueniet tempus quando manifestus ap<lb n="21" />pareas.
+				<milestone n="2.5" />
+				Hac itaque commonicione percep<lb n="22" />ta,
+				commorati sumus in predicto Yco<lb n="23" />nio,
+				per dies aliquot.
+				<milestone n="2.7" />
+				Post haec autem ui<lb n="24" />sio
+				angelica per noctem sanctam est beato Pau<lb n="25" />lo
+				apostolo dicens. Celerius propera Ierusalem, nec<lb n="26" />
+				moram facias quoniamquidem fratres ualde<lb n="27" />
+				praestolantur aduentum tuum.
+				<milestone n="2.8" />
+				Quod cum<lb n="28" />
+				beato Barnabe panderet, ille ait.
+				Quia<lb n="29" />
+				uoluntati dei contradicere non expedit, fiat<lb n="30" />
+				uoluntas domini.
+				<milestone n="2.9" />
+				<subst>
+					<del rend="overstrike">Q</del>
+					<add place="inline" hand="manus1">T</add>
+				</subst>antum obsecro intercede<lb n="31" />
+				pro me ad dominum, ut decertacio mea fi<lb n="32" />at
+				acceptabilis in conspectu eius secundum<lb n="33" />
+				deuocionem qua famulati sumus<lb n="34" />
+				in ministerio quod creditum est nobis. Nunc<lb n="35" />
+				autem propero Cyprum, ibique  finem compleo<lb n="36" />
+				uite, faciem tuam heu prodolor, ul<lb n="37" />terius
+				corporaliter non uisurus. Hec pro<lb n="38" />loquens
+				procidit ad pedes eius, et fleuit<lb n="39" />
+				diu amare.
+				<milestone n="2.10" />
+				Cuius dolori beatus Paulus<cb n="2" /><lb n="1" />
+				compaciens, noli inquid merere frater, non<lb n="2" />
+				enim hoc sine mysterio diuino agitur. Nam<lb n="3" />que
+				hac nocte apparuit mihi dominus dicens.<lb n="4" />
+				Ne prohibeas Barnaban ire Cyprum, quoniam<lb n="5" />
+				illic praeparata est ei gratia dei ad illumina<lb n="6" />cionem
+				multorum et sacrum martyrium<lb n="7" />
+				perficiendum. Tu autem perge Ierusalem ad loca<lb n="8" />
+				sacra uisenda.
+				<milestone n="2.11-13" />
+				Tunc positis genibus<lb n="9" />
+				orantes et sic deosculantes nos, inuicem<lb n="10" />
+				uale fecimus. Barnabas autem et Iohannes<lb n="11" />
+				qui et Marcus per insulas diuersas na<lb n="12" />uigantes,
+				ad consortandum fratres tandem<lb n="13" />
+				<milestone n="2.15" />
+				peruenerunt Cyprum,
+				<milestone n="2.23" />
+				ubi a paganis ten<lb n="14" />tus
+				Barnabas ab eis crudeliter igne est<lb n="15" />
+				concrematus.
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

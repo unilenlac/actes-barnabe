@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 42)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Mod">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Modène</settlement>
+					<repository>Biblioteca Estense - universitaria</repository>
+					<collection>Estense</collection>
+					<idno>Lat. 1144 = alfa.F.2.28</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<pb n="40r" />
+		<head type="initial"><lb n="4" />
+			In sancti Barnabe apostoli.
+			<note type="editorial" hand="corr1" place="margin-right">In festo sancti<lb /> Barnabe apostoli.</note>
+		</head>
+		<p>
+			Beatus Barnabas apostolus qui<lb n="5" />
+			Ciprius nacione agrum quem habebat, uendens,<lb n="6" />
+			pretium ad pedes posuit apostolorum Postea inueniens Paulum<lb n="7" />
+			eum ad apostolos adduxit. Qui conuersionem suam et ea quae fecerat<lb n="8" />
+			Damasci omnia narrauit  Apostoli uero instinctu spiritus sancti Paulo et<lb n="9" />
+			<sic>Barnabee</sic> manus imponentes eos apostolos elegerunt est inter<lb n="10" />
+			apostolos communicauerunt. Dicitur enim apostolus, ab apo, quod est iuxta et sto<lb n="11" />lon<!-- sur cette etymologie, faire des recherches, sans doute déformation -->
+			quod est misse inde apostolus quasi iuxta Christum missus, fuerunt igitur Pau<lb n="12" />lus
+			et Barnabas apostoli, id est post Christum missi,
+			cum enim abi<lb n="13" />cerent
+			ad praedicandum diuisi, et ipsi irent celesticam<!--- la celeste chypre?  l'abréviation... --> Ciprum ad<lb n="14" />
+			praedicandum, et Salamia Paulus et Barnabas postea Antio<lb n="15" />chie
+			morabantur, id est praedicantes et miracula facientes. Postea<lb n="16" />
+			uero propter Iohannem discipulum a Paulo separatus sibi exercuit inuinc<lb n="17" />tum
+			signis et miraculis sequentibus illum. Cum enim infir<lb n="18" />mos
+			sanaret leprosos mundaret, demones effugaret, ce<lb n="19" />cos
+			illuminaret, ad fidem gentium multitudinem conuertit. Com<lb n="20" />posuit
+			etiam quandam epistolam ad edificacionem ecclesie per<lb n="21" />tinentem
+			qui apocrifas inter numeratur De uirtute et in uirtutem<lb n="22" />
+			procedens Barnabas ad dominum eum inuocantem perrexit migrans<lb n="23" />
+			ab hoc saeculo regnasque in celo. Corpus cuius tempore Zenonis<lb n="24" />
+			imperatoris fuit reuelatum. Ut plura  beneficia et miracula<lb n="25" />
+			fuerunt petentibus collata.
+		</p>
+			<head type="final">Explicit.</head>
+	</div>
+</body>
+</text>
+</TEI>

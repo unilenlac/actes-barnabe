@@ -1,0 +1,672 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL985+986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF5296">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>5296</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="50r" /><cb n="1" />
+		<div>
+						<head type="initial"><lb n="38" />
+				In<lb n="39" />cipit
+				prologus in passione beati Bar<lb n="40" />nabe
+				apostoli
+				<seg type="reading-date">iii idus iunii</seg>.
+			</head>
+			<milestone n="prologue" />
+			<p>
+				Barnabas<lb n="41" />
+				hebraice, latine interpretatur fi<lb n="42" />lius
+				consolationis. Barnabas qui<lb n="43" />
+				et Ioseph natione Cyprie ciuitatis,<lb n="44" />
+				que	ex Cyro rege Persarum funda<cb n="2" /><lb n="1" />ta
+				extitit, cum Paulo ingentibus apostolatum adep<lb n="2" />tus
+				est. Deinde propter Iohannem discipulum qui<lb n="3" />
+				etiam cognomento Marcus appellatur  seiunctus<lb n="4" />
+				a Paulo,  nichilominus euangelii predicatione sibi<lb n="5" />
+				opus iniunctum exercuit, et martyrio coronatus<lb n="6" />
+				est. Cuius festiuitas celebratur tercio idus iunias.
+			</p>
+			<milestone n="explicit-prologue" />
+			<div>
+				<head type="final"><lb n="7" />
+					Explicit prologus.</head>
+			</div>
+		</div>
+		<div>
+			<milestone n="titre-principal" />
+			<head type="initial">
+				Incipit passio beati Barnabe apostolia
+			</head>
+			<milestone n="1.1" />
+			<p><lb n="8" />
+				Redemptor et saluator dominus<lb n="9" />
+				Iesus Christus antequam de interitu Sa<lb n="10" />thane
+				triumphans uictor et exul<lb n="11" />tans
+				penetraret regna polorum,<lb n="12" />
+				sanctam ecclesiam quam precioso suo<lb n="13" />
+				sanguine adquisiuit per beatos<lb n="14" />
+				apostolos et apostolicos uiros immobiliter muniens<lb n="15" />
+				fundauit,  mirabiliter corroborans solidauit,  sci<lb n="16" />licet
+				ut et ipsa inuiolata semper et gloriosa maneret,<lb n="17" />
+				et illorum praedicatione nouam sibi progeniem plu<lb n="18" />rimosque
+				filios aggregaret.
+				<milestone n="1.2" />
+				Ex quorum consortio<lb n="19" />
+				et collegio extans beatissimus Barnabas, tanto<lb n="20" />
+				deuotissime pro ipsa decertare studuit, quanto<lb n="21" />
+				diuinitus spiritus sancti gratia cum beato Paulo apostolo<lb n="22" />
+				ad apostolatus gloriam uocatum se esse cognouit.<lb n="23" />
+				Ergo cum sanctorum apostolorum natalitia celebramus,<lb n="24" />
+				dignum equidem atque salutare uidetur, ut eius<lb n="25" />
+				natalitia deuotissime celebremus.
+				<milestone n="1.3" />
+				Quoniamquidem<lb n="26" />
+				et si non est in ordine apostolatus eorum,  non tamen<lb n="27" />
+				deest de cathalogo predicationis, quia excel<lb n="28" />lentiam
+				miraculorum  sicut Lucas euangelista re<lb n="29" />fert
+				in actibus apostolorum mirabiliter patrauit.<lb n="30" />
+				Nam eo fere tempore quo sancta ecclesia gratiam spiritus<lb n="31" />
+				sancti suscepit, tercio uidelicet  post passionem domini<lb n="32" />
+				anno,  cum Paulo apostolo ad apostolatus celsitudinem,<lb n="33" />
+				et predicationem diuinitus electus est, uocan<lb n="34" />te
+				illos eodem spiritu sancto atque dicente. Segregate mihi<lb n="35" />
+				Barnaban et Paulum, in opus quod assumpsi eos.<lb n="36" />
+				<milestone n="1.4" />
+				Sed qualiter uir iste domini Barnabas deuotissi<lb n="37" />me
+				fidem catholicam predicando, et infideles ab<lb n="38" />
+				errore iniquitatis redimendo laborauerit, uel qua<lb n="39" />liter
+				opprobria et contumelias pro Christi amore susti<lb n="40" />nuerit,
+				dicere studeamus. Deinde quomodo  per mar<lb n="41" />tyrii
+				palmam ad coronam glorie uenerit, per au<lb n="42" />tenticam
+				seriem et auctoritatem prefati Luce e<lb n="43" />uangeliste
+				et Iohannis cognomento Marci dis<lb n="44" />cipuli
+				eius  fideli relatione pandere curabimus.<pb n="50v" /><cb n="1" /><lb n="1" />
+				<milestone n="1.5" />
+				Denique iste est ille Barnabas sanctissimus  qui et Ioseph<lb n="2" />
+				unus ex septuaginta duobus discipulis domini sal<lb n="3" />uatoris,
+				qui secundum nominis sui presagium tali nomine<lb n="4" />
+				uocitatus est.  Nam Barnabas hebraice, latine filius<lb n="5" />
+				consolationis dicitur. Communiter autem cum sanctis<lb n="6" />
+				apostolis degebat,  et consolationem maximam prebe<lb n="7" />bat,
+				<milestone n="1.6" />
+				inter eos uidelicet quibus erat cor unum et<lb n="8" />
+				anima una. Quia nec quisquam eorum que posside<lb n="9" />bat
+				aliquid suum esse dicebat, sed erant illis omnia<lb n="10" />
+				communia. Quotquot autem possessores agrorum ac  do<lb n="11" />morum
+				erant, uendentes afferebant precia eorum,<lb n="12" />
+				et  ponebant ante pedes apostolorum.
+				<milestone n="1.7" />
+				Sic et enim scrip<lb n="13" />tum
+				est.  Ioseph autem qui cognominatus est Bar<lb n="14" />nabas
+				ab apostolis, quod est filius consolationis, leuites<lb n="15" />
+				Cyprius genere, cum haberet agrum  uendidit illum,<lb n="16" />
+				et attulit precium,  et posuit ante pedes apostolorum.<lb n="17" />
+				<milestone n="1.8" />
+				Postmodum uero cum beatus Paulus conuersus<lb n="18" />
+				esset ad fidei gratiam, eodem anno  secundo quo dominus passus<lb n="19" />
+				est et resurrexit,  iste beatissimus Barnabas in ip<lb n="20" />so
+				inicio fidei eius illum apprehendere dignus fuit,<lb n="21" />
+				et perducere ad apostolos, iuxta hoc testimonium.   Bar<lb n="22" />nabas
+				autem apprehensum illum duxit ad apostolos,<lb n="23" />
+				et narrauit illis  quomodo  in uia uidisset dominum, et quia<lb n="24" />
+				loquutus ei sit, et quomodo in Damasco fiducialiter<lb n="25" />
+				egerit in nomine domini  Iesu.
+				<milestone n="1.9" />
+				Plane diligenter con<lb n="26" />siderare
+				et admirari condecet,  quantum illum diui<lb n="27" />na
+				gratia dilectum quantumque amabilem atque dig<lb n="28" />num
+				habuit,  quando inter tot discipulorum cateruas<lb n="29" />
+				non alium ad instruendum et docendum suum no<lb n="30" />uum
+				militem miserit,  nisi illum qui filius con<lb n="31" />solationis
+				dicebatur. Scilicet ut illi Saulo qui no<lb n="32" />uus
+				tyro nouamque tyrocinii gratiam perceperat,<lb n="33" />
+				dulcem sanctae fidei gratiam dulceque sancte trinitatis<lb n="34" />
+				mysterium sagaciter ministraret. Denique donante<lb n="35" />
+				deo dare quem non penitet unquam,  quantum eius<lb n="36" />
+				instructio in nouum Christi militem fructificauerit,<lb n="37" />
+				quantumque inter sanctos apostolos gloriosus enituerit,  au<lb n="38" />diamus.
+				<milestone n="1.10" />
+				Peruenit autem sermo ad aures ecclesie que<lb n="39" />
+				erat Iherosolimis super istis,  et miserunt Barnaban<lb n="40" />
+				Antiochiam. Qui cum uenisset  et uidisset gratiam<lb n="41" />
+				dei  gauisus est,  et hortabatur omnes manere in domino,<lb n="42" />
+				quia erat uir bonus et plenus spiritu sancto et fide  et ap<lb n="43" />posita
+				est turba multa domino. Non quia illum<lb n="44" />
+				cognouerant sancti apostoli esse uirum bonum, sed quod<cb n="2" /><lb n="1" />
+				est gloriosius atque beatius plenum spiritu sancto scientes,<lb n="2" />
+				ideo istum ad praedicandum mittere studuerunt. Ideoque<lb n="3" />
+				et spiritus sanctus  ei turbam multam subicere, atque ad<lb n="4" />
+				cognitionem domini Iesu Christi mirabiliter perducere<lb n="5" />
+				dignatus est.
+				<milestone n="1.11" />
+				Sed quia non solummodo istos domino<lb n="6" />
+				adquirere cupiebat,  sed nec nouum tyronem obli<lb n="7" />uioni
+				tradere malebat,  inhianti studio illum sibi<lb n="8" />
+				comitem ad praedicandum sumere studens, profectus<lb n="9" />
+				est inquit euangelista Tharsum  ut quereret Pau<lb n="10" />lum.
+				Quem cum inuenisset  perduxit Antiochiam,<lb n="11" />
+				et annum totum conuersati sunt in ecclesia,  et do<lb n="12" />cuerunt
+				turbam multam,  ita ut cognominarentur<lb n="13" />
+				primum Antiochie discipuli christiani.
+				<milestone n="1.12" />
+				Uerum quia<lb n="14" />
+				non tantummodo in praedicationis gratia sed etiam in<lb n="15" />
+				hospitalitatis misericordia benignus extiterit,  cum<lb n="16" />
+				sancti apostoli elemosinam Iherosolimam destinare cu<lb n="17" />rarent,
+				istum pre omnibus  et inter omnes eligere<lb n="18" />
+				statuerunt. Sic enim astruit euangelista. Dis<lb n="19" />cipuli
+				autem prout quisque habebat in ministerio<lb n="20" />
+				proposuerunt mittere habitantibus in Iudea fra<lb n="21" />tribus,
+				quod et fecerunt, mittentes ad seniores per<lb n="22" />
+				manus Barnabe et Pauli.
+				<milestone n="1.13" />
+				Interim quantum ta<lb n="23" />lis
+				obedientia talisque elemosinarum uirtus domino<lb n="24" />
+				deo placuerit,  quantamque uicissitudinem ex<lb n="25" />inde
+				postquam reuersi sunt in Antiochiam per<lb n="26" />ceperint,
+				sequens lectio demonstrat. Barnabas<lb n="27" />
+				autem et Saulus reuersi sunt ab Iherosolimis<lb n="28" />
+				expleto ministerio, assumpto Iohanne qui cogno<lb n="29" />minatus
+				est Marcus.  Erant autem in ecclesia que<lb n="30" />
+				erat Antiochie  prophete et doctores,  in quibus Bar<lb n="31" />nabas
+				et Saulus. Ministrantibus autem illis<lb n="32" />
+				domino et ieiunantibus dixit spiritus sanctus. Se<lb n="33" />gregate
+				mihi Barnaban et Saulum, in opus quod<lb n="34" />
+				assumpsi eos.
+				<milestone n="1.14" />
+				Ecce beato Barnabe apostolo tam<lb n="35" />
+				magnifica dona tribuit  diuina gratia pro digno<lb n="36" />
+				munere,  quia hostem antiquum rite prostrauit,<lb n="37" />
+				scilicet ut spiritus almificus cum deuote uoca<lb n="38" />ret,
+				mitteretque ad populum celestia dicta ferentem.<lb n="39" />
+				<milestone n="1.15" />
+				Sequuntur beati euangeliste dicta, ad decla<lb n="40" />randa
+				huius sancti miracula. Et ipsi quidem mis<lb n="41" />si
+				ab spiritu sancto uenerunt Seleutiam, et inde na<lb n="42" />uigauerunt
+				Cyprum. Repletus namque spiritu<lb n="43" />
+				sancto beatissimus Barnabas decebat  ut ageret<lb n="44" />
+				cum dilecto collega suo illud  quod nemo morta<pb n="51r" /><cb n="1" /><lb n="1" />lium
+				sine gratia spiritus sancti patrare ualet,  si<lb n="2" />cut
+				in presentiarum manifestissime declaratur.<lb n="3" />
+				Postquam enim illum Barieu magum qui et Eli<lb n="4" />mas
+				dicebatur lumine priuarunt,  et Sergium Ba<lb n="5" />chum
+				proconsulem a quo beatus apostolus de Saulo Pau<lb n="6" />lus
+				uocatus est ad fidem catholicam conuerterunt,<lb n="7" />
+				plurimam gentium multitudinem ad lucem ue<lb n="8" />ritatis
+				perduxerunt,
+				<milestone n="1.16" />
+				sicuti scriptura sacra denunci<lb n="9" />at.
+				Sequuti sunt inquit multitudo Iudeorum et<lb n="10" />
+				colentium aduenarum Paulum et Barnaban,  qui<lb n="11" />
+				loquentes suadebant eis permanere in gratia dei.<lb n="12" />
+				Et sequenti sabbato, pene uniuersa ciuitas con<lb n="13" />uenit
+				audire uerbum domini. Audientes autem<lb n="14" />
+				gentes gauise sunt,  et glorificabant deum, et<lb n="15" />
+				crediderunt quotquot preordinati erant ad uitam<lb n="16" />
+				eternam.
+				<milestone n="1.17" />
+				O admirabile mysterium diuine dis<lb n="17" />pensationis,
+				o praedicandum et glorificandum sa<lb n="18" />cramentum
+				domini saluatoris.  Qui sibi recte famu<lb n="19" />lantibus
+				tantam gratiam conferre dignatus est,  ut<lb n="20" />
+				resistentes lumine priuarent,  et humiliter famu<lb n="21" />lantes
+				ad claritatem perpetue beatitudinis perdu<lb n="22" />cerent.
+				Sed quia superbi unde resipiscere debent<lb n="23" />
+				inde inflammantur ad iram,  seditionem faci<lb n="24" />entes
+				eiecerunt apostolos de finibus suis. Illi autem<lb n="25" />
+				gaudentes repleti spiritu sancto et praedicantes, conuer<lb n="26" />terunt
+				ad dominum Iesum Christum Iudeorum et Grecorum<lb n="27" />
+				copiosam multitudinem.
+				<milestone n="1.18" />
+				Interea quia unus<lb n="28" />
+				erat spiritus in eis  et una fides, sicut et in ceteris<lb n="29" />
+				apostolis,  ne minores esse uiderentur in miraculis  qui<lb n="30" />
+				equales erant in amore sanctae religionis, congruum<lb n="31" />
+				fuit  ut sicuti beatus Petrus et Iohannes claudum<lb n="32" />
+				ex utero matris curauerunt,  beatus Paulus et<lb n="33" />
+				Barnabas similiter agerent. Quod dispensante<lb n="34" />
+				deo, ita peractum est. Uenientesque in Listris sancti<lb n="35" />
+				apostoli Paulus et Barnabas, claudum ex utero ma<lb n="36" />tris
+				sue mirabiliter curauerunt,
+				<milestone n="1.19" />
+				adeo ut tale<lb n="37" />
+				miraculum turbe conspicientes deos illos illustres<lb n="38" />
+				existimarent dicentes.  Dii similes facti hominibus<lb n="39" />
+				descenderunt ad nos. Et uocabant quidem Bar<lb n="40" />naban
+				Iouem, Paulum uero Mercurium,  quoniam<lb n="41" />
+				ipse erat dux uerbi. Sacerdos quoque Iouis qui<lb n="42" />
+				erat ante ciuitatem 	tauros et coronas ante ia<lb n="43" />nuas
+				deferens cum populis, uolebat sacrificare.<lb n="44" />
+				<milestone n="1.20" />
+				Quare itaque hoc ? Quare Barnaban Iouem,  Pau<cb n="2" /><lb n="1" />lum
+				uero Mercurium uocabant ? Quare tauros,<lb n="2" />
+				quare coronas sacerdos ferebat ? Propter hoc namque<lb n="3" />
+				Barnaban Iouem uocabant,  quia secundum ethnicam<lb n="4" />
+				fatuitatem defensorem suum illum esse credebant.<lb n="5" />
+				Paulum uero Mercurium,  quia ipsum credebant<lb n="6" />
+				eloquium linguamque prestare mortalibus. Unde et<lb n="7" />
+				Mercurium hoc est medium currentem inter auras<lb n="8" />
+				linguasque credebant. Tauros uero ad uictimam,<lb n="9" />
+				coronas autem, ut quasi diis sacerdos Iouis illis<lb n="10" />
+				imponeret.
+				<milestone n="1.21" />
+				Sancti namque apostoli reminiscentes praecepti<lb n="11" />
+				domini dicentis :  qui se exaltat humiliabitur, et qui<lb n="12" />
+				se humiliat exaltabitur,  tale facinus prorsus ab<lb n="13" />hominantes
+				expulerunt.  Et scissis tunicis exilie<lb n="14" />runt
+				in turbas,  clamantes et dicentes. Uiri, quid<lb n="15" />
+				hoc facitis ? Et nos mortales sumus similes uobis<lb n="16" />
+				homines, annunciantes uobis ut  conuertamini<lb n="17" />
+				ad dominum qui  fecit celum et terram, mare et omnia<lb n="18" />
+				que in eis sunt. Hec et his similia dicentes, uix<lb n="19" />
+				sedauerunt turbas, ne sibi immolarent.
+				<milestone n="1.22" />
+				Et exin<lb n="20" />de
+				in Derben peruenientes, euangelizabant  et doce<lb n="21" />bant
+				multos.  Uere digne, uereque iuste Christi gratia<lb n="22" />
+				dispensante, multos docebant. Ut qui se in mun<lb n="23" />danis
+				rebus humiles fecerant,  in diuinis gloriosi<lb n="24" />
+				existerent  et plurimos docerent, et in  tenebris<lb n="25" />
+				consistentes ad lucem  ueritatis perducerent.
+				<milestone n="1.23" />
+				Plu<lb n="26" />rimas
+				namque prouincias peragrantes uerbum domini<lb n="27" />
+				annunciando, tandem peruenerunt Iherosolimis.<lb n="28" />
+				Susceptique a sanctis apostolis, annunciabant gauden<lb n="29" />tes
+				quanta deus cum eis mirabiliter fecisset. Bene<lb n="30" />
+				utique uerbum domini gaudendo annunciant,<lb n="31" />
+				quia promissum habebant.  Gaudete et exultate,<lb n="32" />
+				quoniam nomina uestra scripta sunt in celis.
+				<milestone n="1.24" />
+				Ueruntamen<lb n="33" />
+				quia in Antióchia questio exorta erat de circumci<lb n="34" />sione
+				ab improbis,  consilio inito sancti apostoli destinare<lb n="35" />
+				curauerunt ad tale facinus extirpandum  hunc<lb n="36" />
+				carissimum atque fidelem domini Barnabam, filium sci<lb n="37" />licet
+				consolationis cum collega fideli deo beatissi<lb n="38" />mo
+				Paulo,  qui consolando ac predicando elisos<lb n="39" />
+				erigerent,  ac perditos reuocarent.  Quod donante deo,<lb n="40" />
+				ita patratum est.
+				<milestone n="1.25" />
+				Preterea quantam dilectionem er<lb n="41" />ga
+				hunc beatissimum Barnaban sancti apostoli habe<lb n="42" />bant,
+				quantamque benignitatem, sanctus Lucas euan<lb n="43" />gelista
+				denunciat. Placuit inquiens nobis col<lb n="44" />lectis
+				in unum eligere uiros et mittere ad uos<pb n="51v" /><cb n="1" /><lb n="1" />
+				cum carissimis nostris Barnaba et Paulo,  qui tradi<lb n="2" />derunt
+				animas suas pro nomine Christi.  Uere dignum<lb n="3" />
+				et iustum, equum et salutare decretum <space atLeast="5" atMost="7" /><lb n="4" />
+				quia illos quos destinare curauerunt,  post gratiam<lb n="5" />
+				spiritus sancti adeptam iam pridem elegerant. Nam<lb n="6" />que
+				Antiochiam cum apostolica epistola properantes et pre<lb n="7" />dicantes
+				impiam heresim destruxerunt,
+				<milestone n="1.26" />
+				erantque<lb n="8" />
+				docentes et euangelizantes uerbum domini Iesu Christi.<lb n="9" />
+				Porro quia omnem sollicitudinem erga sanctam reli<lb n="10" />gionem
+				habebant  ne in aliquam heresim incide<lb n="11" />rent,
+				placuit ut reuertentes uisitarent ecclesias in<lb n="12" />
+				quibus predicauerant uerbum domini.
+				<milestone n="1.27" />
+				Sciebant enim<lb n="13" />
+				callidam esse astutiam Sathane,  ideoque prouidebant<lb n="14" />
+				ne corda renouata sanctorum pestifero germine zi<lb n="15" />zaniorum
+				fedaret. Postmodum uero ait euangelista,<lb n="16" />
+				uisum est ut beatus Paulus reuerteretur Iherosoli<lb n="17" />mam,
+				Barnabas autem repeteret Cyprum ciui<lb n="18" />tatem
+				suam de qua exortus erat,  assumpto pre<lb n="19" />dicto
+				Iohanne cognomento Marco.
+				<milestone n="1.28" />
+				Bene utique pro<lb n="20" />uidentes,
+				bene intelligentes,  ut unus pergeret<lb n="21" />
+				ad uisitandum fundamentum sanctae religionis,   alter<lb n="22" />
+				uero ad praedicandum et liberandos ethnicos a ne<lb n="23" />ce
+				perditionis. Ergo non omnis sequestratio mala, sed<lb n="24" />
+				illa prorsus bona, que rationabiliter agitur, iusto<lb n="25" />
+				negocio flagitante. Diuisi namque corpore, animo<lb n="26" />
+				tamen connexi erant.
+				<milestone n="1.29" />
+				Quare itaque ? Quoniam illos<lb n="27" />
+				cathena caritatis irretitos habebat ille  qui eis<lb n="28" />
+				preceperat. In hoc cognoscent omnes quia  uere dis<lb n="29" />cipuli
+				mei eritis, si dilectionem habueritis ad in<lb n="30" />uicem.
+				<milestone n="1.30" />
+				De sessione autem huius sanctissimi apostoli Bar<lb n="31" />nabe
+				nemo in scrupulum dubitationis incidat,<lb n="32" />
+				ut non sedeat cum domino sicut ceteri et apostoli ad iu<lb n="33" />dicandum,
+				pro eo  quod non est in duodenario ordi<lb n="34" />ne
+				illorum. Quoniamquidem sicut sancti edocuere patres,<lb n="35" />
+				per duodenarium numerum, uniuersitas credenti<lb n="36" />um
+				significatur. Ergo proculdubio sedebit  cum<lb n="37" />
+				sanctis apostolis et martyribus, gloriosumque iudicium ex<lb n="38" />hibebit.
+				Quia quomodo non defuit de cathalogo<lb n="39" />
+				predicationis, ita non deerit a gloria sessionis.<lb n="40" />
+				<milestone n="1.31" />
+				Igitur quia sermo exortus de sessione illius ra<lb n="41" />tionabiliter
+				dissertus est,  opere precium duxisse ui<lb n="42" />detur
+				et utile,  ut liquidius intelligamus  quot sunt<lb n="43" />
+				partes illorum  qui iudicant, et quot illorum qui<lb n="44" />
+				iudicantur. Ergo sanctorum patrum documenta<cb n="2" /><lb n="1" />
+				sequentes ueraciter teneamus,  quia due sunt<lb n="2" />
+				differentie uel ordines hominum in iudicio, hoc<lb n="3" />
+				est electorum et reproborum. Que tamen iste due<lb n="4" />
+				partes, diuiduntur in quatuor. Perfectorum enim<lb n="5" />
+				unus est  qui cum iudicat,  et alius qui iudi<lb n="6" />catur,
+				utrique tamen cum domino regnabunt. Si<lb n="7" />militer
+				ordo reproborum partitur in duabus par<lb n="8" />tibus,
+				dum hii qui intra sanctam ecclesiam sunt ma<lb n="9" />li
+				iudicandi sunt  et dampnandi, qui uero extra<lb n="10" />
+				ecclesiam inueniendi sunt,  non iudicandi, sed<lb n="11" />
+				tantummodo dampnandi.
+				<milestone n="1.32" />
+				Nos ergo interim fratres<lb n="12" />
+				karissimi hec considerantes, huius sancti et gloriosi  mar<lb n="13" />tyris
+				Barnabe uitam et deuotionem mirantes,<lb n="14" />
+				eiusque uestigia sequentes, in hac illius festi<lb n="15" />uitate
+				spirituali iocunditate letemur,  quatinus<lb n="16" />
+				illo interueniente a peccatorum maculis exuti,<lb n="17" />
+				in iudicio domini inter iustos inueniamur,  et<lb n="18" />
+				cum eo uitam  eternam percipere mereamur.
+				<milestone n="1.33" />
+				Huc<lb n="19" />
+				usque beatissimi Barnabe apostoli gloriosum agonem<lb n="20" />
+				et ueneranda magnalia declarantes, ex au<lb n="21" />tentica
+				auctoritate Luce  euangeliste ut praedictum<lb n="22" />
+				est breuiter deflorare curauimus,  sed idem Lu<lb n="23" />cas
+				sequendo apostolum beatum Paulum sancti Bar<lb n="24" />nabe
+				finem cernere non ualuit. Cetera queque se<lb n="25" />quuntur,
+				et  quo ordine ad coronam martyrii per<lb n="26" />uenerit,
+				ex greco logio praedicti Iohannis disci<lb n="27" />puli
+				eius  transferentes  fideliter declarabimus.<lb n="28" />
+				Sic enim idem Iohannes manifestanter 	decla<lb n="29" />rat
+				dicens.
+				<milestone n="2.2" />
+				Ego Iohannes qui et Marcus famulus<lb n="30" />
+				domini nostri Iesu Christi, discipulus uero sanctorum apostolorum<lb n="31" />
+				Pauli et Barnabe, mystica dei opera que diuini<lb n="32" />tus
+				uidi et diligenter cognoui gradiendo scili<lb n="33" />cet
+				cum predictis  sanctis apostolis, et famulando in<lb n="34" />
+				ministerio illorum, omnibus fidelibus in Christi eccle<lb n="35" />sia
+				commorantibus per gratiam domini fideliter pan<lb n="36" />do.
+				Denique cum essem ethnicus et famulator<lb n="37" />
+				ydolorum  cum orduone scilicet socio in mini<lb n="38" />sterio
+				Cyrilli quondam pontificis nefandissi<lb n="39" />mi
+				templi Iouis, annuente gratia domini nostri<lb n="40" />
+				Iesu Christi baptizatus sum per beatum Paulum et<lb n="41" />
+				Barnaban   in loco  qui dicitur Yconium.
+				<milestone n="2.3" />
+				Post<lb n="42" />quam
+				uero sacrum baptismum suscepi,  uidi<lb n="43" />
+				in uisione uirum splendidum atque mirabilem,<lb n="44" />
+				amictum stola candida. Qui dixit mihi. Con<pb n="52r" /><cb n="1" /><lb n="1" />stans
+				esto Iohannes  et crede fidutialiter,  quoniamqui<lb n="2" />dem
+				amodo non Iohannes sed Marcus id est excelsus<lb n="3" />
+				uocaberis,  et gloriam excellentie tue ubique praedicari<lb n="4" />
+				et glorificari oportet,  pro eo scilicet  quia que hactenus<lb n="5" />
+				tenebre fuerunt in te  penitus effugate sunt,  et<lb n="6" />
+				data est tibi gratia et intellectus  ut cognoscas<lb n="7" />
+				mysteria dei omnipotentis.
+				<milestone n="2.4" />
+				Cernendo  itaque hanc<lb n="8" />
+				reuelationem, obstupui fateor. Et euigilans pro<lb n="9" />cidi
+				ad pedes beati Barnabe,  ac seriatim illi omnia<lb n="10" />
+				que a predicto uiro cognoui professus sum. Interea<lb n="11" />
+				beatus Paulus non ibi erat,  quando hec secreta<lb n="12" />
+				dei sancto Barnabe pandere studebam.  Postquam<lb n="13" />
+				uero idem beatus Barnabas diligenter aduertit<lb n="14" />
+				a me reuelationem,  commonuit me dicens. Pre<lb n="15" />caue
+				diligenter  et pone custodiam ori tuo,  ne ali<lb n="16" />cui
+				uirtutem mysterii quod   uidisti asseras. Nam et<lb n="17" />
+				mihi similiter hac nocte apparuit dominus Iesus Christus,<lb n="18" />
+				dicens. Constans esto Barnaba, credendo uerissi<lb n="19" />me
+				quoniam pro sancta deuotione qua reliquisti generatio<lb n="20" />nem
+				tuam pro nomine meo, in ea perseuerando pre<lb n="21" />mia
+				eterna percipies. Attamen conuoca Iohannem,<lb n="22" />
+				ministrum tuum, quoniamquidem et ipse similiter<lb n="23" />
+				uidit quedam mysteria. Interim conserua omnia<lb n="24" />
+				que uidisti et audisti,  quia ueniet tempus  quando<lb n="25" />
+				manifestius apparebit.
+				<milestone n="2.5" />
+				Hanc commonitionem<lb n="26" />
+				ab illo percipiendo  commorati sumus in predicto<lb n="27" />
+				Yconio per dies aliquot,  in quo erat quidam homo<lb n="28" />
+				iustus et timoratus  qui nos recepit,  et hospita<lb n="29" />litatem
+				benigne exhibuit. Cuius domum beatus<lb n="30" />
+				Paulus placide benedixit. Deinde uenimus Se<lb n="31" />leutiam,
+				in qua mansimus diebus tribus. Inde<lb n="32" />
+				nauigantes uenimus Cyprum,  eramque in mini<lb n="33" />sterio
+				eorum donec ex Cypro egrederemur. Exe<lb n="34" />untes
+				autem de Cypro, uenimus Pergem Pamphi<lb n="35" />lie.
+				Illis autem abeuntibus ad predicandum,  com<lb n="36" />moratus
+				sum ibi mensibus duobus. Cunque dispone<lb n="37" />rem
+				ire in partes occidentis,  prohibuit me spiritus<lb n="38" />
+				sanctus. Igitur cum audissem quod idem sancti apostoli Paulus<lb n="39" />
+				et Barnabas Antiochie essent,  continuo perrexi ad il<lb n="40" />los,
+				<milestone n="2.6" />
+				inuenique beatum Paulum fatigatum ex iti<lb n="41" />nere,
+				atque in grabato requiescere.  Sed arguere me cer<lb n="42" />neret,
+				gauisus est. Sed arguere me cepit,  pro eo<lb n="43" />
+				quod moram fecissem uenire de Pamphylia,  et<lb n="44" />
+				detinuissem libros predicationis. Recreati ex<cb n="2" /><lb n="1" />
+				itinere, ceperunt predicare uerbum domini. Ad quorum<lb n="2" />
+				praedicationem plurimi Iudeorum atque gentilium illu<lb n="3" />minati,
+				crediderunt in dominum Iesum Christum.
+				<milestone n="2.7" />
+				Expleta<lb n="4" />
+				namque praedicatione statuerunt ire ad praedicandum<lb n="5" />
+				in orientem,  et tunc demum reuerti ad Cyprum,<lb n="6" />
+				ut uisitarent ecclesias  in quibus uerbum domini pre<lb n="7" />dicauerunt.
+				Sed beatus Barnabas exorabat  ut<lb n="8" />
+				prius iret Cyprum ad uisitandos parentes suos,  et<lb n="9" />
+				postea communiter Ierusalem pergerent. Inter hec<lb n="10" />
+				autem angelica uisio  per noctem facta est beato Pau<lb n="11" />lo
+				apostolo dicens. Celerius propera Ierusalem  nec moram fa<lb n="12" />cias,
+				quoniam quidam fratres ualde prestolantur ad<lb n="13" />uentum
+				tuum.
+				<milestone n="2.8" />
+				Quod cum beato Barnabe panderet,<lb n="14" />
+				ait beatus Barnabas. Quia uoluntati dei contra<lb n="15" />dicere
+				non expedit, fiat uoluntas domini.
+				<milestone n="2.9" />
+				Tantum<lb n="16" />
+				obsecro  intercede pro me ad dominum,  ut decertatio mea<lb n="17" />
+				fiat acceptabilis in conspectu eius, secundum deuotionem<lb n="18" />
+				qua famulati sumus in ministerio  quod datum est<lb n="19" />
+				nobis. Nunc autem propero Cyprum, ibique finem<lb n="20" />
+				complebo uite,  faciem tuam heu prodolor  non uisu<lb n="21" />rus.
+				Hec proloquens procidit ad pedes eius, et fleuit<lb n="22" />
+				diu amarissime.
+				<milestone n="2.10" />
+				Cuius dolori beatus Paulus com<lb n="23" />patiens,
+				noli inquit merere frater,  non enim  sine<lb n="24" />
+				mysterio diuino agitur. Namque apparuit mihi<lb n="25" />
+				hac nocte dominus dicens. Ne prohibeas Barnaban ire<lb n="26" />
+				Cyprum,  quoniam illic preparata est ei gratia dei ad<lb n="27" />
+				illuminationem multorum, et sacrum martyrium<lb n="28" />
+				perficiendum. Tu autem perge Ierusalem, ad loca sa<lb n="29" />cra
+				uisitanda. Tunc positis genibus orantes  et os<lb n="30" />culantes
+				<sic>uos</sic>
+				ad inuicem, uale fecimus.
+				<milestone n="2.11" />
+				Et naui<lb n="31" />gantes
+				descendimus Laodiciam, decertantes  ut per<lb n="32" />geremus
+				Cyprum.
+				<milestone n="2.12" />
+				Deinde uenimus in ciuitatem que<lb n="33" />
+				uocatur Anemória,  in qua inuenimus iustos uiros<lb n="34" />
+				quamquam ethnicos, tamen sagacitate pollentes.<lb n="35" />
+				Quos cernentes, sagaciter nos interrogare cepe<lb n="36" />runt
+				dicentes. O  uiri qui estis ? Unde et quo uel<lb n="37" />
+				que res uos attulit nostris <del rend="scratched">h</del>oris ? Animaduertens<lb n="38" />
+				autem beatus Barnabas illorum sagacitatem,<lb n="39" />
+				sagaciter eis respondere studuit.  Si nosse inquit<lb n="40" />
+				cupitis  qui sumus,  unde, et quo,  uel quam ob rem<lb n="41" />
+				uenimus,  scitote  quia famuli sumus domini nostri<lb n="42" />
+				Iesu Christi, creatoris celi et terre. Uenientes ab Ihe<lb n="43" />rosolimis
+				pergimus ubique ad predicandum nomen<lb n="44" />
+				eius,  quia ipse est filius dei omnipotentis, et qui<pb n="52v" /><cb n="1" /><lb n="1" />
+				crediderit in illum  non morietur,  sed uitam reci<lb n="2" />piet
+				sempiternam.
+				Ueruntamen si hoc cognoscere cu<lb n="3" />pitis,
+				exuite uos uestimentis  que ueterascunt  et<lb n="4" />
+				pereunt, et induimini uestibus que non pereunt, sed<lb n="5" />
+				gloriosa et splendida permanent in eternum. Hec au<lb n="6" />dientes
+				attoniti ualde compuncti sunt corde, ad<lb n="7" />mirantes
+				et dicentes. Mira res  quam dicitis.<lb n="8" />
+				Quis enim deus praepotens qui talia perficere ua<lb n="9" />let ?
+				Ad hec beatus apostolus Barnabas. Si enim<lb n="10" />
+				consequi uultis  que dicimus,  confitemini peccata<lb n="11" />
+				uestra credentes in dominum Iesum Christum, et percipientes<lb n="12" />
+				sacrum baptismum  proculdubio accipietis  que<lb n="13" />
+				uobis promittimus.
+				<milestone n="2.13" />
+				Cunque illi sponderent cuncta<lb n="14" />
+				patrare,  breuiter beatus Barnabas sanctae trinitatis<lb n="15" />
+				mysterium exponendo descendit cum illis in<lb n="16" />
+				fontem.  Et baptizauit eos in nomine patris et fi<lb n="17" />lii
+				et spiritus sancti,  induitque eos uestibus sanctae religio<lb n="18" />nis.
+				Cum autem se cognouissent esse christicolas  et<lb n="19" />
+				uirtutem accepissent spiritus sancti,  ceperunt gaude<lb n="20" />re
+				et glorificare dominum Christum. Conferentibus autem<lb n="21" />
+				eis quedam subsidia,  conuocatis pauperibus apostolus<lb n="22" />
+				distribuit illis  prout cuique opus erat, instruens<lb n="23" />
+				illos	et commonens  ut permanerent in gratia dei<lb n="24" />
+				quam perceperant.
+				<milestone n="2.14" />
+				Nauigantes autem peruenimus<lb n="25" />
+				Cyprum,  ibique inuenimus Timonem et Aristionem<lb n="26" />
+				famulos domini.
+				<milestone n="2.15" />
+				Timon autem  urebatur  febribus.<lb n="27" />
+				Cui cum manus imposuisset beatus Barnabas,<lb n="28" />
+				et sacrum euangelium per inuocationem domini sal<lb n="29" />uatoris,
+				statim febris fugata est, et adeo corro<lb n="30" />boratus
+				est  ut continuo nos cum gaudio seque<lb n="31" />retur.
+				Ex doctrina namque apostolorum, beatus Bar<lb n="32" />nabas
+				euangelium sancti Mathei apostoli secum ferebat.<lb n="33" />
+				Et ubicunque inueniebat infirmos  ponebat illud<lb n="34" />
+				super eos,  et continuo sanabantur a quocunque lan<lb n="35" />guore
+				tenebantur.
+				<milestone n="2.16" />
+				Exeuntes autem inde inueni<lb n="36" />mus
+				uirum nomine Heraclium,
+				<milestone n="2.17" />
+				quem beatus Paulus<lb n="37" />
+				cum sancto Barnaba baptizauerat,  et recepto spiritu<lb n="38" />
+				sancto episcopum ordinauerat, ad commonitionem fideli<lb n="39" />um.
+				Hic nos cum magno gaudio excepit, et<lb n="40" />
+				hospitalitatem precipuam exhibuit.
+				<milestone n="2.18" />
+				Post hec<lb n="41" />
+				autem inuenimus quendam uirum nomine<lb n="42" />
+				Rodonem, quamuis ethnicum, tamen iustum<lb n="43" />
+				atque benignum.  Huic cum beatus apostolus sanctam<lb n="44" />
+				fidem exponeret  continuo credidit in dominum,  et<cb n="2" /><lb n="1" />
+				baptizatus sequutus est nos. His ita gestis, ob<lb n="2" />uium
+				habuimus impium et maleficum Iudeum no<lb n="3" />mine
+				Barieu,  quem olim beatus Paulus lumine<lb n="4" />
+				priuauerat. Hic namque cum cognouisset beatum<lb n="5" />
+				apostolum, malitia commotus prohibuit nos introire<lb n="6" />
+				in Paphum.
+				<milestone n="2.19" />
+				Proinde reuertentes uenimus in locum<lb n="7" />
+				in quo ethnici uiri et femine ludendo nudi curre<lb n="8" />bant.
+				Hoc cum uidisset beatus Barnabas, indig<lb n="9" />natus
+				super tale facinus,  maledixit continuo tem<lb n="10" />plum.
+				Statimque pars templi funditus corruit,<lb n="11" />
+				magnaque contritio ex ethnicis facta est,  qui sub<lb n="12" />
+				ruina ipsa mortui sunt. Ceteri autem qui euase<lb n="13" />runt,
+				fugerunt in templum Apollinis. Nemo ita<lb n="14" />que
+				miretur  quod predictus Barieu postquam a beato<lb n="15" />
+				Paulo apostolo lumine priuatus fuerat  uisum receperit,<lb n="16" />
+				cum non illum perpetualiter sed ut conuerteretur ad<lb n="17" />
+				tempus percusserit dicens. Eris cecus usque ad tempus.<lb n="18" />
+				Ergo liquidius constat  ut ad precem Sergii proconsu<lb n="19" />lis
+				per beatum apostolum conuersus lumen receperit, post<lb n="20" />modum
+				sicut ille Symon magus apostatando<lb n="21" />
+				transgressor fieret.
+				<milestone n="2.22" />
+				Introeuntibus nobis itaque in Sa<lb n="22" />laminam,
+				inuenimus synagogam Iudeorum<lb n="23" />
+				quam beatus apostolus exhortari cepit,  et per euange<lb n="24" />lium
+				sancti Mathei ad Christi gratiam introducere.
+				<milestone n="2.23" />
+				Hoc<lb n="25" />
+				dum praefatus comperisset Barieu, et  quia plurimi<lb n="26" />
+				Iudeorum recepissent praedicationem sancti apostoli,<lb n="27" />
+				omnem malitiam iniquitatis sue ostendens  seditio<lb n="28" />ne
+				facta contra sanctum apostolum fecit eum comprehen<lb n="29" />di,
+				et querebant tradere consuli eiusdem Salami<lb n="30" />ne
+				ciuitatis,  affligentes illum multis suppliciis,<lb n="31" />
+				et uariis cruciatibus. De hinc cum iam maceratum<lb n="32" />
+				et  quassatum penis ducerent ad iudicandum,<lb n="33" />
+				accidit  ut deueniret in eadem insula ex Cypro qui<lb n="34" />dam
+				uir	magnus et prepotens nomine Eusebius,<lb n="35" />
+				de progenie imperatoris. Comperientes autem Iudei<lb n="36" />
+				aduentum eius, uerentes nimium  ne illum eri<lb n="37" />peret
+				de manibus illorum, ligantes funem in collo<lb n="38" />
+				eius nocturno tempore dilaceratum a synagoga<lb n="39" />
+				in yppodromum pertraxerunt,  et deinde foras<lb n="40" />
+				portam. Post hec autem circumdantes illum igne,<lb n="41" />
+				crudeliter cremauerunt. Sicque beatus apostolus post<lb n="42" />
+				multos agones et diuturna certamina pro Christi a<lb n="43" />more
+				adustus, migrauit ad gaudia sempiterna.<lb n="44" />
+				Impii autem Iudei non saciati de nece illius, zelo<pb n="53r" /><cb n="1" /><lb n="1" />
+				diu concitati tulerunt sacratissimum corpus eius,<lb n="2" />
+				et in locello plumbeo recludentes in mare preci<lb n="3" />pitare
+				disponebant.
+				<milestone n="2.24" />
+				Interim ego praefatus Iohannes qui<lb n="4" />
+				et Marcus una cum predictis Timone et Rodone oc<lb n="5" />culte
+				nocturnis horis tulimus illud  et collocaui<lb n="6" />mus
+				in cripta  que olim fuerat habitatio Iebuse<lb n="7" />orum
+				tercio idus iunii,  hoc est undecima die ipsius<lb n="8" />
+				mensis.
+				<milestone n="epilogue" />
+				Propter hanc itaque occultam collocatio<lb n="9" />nem
+				plurimis annorum curriculis uenerabile<lb n="10" />
+				corpus illius latuit,  nec inueniri a christicolis po<lb n="11" />tuit.
+				Sed deus omnipotens qui non patitur occultare<lb n="12" />
+				gloriam sanctorum suorum, tempore Zenonis impe<lb n="13" />ratoris
+				et sancti Gelasii pape eodem sancto apostolo reue<lb n="14" />lante
+				inuentum est,  atque cum ymnis et laudibus<lb n="15" />
+				mirifice collocatum est ad honorem et gloriam<lb n="16" />
+				domini nostri Iesu Christi,  qui cum patre et spiritu sancto ui<lb n="17" />uit
+				et regnat deus, per omnia saecula saeculorum amen.<lb n="18" />
+			</p>
+			<milestone n="explicit-principal" />
+			 <head type="final"><!--lisible en consultant directement le ms -->
+				 Explicit passio beati Barnabe apostoli.
+				</head>
+		 </div>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="PadBu1120">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Padoue</settlement>
+					<repository>Biblioteca Universitaria</repository>
+					<collection></collection>
+					<idno>1120</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="33v" /><cb n="2" />
+				<head type="initial">In sancti Barnabe apostoli.</head>
+		<milestone n="prologue" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio"><lb n="15" />Lectio ia</seg>
+			Barnabas hebrayce,<lb n="16" />
+			latine interpretatur filius<lb n="17" />
+			prophetȩ uel filius consolati<lb n="18" />onis.
+			Barnabas qui et Ioseph na<lb n="19" />tione
+			Cyprie ciuitatis ex Cyro re<lb n="20" />ge
+			Persarum fundata extitit,  cum<lb n="21" />
+			Paulo ingentibus apostolatum a<lb n="22" />deptus
+			est. Deinde propter Iohannem<lb n="23" />
+			discipulum qui etiam cognomen<lb n="24" />to
+			Marcus appellatur  seiunctus<lb n="25" />
+			a Paulo,  nichilominus euange<lb n="26" />lice
+			predicationis sibi opus in<lb n="27" />iunctum
+			exercuit,  martirio co<lb n="28" />ronatus.
+			Cuius festiuitas cele<lb n="29" />bratur
+			tercio ydus iunii.
+		</p>
+</div>
+</body>
+</text>
+</TEI>

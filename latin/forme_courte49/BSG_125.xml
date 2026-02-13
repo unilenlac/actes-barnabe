@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 49)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BSG125">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque Sainte-Geneviève</repository>
+					<collection></collection>
+					<idno>125</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="109v" /><cb n="2" />
+				<head type="initial"><lb n="10" />
+			Barnabe apostoli.
+		</head>
+		<milestone n="2.16" />
+			<p>
+				<seg type="lectio" hand="manus1" place="inline">Lectio via.</seg>
+				<lb n="11" />
+				Quodam  autem<lb n="12" />
+				tempore cum iter<lb n="13" />
+				cum eo ageremus<lb n="14" />
+				inuenimus hominem<lb n="15" />
+				nomine Eraclium,<lb n="16" />
+				<milestone n="2.17" />
+				quem beatus Pau<lb n="17" />lus
+				apostolus cum <sic>sanctus</sic><pb n="110r" /><cb n="1" /><lb n="1" />
+				Barnaba baptizaue<lb n="2" />rat,
+				et recepto spiri<lb n="3" />tu
+				sancto episcopum ordina<lb n="4" />uerat
+				ad commu<lb n="5" />nionem
+				fidelium. Hic<lb n="6" />
+				nos cum magno<lb n="7" />
+				gaudio excepit, et<lb n="8" />
+				hospitalitatem pre<lb n="9" />cipuam
+				exhibuit.<lb n="10" />
+				<milestone n="2.18" />
+				Post hec autem inue<lb n="11" />nimus
+				quendam ui<lb n="12" />rum
+				nomine Rodo<lb n="13" />nem,
+				quamuis ethni<lb n="14" />cum
+				tamen iustum<lb n="15" />
+				atque benignum.<lb n="16" />
+				Huic cum beatus<lb n="17" />
+				apostolus sanctam fidem ex<cb n="2" /><lb n="1" />poneret,
+				continuo<lb n="2" />
+				credidit in dominum,<lb n="3" />
+				et baptizatus secutus<lb n="4" />
+				est nos. His ita ge<lb n="5" />stis,
+				obuium habu<lb n="6" />imus
+				impium et<lb n="7" />
+				maleficum Iudeum<lb n="8" />
+				nomine Barieum<lb n="9" />
+				quem beatus Paulus<lb n="10" />
+				olim nomine priua<lb n="11" />uerat.
+				Hic namque<lb n="12" />
+				cum cognouisset be<lb n="13" />atum
+				apostolum, ma<lb n="14" />licia
+				commotus, pro<lb n="15" />hibuit
+				nos introire<lb n="16" />
+				in Paphum.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

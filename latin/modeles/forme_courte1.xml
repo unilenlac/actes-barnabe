@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 1)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<country></country>
+					<settlement></settlement>
+					<repository></repository>
+					<collection></collection>
+					<idno></idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-inprocessing">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<head type="initial">
+			Passio sancti Barnabe apostoli.
+		</head>
+		<p>
+			Redemptor et saluator noster
+			dominus Iesus Christus antequam de interitu
+			Satane triumphans uictor
+			et exultans penetraret regna polorum,
+			sanctam ecclesiam quam pretioso sanguine
+			suo adquisiuit, per beatos  et apostolicos
+			uiros immobiliter fundauit, et mirabiliter
+			corroborans solidauit. Ergo
+			cum sanctorum apostolorum natalitia celebramus,
+			dignum equidem atque salutare uidetur
+			ut beati Barnabe natalicia deuotis
+			celebremus. Quoniamquidem, et non est in ordine
+			apostolatus eorum,  non tamen deest
+			de cathalogo, praedicationis quia excellentiam
+			miraculorum  sicut Lucas euangelista
+			refert in actibus apostolorum mirabiliter
+			patrauit. Nam eo fere  tempore
+			quo sancta ecclesia gratiam sancti spiritus suscepit,
+			tertio uidelicet post passionem
+			domini	anno, cum Paulo apostolo,  adaptatus
+			celsitudinem, et praedicationem diuinitus
+			electus est, uocante illos eodem spiritu
+			sancto, atque dicente. Segregate mihi Barnabam,
+			et Saulum, in opus quod assumpsi eos.
+			Sed qualiter uir iste domini Barnabas
+			deuotissime fidem catholicam
+			praedicando et infideles  ab errore iniquitatis
+			redimendo obprobria, et contumelias
+			pro Christi amore sustinuerit,
+			dicere studeamus. Quodam tempore
+			dum uenisset in locum  in quo ethnici
+			uiri et femine ludendo nudi currebant,
+			indignatus super tale facinus beatus
+			Barnabas,  maledixit continuo templum,
+			statimque pars templi funditus
+			corruit,  magnaque contricio ex ethnicis
+			facta est,  qui sub ruina ipsa
+			mortui sunt. Ceteri autem qui euaserunt,
+			fugerunt in templum Apollinis.
+			Introeunte autem eo in Salaminam,
+			inuenit synagogam Iudeorum, quam
+			exortari cepit et per euangelium sancti Mathei,
+			Christi gratiam introducere. At quidam
+			Bariesus et plurimi Iudeorum, hoc comperientes
+			omnem maliciam iniquitatis sue
+			ostendentes, seditione facta contra
+			sanctum apostolum, fecerunt eum  comprehendere,
+			et querebant tradere consuli, eiusdem
+			Salimine ciuitatis, affligentes
+			eum multis
+			suppliciis et uariis cruciatibus.
+			Post hec autem  ligantes funem
+			in collo eius, nocturno tempore dilaceratum,
+			a synagoga in ipodromum
+			pertraxerunt,  et deinde foris portam,
+			circumdantesque illum igne crudeliter
+			cremauerunt.  Sicque beatus apostolus
+			post multos agones et diuturna
+			certamina, pro Christi amore adustus,
+			migrauit ad gaudia sempiterna. Impii
+			autem Iudei non satiati de nece illius,
+			zelo diu concitati, tulerunt sacratissimum
+			corpus eius, et in locello
+			plumbeo
+			recludentes in mare praecipitare disponebant.
+			Interim ego Iohannes qui et Marcus occulte
+			nocturnis horis tulit illud, et
+			collocaui in cripta, quȩ olim fuerat
+			habitatio Mebuseorum, iii idus iunii.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

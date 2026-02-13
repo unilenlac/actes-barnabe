@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Bru1188">
+				<msIdentifier>
+					<country>Belgique</country>
+					<settlement>Bruxelles</settlement>
+					<repository>KBR</repository>
+					<collection></collection>
+					<idno>1878-1889 (1188)</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="prologue" />
+		<pb n="120v" />
+		<cb n="1" />
+				<p><lb n="8" />
+			<space quantity="1" />arnabas hebraice, latine inter<lb n="9" />pretatur
+			filius prophete uel filius con<lb n="10" />solationis.
+			Barnabas qui et Ioseph natione<lb n="11" />
+			Cyprie ciuitatis et a  Ciro rege Persa<lb n="12" />rum
+			fundata extitit,  cum Paulo ingen<lb n="13" />tibus
+			apostolatum adeptus est
+			Deinde prop<lb n="14" />ter
+			Iohannem <del rend="strike" unit="character">apostolum</del>
+			discipulum qui <sic>eciam</sic> cog<lb n="15" />nomento
+			Marcus appellatur, se<lb n="16" />iunctus
+			a Paulo,  nichilominus euange<lb n="17" />lii
+				praedicatione sibi opus <subst>
+					<del rend="other">inuentum</del>
+					<add place="margin-left" hand="corr1">iniunctum</add>
+				</subst>
+			exer<lb n="18" />cuit
+			martirio coronatus. Cuius fes<lb n="19" />tiuitas
+			celebratur, tercio idus iunii
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

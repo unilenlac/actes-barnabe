@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 14)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="RouA564">
+					<msIdentifier>
+						<country>France</country>
+						<settlement>Rouen</settlement>
+						<repository>Bibliothèque municipale</repository>
+						<collection>A</collection>
+						<idno>564</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<milestone n="titre-principal" />
+				<pb n="170r" /><cb n="1" />
+								<head type="initial"><lb n="23" />
+					De sancto<lb n="24" />
+					Barnaba
+				</head>
+				<milestone n="Ac4" />
+				<p>
+					Barnabas <del rend="dotted">qui</del><lb n="25" />
+					qui filius consolationis in tempus cog<lb n="26" />nomento
+					Ioseph dicitur agrum suum uen<lb n="27" />didit,
+					et <del rend="underline">prae us</del>
+					precium apostolis dedit<lb n="28" />
+					et se omni proprietate spoliauit<lb n="29" />
+					De lxxa discipulis unus fuit, <del rend="scratched" unit="character" quantity="1" /> ci<lb n="30" />prius
+					genere
+				<milestone n="Ac9" />
+					audax corde.
+				</p>
+				<p>
+					Hic Pau<lb n="31" />lum
+					quem alii timebant apprehensa<lb n="32" />
+					manu ad apostolos perduxit et ei cor<lb n="33" />de
+					et corpore asociatus plenus<lb n="34" />
+					sancto	spiritu
+					<milestone n="Ac11" />
+					ab apostolis m<add place="above" hand="manus1">i</add>titur Anthio<cb n="2" /><lb n="1" />chiam,
+					et in humilitatis spiritu putans<lb n="2" />
+					se tante multitudinis non suficere <del rend="scratched" unit="character" quantity="1" /><lb n="3" />
+					Paulum  Tarsum deduxit, et tot conuerterunt<lb n="4" />
+					quod Antiochi primum discipuli sunt christiani. Iste<lb n="5" />
+					cum Paulo gentis conuertit, Iudeis eorum prae<lb n="6" />dicationem
+					spernentibus. 	Unde Iudei contra<lb n="7" />
+					eos religiosas
+					<subst>
+						<del rend="underline">inherem</del>
+						<add place="margin-right" rend="sign" hand="manus1-dubia">mulieres</add>
+					</subst>
+					concitauerunt<lb n="8" />
+					et eos a finibus suis eiecerunt claudum<lb n="9" />
+					sanant,
+					<milestone n="Ac14" />
+					dii reputantur, Barna<lb n="10" />bas
+					Mercurius, Paulus Iouis, nominatur,<lb n="11" />
+					corone et alia eis conferuntur sed omnia<lb n="12" />
+					respuunt.
+				</p>
+				<milestone n="2.10" />
+				<p>
+					Huic praecepit deo  ut<lb n="13" />
+					Cyprum perageret et Paulus Ierusalem re<lb n="14" />diret,
+					et Paulus Barnabe dixit<lb n="15" />
+					a deo sibi reuelatum ut  Cypri<lb n="16" />
+					esset passurus, dantes ergo  sibi os<lb n="17" />cula
+					ad <del rend="scratched" quantity="1" />inuicem recesserunt.
+					<milestone n="2.12" />
+					Uenit<lb n="18" />
+					Barnabas cum Iohanne qui uocatus est<lb n="19" />
+					Mar<subst>
+						<del rend="scratched" atLeast="1" atMost="2" />
+						<add place="inline" hand="manus1">cus</add>
+					</subst> in ciuitatem Anemoriam<lb n="20" />
+					et  inuenit Tymonem febricitantem<lb n="21" />
+					cui sanctus euuangelio Mathei quod secundum mandatum<lb n="22" />
+					apostolorum secum ferebat imposito<lb n="23" />
+					sanauit, et alios  multos eodem modo<lb n="24" />
+					post haec occurit ei Olimas magus et prohi<lb n="25" />buit
+					ne <sic>intrarem</sic><!--- bizarre ce m -->
+					ciuitatem Paphum.<lb n="26" />
+				</p>
+				<milestone n="2.19" />
+				<p>
+					Die igitur  quidam uidit  homines<lb n="27" />
+					utriusque sexus nudos currentes et<lb n="28" />
+					sua festa celebrantes, orat<lb n="29" />
+					prorsus templi corruit et multos in<lb n="30" />credulos
+					oppressit.
+					<milestone n="2.22" />
+					Ultimo Solami<lb n="31" />nam
+					uenit uiros docet
+					<milestone n="2.23" />
+					Ely<lb n="32" />mas
+					occurit seditionem monet<lb n="33" />
+					traditur Barnabas ut consuli praesen<lb n="34" />tetur,
+					superuenit Eusebius de genere<pb n="170v" /><cb n="1" /><lb n="1" />
+					Neronis unde Iudei timentes ne eum<lb n="2" />
+					eriperet nocte eum igne cremauerunt<lb n="3" />
+					et corpus eius in uas plumbeum conditum aro<lb n="4" />matibus
+					in mare <del rend="underline">subne</del> submi<lb n="5" />serunt
+					<milestone n="2.24" />
+					sed a dicto Iohanne inuentum et ab<lb n="6" />
+					eo et Timo<subst>
+						<del rend="other" unit="character" atLeast="1" atMost="3" />
+						<add place="margin-left" hand="manus1">ne</add>
+					</subst>
+					et Aristone oculte<lb n="7" />
+					sepultum
+					<milestone n="epilogue" />
+					tempore Zenonis imperato<lb n="8" />ris
+					et Galasii est repertum et cetera.
+				</p>
+			</div>
+</body>
+</text>
+</TEI>

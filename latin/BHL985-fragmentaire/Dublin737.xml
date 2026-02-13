@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL985 - fragmentaire)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Dub737">
+				<msIdentifier>
+					<country>Eire</country>
+					<settlement>Dublin</settlement>
+					<repository>Trinity College</repository>
+					<collection></collection>
+					<idno>737 (G. 04. 16)</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="126v" />
+				<head type="initial"><lb n="16" />
+			Incipit passio Barnab<unclear reason="damage" unit="character" atLeast="1" atMost="2" />
+		</head>
+		<milestone n="1.1" />
+		<p>
+			Redemptor et saluator<lb n="17" />
+			noster dominus Iesus Christus antequam de interitu Satanȩ tri<lb n="18" />umphans
+			uictor exultans penetraret regna polorum,<lb n="19" />
+			sanctam ȩcclesiam quam precioso suo sanguine adquisiuit<lb n="20" />
+			per beatos apostolicos uiros, immobiliter muniens fundauit,<lb n="21" />
+			mirabiliter corroborans persolidauit, scilicet ut et ipsa inuio<lb n="22" />lata
+			semper et gloriosa maneret,  et illorum praedicatione nouam sibi<lb n="23" />
+			progeniem, plurimosque filios aggregaret.
+			<milestone n="1.2" />
+			Ex quorum collegio<lb n="24" />
+			et consortio extans beatissimus Barnabas,  tanto deuotis<lb n="25" />sime
+			pro ipsa decertare studuit, quanto diuinitus per sancti spiritus gratiam<lb n="26" />
+			cum beato Paulo apostolo ad apostolatus gratiam uocatum se esse cognouit.
+			<gap />
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

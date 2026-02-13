@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 5)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BLSto">
+				<msIdentifier>
+					<country>United Kindom</country>
+					<settlement>Londres</settlement>
+					<repository>British Library</repository>
+					<collection>Stowe MS</collection>
+					<idno>12</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="martyre5-titre-oratio" />
+		<pb n="252r" /><cb n="2" />
+				<head type="initial"><lb n="15" />
+			Sancti Barna<lb n="16" />be
+			apostoli oratio.<lb n="17" />
+		</head>
+		<milestone n="martyre5-oratio" />
+		<p>
+			Ecclesiam<lb n="18" />
+			tuam quod<lb n="19" />
+			domine beati<lb n="20" />
+			Barnabe<lb n="21" />
+			apostoli tui commendet oro, et pro ea in<lb n="22" />teruentor
+			existat quam doctrina et<lb n="23" />
+			passione illustrat, per.
+		</p>
+		<milestone n="martyre5-titre-explicit" />
+		<head type="final">
+			Explicit.
+		</head>
+				<head type="initial">
+			Lectio cetera<lb n="24" />
+			de communi illius apostoli.
+		</head>
+		<p>
+			<milestone n="1.5" />
+			<seg place="inline" hand="manus1" type="lectio">Lectio ia</seg>
+			Barnabas<lb n="25" />
+			ebrayce, filius consolaci<lb n="26" />onis
+			latine dicitur. Idest communiter cum<lb n="27" />
+			sanctis apostolis degebat, et consolacio<lb n="28" />nem
+			eis maximam prebebat.<lb n="29" />
+			<milestone n="1.3" />
+			Hic itaque post ascensionem domini<lb n="30" />
+			ad praedicandum directus,
+			<milestone n="2.12" />
+			cum quo<lb n="31" />dam
+			Iohanne discipulo suo uenit<lb n="32" />
+			in ciuitaem que uocatur Ane<pb n="252v" /><cb n="1" /><lb n="1" />moria
+			In qua inuenerunt iustos<lb n="2" />
+			uiros quamquam ethnicos, tamen sa<lb n="3" />gacitate
+			pollentes. Quos cernen<lb n="4" />tes
+			sagaciter interrogare eos cepe<lb n="5" />runt
+			dicentes. O uiri qui estis ?<lb n="6" />
+			Unde et quo uel que res attulit uos<lb n="7" />
+			in nostris oris.
+		</p>
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio iia</seg>
+			Animad<lb n="8" />uertens
+			enim beatus Barnabas<lb n="9" />
+			illorum prudenciam, sagaciter<lb n="10" />
+			respondere studuit. Si nosse inquit<lb n="11" />
+			cupitis qui sumus, unde et quo,<lb n="12" />
+			uel quam oberem uenimus, scitote<lb n="13" />
+			qui famuli sumus domini nostri Iesu Christi<lb n="14" />
+			creatoris celi et terre.
+		</p>
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio iiia</seg>
+			<lb n="15" />
+			Uenientes uero ab Ieroso<lb n="16" />limis
+			pergimus ubique ad praedi<lb n="17" />candum
+			nomen Iesu Christi, quia<lb n="18" />
+			ipse et filius dei omnipotentis.<lb n="19" />
+			Et qui crediderit in illum non<lb n="20" />
+			morietur, sed uitam accipiet eternam.<lb n="21" />
+			Uerumptamen si hoc agnoscere cupitis,<lb n="22" />
+			exuite uos uestimentis que pere<lb n="23" />unt,
+			et induimini illis que non<lb n="24" />
+			pereunt, sed gloriosa sunt et splen<lb n="25" />dida
+			in eternum.
+		</p>
+		<p><lb n="26" />
+			<seg place="inline" hand="manus1" type="lectio">Lectio iiiia</seg>
+			Hec audientes, attoniti<lb n="27" />
+			ualde compuncti sunt corde dicen<lb n="28" />tes.
+			Mira res quam dicitis. Quis<lb n="29" />
+			deus prapotens talia perficere ualet ?<lb n="30" />
+			Ad hec beatus Barnabas. Si consequi<lb n="31" />
+			uultis que dicimus, confitemini pec<lb n="32" />cata
+			uestra credentes in dominum<cb n="2" /><lb n="1" />
+			Iesum Christum, et percipientes sacrum<lb n="2" />
+			baptismum, proculdubio acci<lb n="3" />pietis
+			uitam quam promittimus.
+		</p>
+		<milestone n="2.13" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio va</seg>
+			<lb n="4" />
+			Cumque illi sponderent<lb n="5" />
+			cuncta patrare breuiter<lb n="6" />
+			Barnabas sanctae trinitatis misterium<lb n="7" />
+			exponendo baptizauit eos, in<lb n="8" />duitque
+			uestibus sanctae religionis.<lb n="9" />
+			Cum autem cognouissent se esse christi<lb n="10" />colas,
+			ceperunt laudare et glorifica<lb n="11" />re
+			deum. Conferentes autem quedam<lb n="12" />
+			subsidia, conuocatis pauperibus<lb n="13" />
+			beatus Barnabas distribuit eius pro<lb n="14" />ut
+			cuique opus erat, instruens<lb n="15" />
+			et commonens eos ut permane<lb n="16" />rent
+			in gratia dei quam acceperant.
+		</p>
+		<p>
+			<milestone n="2.14" />
+			<seg place="inline" hand="manus1" type="lectio">Lectio via</seg><lb n="17" />
+			Nauigantes autem uenerunt<lb n="18" />
+			Cyprum, ibique inuenerunt<lb n="19" />
+			Tymonem et Aristionem famulos<lb n="20" />
+			domini.
+			<milestone n="2.15" />
+			Tymon uero urebatur mag<lb n="21" />nis
+			febribus. Cui cum manus<lb n="22" />
+			imposuisset beatus Barnabas et sa<lb n="23" />crum
+			euangelium super eum legisset,<lb n="24" />
+			per inuocacionem domini saluatoris<lb n="25" />
+			statim febris fugata est ut conti<lb n="26" />nuo
+			cum gaudio eos sequerentur.<lb n="27" />
+		</p>
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio viia</seg>
+			Ipse autem Barnabas<lb n="29" />
+			euangelium Mathei secum ferebat,<lb n="29" />
+			et ubicumque muniebat infir<lb n="31" />mos,
+			ponebat super eos, et continuo<lb n="32" />
+			sanabantur a quocumque languore<lb n="33" />
+			tenebantur.
+			<milestone n="2.18" />
+			Hiis ita gestis, obui<pb n="253r" /><cb n="1" /><lb n="1" />um
+			habuerunt impium Iude<lb n="2" />um
+			nomine Barieu, quem olim beatus<lb n="3" />
+			Paulus usque at tempus lumi<lb n="4" />ne
+			priuauit. Hic cum cognouisset<lb n="5" />
+			apostolum malicia commotus prohi<lb n="6" />buit
+			eos introire Paphum.
+		</p>
+		<milestone n="2.19" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio viiia</seg>
+			<lb n="7" />
+			Proinde Barnabas<lb n="8" />
+			et qui cum illo erant reuertentes,<lb n="9" />
+			uenerunt in locum in quo ethni<lb n="10" />ci
+			uiri et femine ludendo nudi cur<lb n="11" />rebant.
+			Hoc cum uidisset Barna<lb n="12" />bas
+			indignatus,  maledixit con<lb n="13" />tinuo
+			templum. Statimque fun<lb n="14" />ditus
+			corruit pars templi, contricio<lb n="15" />que
+			magna ethnicis facta est.
+			<milestone n="2.22" />
+			Itaque<lb n="16" />
+			illis introeuntibus in synagogam<lb n="17" />
+			Iudeorum exhortari eos cepit ad gra<lb n="19" />ciam
+			Christi.
+		</p>
+		<milestone n="2.23" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio ix</seg>
+			Hoc dum<lb n="20" />
+			praefatus Barieus comperisset<lb n="21" />
+			quia plurimi Iudeorum recepissent praedi<lb n="22" />cacionem
+			apostoli sedicione facta contra apostolum<lb n="23" />
+			fecit eum comprehendi, et tradidit eum<lb n="24" />
+			consuli, affligentes eum multis<lb n="25" />
+			cruciatibus. Deinde ligauerunt<lb n="26" />
+			funem in collo eius, et de nocte<lb n="27" />
+			dilaceratum a synagoga pertraxerunt,<lb n="28" />
+			post hec circumdantes eum igne<lb n="29" />
+			crudeliter cremauerunt. Sic quoque<lb n="30" />
+			post multos agones pro Christi amo<lb n="31" />re
+			adustus, migrauit ad gaudia<lb n="32" />
+			sempiterna.
+		</p>
+		</div>
+</body>
+</text>
+</TEI>

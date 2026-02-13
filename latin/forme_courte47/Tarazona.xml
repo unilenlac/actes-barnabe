@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 47)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Tar">
+				<msIdentifier>
+					<country>España</country>
+					<settlement>Tarazona</settlement>
+					<repository>Archivo - Biblioteca Capitular de la Catedral de Tarazona</repository>
+					<collection></collection>
+					<idno>89</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" /><pb n="45v" /><cb n="2" />
+		<head type="initial">
+			<lb n="1" />
+			<seg type="reading-date" place="inline" hand="manus1">iii ydus</seg>
+			Natale sancti Barnabe apostoli.
+		</head>
+		<milestone n="prologue" />
+		<p>
+			<seg type="lectio" hand="manus1" place="inline">Lectio ia <c type="justif" /></seg><lb n="2" />
+			Natale sancti Barnabe apostoli, qui cum esset<lb n="3" />
+			Cyprius genere cum Paulo gencium<lb n="4" />
+			apostolus ordinatus est. Hic postea propter Iohannem <c type="justif" /><lb n="5" />
+			discipulum qui et  Marcus uocabatur separatus<lb n="6" />
+			a Paulo,  nichilominus euuangeliice predica<lb n="7" />tionis
+			iniunctum sibi opus exercuit.
+			<milestone n="epilogue" />
+			Cuius<lb n="8" />
+			corpus tempore Zenonis imperatoris, ipso<lb n="9" />
+			reuelante repertum est.
+			<milestone n="Jerome" />
+			Hic unam ad he<lb n="10" />dificationem
+			ecclesie pertinentem epistolam com<lb n="11" />posuit,
+			que tamen inter apocrifas legitur.<lb n="12" />
+			<milestone n="2.2" />
+			Iohannes igitur qui et Marchus famulus domini nostri Iesu<lb n="13" />
+			Christi,  discipulus uero sanctorum apostolorum Pauli et Bar<lb n="14" />nabe,
+			mistica dei opera que diuinitus uidi<lb n="15" />
+			et diligenter cognoui, gradiendo scilicet <c type="justif" /><lb n="16" />
+			cum praedictis sanctis,  et famulando in mini<lb n="17" />sterio
+			eorum omnibus fidelibus in Christi ecclesia<lb n="18" />
+			commorantibus per gratiam domini fideliter pando.<lb n="19" />
+		</p>
+		<p>
+			<seg type="lectio" place="inline" hand="manus1">Lectio iia</seg>
+			Denique cum essem ethnicus<lb n="20" />
+			et famulator ydolorum  commorando<lb n="21" />
+			scilicet in ministerio Cirilli quondam ponti<lb n="22" />ficis
+			nefandissimi templi Iouis, annuen<lb n="23" />te
+			domini gratia Iesu Christi babtizatus sum per<lb n="24" />
+			beatos apostolos Paulum et Barnaban  qui dig<lb n="26" />ni
+			fuerunt uocatione dei, in loco  qui dicitur Yco<lb n="26" />nium.
+			<milestone n="2.22" />
+			Introeuntibus itaque nobis in Salami<lb n="27" />nam,
+			uenimus in sinagogam Iudeorum. Quam<lb n="28" />
+			beatus apostolus exortari cepit,<lb n="29" />
+			et per euuangelium sancti Mathei ad Christi gratiam in<lb n="30" />troducere.
+			<milestone n="2.23" />
+			Hoc dum Iudeorum comperisset<lb n="31" />
+			Barieu,   quia plurimi Iudeorum recepissent<lb n="32" />
+			sancti apostoli Barnabe praedicationem,  omnem ma<lb n="33" />liciam
+			iniquitatis sue ostendens,  sedictione<lb n="34" />
+			facta contra sanctum apostolum, comprehendere eum  que<lb n="35" />rebat
+			et tradere consuli eiusdem Salamine<lb n="36" />
+			ciuitatis,  affligens illum multis suppli<lb n="37" />ciis
+			et uariis cruciatibus. De hinc cum <c type="justif" /><lb n="38" />
+			iam maceratum et quassatum penis duceret ad<lb n="39" />
+			iudicandum,  accidit  ut ueniret in eandem<lb n="40" />
+			insulam Ciprum quidam uir magnus et praepotens<lb n="41" />
+			nomine Eusebius, de proienie Neronis im<lb n="42" />peratoris.
+		</p>
+		<p>
+			<seg type="lectio" place="inline" hand="manus1">Lectio tercia <c type="justif" /></seg><pb n="46r" /><cb n="1" /><lb n="1" />
+			Comperientes autem Iudei aduentum<lb n="2" />
+			eius, uerentes nimium  ne illum eriperet<lb n="3" />
+			de manibus illorum ligantesque funem in collo<lb n="4" />
+			eius nocturno tempore dilaceratum ad sinagogam<lb n="5" />
+			in ypodromum pertraxerunt,  ac deinde foras <c type="justif" /><lb n="6" />
+			portam eduxerunt. Post hec circumdantes illum<lb n="7" />
+			igne, crudeliter cremauerunt. Sicque beatus apostolus<lb n="8" />
+			post multos agones et diuturna certamina,<lb n="9" />
+			pro Christi amore adustus migrauit ad gaudia <c type="justif" /><lb n="10" />
+			sempiterna. Impii autem Iudei non saciati <del rend="other">de</del><lb n="11" />
+			de nece beatissimi Barnabe apostoli, zelo con<lb n="12" />citati
+			tulerunt sacratissimum corpus eius,  et in<lb n="13" />
+			locello recludentes in mare praecipitare dispo<lb n="14" />nebant.
+			<milestone n="2.24" />
+			Interim e<del rend="scratched">r</del>go praefactus Iohannes, qui et Mar<lb n="15" />cus,
+			una cum praedictis Timone et Rodone, occul<lb n="16" />te
+			nocturnis horis tulimus illud  et colloca<lb n="17" />uimus
+			in cripta, que olim fuerat habicio Ie<lb n="18" />buseorum,
+			tercio ydus iunii.  Hoc est undecima<lb n="19" />
+			die ipsius mensis.
+			<milestone n="epilogue-bis" />
+			Propter hanc itaque  plurimis<lb n="20" />
+			annorum curriculis uenerabile corpus illius latu<lb n="21" />it,
+			nec inueniri a christicolis potuit. Sed deus omnipo<lb n="22" />tens
+			qui non patitur occultari gloriam sanctorum<lb n="23" />
+			suorum, tempore Zenonis imperatoris, et sancti Gela<lb n="24" />sii
+			pape eodem sancto apostolo reuelante inuentum<lb n="25" />
+			est, atque cum ymnis et laudibus mirifice<lb n="26" />
+			collocatum est, ad honorem et gloriam domini nostri<lb n="27" />
+			Iesu Christi  qui cum patre et spiritu sancto uiuit  et<lb n="28" />
+			regnat per omnia saecula saeculorum amen.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Acta Barnabae (Forme courte 22)</title>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+			<pubPlace>Lausanne</pubPlace>
+			<date>2017…</date>
+		</publicationStmt>
+	<sourceDesc>
+		<msDesc xml:id="Pal477">
+			<msIdentifier>
+				<country>Vatican</country>
+				<settlement>Vatican</settlement>
+				<repository>Biblioteca Apostolica Vaticana</repository>
+				<collection>Pal. lat.</collection>
+				<idno>477</idno>
+			</msIdentifier>
+		</msDesc>
+	</sourceDesc>
+	</fileDesc>
+	<revisionDesc status="revision1-finished">
+		<change />
+	</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div>
+	<milestone n="titre-principal" />
+	<pb n="78r" /><cb n="1" />
+		<head type="initial"><lb n="30" />
+		<seg type="order-number">ccxxxuiiii</seg><lb n="31" />
+		Barnabe apostoli.
+	</head>
+		<milestone n="1.2" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio prima.</seg>
+			<cb n="2" /><lb n="1" />
+			Cum ergo sanctorum apos<lb n="2" />tolorum
+			natalicia ce<lb n="3" />lebramus,
+			dignum et salutare<lb n="4" />
+			uidetur, ut sancti Barnabe<lb n="5" />
+			apostoli, sollempnitatem deuotis<lb n="6" />sime
+			celebremus.
+			<milestone n="1.3" />
+			Quoniam et<lb n="7" />
+			si non est in ordine duode<lb n="8" />nario
+			apostolatus eorum,  non<lb n="9" />
+			tamen deest de cathalogo<lb n="10" />
+			praedicacionis, et excellencia<lb n="11" />
+			miraculorum, que cum be<lb n="12" />atissimo
+			Paulo, sicut Lucas<lb n="13" />
+			euuangelista refert, in acti<lb n="14" />bus
+			apostolorum mirabiliter<lb n="15" />
+			patrauit. A tempore scilicet, quo<lb n="16" />
+			per uocacionem et graciam spiritus<lb n="17" />
+			sancti, tercio decimo post<lb n="18" />
+			domini passionem anno, cum<lb n="19" />
+			ipso <add place="above" hand="manus1-dubia">ad</add> apostolatus
+			celsitudi<lb n="20" />nem,
+			ac praedicacionem diuini<lb n="21" />tus
+			electus est, uocante illos<lb n="22" />
+			eodem spiritu sancto atque di<lb n="23" />cente.
+			Segregate michi Bar<lb n="24" />naban
+			et Saulum, in opus<lb n="25" />
+			quod assumpsi eos.
+			<seg type="devotional">Tu autem domine.</seg>
+		</p>
+		<milestone n="1.4" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio"><lb n="26" />Lectio iia.</seg>
+			Sed uir iste<lb n="27" />
+			qualiter domini Barnabas,<lb n="28" />
+			deuotissime fidem katho<lb n="29" />licam
+			praedicando, et corda<lb n="30" />
+			infidelium ab errore iniqui<lb n="31" />tatis
+			redimendo, obpro<pb n="78v" /><cb n="1" /><lb n="1" />bria
+			et contumelias pro Christi<lb n="2" />
+			amore sustinendo.  Ac dein<lb n="3" />de
+			per martirii palmam, ad co<lb n="4" />ronam
+			glorie peruenit,  per<lb n="5" />
+			autenticam seriem et aucto<lb n="6" />ritatem,
+			prefati Luce euuan<lb n="7" />geliste,
+			et Iohannis cogno<lb n="8" />mento
+			Marci discipuli, at<lb n="9" />que
+			ex eius gradientes, fida<lb n="10" />
+			relacione pandere curamus.<lb n="11" />
+			<milestone n="1.5" />
+			Denique iste est ille Barna<lb n="12" />bas
+			sanctissimus,  qui et<lb n="13" />
+			Ioseph, unus ex septuaginta<lb n="14" />
+			duobus discipulis domini<lb n="15" />
+			saluatoris,  qui secundum nominis<lb n="16" />
+			sui praesagium,  nam Barna<lb n="17" />bas
+			hebraice,  latine dicitur<lb n="18" />
+			filius consolacionis. Com<lb n="19" />muniter
+			cum sanctis apostolis<lb n="20" />
+			degebat,  et consolacionem<lb n="21" />
+			maximam prebebat
+			<milestone n="1.6" />
+			inter eos.<lb n="22" />
+			<seg type="lectio">Tu autem domine</seg>.</p>
+		<milestone n="1.8" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio iiia.</seg><lb n="23" />
+			Cum uero beatus Paulus,<lb n="24" />
+			conuersus esset ad fi<lb n="25" />dei
+			graciam, eodem anno<lb n="26" />
+			quo dominus passus est  et<lb n="27" />
+			resurrexit,  iste Barnabas in<lb n="28" />
+			inicio fidei eius,  illum ap<lb n="29" />prehendere
+			dignus fuit,  et<lb n="30" />
+			ducere ad apostolos. Sic namque<lb n="31" />
+			beatus  euuangelista refert.<cb n="2" /><lb n="1" />
+			Barnabas autem apprehen<lb n="2" />sum
+			illum, duxit ad apostolos.<lb n="3" />
+			Et narrauit illis,  quomodo  in<lb n="4" />
+			uia uidisset dominum,  et quia lo<lb n="5" />cutus
+			est ei, et quomodo in Da<lb n="6" />masco
+			fiducialiter egerit in<lb n="7" />
+			nomine  Iesu.
+			<milestone n="1.10" />
+			Peruenit autem<lb n="8" />
+			sermo ad aures ecclesie, que<lb n="9" />
+			erat Iherosolimis super istis,<lb n="10" />
+			et miserunt Barnabam An<lb n="11" />thyochiam.
+			Qui cum uenis<lb n="12" />set,
+			et uidisset graciam dei,<lb n="13" />
+			gauisus est, et hortabatur<lb n="14" />
+			omnes manere in domino,<lb n="15" />
+			quia erat uir bonus, et ple<lb n="16" />nus
+			spiritu sancto et fide,  et ap<lb n="17" />posita
+			est turba multa domino.<lb n="18" />
+			<seg type="devotional">Tu autem domine.</seg>
+		</p>
+		<milestone n="1.11" />
+		<p>
+			<seg place="inline" hand="manus1" type="lectio">Lectio iiiia.</seg>
+			<lb n="19" />
+			Quem cum inuenisset,  per<lb n="20" />duxit
+			Anthyochiam,<lb n="21" />
+			et annum totum conuersati<lb n="22" />
+			sunt in ecclesia,  et docuerunt<lb n="23" />
+			turbam multam,  ita ut cog<lb n="24" />nominarentur
+			primum Anthy<lb n="25" />ochie,
+			discipuli christiani.
+			<milestone n="1.12" />
+			Uerum<lb n="26" />
+			quia non tantummodo in pre<lb n="27" />dicacionis,
+			sed etiam in ho<lb n="28" />spitalitatis
+			misericordia be<lb n="29" />nignitas
+			extiterat,  cum disci<lb n="30" />puli
+			elemosinam sanctis Ihero<lb n="31" />solimam
+			destinare curarent,<pb n="79r" /><cb n="1" /><lb n="1" />
+			Barnabam sanctum prae omnibus<lb n="2" />
+			eligere statuerunt. Sic enim<lb n="3" />
+			astruit euuangelista. Disci<lb n="4" />puli
+			autem prout quisque ha<lb n="5" />bebat
+			in ministerio, proposue<lb n="6" />runt
+			mittere habitantibus<lb n="7" />
+			in Iudea fratribus,  quod et fece<lb n="8" />runt
+			mittentes ad seniores,<lb n="9" />
+			per manus Barnabe et Sauli.<lb n="10" />
+			<milestone n="1.13" />
+			Interim quantum talis obedi<lb n="11" />encia,
+			talisque elemosinarum<lb n="12" />
+			uirtus domino deo placuerit,<lb n="13" />
+			quantamque uicissitudinem,<lb n="14" />
+			exinde postquam reuersi sunt,<lb n="15" />
+			in Anthyochiam perceperint,<lb n="16" />
+			sequens lectio demonstrat.<lb n="17" />
+			<seg type="devotional">Tu autem domine.</seg>
+		</p>
+		<p>
+			<seg type="lectio" place="inline" hand="manus1">Lectio va.</seg>
+			<lb n="18" />
+			Barnabas autem et Saulus<lb n="19" />
+			reuersi sunt a Iheroso<lb n="20" />limis,
+			expleto ministerio.<lb n="21" />
+			Erant autem in ecclesia que erat<lb n="22" />
+			Anthyochie,  prophete et doctores<lb n="23" />
+			in quibus Barnabas et Saulus.<lb n="24" />
+			Ministrantibus autem illis do<lb n="25" />mino,
+			et ieiunantibus dixit<lb n="26" />
+			spiritus sanctus. Segregate<lb n="27" />
+			michi Saulum et Barnabam,<lb n="28" />
+			in opus quo assumpsi eos.<lb n="29" />
+			<milestone n="1.14" />
+			Ecce beate nimis Barnaba,<lb n="30" />
+			apostole domini nostri Iesu Christi,<lb n="31" />
+			quanta tibi praebuit et diui<cb n="2" /><lb n="1" />na
+			gratia dona, pro digno<lb n="2" />
+			munere  quod dignus rite pa<lb n="3" />trasti,
+			scilicet ut spiritus almifi<lb n="4" />cus
+			te  uocaret,  mitteretque ad<lb n="5" />
+			populum celestia dicta feren<lb n="6" />tem.
+			<milestone n="1.15" />
+			Repletus autem spiritu<lb n="7" />
+			sancto beatissimus Barna<lb n="8" />bas,
+			quid diceret  ageretque<lb n="9" />
+			cum dilecto collega, nisi il<lb n="10" />lud
+			quod nemo mortalium, sine<lb n="11" />
+			gracia spiritus sancti pa<lb n="12" />trare
+			ualet.
+			<seg type="devotional">Tu autem.</seg>
+		</p>
+			<milestone n="1.16" />
+			<p><lb n="13" />
+					<seg type="lectio" place="inline" hand="manus1">Lectio via.</seg>
+					Sic utique sacra scriptu<lb n="14" />ra
+					denunciat. Secu<lb n="15" />ta
+					est inquit multitudo Iu<lb n="16" />deorum,
+					et aduenarum Paulum<lb n="17" />
+					et Barnabam, qui loquentes<lb n="18" />
+					suadebant eis, ut permane<lb n="19" />rent
+					in gracia dei. Et sequen<lb n="20" />ti
+					sabbato, pene uniuersa<lb n="21" />
+					ciuitas  conuenit audire uer<lb n="22" />bum
+					dei. Audientes autem<lb n="23" />
+					gentes gauisi sunt,  et glo<lb n="24" />rificabant
+					deum, 	  et credi<lb n="25" />derunt
+					quotquot erant praeor<lb n="26" />dinati
+					ad uitam eternam.<lb n="27" />
+					<milestone n="1.17" />
+					O ammirabile misterium<lb n="28" />
+					diuine dispensacionis. O<lb n="29" />
+					praedicandum et glorifican<lb n="30" />dum
+					sacramentum, domini<lb n="31" />
+					saluatoris,  qui sibi recte<pb n="79v" /><cb n="1" /><lb n="1" />
+					famulantibus, tantam graciam<lb n="2" />
+					conferre dignatus est,  ut<lb n="3" />
+					resistentem lumine priuarent,<lb n="4" />
+					et humiliter famulantes, ad<lb n="5" />
+					claritatem perpetue lucis per<lb n="6" />ducerent.
+					<seg type="devotional">Tu autem domine.</seg>
+				</p>
+	</div>
+</body>
+</text>
+</TEI>

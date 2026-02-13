@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 1)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF12604">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>12604</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="89r" /><cb n="1" />
+				<head type="initial"><lb n="32" />
+			Incipit
+			<cb n="2" /><lb n="1" />
+			passio sancti Barnabe apostoli.<lb n="2" />
+		</head>
+		<p>
+			<milestone n="1.1" />
+			Redemptor et saluator noster<lb n="3" />
+			dominus Iesus Christus antequam de in<lb n="4" />teritu
+			Satane triumphans uictor<lb n="5" />
+			et exultans penetraret regna polo<lb n="6" />rum,
+			sanctam ecclesiam quam pretioso sangui<lb n="7" />ne
+			suo adquisiuit, per beatos  et apostoli<lb n="8" />cos
+			uiros immobiliter fundauit, mi<lb n="9" />rabiliter
+			corroborans solidauit.
+			<milestone n="1.2" />
+			Ergo<lb n="10" />
+			cum sanctorum apostolorum natalitia celebramus,<lb n="11" />
+			dignum equidem atque salutare uidetur,<lb n="12" />
+			ut beati Barnabe natalicia deuotis<lb n="13" />sime
+			celebremus,
+			<milestone n="1.3" />
+			quoniamquidem, et non est in<lb n="14" />
+			ordine apostolatus eorum,  non tamen deest<lb n="15" />
+			de cathalogo
+			praedicationis, quia ex<lb n="16" />cellentiam
+			miraculorum, sicut Lucas euan<lb n="17" />gelista
+			refert in actibus apostolorum mira<lb n="18" />biliter
+			patrauit. Nam eo fere  tempo<lb n="19" />re
+			quo sancta ȩcclesia gratiam sancti spiritus susce<lb n="20" />pit,
+			tertio uidelicet post passionem<lb n="21" />
+			domini	anno, cum Paulo apostolo,  ad apostolatus<lb n="22" />
+			celsitudinem, et praedicationem diuinitus<lb n="23" />
+			electus est, uocante illos eodem spiritu<lb n="24" />
+			sancto, atque dicente. Segregate mihi Bar<lb n="25" />nabam,
+			et Saulum, in opus quod assump<lb n="26" />si
+			eos.
+			<milestone n="1.4" />
+			Sed qualiter uir iste domini Bar<lb n="27" />nabas
+			deuotissime fidem catholicam<lb n="28" />
+			praedicando et infideles,  ab errore in<lb n="29" />iquitatis
+			redimendo obprobria, et con<lb n="30" />tumelias
+			pro Christi amore sustinuerit,<lb n="31" />
+			d<subst>
+				<del rend="overstrike" quantity="1" />
+				<add place="inline" hand="manus1-dubia">i</add>
+			</subst>cere
+			studeamus.
+			<milestone n="2.19" />
+			Quodam tempore<pb n="89v" /><cb n="1" /><lb n="1" />
+			dum uenisset in locum  in quo ethnici<lb n="2" />
+			uiri, et femine ludend<subst>
+				<del rend="dotted">i</del>
+				<add place="above" hand="manus1-dubia">o</add>
+			</subst>
+			<add place="above" hand="manus1-dubia">nudi</add> currebant,<lb n="3" />
+			indignatus super tale facinus beatus<lb n="4" />
+			Barnabas,  maledixit continuo tem<lb n="5" />plum,
+			statimque pars templi funditus<lb n="6" />
+			corruit,  magnaque contricio ex eth<lb n="7" />nicis
+			facta est,  qui sub ruina ipsa<lb n="8" />
+			mortui sunt. Ceteri autem qui euase<lb n="9" />runt,
+			fugerunt in templum Apolli<lb n="10" />nis.
+			<milestone n="2.22" />
+			Introeunte autem eo in Salaminam,<lb n="11" />
+			inuenit synagogam Iudeorum, quam<lb n="12" />
+			<sic>exhorheri</sic> cepit et per euangelium sancti Ma<lb n="13" />thei,
+			Christi gratiam introducere.
+			<milestone n="2.23" />
+			At quidam<lb n="14" />
+			Bariesus, et plurimi Iudeorum, hoc comperi<lb n="15" />entes
+			omnem malitiam iniquitatis sue<lb n="16" />
+			ostendentes, sedicione facta contra<lb n="17" />
+			sanctum apostolum, fecerunt eum  comprehende<lb n="18" />re,
+			et querebant tradere consuli, eius<lb n="19" />dem
+			Salamine
+			ciuitatis, affligentes<lb n="20" />
+			eum multis suppliciis et uariis cru<lb n="21" />ciatibus.
+			Post hec autem  ligantes funem<lb n="22" />
+			in collo eius, nocturno tempore di<lb n="23" />laceratum,
+			a synagoga in ipodromum<lb n="24" />
+			pertraxerunt,  et deinde foris portam,<lb n="25" />
+			circumdantesque illum igne crudeliter<lb n="26" />
+			cremauerunt.  Sicque beatus apostolus<lb n="27" />
+			post multos agones, et diuturna<lb n="28" />
+			certamina, pro Christi amore adustus,<lb n="29" />
+			migrauit ad gaudia sempiterna. Impii<lb n="30" />
+			autem Iudei non satiati, de nece illius,<lb n="31" />
+			zelo diu concitati, tulerunt sacratis<cb n="2" /><lb n="1" />simum
+			corpus eius, et in
+			<subst>
+				<del rend="underline">loceo</del>
+				<add place="above" hand="manus1-dubia">locello</add>
+			</subst>
+			plumbeo<lb n="2" />
+			recludentes in mare praecipitare dispone<lb n="3" />bant.
+			<milestone n="2.24" />
+			Interim ego Iohannes qui et Marcus oc<lb n="4" />culte
+			nocturnis horis tulit illud, et<lb n="5" />
+			collocaui<del rend="scratched" quantity="1" /> in cripta, quȩ olim fuerat<lb n="6" />
+			<sic>habicatio</sic> Hiebuseorum,
+			iiio idus iunii.<lb n="7" />
+		</p>
+		<milestone n="explicit-principal" />
+		<head type="final">
+			Explicit passio sancti Barnabe apostoli.
+			<note type="scribal" hand="corr1" place="margin-left">Explicit passio sancti Barnabe apostoli</note>
+		</head>
+	</div>
+</body>
+</text>
+</TEI>

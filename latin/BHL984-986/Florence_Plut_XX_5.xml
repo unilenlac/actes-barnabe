@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="FloPlutXX.5">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Florence</settlement>
+					<repository>Biblioteca Medicea Laurenziana</repository>
+					<collection>Pluteus</collection>
+					<idno>XX, 5</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="41r" /><cb n="1" />
+				<head type="initial">
+			In sancti<lb n="13" />
+			Barnabe apostoli.
+		</head>
+		<milestone n="prologue" />
+		<div>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio</seg>
+				<lb n="14" />
+				Barnabas hebra<lb n="15" />ice,
+				latine inter<lb n="16" />pretatur
+				filius prophete,<lb n="17" />
+				uel filius consolationis. Barna<lb n="18" />bas
+				qui Ioseph natione Cyprie<lb n="19" />
+				ciuitatis, que ex  Cyro rege Per<lb n="20" />sarum
+				fundata extitit, cum Paulo<lb n="21" />
+				ingentibus apostolatum adeptus<lb n="22" />
+				est. Deinde propter Iohannem disci<lb n="23" />pulum,
+				qui etiam cognomento Mar<lb n="24" />chus
+				appellatur  seiunctus a Pau<lb n="25" />lo,
+				nichilominus euangelii pre<lb n="26" />dicatione
+				sibi opus iniunctum<lb n="27" />
+				exercuit,  martyrio coronatus. Cuius<lb n="28" />
+				festiuitas celebratur tertio idus<lb n="29" />
+				iunii.
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

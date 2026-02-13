@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Sar">
+				<msIdentifier>
+					<country>Suisse</country>
+					<settlement>Sarnen</settlement>
+					<repository>Staatsarchiv Obwalden</repository>
+					<collection>Codex membranaceus</collection>
+					<idno>27</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-priere-Sarn" />
+		<pb n="368r" /><cb n="2" />
+		<div>
+						<head type="initial"><lb n="1" />
+				In sancti Barna<lb n="2" />be
+				apostoli oratio.
+			</head>
+			<milestone n="priere-sarn" />
+			<p>
+				Deus qui nos beati Bar<lb n="3" />nabe
+				apostoli tui meritis et<lb n="4" />
+				intercessione letificas concede pro<lb n="5" />pitius,
+				ut qui eius beneficia poscimus<lb n="6" />
+				dono tue gratie consequamur per<note type="editorial">Sous entendu : invocation de Dieu ou du Christ.</note>.
+			</p>
+		</div>
+		<milestone n="prologue" />
+		<div>
+			<p>
+				<seg place="inline" hand="manus1" type="lectio">Lectio</seg>
+				Barnabas hebraice<lb n="7" />
+				latine interpretatur filius pro<lb n="8" />phete
+				uel filius conso<lb n="9" />lacionis.
+				Barnabas qui et Io<lb n="10" />seph,
+				nacione Cyprie ciuitatis,<lb n="11" />
+				qui ex Ciro rege Persarum fundata<lb n="12" />
+				extitit, cum Paulo ingentibus<lb n="13" />
+				apostolatum adeptus est. Deinde<lb n="14" />
+				propter Iohannem discipulum qui etiam<lb n="15" />
+				cognomento Marcus appellatur,<lb n="16" />
+				seiunctus a Paulo nichilomi<lb n="17" />nus
+				euangelice praedicationis sibi<lb n="18" />
+				opus iniunctum exercuit,  martyrio<lb n="19" />
+				coronatur. Cuius festiuitas ce<lb n="20" />lebratur
+				tercio idus iunias.<lb n="21" />
+				<seg type="devotional">Tu autem domine,  miserere nobis.
+					Deo gratias.
+				</seg>
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

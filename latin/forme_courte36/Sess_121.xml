@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 36)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Sess121">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Rome</settlement>
+					<repository>Biblioteca nazionale Vittorio Emanuele III</repository>
+					<collection>Codex Sessorianus</collection>
+					<idno>121 (alias 1378)</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="140v" /><cb n="1" />
+				<head type="initial">
+			<add place="above" hand="manus1">
+				In natale sancti Barnabe apostoli.
+			</add>
+		</head>
+		<p>
+			<milestone n="1.4" />
+		<lb n="1" />
+		Beatus apostolus Barnabas, qualiter<lb n="2" />
+		fidem catholicam praedicauit, et corda in<lb n="3" />fidelium
+		ab iniquitatis errore  rede<lb n="4" />mit,
+		obprobria et contumelias sustinuit,<lb n="5" />
+		pro Christi amore, ac per martirii palmam uene<lb n="6" />rit
+		at coronam gloriae,  iuxta autenticam seriem<lb n="7" />
+		et auctoritatem Luce euuangeliste, et Ioh<lb n="8" />annis
+		cognomento, Marci multi fida  rela<lb n="9" />tione
+		pandere curamus.
+		<milestone n="1.5" />
+		Iste est ille Bar<lb n="10" />nabas,
+		qui et Ioseph unus ex discipulis<lb n="11" />
+		domini nostri cognominatur. Qui   Bar<lb n="12" />nabas
+		hebraice,  latine dicitur filius<lb n="13" />
+		consolationis,
+		<milestone n="1.7" />
+		hoc ipsum deodem Lucas eu<lb n="14" />uangelista
+		refert.  Ioseph qui cognomi<lb n="15" />natus
+		est ab apostolis Barnabas,  quod est<lb n="16" />
+		filius consolationis, leuites Ciprius
+		<subst>
+			<del rend="other" atLeast="1" atMost="5"/>
+			<add place="inline" hand="manus1-dubia">genere</add>
+		</subst><lb n="17" />
+		qui cum haberet agrum  uendidit il<lb n="18" />lum,
+		et atulit precium  ante pedes apo<lb n="19" />stolorum.
+		<milestone n="1.8" />
+		Item de eodem inquit Barna<lb n="20" />bas
+		apprehensum Paulum duxit  ad a<lb n="21" />postolos,
+		et narrauit illis  quomodo  in<lb n="22" />
+		uia uidisset dominum,  et quia locutus est<pb n="141r" /><cb n="1" /><lb n="1" />
+		ei,  et quomodo in Damasco fiducialiter<lb n="2" />
+		egerit, in nomine  Iesu.
+		<milestone n="1.10" />
+		Hoc iterum in acti<lb n="3" />bus
+		apostolorum de eodem legitur. Miserunt apostoli<lb n="4" />
+		Barnaban Antiochiam. Qui cum ue<lb n="5" />nisset
+		et uidisset gratiam dei  gauisus est,<lb n="6" />
+		et hortabatur omnes manere in domino,  quia<lb n="7" />
+		erat uir bonus, spiritu sancto, et fide plenus,<lb n="8" />
+		et aposita est turba multa domino.
+		<milestone n="1.12" />
+		Di<lb n="9" />scipuli
+		autem prout quisque habebat in mini<lb n="10" />sterio,
+		proposuerunt mittere habitantibus<lb n="11" />
+		in Iudea fratribus  quod et fecerunt, mittentes<lb n="12" />
+		ad seniores per manus Barnabe et Pauli.<lb n="13" />
+		<milestone n="1.13" />
+		Quantam autem uissitudinem a domino perce<lb n="14" />perunt,
+		per obedientia et uirtute elemo<lb n="15" />sinarum,
+		sequens lectio demonstrat. Bar<lb n="16" />nabas
+		et Saulus reuersi sunt Ierosolimam,<lb n="17" />
+		expleto ministerio. Erant autem in ecclesia<lb n="18" />
+		que erat Antiochie  prophete et doctores,<lb n="19" />
+		in quibus erant Barnabas et Saulus. Mi<lb n="20" />nistrantibus
+		autem illis domino,  et ieiu<lb n="21" />nantibus,
+		dixit spiritus sanctus. Segregate mihi<lb n="22" />
+		Saulum et Barnaban  in opus quo as<pb n="141v" /><cb n="1" /><lb n="1" />sumpsi eos.
+		<milestone n="1.15" />
+		Ipsi quidem dimissi <del rend="scratched" atLeast="2" atMost="4" /> a sancto<lb n="2" />
+		spiritu, uenerunt Seleutiam, et inde nauiga<lb n="3" />uerunt
+		Ciprum.
+		<milestone n="1.18" />
+		Uenientes autem Listríam,<lb n="4" />
+		claudum ex utero matris curauerunt  adeo,<lb n="5" />
+		ut turbe factum signum conspicientes<lb n="6" />
+		de illis	 dicerent.
+		<milestone n="1.19" />
+		Dii similes facti homini<lb n="7" />bus,
+		descenderunt ad nos,  et uocabant Barna<lb n="8" />ban
+		Iouem, Paulum uero Mercurium,<lb n="9" />
+		quoniam ipse erat dux uerbi.
+		<milestone n="1.33" />
+		Multa alia de eo<lb n="10" />
+		refert Lucas euuangelista, que propter proli<lb n="11" />xitatem
+		duximus omittenta. Restat ut<lb n="12" />
+		tantummodo dicamus quo in loco, et quo<lb n="13" />
+		martirii genere passus est.
+		Et que in sequen<lb n="14" />ti
+		dicturi sumus, relatione Iohannis, co<lb n="15" />gnomento
+		Marci didicimus.
+		<milestone n="2.10" />
+		Dominus noster<lb n="16" />
+		Iesus Christus, quadam nocte apparuit beato Pa<lb n="17" />ulo
+		apostolo dicens. Ne prohibeas Barnaban<lb n="18" />
+		ire Cyprum,  quoniam illic praeparata est gratia dei<lb n="19" />
+		ei, ad illuminationem multorum, et sacrum<lb n="20" />
+		martirium perficiendum. Tu autem perge Ie<lb n="21" />hrusalem,
+		ad loca sacra uisenda. Tunc po<lb n="22" />sitis
+		genibus, orantes  et osculantes se ad<pb n="142r" /><cb n="1" /><lb n="1" />
+		inuicem uale fecerunt.
+		<milestone n="2.11" />
+		Barnabas uero<lb n="2" />
+		cum illo Iohanne, cuius super mentionem ha<lb n="3" />buimus,
+		nauigans Lauditiam, tandem<lb n="4" />
+		peruenit ad Ciprum insulam, de qua exor<lb n="5" />tus
+		erat.
+		<milestone n="2.18" />
+		Hii prohibiti a quodam mago nomi<lb n="6" />ne
+		Barihesu, introi<del rend="scratched">e</del>re Paphum,
+		<milestone n="2.19" />
+		contulerunt<lb n="7" />
+		se in quendam locum, in  quo uiri et femi<lb n="8" />ne
+		nudi ludendo discurrebant.  Barnabas<lb n="9" />
+		indignatus super tale facinus,  maledixit<lb n="10" />
+		templum. Cuius maxima   pars corruit statim,<lb n="11" />
+		et multi exillis sub ipsa  ruina mortui sunt.<lb n="12" />
+		Ceteri  qui euaserunt  fugierunt.
+		<milestone n="2.22" />
+		Cum apud<lb n="13" />
+		Salamíam	 pro sanctum apostolum multi essent con<lb n="14" />uersi
+		ad Christum,
+		<milestone n="2.23" />
+		predictus magus excitauit<lb n="15" />
+		sedicionem populi contra eum. Et comprehen<lb n="16" />dentes
+		aflixerunt  eum multis suppliciis, et<lb n="17" />
+		uariis cruciatibus. De hinc enim macera<lb n="18" />tum
+		et  quassatum penis, ducerent ad iudi<lb n="19" />candum,
+		nunciatus est aduentus cuius<lb n="20" />dam
+		potentis Romani  nomine Euse<lb n="21" />bius,
+		qui erat de progenie Neronis. Iudei ue<lb n="22" />rentes,
+		ne ille eriperet eum de manibus<pb n="142v" /><cb n="1" /><lb n="1" />
+		illorum, ligato fune ad collum  eius, noc<lb n="2" />tu
+		in  prodromom pertraxerunt,  et foris por<lb n="3" />tam
+		apposito igne eum crudeliter c<subst>
+			<del rend="other">l</del>
+			<add place="inline" hand="manus1">r</add>
+		</subst>ema<lb n="4" />uerunt.
+		Sanctus autem apostolus Barnabas sic post<lb n="5" />
+		multos agones adustus, pro Christi amore mi<lb n="6" />grauit
+		ad dominum.  Nondum saciati Iudei,  tu<lb n="7" />lerunt
+		corpus eius,  et in locello plumbeo re<lb n="8" />cluserunt,
+		in mare disponebant praecipitare.<lb n="9" />
+		<milestone n="2.24" />
+		Sed prephatus Iohannes eos preueniens, cum du<lb n="10" />obus
+		Christianis Temone et Rodone noctu mo<lb n="11" />uit,
+		et in quadam cripta collocauit, tercio<lb n="12" />
+		idus iunii.
+		<milestone n="epilogue" />
+		Ibi uenerabile corpus <add place="above" hand="manus1">illius</add> diu latu<lb n="13" />it.
+		Sed deus disponente, qui numquam  pa<lb n="14" />titur
+		gloriam occultari sanctorum suorum, tempo<lb n="15" />re
+		Zenonis imperatoris, et sancti Gelasii pa<lb n="16" />pe,
+		eodem sancto apostolo reuellante in<lb n="17" />uentum
+		est,  atque in himnis et laudibus<lb n="18" />
+		mirifice collocatum, ad laudem et gloriam<lb n="19" />
+		domini nostri Iesu Christi.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 20)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Pal439">
+				<msIdentifier>
+					<country>Vatican</country>
+					<settlement>Vatican</settlement>
+					<repository>Biblioteca Apostolica Vaticana</repository>
+					<collection>Pal. lat.</collection>
+					<idno>439</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<milestone n="1.2" />
+				<pb n="147r" /><cb n="1" />
+				<p><lb n="22" />
+						<space unit="character" quantity="1" />x
+					consorcio<lb n="23" />
+					et collegio<lb n="24" />
+					apostolorum extans<lb n="25" />
+					beatissimus Barnabas<lb n="26" />
+					apostolus tanto deuotissime<lb n="27" />
+					pro sanctam ecclesiam decertare<lb n="28" />
+					studuit quanto diuinitus<lb n="29" />
+					per spiritus sancti graciam cum<cb n="2" /><lb n="1" />
+					beato Paulo apostolo ad apostolatus<lb n="2" />
+					gloriam se deuotum esse<lb n="3" />
+					cognouit
+					<milestone n="1.3" />
+					nam
+					sicut Lucas<lb n="4" />
+					euuangelista refert in<lb n="5" />
+					actibus apostolorum tercio decimo<lb n="6" />
+					anno post passionem domini<lb n="7" />
+					cum beato Paulo ad praedica<lb n="8" />cionem
+					diuinitus esse electus<lb n="9" />
+					conuocante illo spiritu sancto<lb n="10" />
+					atque dicente Segregate<lb n="11" />
+					michi Barnabam et<lb n="12" />
+					Saulum in opus quo<lb n="13" />
+					assumpsi eos
+					<milestone n="2.22" />
+					Introeunte<lb n="14" />
+					itaque eo in Salaminam<lb n="15" />
+					ciuitatem, inuenit synago<lb n="16" />gam
+					Iudeorum quamd ex<lb n="17" />hortari
+					cepit, et per<lb n="18" />
+					euuangelium sancti Mathei<lb n="19" />
+					gratiam Christi introducere<lb n="20" />
+					<milestone n="2.23" />
+					Unde cum multi Iudeorum<lb n="21" />
+					eis praedicacionem recepis<lb n="22" />sent,
+					quidam Bariem<lb n="23" />
+					nomine facta sedicione<lb n="24" />
+					cum Iudeis comprehendit<lb n="25" />
+					apostolum ut traderet eum<lb n="26" />
+					suppliciis et cruciatibus<lb n="27" />
+					Dehinc iam cum mace<lb n="28" />ratum
+					et quassatum penis<lb n="29" />
+					ad iudicandum ducerent<pb n="147v" /><cb n="1" /><lb n="1" />
+					accidit ut deueniret<lb n="2" />
+					quidam uir magnus<lb n="3" />
+					et praepotens nomine Eusebius<lb n="4" />
+					de progenie Neronis im<lb n="5" />peratoris,
+					qui nepos eius<lb n="6" />
+					Comperientes Iudei ad<lb n="7" />uentum
+					eius, uerentesque<lb n="8" />
+					nimium ne illum de<lb n="9" />
+					manibus eorum eriperet,<lb n="10" />
+					ligantes funem in collo<lb n="11" />
+					eius nocturno tempore<lb n="12" />
+					dilaceratum a synagoga<lb n="13" />
+					in opidum pertraxerunt,<lb n="14" />
+					ac deinde foris portam<lb n="15" />
+					Post hec autem circumdantes<lb n="16" />
+					ille ignum crudeliter<lb n="17" />
+					cremauerent. Sicque<lb n="18" />
+					beatus apostolus post multos<lb n="19" />
+					agnones et diuturna<lb n="20" />
+					certamina pro Christi<lb n="21" />
+					nomine igne adustus<lb n="22" />
+					migrauit ad dominum.<lb n="23" />
+					Impii autem Iudei non<lb n="24" />
+					saciati de nece illius<lb n="25" />
+					zelo odii concitati, tu<lb n="26" />lerunt
+					sanctissimum corpus<lb n="27" />
+					eius, et in locello<lb n="28" />
+					plumbeo recludentes in<lb n="29" />
+					mare praecipitare dispo<cb n="2" /><lb n="1" />nebant
+					<milestone n="2.24" />
+					Interim Iohan<lb n="2" />nes
+					qui et Marcus cum<lb n="3" />
+					Tiemone et Rodolie<lb n="4" />
+					nocte tulerunt illud<lb n="5" />
+					et collocauerunt in cripta<lb n="6" />
+					quae olim fuit habitacio<lb n="7" />
+					Iebuseorum tercio ydus<lb n="8" />
+					iunii
+					<milestone n="epilogue" />
+					propter hanc itaque<lb n="9" />
+					occultam collocacionem<lb n="10" />
+					plurimis annorum curriculis<lb n="11" />
+					latuit, nec a christicolis<lb n="12" />
+					inueniri ualuit Sed<lb n="13" />
+					deus omnipotens qui non patitur<lb n="14" />
+					gloriam sanctorum occul<lb n="15" />tari,
+					tempore Zenonis im<lb n="16" />peratoris
+					et sancti Gelasii<lb n="17" />
+					pape eodem sancto apostolo<lb n="18" />
+					reuelantum inuentum est<lb n="19" />
+					atque cum ymnis et lau<lb n="20" />dibus
+					mirifice colloca<lb n="21" />tum
+					est, ad honorem<lb n="22" />
+					et gloriam domini nostri Iesu<lb n="23" />
+					Christi qui cum patre et spiritu<lb n="24" />
+					sancto uiuti et regnat<lb n="25" />
+					per infinita secula saeculorum Amen.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

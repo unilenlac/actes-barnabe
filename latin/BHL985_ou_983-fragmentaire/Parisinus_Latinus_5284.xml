@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL983 ou 985 — fragmentaire)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF5284">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>5284</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="2.24" />
+		<gap />
+		<pb n="23r" /><cb n="1" />
+					<p><lb n="1" />
+			Interim ego praefatus Iohannes qui et Marcus,<lb n="2" />
+			una cum praedictis Tymóne et Rodóne<lb n="3" />
+			occulte nocturnis horis tulimus il<lb n="4" />lud,
+			et collocauimus in cripta  quȩ olim<lb n="5" />
+			fuerat habitatio Iebuseorum tercio idus<lb n="6" />
+			iunii,  hoc est undecima die ipsius men<lb n="7" /><unclear reason="reproduction" atLeast="1" atMost="3" />.
+			<milestone n="epilogue" />
+			Propter hanc itaque occultam col<lb n="8" /><unclear reason="reproduction" atLeast="1" atMost="2" />cationem,
+			plurimis annorum curri<lb n="9" />culis
+			uenerabile corpus illius latuit,<lb n="10" />
+			nec inueniri a christicolis ualuit. Sed<lb n="11" />
+			<unclear reason="reproduction" atLeast="1" atMost="3" /> omnipotens qui non patitur occulta<lb n="12" /><unclear reason="reproduction" atLeast="1" atMost="3" />
+			gloriam sanctorum suorum, tempore<lb n="13" />
+			Zenonis imperatoris et sancti Gelasii pa<lb n="14" /><unclear reason="reproduction" atLeast="1" atMost="3" />,
+			eodem sancto apostolo reuelante corpus<lb n="15" />
+			<unclear reason="reproduction" atLeast="1" atMost="3" />s	inuentum est,  atque cum hymnis<lb n="16" />
+			et laudibus in alio loco mirifice collo<lb n="17" />catum
+			est,   ad honorem et gloriam domini<lb n="18" />
+			nostri Iesu Christi,  qui <subst>
+				<del rend="scratched" atLeast="0" atMost="7" />
+				<add place="inline" hand="corr1-dubia">cum deo</add>
+			</subst>
+			patre et spiritu sancto<lb n="19" />
+			uiuit  et regnat deus, per infinita saecula<lb n="20" />
+			saeculorum amen.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

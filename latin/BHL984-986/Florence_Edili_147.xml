@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (BHL984-986)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="FloEdi147">
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Florence</settlement>
+					<repository>Biblioteca Medicea Laurenziana</repository>
+					<collection>Edili</collection>
+					<idno>147</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-prologue" />
+		<pb n="129v" /><cb n="1" />
+				<head type="initial"><lb n="22" />
+			In sancti Barnabe apostoli.
+		</head>
+			<milestone n="prologue" />
+			<p>
+				<seg type="lectio" place="inline" hand="manus1">Lectio ia</seg>
+				<lb n="23" />
+				Barnabas he<lb n="24" />braice,
+				latine<lb n="25" />
+				interpretatur<lb n="26" />
+				filius prophete<lb n="27" />
+				uel filius con<lb n="28" />solationis.
+				Barnabas qui<lb n="29" />
+				et Ioseph natione Cipriȩ ci<lb n="30" />uitatis,
+				que ex Cyro rege Per<lb n="31" />sarum
+				fundata est, cum Pau<lb n="32" />lo
+				ingentibus apostolatum ad<cb n="2" /><lb n="1" />eptus
+				est. Deinde propter Iohannem<lb n="2" />
+				discipulum, qui etiam cogno<lb n="3" />mento
+				Marcus appellatur,<lb n="4" />
+				seiunctus a Paulo  nichilo<lb n="5" />minus
+				euangelii praedicatione<lb n="6" />
+				sibi opus iniunctum exercu<lb n="7" />it,
+				martirio coronatus.<lb n="8" />
+				Cuius festiuitas celebratur<lb n="9" />
+				tercio ydus iunii.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

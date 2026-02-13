@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 8)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<country></country>
+					<settlement></settlement>
+					<repository></repository>
+					<collection></collection>
+					<idno></idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-inprocessing">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<head type="initial">
+			Barnabe apostoli
+		</head>
+		<p>
+			Ioseph qui cognominatur Barnabas
+			quod in sermone latino sonat filius consolationis,
+			cum primum apostolos domini praedicantes
+			audierat, suoque cordi fides catholica sane
+			illuexerat, agrum unum quem habebat
+			uendidit, tulitque precium ad pedes
+			apostolorum, orans eorum fieri eterne salutationis
+			particeps. Et quoniam scriptum est quod dominus uocat
+			et iustificat, hoc et magnitudo glorificat,
+			impleuit eum dominus spiritus sapiente et
+			intellectus, et donauit multam gratiam
+			praedicationis, qui pro
+			ea  connumeratus inter apostolos
+			factus est unus  ex lxxii
+			discipulis Christi. Hic
+			est etiam ille discipulus, qui primo beati
+			Pauli apostoli conuersionis anno ipsum comprehendere
+			et ad ceteros  apostolos ducere dignus
+			habitus est. Narrauitque illis domini apostolis
+			qualiter dominus Iesus Christus huic beato Paulo
+			in uia qua ibat Damascum apparuerit,
+			et quoniam eum corripiendo conuerterit,
+			quomodo et hi demum in iudaismo non
+			profitiens, plerumque sinagogas Iuderorum
+			in Christi nomine confuderit. Non etiam absurde
+			hi domini famulus filius consolationis est
+			appelatus, nam ipsum Paulum in nouella
+			conuersione sua est consolatus, quem et primum
+			informauit ad uerbum domini praedicandum.
+			Cumque hic cum ipso apostolo postea fuisset
+			aliquo tempore conuersatus, praedicans cum
+			eo in Antiochia, et in multis aliis
+			regionibus uerbum domini, tandem cognouit
+			a Paulo separari debere, iuxta id
+			quod hac uoce ueritatis significatum est
+			eis. Separate mihi Barnabam et Paulum
+			in opus ministerii ad quod assumpsi
+			eos. Igitur Paulo pros inuicem fratres ualedixerunt,
+			et alter alterius gentia deosculans
+			se domino mutuis orationibus
+			commendabant, et ita separati sunt
+			ab inuicem non amplius corporaliter se  uisuri.
+			Tunc Paulus adiit Iherosolimam
+			et Barnabas reuersus est in Ciprum,
+			insulam de qua ipse natus fuerat.
+			Cumque in praedicta insula Barnabas pro ea
+			aliquo tempore commoratus fuisset, iugi
+			praedicationis insistens, aliqua dierum
+			insidus impiorum circumdatus est. Qui eum  comprehendentes,
+			quouisque exspirauit ita distraxerunt.
+			Quid plura? Nondum illi satiati
+			in sanguine amici domini, corpus
+			tunc sacrum igne conburentes in cineres
+			redegerunt, quos cineres in plumbeo
+			locello recludebant ut mane
+			praecipitarent in undas maris, ne
+			christiani secundum hunc sibi martirem facerent.
+			Sed iniquum hi eorum consilium diuina
+			clementia hi modo immutare
+			dignata est. Uenerunt de nocte
+			uenerabiles uiri christiani. Rado, Thimo,
+			et Iohannes, qui subleuantes praefatum locellum
+			cum sacris cineribus, commendauerunt
+			sepulture cum ymnis et laudibus
+			in quadam cripta, que olim habitatio
+			Iebuseorum fuerat.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 40)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc xml:id="Wol495">
+					<msIdentifier>
+						<country>Allemagne</country>
+						<settlement>Wolfenbüttel</settlement>
+						<repository>Herzog August Bibliothek</repository>
+						<collection>Cod. Guelf.</collection>
+						<idno>495 Weiss.</idno>
+					</msIdentifier>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="2.2" />
+<pb n="119v" />
+				<p><lb n="15" />
+			<space quantity="1" />go Iohannes qui et Marcus seruus Iesu Christi, disci<lb n="16" />pulus
+			apostolorum Petri et Pauli et Barnabe opera quae di<lb n="17" />uinitus
+			uidi,  ecclesie dei fideliter pando. Cum essem ydola<lb n="18" />tra
+			in ministerio Cyrilli, pontificis  Iouis,  per beatos apostolos<lb n="19" />
+			conuersus sum, et baptizatus ab eis eis, et Barnabas,  in loco  qui<lb n="20" />
+			dicitur Yconium.<lb n="21" />
+		</p>
+		<milestone n="2.3" />
+		<p>
+			<space quantity="1" />ost hec  uidi in uisione uirum splendidum dicentem<lb n="22" />
+			michi. Iohannes  crede fideliter, et iam  non Iohannes sed<lb n="23" />
+			Marcus uocaberis. Data est enim tibi potestas prae<lb n="24" />dicandi
+			euuangelium, ut cognoscas Christi misteria.
+			<seg type="devotional">Tu.</seg><lb n="25" />
+		</p>
+		<milestone n="2.4" />
+		<p>
+			<space quantity="1" />uigilans obstupui, et procidi ad pedes Barna<lb n="26" />be,
+			narrans ei quae uideram, et Paulus tunc aderat, et<pb n="120r" /><lb n="1" />
+			dixit michi. Caue ut hoc misterium nemini dicas. Nam<lb n="2" />
+			hac nocte apparuit michi Christus, et dixit mihi.  Constans<lb n="3" />
+			esto Barnaba, quia propter me tuam  generationem re<lb n="4" />liquisti,
+			et tradidisti animam tuam pro nomine meo, premi<lb n="5" />a
+			eterna percipies.  <seg type="devotional">Tu autem.</seg><lb n="6" />
+		</p>
+		<p>
+			<space quantity="1" />ed uoca Iohannem et audi abeo quae uidit. Tu autem  con<lb n="7" />serua
+			que uidisti et audisti,  quia ueniet tempus<lb n="8" />
+			quando manifestus appareas.
+			<milestone n="2.5" />
+			Et  commorati sumus<lb n="9" />
+			in Yconio per dies aliquot, apud Thimotheum uirum<lb n="10" />
+			iustum, 	cuius domum Paulus benedixit.<lb n="11" />
+		</p>
+		<p>
+			<space quantity="1" />nde uenimus Seleutiam,  et inter Ciprum, et mini<lb n="12" />stratam
+			ibi eis.  Exeuntes de Cipro uenimus pergentem<lb n="13" />
+			Pamphilie, et  illis abeuntibus mansi ibi duobus<lb n="14" />
+			mensibus. 	Et uolentem ire in partes occidentis,  prohibu<lb n="15" />it
+			me spiritus sanctus. Et ueniens Anthiochiam, audiui<lb n="16" />
+			ibi esse Paulum et Barnabam. <seg type="devotional">Tu autem.</seg><lb n="17" />
+		</p>
+		<milestone n="2.6" />
+		<p>
+			<space quantity="1" />t uidens me Pa<add place="above" hand="manus1-dubia">u</add> gauisus est,  sed me redargu<lb n="18" />it,
+			quia moram in Pamphilia fecissem,  et detinuissem<lb n="19" />
+			libros praedicationis. Et ex praedicatione eorum inniti<lb n="20" />
+			gentilium et Iudeorum crediderunt,
+			<milestone n="2.7" />
+			et statuerunt ire in o<lb n="21" />rientem,
+			et sic reuersi Ciprum.  Sed orauit Barnabas  ut<lb n="22" />
+			prius irent Cyprum ut uideret  parentes suos,  et<lb n="23" />
+			sic irent in Iherusalem
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

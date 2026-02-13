@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 41)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Inn">
+				<msIdentifier>
+					<country>Autriche</country>
+					<settlement>Innsbruck</settlement>
+					<repository>Universitäts- und Landesbibliothek Tirol</repository>
+					<collection></collection>
+					<idno></idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<head type="initial"><lb n="23" />
+			De sancto Barnaba
+		</head>
+		<milestone n="1.5" />
+<pb n="294v" />
+		<p>
+						Barnabas unus<lb n="24" />
+			de septuaginta duobus discipulis Christi fuit.<lb n="25" />
+			<milestone n="1.8" />
+			Sanctus Paulus nouiter conuersus ad apostolos duxit<lb n="26" />
+			narrans eis quia conuersus fuisset.
+			<milestone n="1.25" />
+			Hic cum Paulo in<lb n="27" />
+			Anthiochiam praedicauit multos ad fidem conuertit here<lb n="28" />ticos
+			disputando deuicit.
+			<milestone n="2.15" />
+			Euuangelium Mathei semper seruat<lb n="29" />
+			seu secum portauit et super infirmos ponens ipsos curauit<lb n="30" />
+			<milestone n="2.23" />
+			A Iudeis capitur et ligato fune in collo circa ciuitatem<lb n="31" />
+			trahitur  et igne conburitur.
+			<milestone n="epilogue" />
+			Postea ossa eius in uase plum<lb n="32" />beo
+			recollecta in mare praecipitauerunt
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

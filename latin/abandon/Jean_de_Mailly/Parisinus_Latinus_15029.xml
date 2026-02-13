@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte4)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="BnF15029">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Paris</settlement>
+					<repository>Bibliothèque nationale de France</repository>
+					<collection>Latin</collection>
+					<idno>15029</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="67v" /><cb n="2" />
+				<head type="initial"><lb n="4" />
+			De sancto Barnaba.
+		</head>
+		<milestone n="martyre4-intro" />
+		<p><lb n="5" />
+			Sanctus Barnabas Ciprius genere, u<lb n="6" />nus
+			ex lxxii
+			discipulis domini fuit<lb n="7" />
+			Quoniam et sanctum Paulum conuersum apprehendit,<lb n="8" />
+			et duxit ad apostolos, et narrauit eis quo<lb n="9" />modo
+			conuersus fuerat, sicut in passione<lb n="10" />
+			sancti Pauli dicetur,  Barnabas autem tan<lb n="11" />tam
+			habuit gratiam Christi, quod a spiritu sancto e<lb n="12" />lectus
+			apostolus cum beato Paulo gentibus<lb n="13" />
+			praedicauit , et multa miracula fecit.
+			<milestone n="2.3" />
+			Cum<lb n="14" />
+			autem esset Barnabas in Yconio ciuita<lb n="15" />te
+			uisio apparuit Iohanni consocio et conso<lb n="16" />brino
+			eius. Apparuit <sic>ii</sic> uir splendidus<lb n="17" />
+			dicens. Constans  esto Iohannes, quia a<lb n="18" />modo
+			non Iohannes sed excelsus uocaberis.<lb n="19" />
+			<milestone n="2.4" />
+			Quod cum euigilans sancto Barnabe iu<lb n="20" />dicasset,
+			tradit ei. Caue diligenter<lb n="21" />
+			ne quod uidisti alicui dicas. Nam et<lb n="22" />
+			mihi similiter apparuit dominus dicens. Constans<lb n="23" />
+			esto Barnaba quia praemia eterna percipi<lb n="24" />es,
+			eo quod gentem tuam reliquisti, et a<lb n="25" />nimam
+			tuam pro meo nomine tradidisti.<lb n="26" />
+			<milestone n="2.7" />
+			Cum ergo sanctus Paulus cum Barnaba in<lb n="27" />
+			Antiochia<del rend="dotted">m</del> praedicisset, et ad partes<lb n="28" />
+			occidentis causa praedicationis ire dispo<lb n="29" />nerent,
+			rogabat Paulum sanctus Barna<lb n="30" />bas
+			ut prius iret Ciprum ad uisitandos<pb n="68r" /><cb n="1" /><lb n="1" />
+			parentes suos, et postea in Ierusalem scilicet<lb n="2" />
+			irent. Interim angelus apparuit sancto<lb n="3" />
+			Paulo dicens. Ne tardes uenire Ie<lb n="4" />rusalem,
+			quia quidam fratres ibi te expec<lb n="5" />tant.
+			Quod cum sanctus Paulus sancto<lb n="6" />
+			Barnabe dixisset, respondit.  Fiat uo<lb n="7" />luntas
+			dei.
+			<milestone n="2.9" />
+			Nunc autem Ciprum uado, et<lb n="8" />
+			ibi  uitam finiens te amplius non<lb n="9" />
+			uidebo. Tunc ora pro me ad dominum, ut<lb n="10" />
+			ei placeat ministerium meum. Et cum<lb n="11" />
+			flens ad pedes eius se uolueret,
+			<milestone n="2.10" />
+			compaci<lb n="12" />ens
+			ei Paulus dixit.  Noli flere<lb n="13" />
+			frater, quia sic est uoluntas dei. Nam et<lb n="14" />
+			mihi apparuit dominus hac nocte dicens.<lb n="15" />
+			Ne prohibeas Barnabam ire Ciprum, quia<lb n="16" />
+			multos ibi illuminabit, et martyrium consum<lb n="17" />mabit.
+			Et cum hic ab inuicem disces<lb n="18" />sissent,
+			<milestone n="2.11" />
+			Barnabas et Iohannes discipulus<lb n="19" />
+			properantes Ciprum multos in itinere conuer<lb n="20" />terunt.
+			<milestone n="2.15" />
+			Secum autem ferens euuangelium<lb n="21" />
+			sancti Mathei super egros illud ponebat,<lb n="22" />
+			et continuo sanabantur.
+			<milestone n="2.18" />
+			De Cipro autem<lb n="23" />
+			exeuntes inuenerunt Bariem maleficum<lb n="24" />
+			quem sanctus Paulus dudum ad tempus lu<lb n="25" />mine
+			priuauerat. Sed praecibus Sergii Pau<lb n="26" />li
+			proconsulis sanauerat. Et ab eo prohi<lb n="27" />biti
+			introire Paphum,
+			<milestone n="2.19" />
+			uenerunt ad locum<lb n="28" />
+			ubi  gentiles uiri et femine nudi cur<lb n="29" />rebant.
+			Uerum indignatus Barnabas<lb n="30" />
+			maledixit templum, et statim pars tem<cb n="2" /><lb n="1" />pli
+			cecidit, et occidit plurimos paga<lb n="2" />norum.
+			<milestone n="2.22" />
+			Cum ergo inde exisssent et in Sala<lb n="3" />mína
+			multos conuerterunt,
+			<milestone n="2.23" />
+			comperiens hic<lb n="4" />
+			Bariéu seditionem excitauit, et comprehen<lb n="5" />sum
+			multisque afflictum inuiriis quae<lb n="6" />rebant
+			tradere iudici ciuitatis. Cog<lb n="7" />nito
+			autem quod Eusebius uir magnus<lb n="8" />
+			et praepotens de genere Neronis imperato<lb n="9" />ris
+			illuc aduenerat, timuerunt ne<lb n="10" />
+			eum eriperet de manibus eorum et ligan<lb n="11" />tes
+			funem in  collo eius nocte di<lb n="12" />laceratum
+			penis a sinagoga in <sic>ipo<lb n="13" />dormum</sic>
+			pertraxerunt, et deinde foris por<lb n="14" />tam.
+			Et ibi circumdantes cum crudeliter<lb n="13" />
+			combusserunt. Impii autem Iudei nec<lb n="14" />
+			sic satiati de nece eius, tulerunt ossa<lb n="15" />
+			eius, et in locello plumbeo recludentes<lb n="16" />
+			in mare praecipitare uolebant.
+			<milestone n="2.24" />
+			Interim<lb n="17" />
+			Iohannes discipulus eius cum duobus al<lb n="18" />iis
+			nocte rapuerunt ea, et sepelie<lb n="19" />runt
+			in quaedam cripta,
+			<milestone n="epilogue" />
+			et ibi latuerunt<lb n="20" />
+			usque ad tempora Zenonis imperatoris et<lb n="21" />
+			Gelasii pape scilicet usque ad annum d, et<lb n="22" />
+			ipso reuelante reperta sunt in illa<lb n="23" />
+			cripta.
+		</p>
+	</div>
+</body>
+</text>
+</TEI>

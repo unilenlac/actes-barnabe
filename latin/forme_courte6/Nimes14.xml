@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 6)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Nim">
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Nîmes</settlement>
+					<repository>Bibliothèque Carré d'Art</repository>
+					<collection></collection>
+					<idno>14</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="152v" /><cb n="2" />
+				<head type="initial"><lb n="22" />
+			Incipit passio sancti Barna<lb n="23" />be
+			apostoli.
+		</head>
+		<milestone n="1.2" />
+		<p>
+				Cum sanctorum apostolorum<lb n="24" />
+				nathalicia celebremus, dig<lb n="25" />num
+				equidem atque saluta<lb n="26" />re
+				uidetur, ut sancti Barnabe etiam nathalicia<lb n="27" />
+				deuotissime celebremus,
+				<milestone n="1.3" />
+				quoniamquidem et<lb n="28" />
+				si non est in ordine apostolatus eorum, non<lb n="29" />
+				tamen deest de cathalogo praedicationis, quia<lb n="30" />
+				excellentiam miraculorum sicut Luchas<lb n="31" />
+				euangelista refert in actibus apostolorum mirabi<lb n="32" />liter
+				patrauit. Nam eo <add place="above" hand="manus1-dubia">fere</add>
+				tempore quo sancta ecclesia<lb n="33" />
+				gratiam <add place="above" hand="manus1-dubia">spiritus sancti</add>
+				suscepit, tercio post domini uidelicet<lb n="34" />
+				passionem anno, cum Paulo apostolo ad<pb n="153r" /><cb n="1" /><lb n="1" />
+				apostolatus celsitudinem et praedicationem di<lb n="2" />uinitus
+				electus est, dicente spiritu sancto : segre<lb n="3" />gate
+				mihi Barnaban et Paulum in opus quo<lb n="4" />
+				assumpsi eos.
+			</p>
+			<milestone n="1.5" />
+			<p>
+				<seg hand="manus1" place="inline" type="lectio">Lectio ii</seg>
+				Denique iste est<lb n="5" />
+				ille Barnabas sanctissimus, qui et Ioseph, u<lb n="6" />nus
+				ex septuaginta duobus discipulis domini<lb n="7" />
+				saluatoris, qui secundum nominis sui praesagi<lb n="8" />um,
+				tali nomine uocitatus est. Nam Bar<lb n="9" />nabas
+				ebrayce, latine filius consolationis<lb n="10" />
+				dicitur.
+				<milestone n="2.14" />
+				Hic beatus uir cum peruenisset Cy<lb n="11" />prum,
+				inuenit ibi Timonem, et Aristionem,<lb n="12" />
+				famulos domini.
+				<milestone n="2.15" />
+				Timon autem, urebatur febri<lb n="13" />bus.
+				Cui cum manus imposuisset et sa<lb n="14" />crum
+				euangelium per inuocationem domini<lb n="15" />
+				saluatoris statim febris fugata est.
+			</p>
+			<milestone n="2.16" />
+			<p>
+				<seg hand="manus1" place="inline" type="lectio">Lectio iii</seg>
+				<lb n="16" />
+				Exiens autem inde, inuenit uirum<lb n="17" />
+				nomine Eraclium,
+				<milestone n="2.17" />
+				quem beatus Paulus<lb n="18" />
+				cum ipso Barnaba baptizauerat, et recep<lb n="19" />to
+				spiritu sancto episcopum ordinauerat ad commoni<lb n="20" />tionem
+				fidelium.
+				<milestone n="2.18" />
+				Postea uero inuenit quen<lb n="21" />dam
+				uirum nomine Rodónem, quamuis eth<lb n="22" />nicum,
+				tamen iustum atque benignum. Huic<lb n="23" />
+				cum beatus apostolus sanctam fidem exponeret,<lb n="24" />
+				continuo credidit in dominum, et bap<lb n="25" />tizatus est.
+			</p>
+			<p>
+				<seg hand="manus1" place="inline" type="lectio">Lectio iiii</seg>
+				His ita gestis,<lb n="26" />
+				obuium habuit impium et maleficum<lb n="27" />
+				Iudeum, nomine Barieu, quem olim be<lb n="28" />atus
+				Paulus lumine priuauerat. Hic<lb n="29" />
+				cum cognouisset beatum apostolum, malicia<lb n="30" />
+				commotus, prohibuit eum introire in Pa<lb n="31" />phum.
+				<milestone n="2.19" />
+				Nemo itaque miretur quod praedictus<lb n="32" />
+				Barieu postquam a beato Paulo lumine<lb n="33" />
+				priuatus fuerat uisum receperat, cum non<lb n="34" />
+				illum perpetualiter, sed ut conuerteretur ad<cb n="2" /><lb n="1" />
+				tempus percusserit dicens : eris cecus<lb n="2" />
+				usque ad tempus.
+			</p>
+			<p>
+				<seg hand="manus1" place="inline" type="lectio">Lectio v</seg>
+				Ergo liquido<lb n="3" />
+				constat, quod ad precem Sergii proconsulis<lb n="4" />
+				per beatum apostolum conuersus lumen receperit,<lb n="5" />
+				postmodum uero sicut ille Symon magus<lb n="6" />
+				apostatando transgressor fieret.
+				<milestone n="2.22" />
+				Intro<lb n="7" />eunte
+				itaque beato Barnaba in <sic>Salamiam</sic>,<lb n="8" />
+				inuenit synagogam Iudeorum, quam<lb n="9" />
+				exorare cepit, et per euangelium sancti Ma<lb n="10" />thei,
+				Christ gratiam introducere.
+				<milestone n="2.23" />
+				Hoc dum<lb n="11" />
+				praefatus comperisset Barieu, et quia plurimi<lb n="12" />
+				Iudeorum recepissent praedicationem sancti<lb n="13" />
+				apostoli, omnem maliciam iniquitatis<lb n="14" />
+				sue ostendens, seditione facta contra<lb n="15" />
+				sanctum apostolum, fecit eum comprehendi, et<lb n="16" />
+				querebant tradere consuli eiusdem Sa<lb n="17" />lamine
+				ciuitatis, affligentes illum mul<lb n="18" />tis
+				suppliciis et uariis cruciatibus.
+			</p>
+			<p>
+				<seg hand="manus1" place="inline" type="lectio">Lectio vi</seg>
+				<lb n="19" />
+				De hinc cum iam macȩratum et cassa<lb n="20" />tum
+				penis ducerent ad iudicandum,<lb n="21" />
+				accidit ut deueniret in eandem insu<lb n="22" />lam
+				ex Cipro, quidam uir magnus et<lb n="23" />
+				praepotens nomine Eusebius, scilicet de pro<lb n="24" />ienie
+				imperatoris. Comperientes autem Iu<lb n="25" />dei
+				adventum eius, uerentes nimium<lb n="26" />
+				ne illum eriperet de manibus illorum, li<lb n="27" />gantes
+				funem in collo eius, nocturno tem<lb n="28" />pore
+				dilaceratum a synagoga in ypo<lb n="29" />dromum
+				pertraxerunt, et deinde foris<lb n="30" />
+				portam. Post hec autem circumdantes<lb n="31" />
+				cum igne, crudeliter cremauerunt.<lb n="32" />
+				Sicque beatus apostolus post multos agones et<lb n="33" />
+				diuturna certamina, pro Christi amore adustus<lb n="34" />
+				migrauit ad gaudia sempiterna.
+			</p>
+			</div>
+</body>
+</text>
+</TEI>

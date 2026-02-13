@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 12)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Graz">
+				<msIdentifier>
+					<country>Autriche</country>
+					<settlement>Gräz</settlement>
+					<repository>Universitätsbibliothek</repository>
+					<collection></collection>
+					<idno>282</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div>
+			<milestone n="titre-principal" />
+			<pb n="67r" />
+						<head type="initial"><lb n="5" />
+				De sancto Barnaba, apostolo.
+			</head>
+			<milestone n="1.5" />
+			<p><lb n="6" />
+				Sanctissmus igitur Barnabas qui et Ioseph, unus est<lb n="7" />
+				ex septuaginta duobus discipulis domini salua<lb n="8" />toris,
+				qui secundum nominis sui praesagium,  Barnabas he<lb n="9" />braicȩ
+				latine autem filius consolationis dicitur. Nam conu<lb n="10" /><unclear quantity="1" reason="reproduction" />nerit
+				cum sanctis apostolis degebat,  consolationem maximam<lb n="11" />
+				praebebat
+				<milestone n="1.6" />
+				inter eos uidelicet quibus erat cor unum et anima<lb n="12" />
+				una, nec quisquam eorum quae possidebat aliquid
+				suum esse dice<lb n="13" />bat,
+				sed erant illis omnia communia, et quodquot possesso<lb n="14" />res
+				agrorum aut domorum erant, uendentes afferebant<lb n="15" />
+				precia eorum, et ponebant ante pedes apostolorum.<lb n="16" />
+			</p>
+			<milestone n="1.8" />
+			<p>
+				Postmodum uero cum beatus Paulus conuersus esset ad fidei<lb n="17" />
+				gratiam, eodem anno quo dominus passus est,  et resurrexit,<lb n="18" />
+				iste Barnabas in ipso initio fideli eius illum apprehendere dig<lb n="19" />nus
+				fuit,  et ducere ad apostolos. Sic namque beatus euangelis<lb n="20" />ta
+				refert. Barnabas autem apprehensum illum  duxit<lb n="21" />
+				ad apostolos, et narrauit illis quomodo in uia uidisset<lb n="22" />
+				dominum, et quia locutus esset ei et quomodo in Damas<lb n="23" />co
+				fiducialiter egerit in nomine Iesu.<lb n="24" />
+			</p>
+			<milestone n="1.9" />
+			<p>
+				Plane et diligenter considerare et admirari<lb n="25" />
+				condecet, quantum illum diuina gratia dilectum quan<lb n="26" />tumque
+				amabilem atque dignum habuit, quando in<lb n="27" />ter
+				tot discipulorum cateruas, non alium <add place="above" hand="corr1-dubia">ad</add> instruendum<pb n="67v" /><lb n="1" />
+				et docendum  militem suum nouum miserit, nisi illum qui<lb n="2" />
+				<space unit="character" atLeast="3" atMost="4" />
+				consolationis filius dicebatur, scilicet ut il<lb n="3" />li
+				Saulo qui nouus tyro, nouamque tyrocinii gratiam<lb n="4" />
+				perceperat, dulce sanctȩ trinitatis mysterium  saga<lb n="5" />citer
+				ministraret.<lb n="6" />
+			</p>
+			<p>
+				Denique dante deo, dare quem non penitet<lb n="7" />
+				umquam, quantum eius instructio in nouum Christi<lb n="8" />
+				militem fructificauerit, quantumque inter sanctos a<lb n="9" />postolos
+				gloriosus enituerit repletus spiritu sancto,<lb n="10" />
+				audiamus.
+				<milestone n="1.10" />
+				Peruenit autem sermo ad aures ecclesiȩ,<lb n="11" />
+				que erat Ierosolimis super istis, et miserunt<lb n="12" />
+				Barnaban Antiochiam. Qui cum uenisset et ui<lb n="13" />disset
+				gratiam dei gauisus est, et hortabatur omnes<lb n="14" />
+				manere in domino, quia erat uir bonus, et plenus spiritu<lb n="15" />
+				sancto et fide, et apposita turba multa domino. Nam<lb n="16" />
+				quia illum cognouerant sancti apostoli, esse uirum bonum,<lb n="17" />
+				<space unit="character" atLeast="8" atMost="11" />
+				et non tantummodo bonum, sed quod glo<lb n="18" />riosius<del rend="scratched" atLeast="1" atMost="2" />
+				est atque	 beatius plenum spiritu sancto,  ideo illum ad<lb n="19" />
+				praedicandum mittere studuerunt, ideoque et spiritus sanctus ei<lb n="20" />
+				turbam multam subicere, atque ad cognitionem domini nostri<lb n="21" />
+				Iesu Christi,  mirabiliter perducere dignatus est.
+				<milestone n="1.11" />
+				Sed quia non<lb n="22" />
+				solummodo istos domino adquirere cupiebat, nec nouum<lb n="23" />
+				tyronem obliuioni tradiderat, inhianti studio<lb n="24" />
+				illum comitem ad praedicandum sumere studens, profectus<lb n="25" />
+				est sicut inquit euangelista Tharsum, ut quereret<lb n="26" />
+				Saulum. Quem<space quantity="1" />cum inuenisset,  perduxit Antiochiam,<lb n="27" />
+				et  totum annum conuersati sunt in ȩcclesia, et docuerunt<pb n="68r" /><lb n="1" />
+				turbam multam, ita ut cognominarentur primum Antio<lb n="2" />chiȩ
+				discipuli christiani.
+				<milestone n="1.12" />
+				Uerum quia non tantum<lb n="3" />modo
+				in praedicationis gratia, sed  in
+				hospi<add place="above" hand="corr1-dubia">ta</add>litatis
+				mi<lb n="4" />sericordia
+				benignus extiterat, cum sancti apostoli ele<lb n="5" />mosinam
+				Hierosolimis destinare curarent istum<lb n="6" />
+				prae omnibus, et inter omnes eligere statuerunt. Sic enim astruit<lb n="7" />
+				euangelista. Discipuli autem prout quisque habebat<lb n="8" />
+				in ministerio, proposuerunt mittere habitantibus in Iu<lb n="9" />dea
+				fratribus quod et fecerunt, mittentes ad seniores<lb n="10" />
+				per manus Barnabe et Sauli.
+				<milestone n="1.13" />
+				Interim quantum<lb n="11" />
+				ta<space unit="character" atLeast="2" atMost="3" />lis
+				eorum obedientia,  talisque elemosinarum uirtus,<lb n="12" />
+				domino deo placuerit, quantamque uicissitudinem<lb n="13" />
+				exinde postquam reuersi sunt Antiochiam perceperint, se<lb n="14" />quens
+				lectio demonstrabit. Barnabas autem<lb n="15" />
+				et Saulus reuersi sunt Ierosolimis, expleto ministe<lb n="16" />rio.
+				Erant igitur in ȩcclesia quȩ erat Antiochie prophetȩ<lb n="17" />
+				et doctores, in quibus Barnabas et Saulus. Minis<lb n="18" />trantibus
+				autem domino, et ieiunantibus dixit spiritus sanctus. Se<lb n="19" />gregate
+				mihi Barnaban et Saulum in opus quod as<lb n="20" />sumpsi
+				eos.
+				<milestone n="1.14" />
+				Ecce beate nimis Barnaba apostole<lb n="21" />
+				domini nostri Iesu Christi, quanta tibi probuit diuina gratia<lb n="22" />
+				dona pro digno munere, quod dignum rite parasti,<lb n="23" />
+				scilicet ut spiritus almificus te deuote uocaret, mit<lb n="24" />teretque
+				ad populum celestia dona ferentem.
+				<milestone n="1.15" />
+				Sequitur<lb n="25" />
+				beati euangelistȩ, ad declaranda eius miracula<lb n="26" />
+				le<subst>
+					<del rend="other">e</del>
+					<add place="above" hand="manus1-dubia">c</add>
+				</subst>tio
+				diuina. Et ipsi quidem dimissi a spiritu sancto<lb n="27" />
+				uenerunt Seleuciam, inde Ciprum. Repletus namque<pb n="68v" /><lb n="1" />
+				spiritu sancto beatissimus Barnabas, quid diceret age<lb n="2" />retque,
+				cum dilecto collega, nisi illud quod nemo mor<lb n="3" />talium,
+				nemo sine gratia spiritus sancti patrare ualet,<lb n="4" />
+				sicut in praesenti lectione manifestime decla<lb n="5" />ratur.
+				Nam postquam illum Barieum magum lumine<lb n="6" />
+				priuauerunt, et Sergium Paulum proconsulem, a quo beatus apostolus<lb n="7" />
+				de Saulo Paulus uocatus est ad fidem katholicam<lb n="8" />
+				conuerteretur plurimam gentium multitudinem perduxerunt,<lb n="9" />
+				<milestone n="1.16" />
+				sicut scriptura sacra denunciat. Secuti sunt inquit mul<lb n="10" />titudo
+				Iudeorum, et colentium aduenarum Paulum et<lb n="11" />
+				Barnaban, qui loquentes suadebant eius permanere in<lb n="12" />
+				gratia dei.
+			</p>
+		</div>
+	</body>
+</text>
+</TEI>

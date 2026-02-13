@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Pierre Calo)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<country>Italie</country>
+					<settlement>Venise</settlement>
+					<repository>Biblioteca Nazionale Marciana</repository>
+					<collection></collection>
+					<idno>IX. 18</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-inprocessing">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+	<body>
+		<div><pb n="273r" /><cb n="1" />
+			<div><lb n="40" />
+				<head type="initial">De nomine.</head>
+				<p><lb n="41" />
+					Barnabas primo dictus est Ioseph<lb n="42" />
+					et<note> pas sûr</note>
+					accrescens, postea Barnabas<lb n="43" />
+					ab apostolis cognominatus est<lb n="44" />
+					ut appareat uere sic esse apostolatum<lb n="45" />
+
+				</p>
+			</div>
+		</div>
+	</body>
+</text>
+</TEI>

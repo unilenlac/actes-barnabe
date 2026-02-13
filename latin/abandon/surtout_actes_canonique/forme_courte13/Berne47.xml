@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (martyre 13)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Bern47">
+				<msIdentifier>
+					<country>Suisse</country>
+					<settlement>Berne</settlement>
+					<repository>Bibliothèque de la Bourgeoisie</repository>
+					<collection></collection>
+					<idno>47</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="63v" /><cb n="2" />
+				<head type="initial"><lb n="20" />
+			In natale sancti Barnabe apostoli.
+		</head>
+		<div>
+			<milestone n="Ber-intro" />
+			<p>
+				<seg type="lectio" place="inline" hand="incerta">I</seg>
+				<lb n="21" />
+				Hodie fratres karissimi<lb n="22" />
+				beati Barnabȩ apostoli cȩ<lb n="23" />lebratur
+				natalis, quem ad<lb n="24" />
+				apostolatus officium ingentibus<lb n="25" />
+				una cum beato Paulo apostolo<lb n="26" />
+				a spiritu sancto electum ita apostolici<lb n="27" />
+				actus narrant.
+				<milestone n="Ac13" />
+				Erant in ȩcclesia<lb n="28" />
+				quȩ erat Antiochiȩ, prophetȩ<lb n="29" />
+				et doctores, in quibus Barnabas,<lb n="30" />
+				et Symeon qui uocabatur Niger,<lb n="31" />
+				et  Lucius Cyrenenses, et mane<pb n="64r" /><cb n="1" /><lb n="1" />
+				qui erat Herodis tetrachȩ<lb n="2" />
+				collactaneus, et Saulus. Mi<lb n="3" />nistrantibus
+				autem illis domino, et<lb n="4" />
+				ieiunantibus, dixit spiritus sanctus.<lb n="5" />
+				Separate mihi Barnaban et<lb n="6" />
+				Saulum, in opus quod assumpsi<lb n="7" />
+				eos.
+				Tunc ieiunantes et oran<lb n="8" />tes,
+				imponentes qui eis manus,<lb n="9" />
+				dimiserunt illos. Et ipsi<lb n="10" />
+				quidem missi a spiritu sancto,<lb n="11" />
+				abierunt Seleuciam, et inde<lb n="12" />
+				nauigauerunt Cyprum. Et<lb n="13" />
+				cum peruenissent Salamina,<lb n="14" />
+				praedicabant uerbum domini in sy<lb n="15" />nagogis
+				Iudȩorum. Habebant<lb n="16" />
+				autem Barnabas et Saulus Io<lb n="17" />hannem
+				qui cognominabatur<lb n="18" />
+				Marcus in ministerio. Et<lb n="19" />
+				cum perambulassent
+				uniuersam<lb n="20" />
+				insulam, uenerunt usque ad<lb n="21" />
+				Paphum, et inuenerunt quen<lb n="22" />dam
+				uirum magum, pseudo<lb n="23" />
+				prophetam, Iudȩum, cui nomen erat<lb n="24" />
+				Barieu, qui erat cum proconsu<lb n="25" />le,
+				Sergio Paulo, uiro pru<lb n="26" />denti.
+				Hic accitis Barnaba<lb n="27" />
+				et Saulo, desiderabat audire<lb n="28" />
+				uerbum dei. Resistebat autem<lb n="29" />
+				illis Elimas magus, sic enim<lb n="30" />
+				interpratatur nomen eius, quȩreis<lb n="31" />
+				auertere proconsulem a fide.<cb n="2" /><lb n="1" />
+			</p>
+			<p>
+				<seg place="inline" hand="incerta" type="lectio">II</seg>
+				Saulus autem qui et Paulus, re<lb n="2" />pletus
+				spiritu sancto, intuens in eum,<lb n="3" />
+				dixit. O plene omni dolo,<lb n="4" />
+				et omni fallacia, fili diabo<lb n="5" />li,
+				inimice omnis iusticiȩ,<lb n="6" />
+				non desinis subuertere uias<lb n="7" />
+				domini rectas. Et nunc, ecce<lb n="8" />
+				manus domini super te, et eris<lb n="9" />
+				cȩcus, non uidens solem, usque<lb n="10" />
+				ad tempus. Et confectim cȩ<lb n="11" />cidit
+				in eum caligo et tene<lb n="12" />brȩ,
+				et circuiens quȩrebat<lb n="13" />
+				qui ei manum daret. Tunc<lb n="14" />
+				proconsul cum uidisset factum,<lb n="15" />
+				credidit, ammirans super<lb n="16" />
+				doctrina domini Iesu Christi.<lb n="17" />
+				Et cum a Papho nauigasset<lb n="18" />
+				Paulus, et qui cum eo erant,<lb n="19" />
+				uenerunt Pergén Pamphiliȩ.<lb n="20" />
+				Iohannes autem discedens ab eis,<lb n="21" />
+				reuersus est Hierosolimam.<lb n="22" />
+				Illi uero pertranseuntes Pergén,<lb n="23" />
+				uenerunt Antiochiam Pisidiȩ.<lb n="24" />
+				Et ingressi synagogam die sab<lb n="25" />batorum,
+				sederunt. Post lec<lb n="26" />tionem
+				autem legis et prophetarum,<lb n="27" />
+				miserunt principies synagogȩ<lb n="28" />
+				ad eos, dicentes. Uiri fratres, si<lb n="29" />
+				quis est in uobis sermo ex<lb n="30" />hortationis
+				ad plebem, dicite.<lb n="31" />
+				Tunc Paulus et Barnabas in<pb n="64v" /><cb n="1" /><lb n="1" />cipientes,
+				a lege et prophetis,<lb n="2" />
+				praedicabant eis Iesum Christum.<lb n="3" />
+				Illi autem rogabant eos, ut<lb n="4" />
+				sequenti sabbato loquerentur<lb n="5" />
+				sibi uerba hȩc. Cumque dimis<lb n="6" />sa
+				esset synagoga, secuti sunt<lb n="7" />
+				multi Iudeorum, et colentium<lb n="8" />
+				aduenarium Paulum et Barnaban.<lb n="9" />
+				Qui loquentes suadebant eis,<lb n="10" />
+				ut permanerent in gratia dei.<lb n="11" />
+				Sequenti uero sabbato, pȩne<lb n="12" />
+				uniuersa ciuitas conuenit,<lb n="13" />
+				audire uerbum dei. Uidentes<lb n="14" />
+				autem turbas Iudȩi, repleti<lb n="15" />
+				sunt zelo, et contradicebant,<lb n="16" />
+				hec quȩ a Paulo dicebantur<lb n="17" />
+				blasphemantes. Tunc constan<lb n="18" />ter,
+				Paulus et Barnabas di<lb n="19" />xerunt.
+				Uobis oportebat<lb n="20" />
+				primum loqui uerbum dei, sed<lb n="21" />
+				quoniam repellitis illud, et indi<lb n="22" />gnos
+				uos iudicastis ȩternȩ uitȩ,<lb n="23" />
+				ecce conuertimur ad gentes.<lb n="24" />
+				Sic enim prȩcepit nobis dominus.<lb n="25" />
+				Posui te in lumen gentibus,<lb n="26" />
+				ut sis in salutem, usque ad extre<lb n="27" />mium
+				terrȩ. Audientes autem<lb n="28" />
+				gentes, gauisȩ sunt, et glo<lb n="29" />rificabant
+				uerbum domini, et<lb n="30" />
+				crediderunt, quotquot erant<lb n="31" />
+				praeordinati ad uitam ȩternam.<cb n="2" /><lb n="1" />
+			</p>
+		</div>
+		<div>
+			<p>
+				<seg type="lectio" hand="incerta" place="inline">III</seg>
+				Disseminabatur autem uerbum domini,<lb n="2" />
+				per uniuersam regionem. Iudȩi<lb n="3" />
+				autem concitauerunt religio<lb n="4" />sas
+				mulieres, et honestas, et<lb n="5" />
+				primas ciuitatis, et excita<lb n="6" />uerunt
+				persecutionem in Pau<lb n="7" />lum
+				et Barnaban, et eiecerunt<lb n="8" />
+				eos de finibus suis. At illi ex<lb n="9" />cuso
+				puluere pedum in eos,<lb n="10" />
+				uenerunt Yconium,
+				<milestone n="Ac14" />
+				deinde<lb n="11" />
+				in Lystram et Derbén. Et cum<lb n="12" />
+				constituissent per singulas ȩc<lb n="13" />clesias
+				presbiteros, commen<lb n="14" />dauerunt
+				eos domino, in quem<lb n="15" />
+				crediderunt. Transferentesque<lb n="16" />
+				Pissidiam, uenerunt in Pam<lb n="17" />philiam.
+				Et loquentes in<lb n="18" />
+				pergendo uerbum domini, descen<lb n="19" />erunt
+				in Attaliam. Et inde<lb n="20" />
+				nauigauerunt Antiochiam, unde<lb n="21" />
+				erant traditi gratia dei in opus<lb n="22" />
+				quod compleuerunt. Cum<lb n="23" />
+				autem uenissent, et congregas<lb n="24" />sent
+				ȩcclesiam, retulerunt quan<lb n="25" />ta
+				fecisset deus cum illis, quia<lb n="26" />
+				aperuisset gentibus ostium fidei.<lb n="27" />
+				Paulus ergo et Barnabas de<lb n="28" />morabantur
+				Antiochiȩ, docen<lb n="29" />tes
+				et euangelizantes cum aliis<lb n="30" />
+				pluribus uerbum domini.
+				<milestone n="Ac15" />
+				Post aliquot<lb n="31" />
+				autem dies, dixit ad Barnaban<pb n="65r" /><cb n="1" /><lb n="1" />
+				Paulus. Reuertentes, uisitemus<lb n="2" />
+				fratres per uniuersas ciuitates, in<lb n="3" />
+				quibus praedicauimus uerbum<lb n="4" />
+				domini, quomodo se habeant. Bar<lb n="5" />nabas
+				autem uolebat secum as<lb n="6" />sumere
+				et Iohannem, qui cogno<lb n="7" />minabatur
+				Marcus. Paulus<lb n="8" />
+				autem rogabat eum, ut quia dis<lb n="9" />cessisset
+				ab eis de Pamphilia,<lb n="10" />
+				et non isset cum eis, in opus non<lb n="11" />
+				debere recipi eum. Facta est<lb n="12" />
+				autem dissensio, ita ut disce<lb n="13" />derent
+				ab inuicem, et Barna<lb n="14" />bas
+				assumpto Marco, naui<lb n="15" />garet
+				Cyprum. Paulus uero<lb n="16" />
+				electo Silá profectus est, traditus<lb n="17" />
+				gratiȩ domini a fratribus. Perambu<lb n="18" />labat
+				autem Syriam et Ciliciam,<lb n="19" />
+				confirmans ȩcclesias, percipiens<lb n="20" />
+				custodire praecepta apostolorum<lb n="21" />
+				et seniorum.
+				<milestone n="prologue" />
+				Barnabas autem<lb n="22" />
+				separatus a Paulo, nihilominus<lb n="23" />
+				euangeliçe praedicationis iniun<lb n="24" />ctum
+				sibi opus exercuit.
+				<milestone n="mort-naturel" />
+				Et<lb n="25" />
+				multiplices pro Christo exercens<lb n="26" />
+				labores, ad ultimum in pace<lb n="27" />
+				requieuit.
+				<milestone n="epilogue" />
+				Cuius corpus tem<lb n="28" />pore
+				Zenonis imperatoris<lb n="29" />
+				ipso reuelante repertum est.<lb n="30" />
+				<milestone n="Jerome" />
+				Hic unam ad ȩdificationem ȩcclesiȩ<lb n="31" />
+				pertinentem epistulam composuit.
+			</p>
+		</div>
+	</div>
+</body>
+</text>
+</TEI>

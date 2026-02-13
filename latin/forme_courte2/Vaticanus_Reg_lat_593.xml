@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Forme courte 2)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc xml:id="Reg593">
+				<msIdentifier>
+					<country>Vatican</country>
+					<settlement>Vatican</settlement>
+					<repository>Biblioteca Apostolica Vaticana</repository>
+					<collection>Reg. lat.</collection>
+					<idno>593</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="revision1-finished">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div>
+		<milestone n="titre-principal" />
+		<pb n="74v" />
+				<head type="initial"><lb n="8" />
+			Barnabe apostoli.<lb n="9" />
+		</head>
+		<milestone n="2.19" />
+			<p>
+				Eodem tempore dum uenisset beatus Barnabas in<lb n="10" />
+				locum  in quo ethnici uiri et feminȩ ludendo<lb n="11" />
+				nudi c<subst>
+					<del rend="scratched" unit="character" quantity="1" />
+					<add place="above" hand="manus1-dubia">u</add>
+				</subst>rrebant
+				indignatus super tale facinus beatus<lb n="12" />
+				Barnábas  maledixit continuo templum,  statimque<lb n="13" />
+				pars templi funditus corruit,  magnaque contritio ex<lb n="14" />
+				ethnicis facta est,  qui sub ruina ipsa mortui sunt.<lb n="15" />
+				<milestone n="2.22" />
+				Introeunte autem eo in Sálaminam,  inuenit synago<lb n="16" />gam
+				Iudeorum quam exortari cȩpit, et per ȩuangelium<lb n="17" />
+				sancti Mathei Christi gratiam introducere.
+				<milestone n="2.23" />
+				At quidam   Ba<lb n="18" />riseus
+				et plurimi Iudeorum hoc comperientes omnem<lb n="19" />
+				maliciam iniquitatis suȩ ostendentes  seditione<lb n="20" />
+				facta contra sanctum apostolum fecerunt eum  comprehendi,<lb n="21" />
+				et querebant tradere consuli eiusdem Salamine ciui<lb n="22" />tatis
+				affligentes eum multis suppliciis et uariis cru<lb n="23" />ciatibus.
+				Post hȩc autem  ligantes funem in collo eius,<lb n="24" />
+				nocturn<subst>
+					<del rend="dotted">a</del>
+					<add place="above" hand="manus1">o</add>
+				</subst>
+				tempore dilaceratum a synagoga in ypo<pb n="75r" /><lb n="1" />dromum
+				pertraxerunt,  et deinde foris portam, circum<lb n="2" />dantes
+				<del rend="scratched" atLeast="1" atMost="2" unit="character" />
+				illum igne crudeliter cremauerunt.  Sicque beatus<lb n="3" />
+				apostolus post multos agones et diuturna certamina pro<lb n="4" />
+				Christi amore adustus migrauit ad gaudia sempiterna.
+			</p>
+	</div>
+</body>
+</text>
+</TEI>

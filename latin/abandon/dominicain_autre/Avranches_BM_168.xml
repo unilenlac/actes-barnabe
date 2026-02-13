@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acta Barnabae (Légendier dominicain)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
+				<pubPlace>Lausanne</pubPlace>
+				<date>2017…</date>
+			</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<country>France</country>
+					<settlement>Avranches</settlement>
+					<repository>Bibliothèque municipale</repository>
+					<collection></collection>
+					<idno>168</idno>
+				</msIdentifier>
+			</msDesc>
+		</sourceDesc>
+		</fileDesc>
+		<revisionDesc status="transcription-inprocessing">
+			<change />
+		</revisionDesc>
+	</teiHeader>
+<text>
+<body>
+	<div><pb n="64r" /><cb n="1" />
+		<head type="initial"><lb n="22" />
+			Incipit passio sancti Barna<lb n="23" />be
+			apostoli.
+		</head>
+		<head type="lectio">
+			Prima.
+		</head>
+		<p><lb n="24" />
+			Barnabas interpretatur<lb n="25" />
+			filius uenientis, uel<lb n="26" />
+			filius consolationis, aut<lb n="27" /><note>Jérôme, liber interpretationis hebraicorum nominum</note>
+			filius prophete, aut filius<lb n="28" />
+			concludens. Quatuor incibus po<lb n="29" />nitur
+			filius, propter quatuor<lb n="30" />
+			modos filiatonis ipsius,<note>le i du début ressemble à r, mais en fait la droite du i est la gauche du p</note>
+			di<lb n="31" />citur
+			enim filius in scriptura<cb n="2" /><lb n="1" />
+			ratione generationis, erudi<lb n="2" />tionis,
+			imitationis,<note>on pourrait lire mutationis, mais la phrase suivante qui parle de l'imitation par le martyre empeĉhe cette lecture</note> et adoptio<lb n="3" />nis.
+			Fuit enim a Christo<note>xp>Chr</note>
+			per la<lb n="4" />ptisimum<note>pour latissimum (superlatif de latus), la phrase complète signifiant "par le Christ, il a été fait régnant sur une trés grande étendue". A mon avis, il y a corruption du texte parce que pour les 3 autres formes de filiation on a un // clair entre les deux phrases
+				eruriditionis > eriditus per euangelium
+				imitationis > imitatus per martirium
+				adoptionis > adoptatus
+
+				ici par contre on aurait generationis > regnatus. A moins qu'il ne s'agisse d'une allusion scripturaire (genre je t'ai engendré roi)... à creuser.
+			</note>
+			regnatus, eruditus<lb n="5" />
+			per euangelium. Est ipsum imita<lb n="6" />tus
+			per martirium, et  ab i<lb n="7" />pso
+			adoptagtus per celeste praemi<lb n="8" />um.
+			Et hoc quantum ad se. Quan<lb n="9" />tum
+			neom ad alios fiut  adueni<lb n="10" />ens,
+			consolans<note>folio suivant, col 1, ligne 24, on a un o̧ pour con, il manque juste la cédille ici</note>
+			concludens et<lb n="11" />
+			prophetans.  Aduemens discur<lb n="12" />rendo
+			et predicando ubicumque<lb n="13" />
+			quod pater qui fuit socius Pau<lb n="14" />li
+			consolans
+			pauperes<note>le trait gauche du a se confond avec le trait droit du p</note>
+			et desolatos,<lb n="15" />
+			pauperes, quibus elemosinam<lb n="16" />
+			detulit, desolatos, quibus ex<lb n="17" />
+			parte apostolum epistolam desti<lb n="18" />nauit,
+			prophetans, quia pro<lb n="19" />phecie
+			spiritu daruit, con<lb n="20" />cludens
+			qui magnam multitudi<lb n="21" />nem
+			in fide conclusit et adu<lb n="22" />nauit<note>adunare > voir Ducange, DMLBS "to unite, unify, combine, to annex"</note>,
+			sicut pater cum missus<lb n="23" />
+			fuit in Antiochiam, de hiis<lb n="24" />
+			quatuor actuum apostolorum undeci<lb n="25" />mo
+			capitulo. Erat uir id est<lb n="26" />
+			uirilis quantum ad primum,<lb n="27" />
+			bonus quantum ad secundum, plenus<lb n="28" />
+			spiritu sancto quantum ad tercium<lb n="29" />
+			et fidelis quantum ad quartum.
+		</p>
+		<head type="final">
+			Explicit<lb n="30" />
+		</head>
+		<note>indication liturgique que je ne transcrit pas
+		</note>
+		<head type="initial">
+			Lectio secunda.<lb n="31" />
+		</head>
+		<p>
+			Eius passionem compilauit<pb n="64v" /><cb n="1" /><lb n="1" />
+			Iohannes qui et Marcus eius con<lb n="2" />sobrinus,
+			maximum a uisione<lb n="3" />
+			ipsius Iohannis usque fere in finem<lb n="4" />
+			quam Beda de greco in latinum creditur<lb n="5" />
+			transtulisse<note> pas certain de la lecture, mais seul qui aurait un peu de nses> l'auteur attribuerait la traduction des Ab du grec vers le latin à Bede,  cf  Iohannes Aegidius Zamorensis - Legendae sanctorum et festiuitatum aliarum de quibus ecclesia sollemnizat - LLT-B, pag.: 266, linea: 2</note>.
+			Barnabas leuites<lb n="6" />
+			cyprius genere, unus de septu<lb n="7" />aginta
+			domini discipulis, ab hysto<lb n="8" />ria
+			actuum in multis extollitur<lb n="9" />
+			et laudatur. Fuit namque opti<lb n="10" />me
+			informatus et ordinatus,<lb n="11" />
+			et hoc quantum ad se et quantum ad<lb n="12" />
+			deum et quantum ad proximum.<lb n="13" />
+			Quantum ad se ordinatus exti<lb n="14" />tit
+			secundum tres uires, scilicet ratio<lb n="15" />nabilem
+			concupiscibilem<note>terme pas forcément pejoratif, cf Sg 6, 18</note>
+			et<lb n="16" />
+			irascibilem. Habuit namque ra<lb n="17" />tionabilem
+			illustratam lumi<lb n="18" />ne
+			cognitionis, unded dicitur<lb n="19" />
+			actuum apostolorum decimo quar<lb n="20" />to
+			capitulo, fuerant autem in ecclesia<lb n="21" />
+			quae est Antiochie prophete et doctores<lb n="22" />
+			in quibus Barnabas et Simon et<lb n="23" />
+			cetera.
+		</p>
+		<head type="final">
+			Explicit.
+		</head>
+		<note>reference liturgique que je ne transcrit pas
+		</note>
+		<head type="lectio">
+			iii
+		</head>
+		<p><lb n="24" />
+			Secundo <sic>hunic</sic><note>trait au dessus du u > un + i avant le c</note>
+			sanctus Barna<lb n="25" />bas
+			concupisci<lb n="26" />bilem,
+			purgatam a puluere mun<lb n="27" />dane
+			affectionis. Unide dicitur<lb n="28" />
+			actuum apostolorum quarto capitulo,<lb n="29" />
+			quod Ioseph qui cognominatus<lb n="30" />
+			est Barnabas, cum haberet  agrum<lb n="31" />
+			uendidit illum, et attulit preci<cb n="2" /><lb n="1" />um
+		</div>
+</body>
+</text>
+</TEI>
