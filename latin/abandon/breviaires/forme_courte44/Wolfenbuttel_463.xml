@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 45)</title>
+				<title>Acta Barnabae (Forme courte 45) - Wolfenbuttel_463</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+				<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -32,32 +38,13 @@
 	<div>
 		<milestone n="titre-principal" />
 <pb n="271v" /><cb n="1" />
-				<!-- Jean-Daniel, jusqu'à "lectio prima", c'est le passage que j'hésite à transcrire. J'ai franchement des doutes sur l'interet.
-		<head type="initial"><lb n="8" />
-			Sancti<lb n="9" />
-			Barnabe apostoli
-			ad primam uersus<lb n="10" />
-			preces cum antecedens feriales.
-			((Traduction
-			Vers pour S. Barnabé apotre, à la première (heure). Prière avec les fêtes qui précédent))
-		</head>
-		<milestone n="martyre44-prieres" />
-			<milestone n="martyre44-priere-Barnabe">
-			La suite est extrait du sacrementaire romain, adapté
-			<seg type="lectio" place="inline" hand="manus1">Oratio</seg><lb n="13" />
-			Omnipotens sanctus deus qui nos y<lb n="13" />doneos (( pour idoneos))
-			non esse perpendis ad maie<lb n="14" />statem
-			tuam sicut dignum est<lb n="15" />
-			exorandum. Da sanctum apostolum<lb n="16" />
-			tuum	Barnabam pro nostris tibi<lb n="17" />
-			supplicare peccatis,  quem  ??? exaudire dignei ((sans doute erreur pour digne))  Per ((sous entendu dominum nostrum))
-		-->
+				
 			<milestone n="1.1" />
 		<p><lb n="22" />
 			<seg place="inline" hand="manus1" type="lectio">Lectio prima</seg><lb n="23" />
 			Redemptor et saluator<lb n="24" />
-			noster dominus Iesus Christus ante<lb n="25" />quam
-			de interitu Sathane trium<lb n="26" />phans
+			noster dominus Iesus Christus ante<lb n="25" break="no" />quam
+			de interitu Sathane trium<lb n="26" break="no" />phans
 			uictor et exultans<lb n="27" />
 			penetraret regna polorum<lb n="28" />
 			sanctam ecclesiam  precioso sanguine<lb n="29" />
@@ -65,10 +52,10 @@
 			apostolicos uiros immobiliter<lb n="31" />
 			muniens fundauit,   mirabiliter<lb n="32" />
 			corroborans solidauit,  scilicet<lb n="33" />
-			ut pro ipso inuiolata semper ma<lb n="34" />neret
-			et glorosia, et illorum pre<lb n="35" />dicatione
-			nouam sibi proge<lb n="36" />niem
-			et plurimos filios aggrega<lb n="37" />ret.<cb n="2" /><lb n="1" />
+			ut pro ipso inuiolata semper ma<lb n="34" break="no" />neret
+			et glorosia, et illorum pre<lb n="35" break="no" />dicatione
+			nouam sibi proge<lb n="36" break="no" />niem
+			et plurimos filios aggrega<lb n="37" break="no" />ret.<cb n="2" /><lb n="1" />
 		</p>
 		<milestone n="1.2" />
 		<p>
@@ -78,8 +65,8 @@
 			Barnabas tanto deuotius<lb n="4" />
 			pro ipsa decertare studuit, quanto<lb n="5" />
 			diuinitus per spiritus sancti graciam<lb n="6" />
-			cum beato Paulo apostolo ad apostola<lb n="7" />tus
-			gratiam  se uocatum esse cog<lb n="8" />nouit.
+			cum beato Paulo apostolo ad apostola<lb n="7" break="no" />tus
+			gratiam  se uocatum esse cog<lb n="8" break="no" />nouit.
 			<seg type="devotional">Tu.</seg>
 		</p>
 		<p>
@@ -92,11 +79,11 @@
 			quoniam<lb n="13" /> quidem
 			et si non est in ordine<lb n="14" />
 			duodenario <sic>apostolus apostolatus</sic><lb n="15" />
-			eorum,  non tamen deest decha<lb n="16" />logo
-			praedicacionis et excellen<lb n="17" />cia
-			miraculorum  que cum bea<lb n="18" />tissimo
+			eorum,  non tamen deest decha<lb n="16" break="no" />logo
+			praedicacionis et excellen<lb n="17" break="no" />cia
+			miraculorum  que cum bea<lb n="18" break="no" />tissimo
 			Paulo sicut Lucas<lb n="19" />
-			euuangelista refert in actibus apo<lb n="20" />stolorum
+			euuangelista refert in actibus apo<lb n="20" break="no" />stolorum
 			mirabiliter patrauit<lb n="21" />
 			A tempore uidelicet  quo per uocacionem<lb n="22" />
 			et gratiam spiritus sancti quarto decimo<lb n="23" />
@@ -104,14 +91,14 @@
 			ipso ad apostolatus celsitudinem<lb n="25" />
 			ac praedicationem  diuinitus est<lb n="26" />
 			electus, uocante eos eodem<lb n="27" />
-			spiritu sancto atque dicente. Segre<lb n="28" />gate
+			spiritu sancto atque dicente. Segre<lb n="28" break="no" />gate
 			mihi Barnabam et Paulum<lb n="29" />
 			in opus quo assumpsi eos <seg type="devotional">Tu.</seg>.<lb n="30" />
 		</p>
 			<milestone n="1.14" />
 		<p>
-			Ecce beate nimis Barna<lb n="31" />ba
-			apostole domini nostri Iesu Christi quan<lb n="32" />ta
+			Ecce beate nimis Barna<lb n="31" break="no" />ba
+			apostole domini nostri Iesu Christi quan<lb n="32" break="no" />ta
 			tibi tribuit diuina gracia<lb n="33" />
 			dona pro digno munere  quod<lb n="34" />
 			dignus rite patrasti  scilicet ut<lb n="35" />
@@ -122,7 +109,7 @@
 			Sequitur beati euuangeliste<lb n="4" />
 			ad declaranda eius miracula<lb n="5" />
 			diuina lectio et ipsi quidem<lb n="6" />
-			missi a spiritu sancto uenerunt Seleu<lb n="7" />ciam,
+			missi a spiritu sancto uenerunt Seleu<lb n="7" break="no" />ciam,
 			et inde nauigauerunt Ciprum.<lb n="8" />
 			<seg type="devotional">Tu</seg>
 		</p>
@@ -130,20 +117,20 @@
 			<seg place="inline" hand="manus1" type="lectio">Lectio v</seg>
 			Repletus namque<lb n="9" />
 			beatissimus Barnabas spiritu sancto<lb n="10" />
-			quid dicetur quod ageret cum di<lb n="11" />lecto
-			collega illud  quod ne<lb n="12" />mo
+			quid dicetur quod ageret cum di<lb n="11" break="no" />lecto
+			collega illud  quod ne<lb n="12" break="no" />mo
 			mortalium nemo sine gratia<lb n="13" />
 			spiritus sancti patrare ualet<lb n="14" />
-			sicut in praesencia horum manife<lb n="15" />stissime
+			sicut in praesencia horum manife<lb n="15" break="no" />stissime
 			declaratur.
 			<milestone n="2.23" />
 			Se hinc cum<lb n="16" />
-			comperisset beatum Barnabam quae<lb n="17" />dam
+			comperisset beatum Barnabam quae<lb n="17" break="no" />dam
 			Iudeus nomine Bariheus<lb n="18" />
 			quia plurimi recepissent<lb n="19" />
-			praedicacionem sancti apostoli  sedi<lb n="20" />tione
+			praedicacionem sancti apostoli  sedi<lb n="20" break="no" />tione
 			facta comprehenderunt<lb n="21" />
-			eum,   affligentes multis sup<lb n="22" />pliciis
+			eum,   affligentes multis sup<lb n="22" break="no" />pliciis
 			et uariis cruciatibus.<lb n="23" />
 			<seg type="devotional">tu</seg>
 		</p>
@@ -151,20 +138,20 @@
 			<seg place="inline" hand="manus1" type="lectio">Lectio via</seg>
 			Post hec uero cum iam<lb n="24" />
 			maceratum et quassatum penis<lb n="25" />
-			duceret ad iudicandum Sola<lb n="26" />mine
-			ciuitatis  consuli acci<lb n="27" />dit
-			ut dum iret in eadem in<lb n="28" />sula
+			duceret ad iudicandum Sola<lb n="26" break="no" />mine
+			ciuitatis  consuli acci<lb n="27" break="no" />dit
+			ut dum iret in eadem in<lb n="28" break="no" />sula
 			Cibo quidam uir  nomine<lb n="29" />
 			Eusebius scilicet de progenie Neronis<lb n="30" />
 			imperatoris. Comperientes autem<lb n="31" />
 			Iudei aduentum eius uerentes<lb n="32" />
-			nimium  ne ille  eriperet de mani<lb n="33" />bus
+			nimium  ne ille  eriperet de mani<lb n="33" break="no" />bus
 			eorum ligantes funem <sic>in<cb n="2" /><lb n="1" />
 				in</sic> collo eius nocturno tempore<lb n="2" />
 			dilaceratum a synagoga in<lb n="3" />
 			ypodromum pertraxerunt  et<lb n="4" />
 			deinde foris portas, post haec<lb n="5" />
-			circumdantes illum igne cru<lb n="6" />deliter
+			circumdantes illum igne cru<lb n="6" break="no" />deliter
 			cremauerunt. Sic beatus<lb n="7" />
 			apostolus  pro Christi nomine adustus<lb n="8" />
 			migrauit ad gaudia sempiterna.

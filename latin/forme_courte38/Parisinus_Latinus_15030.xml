@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 38)</title>
+				<title>Acta Barnabae (Forme courte 38) - Parisinus_Latinus_15030</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -42,7 +49,7 @@
 			uictor et exultans penetraret regna celorum,<lb n="4" />
 			sanctam ecclesiam quam precioso suo sanguine<lb n="5" />
 			adquisiuit, per beatos apostolos et apostolicos<lb n="6" />
-			uiros immobiliter muniens fundauit,  mirabiliter<lb n="7" />que
+			uiros immobiliter muniens fundauit,  mirabiliter<lb n="7" break="no"/>que
 			solidauit corroborans, scilicet ut et ipsa<lb n="8" />
 			inuiolata semper et gloriosa maneret,  et<lb n="9" />
 			illorum predicacione nouam sibi progeniem<lb n="10" />
@@ -53,7 +60,7 @@
 			Barnabas tanto deuotissime pro ipsa decertare<lb n="13" />
 			studuit, quanto diuinitus spiritus sancti gracia<lb n="14" />
 			cum beato Paulo apostolo ad apostolatus<lb n="15" />
-			gloriam uocatum se esse cognouit.<!--deux traits > point, un trait > virgule-->
+			gloriam uocatum se esse cognouit.
 			Ergo<lb n="16" />
 			cum sanctorum apostolorum natalicia celebramus<lb n="17" />
 			dignum equidem atque salutare uidetur, ut<lb n="18" />
@@ -101,7 +108,7 @@
 			Paulus conuersus esset ad fidei graciam eodem<lb n="21" />
 			secundo	anno  quo dominus passus est,  et resurrexit<lb n="22" />
 			iste beatissimus Barnabas in ipso initio fidei<lb n="23" />
-			eius<!-- pas de ponctuation--> Illum apprehendere dignus fuit,  et<lb n="24" />
+			eius Illum apprehendere dignus fuit,  et<lb n="24" />
 			perducere ad apostolos,  et narrauit illis<lb n="25" />
 			quomodo  uidisset dominum, et quia locutus<lb n="26" />
 			ei sit, et quomodo in Damasco fiducialiter<lb n="27" />
@@ -234,7 +241,7 @@
 			astuciam Sathane. Ideoque prouidebant<lb n="13" />
 			ne corda renouata sanctorum pestifero<lb n="14transcriptions-ab/-/issues/4/" />
 			germine zizania fedaretur,  postmodum<lb n="15" />
-			uero ait euuangelista<!-- pas de point -->
+			uero ait euuangelista
 			Uisum est eis ut<lb n="16" />
 			beatus Paulus reuerteretur Ierosolimis,<lb n="17" />
 			Barnabas uero repeteret ciuitatem suam<lb n="18" />

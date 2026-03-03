@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Acta Barnabae (Forme courte 22)</title>
+			<title>Acta Barnabae (Forme courte 22) - PalLat477</title>
 		</titleStmt>
 		<publicationStmt>
 			<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 			</msIdentifier>
 		</msDesc>
 	</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 	</fileDesc>
 	<revisionDesc status="revision1-finished">
 		<change />
@@ -40,64 +47,64 @@
 		<p>
 			<seg place="inline" hand="manus1" type="lectio">Lectio prima.</seg>
 			<cb n="2" /><lb n="1" />
-			Cum ergo sanctorum apos<lb n="2" />tolorum
-			natalicia ce<lb n="3" />lebramus,
+			Cum ergo sanctorum apos<lb n="2" break="no"/>tolorum
+			natalicia ce<lb n="3" break="no"/>lebramus,
 			dignum et salutare<lb n="4" />
 			uidetur, ut sancti Barnabe<lb n="5" />
-			apostoli, sollempnitatem deuotis<lb n="6" />sime
+			apostoli, sollempnitatem deuotis<lb n="6" break="no"/>sime
 			celebremus.
 			<milestone n="1.3" />
 			Quoniam et<lb n="7" />
-			si non est in ordine duode<lb n="8" />nario
+			si non est in ordine duode<lb n="8" break="no"/>nario
 			apostolatus eorum,  non<lb n="9" />
 			tamen deest de cathalogo<lb n="10" />
 			praedicacionis, et excellencia<lb n="11" />
-			miraculorum, que cum be<lb n="12" />atissimo
+			miraculorum, que cum be<lb n="12" break="no"/>atissimo
 			Paulo, sicut Lucas<lb n="13" />
-			euuangelista refert, in acti<lb n="14" />bus
+			euuangelista refert, in acti<lb n="14" break="no"/>bus
 			apostolorum mirabiliter<lb n="15" />
 			patrauit. A tempore scilicet, quo<lb n="16" />
 			per uocacionem et graciam spiritus<lb n="17" />
 			sancti, tercio decimo post<lb n="18" />
 			domini passionem anno, cum<lb n="19" />
 			ipso <add place="above" hand="manus1-dubia">ad</add> apostolatus
-			celsitudi<lb n="20" />nem,
-			ac praedicacionem diuini<lb n="21" />tus
+			celsitudi<lb n="20" break="no"/>nem,
+			ac praedicacionem diuini<lb n="21" break="no"/>tus
 			electus est, uocante illos<lb n="22" />
-			eodem spiritu sancto atque di<lb n="23" />cente.
-			Segregate michi Bar<lb n="24" />naban
+			eodem spiritu sancto atque di<lb n="23" break="no"/>cente.
+			Segregate michi Bar<lb n="24" break="no"/>naban
 			et Saulum, in opus<lb n="25" />
 			quod assumpsi eos.
 			<seg type="devotional">Tu autem domine.</seg>
 		</p>
 		<milestone n="1.4" />
 		<p>
-			<seg place="inline" hand="manus1" type="lectio"><lb n="26" />Lectio iia.</seg>
+			<seg place="inline" hand="manus1" type="lectio"><lb n="26" break="no"/>Lectio iia.</seg>
 			Sed uir iste<lb n="27" />
 			qualiter domini Barnabas,<lb n="28" />
-			deuotissime fidem katho<lb n="29" />licam
+			deuotissime fidem katho<lb n="29" break="no"/>licam
 			praedicando, et corda<lb n="30" />
-			infidelium ab errore iniqui<lb n="31" />tatis
-			redimendo, obpro<pb n="78v" /><cb n="1" /><lb n="1" />bria
+			infidelium ab errore iniqui<lb n="31" break="no"/>tatis
+			redimendo, obpro<pb n="78v" /><cb n="1" /><lb n="1" break="no"/>bria
 			et contumelias pro Christi<lb n="2" />
-			amore sustinendo.  Ac dein<lb n="3" />de
-			per martirii palmam, ad co<lb n="4" />ronam
+			amore sustinendo.  Ac dein<lb n="3" break="no"/>de
+			per martirii palmam, ad co<lb n="4" break="no"/>ronam
 			glorie peruenit,  per<lb n="5" />
-			autenticam seriem et aucto<lb n="6" />ritatem,
-			prefati Luce euuan<lb n="7" />geliste,
-			et Iohannis cogno<lb n="8" />mento
-			Marci discipuli, at<lb n="9" />que
+			autenticam seriem et aucto<lb n="6" break="no"/>ritatem,
+			prefati Luce euuan<lb n="7" break="no"/>geliste,
+			et Iohannis cogno<lb n="8" break="no"/>mento
+			Marci discipuli, at<lb n="9" break="no"/>que
 			ex eius gradientes, fida<lb n="10" />
 			relacione pandere curamus.<lb n="11" />
 			<milestone n="1.5" />
-			Denique iste est ille Barna<lb n="12" />bas
+			Denique iste est ille Barna<lb n="12" break="no"/>bas
 			sanctissimus,  qui et<lb n="13" />
 			Ioseph, unus ex septuaginta<lb n="14" />
 			duobus discipulis domini<lb n="15" />
 			saluatoris,  qui secundum nominis<lb n="16" />
-			sui praesagium,  nam Barna<lb n="17" />bas
+			sui praesagium,  nam Barna<lb n="17" break="no"/>bas
 			hebraice,  latine dicitur<lb n="18" />
-			filius consolacionis. Com<lb n="19" />muniter
+			filius consolacionis. Com<lb n="19" break="no"/>muniter
 			cum sanctis apostolis<lb n="20" />
 			degebat,  et consolacionem<lb n="21" />
 			maximam prebebat
@@ -108,32 +115,32 @@
 		<p>
 			<seg place="inline" hand="manus1" type="lectio">Lectio iiia.</seg><lb n="23" />
 			Cum uero beatus Paulus,<lb n="24" />
-			conuersus esset ad fi<lb n="25" />dei
+			conuersus esset ad fi<lb n="25" break="no"/>dei
 			graciam, eodem anno<lb n="26" />
 			quo dominus passus est  et<lb n="27" />
 			resurrexit,  iste Barnabas in<lb n="28" />
-			inicio fidei eius,  illum ap<lb n="29" />prehendere
+			inicio fidei eius,  illum ap<lb n="29" break="no"/>prehendere
 			dignus fuit,  et<lb n="30" />
 			ducere ad apostolos. Sic namque<lb n="31" />
 			beatus  euuangelista refert.<cb n="2" /><lb n="1" />
-			Barnabas autem apprehen<lb n="2" />sum
+			Barnabas autem apprehen<lb n="2" break="no"/>sum
 			illum, duxit ad apostolos.<lb n="3" />
 			Et narrauit illis,  quomodo  in<lb n="4" />
-			uia uidisset dominum,  et quia lo<lb n="5" />cutus
-			est ei, et quomodo in Da<lb n="6" />masco
+			uia uidisset dominum,  et quia lo<lb n="5" break="no"/>cutus
+			est ei, et quomodo in Da<lb n="6" break="no"/>masco
 			fiducialiter egerit in<lb n="7" />
 			nomine  Iesu.
 			<milestone n="1.10" />
 			Peruenit autem<lb n="8" />
 			sermo ad aures ecclesie, que<lb n="9" />
 			erat Iherosolimis super istis,<lb n="10" />
-			et miserunt Barnabam An<lb n="11" />thyochiam.
-			Qui cum uenis<lb n="12" />set,
+			et miserunt Barnabam An<lb n="11" break="no"/>thyochiam.
+			Qui cum uenis<lb n="12" break="no"/>set,
 			et uidisset graciam dei,<lb n="13" />
 			gauisus est, et hortabatur<lb n="14" />
 			omnes manere in domino,<lb n="15" />
-			quia erat uir bonus, et ple<lb n="16" />nus
-			spiritu sancto et fide,  et ap<lb n="17" />posita
+			quia erat uir bonus, et ple<lb n="16" break="no"/>nus
+			spiritu sancto et fide,  et ap<lb n="17" break="no"/>posita
 			est turba multa domino.<lb n="18" />
 			<seg type="devotional">Tu autem domine.</seg>
 		</p>
@@ -141,32 +148,32 @@
 		<p>
 			<seg place="inline" hand="manus1" type="lectio">Lectio iiiia.</seg>
 			<lb n="19" />
-			Quem cum inuenisset,  per<lb n="20" />duxit
+			Quem cum inuenisset,  per<lb n="20" break="no"/>duxit
 			Anthyochiam,<lb n="21" />
 			et annum totum conuersati<lb n="22" />
 			sunt in ecclesia,  et docuerunt<lb n="23" />
-			turbam multam,  ita ut cog<lb n="24" />nominarentur
-			primum Anthy<lb n="25" />ochie,
+			turbam multam,  ita ut cog<lb n="24" break="no"/>nominarentur
+			primum Anthy<lb n="25" break="no"/>ochie,
 			discipuli christiani.
 			<milestone n="1.12" />
 			Uerum<lb n="26" />
-			quia non tantummodo in pre<lb n="27" />dicacionis,
-			sed etiam in ho<lb n="28" />spitalitatis
-			misericordia be<lb n="29" />nignitas
-			extiterat,  cum disci<lb n="30" />puli
-			elemosinam sanctis Ihero<lb n="31" />solimam
+			quia non tantummodo in pre<lb n="27" break="no"/>dicacionis,
+			sed etiam in ho<lb n="28" break="no"/>spitalitatis
+			misericordia be<lb n="29" break="no"/>nignitas
+			extiterat,  cum disci<lb n="30" break="no"/>puli
+			elemosinam sanctis Ihero<lb n="31" break="no"/>solimam
 			destinare curarent,<pb n="79r" /><cb n="1" /><lb n="1" />
 			Barnabam sanctum prae omnibus<lb n="2" />
 			eligere statuerunt. Sic enim<lb n="3" />
-			astruit euuangelista. Disci<lb n="4" />puli
-			autem prout quisque ha<lb n="5" />bebat
-			in ministerio, proposue<lb n="6" />runt
+			astruit euuangelista. Disci<lb n="4" break="no"/>puli
+			autem prout quisque ha<lb n="5" break="no"/>bebat
+			in ministerio, proposue<lb n="6" break="no"/>runt
 			mittere habitantibus<lb n="7" />
-			in Iudea fratribus,  quod et fece<lb n="8" />runt
+			in Iudea fratribus,  quod et fece<lb n="8" break="no"/>runt
 			mittentes ad seniores,<lb n="9" />
 			per manus Barnabe et Sauli.<lb n="10" />
 			<milestone n="1.13" />
-			Interim quantum talis obedi<lb n="11" />encia,
+			Interim quantum talis obedi<lb n="11" break="no"/>encia,
 			talisque elemosinarum<lb n="12" />
 			uirtus domino deo placuerit,<lb n="13" />
 			quantamque uicissitudinem,<lb n="14" />
@@ -179,12 +186,12 @@
 			<seg type="lectio" place="inline" hand="manus1">Lectio va.</seg>
 			<lb n="18" />
 			Barnabas autem et Saulus<lb n="19" />
-			reuersi sunt a Iheroso<lb n="20" />limis,
+			reuersi sunt a Iheroso<lb n="20" break="no"/>limis,
 			expleto ministerio.<lb n="21" />
 			Erant autem in ecclesia que erat<lb n="22" />
 			Anthyochie,  prophete et doctores<lb n="23" />
 			in quibus Barnabas et Saulus.<lb n="24" />
-			Ministrantibus autem illis do<lb n="25" />mino,
+			Ministrantibus autem illis do<lb n="25" break="no"/>mino,
 			et ieiunantibus dixit<lb n="26" />
 			spiritus sanctus. Segregate<lb n="27" />
 			michi Saulum et Barnabam,<lb n="28" />
@@ -192,50 +199,50 @@
 			<milestone n="1.14" />
 			Ecce beate nimis Barnaba,<lb n="30" />
 			apostole domini nostri Iesu Christi,<lb n="31" />
-			quanta tibi praebuit et diui<cb n="2" /><lb n="1" />na
+			quanta tibi praebuit et diui<cb n="2" /><lb n="1" break="no"/>na
 			gratia dona, pro digno<lb n="2" />
-			munere  quod dignus rite pa<lb n="3" />trasti,
-			scilicet ut spiritus almifi<lb n="4" />cus
+			munere  quod dignus rite pa<lb n="3" break="no"/>trasti,
+			scilicet ut spiritus almifi<lb n="4" break="no"/>cus
 			te  uocaret,  mitteretque ad<lb n="5" />
-			populum celestia dicta feren<lb n="6" />tem.
+			populum celestia dicta feren<lb n="6" break="no"/>tem.
 			<milestone n="1.15" />
 			Repletus autem spiritu<lb n="7" />
-			sancto beatissimus Barna<lb n="8" />bas,
+			sancto beatissimus Barna<lb n="8" break="no"/>bas,
 			quid diceret  ageretque<lb n="9" />
-			cum dilecto collega, nisi il<lb n="10" />lud
+			cum dilecto collega, nisi il<lb n="10" break="no"/>lud
 			quod nemo mortalium, sine<lb n="11" />
-			gracia spiritus sancti pa<lb n="12" />trare
+			gracia spiritus sancti pa<lb n="12" break="no"/>trare
 			ualet.
 			<seg type="devotional">Tu autem.</seg>
 		</p>
 			<milestone n="1.16" />
 			<p><lb n="13" />
 					<seg type="lectio" place="inline" hand="manus1">Lectio via.</seg>
-					Sic utique sacra scriptu<lb n="14" />ra
-					denunciat. Secu<lb n="15" />ta
-					est inquit multitudo Iu<lb n="16" />deorum,
+					Sic utique sacra scriptu<lb n="14" break="no"/>ra
+					denunciat. Secu<lb n="15" break="no"/>ta
+					est inquit multitudo Iu<lb n="16" break="no"/>deorum,
 					et aduenarum Paulum<lb n="17" />
 					et Barnabam, qui loquentes<lb n="18" />
-					suadebant eis, ut permane<lb n="19" />rent
-					in gracia dei. Et sequen<lb n="20" />ti
+					suadebant eis, ut permane<lb n="19" break="no"/>rent
+					in gracia dei. Et sequen<lb n="20" break="no"/>ti
 					sabbato, pene uniuersa<lb n="21" />
-					ciuitas  conuenit audire uer<lb n="22" />bum
+					ciuitas  conuenit audire uer<lb n="22" break="no"/>bum
 					dei. Audientes autem<lb n="23" />
-					gentes gauisi sunt,  et glo<lb n="24" />rificabant
-					deum, 	  et credi<lb n="25" />derunt
-					quotquot erant praeor<lb n="26" />dinati
+					gentes gauisi sunt,  et glo<lb n="24" break="no"/>rificabant
+					deum, 	  et credi<lb n="25" break="no"/>derunt
+					quotquot erant praeor<lb n="26" break="no"/>dinati
 					ad uitam eternam.<lb n="27" />
 					<milestone n="1.17" />
 					O ammirabile misterium<lb n="28" />
 					diuine dispensacionis. O<lb n="29" />
-					praedicandum et glorifican<lb n="30" />dum
+					praedicandum et glorifican<lb n="30" break="no"/>dum
 					sacramentum, domini<lb n="31" />
 					saluatoris,  qui sibi recte<pb n="79v" /><cb n="1" /><lb n="1" />
 					famulantibus, tantam graciam<lb n="2" />
 					conferre dignatus est,  ut<lb n="3" />
 					resistentem lumine priuarent,<lb n="4" />
 					et humiliter famulantes, ad<lb n="5" />
-					claritatem perpetue lucis per<lb n="6" />ducerent.
+					claritatem perpetue lucis per<lb n="6" break="no"/>ducerent.
 					<seg type="devotional">Tu autem domine.</seg>
 				</p>
 	</div>

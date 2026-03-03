@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -17,11 +18,17 @@
 					<country>Italie</country>
 					<settlement>Padoue</settlement>
 					<repository>Bibliotheca Antoniana</repository>
-					<collection></collection>
+					<collection />
 					<idno>470</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="transcription-finished">
 			<change />

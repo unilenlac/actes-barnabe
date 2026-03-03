@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 24)</title>
+				<title>Acta Barnabae (Forme courte 24) - Aschaffenbourg_Perg_4</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -32,81 +39,81 @@
 	<div>
 		<milestone n="titre-principal" />
 		<pb n="6v" /><cb n="1" />
-				<head type="initial"><lb n="1" />Barnabe apostoli</head>
+				<head type="initial"><lb n="1" break="no"/>Barnabe apostoli</head>
 		<div>
 			<milestone n="1.2" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio ia</seg>
-				Cum sanctorum apostolorum natalicia ce<lb n="2" />lebramus,
+				Cum sanctorum apostolorum natalicia ce<lb n="2" break="no"/>lebramus,
 				dignum equidem et<lb n="3" />
-				salutare uidetur, ut beati Barn<lb n="4" />abe
-				natalica deuotissime cele<lb n="5" />bremus,
+				salutare uidetur, ut beati Barn<lb n="4" break="no"/>abe
+				natalica deuotissime cele<lb n="5" break="no"/>bremus,
 				<milestone n="1.3" />
 				quoniamquidem et si non est<lb n="6" />
 				in ordine apostolatus eorum,  non<lb n="7" />
-				tamen deest in cathalago praedicacio<lb n="8" />nis,
-				qui sicut Lucas euangelis<lb n="9" />ta
-				in actibus apostolorum refert, excellen<lb n="10" />cia
+				tamen deest in cathalago praedicacio<lb n="8" break="no"/>nis,
+				qui sicut Lucas euangelis<lb n="9" break="no"/>ta
+				in actibus apostolorum refert, excellen<lb n="10" break="no"/>cia
 				miraculorum mirabiliter extitit.<lb n="11" />
 			</p>
 			<p><lb n="12" />
 				<seg place="inline" hand="manus1" type="lectio">Lectio iia</seg>
 				Nam eo fere  tempore, quo<lb n="13" />
-				sancta ecclesia gratiam spiritus sancti susce<lb n="14" />pit,
+				sancta ecclesia gratiam spiritus sancti susce<lb n="14" break="no"/>pit,
 				tercio uidelicet post passionem<lb n="15" />
 				domini anno, cum Paulo apostolo ad<lb n="16" />
-				apostolatus celsitudinem, et praedi<lb n="17" />cationem
-				diuinitus electus est, uo<lb n="18" />cante
-				eos eodem spiritu sancto et dicen<lb n="19" />te.
+				apostolatus celsitudinem, et praedi<lb n="17" break="no"/>cationem
+				diuinitus electus est, uo<lb n="18" break="no"/>cante
+				eos eodem spiritu sancto et dicen<lb n="19" break="no"/>te.
 				Segregate mihi Barnabam et<lb n="20" />
 				<choice>
 					<unclear reason="damage" unit="character" quantity="1" />
 						<supplied cert="medium">S</supplied>
 						<supplied cert="medium">P</supplied>
 				</choice>aulum,
-				in opus quo assump<lb n="21" />si
+				in opus quo assump<lb n="21" break="no"/>si
 				eos.
 				<milestone n="1.5" />
-				Denique iste est ille Barna<lb n="22" />bas
+				Denique iste est ille Barna<lb n="22" break="no"/>bas
 				sanctissimus,  qui et Ioseph et unus<lb n="23" />
 				ex septuaginta duobus discipulis<lb n="24" />
-				domini saluatoris,  qui secundum no<lb n="25" />minis
+				domini saluatoris,  qui secundum no<lb n="25" break="no"/>minis
 				et uite conuenientiam,<lb n="26" />
 				tali uocitatis est nomine. Nam<lb n="27" />
-				Barnabas hebraice,  latine fi<lb n="28" />lius
+				Barnabas hebraice,  latine fi<lb n="28" break="no"/>lius
 				consolationis dicitur.
 			</p>
 			<milestone n="1.4" />
 			<p>
 				<seg type="lectio" place="inline" hand="manus1">Lectio iiia</seg>
-				Hic fidem catholicam praedican<lb n="29" />do,
-				et infideles ab errore ini<lb n="30" />quitatis
-				reuocando, contume<lb n="31" />lias
+				Hic fidem catholicam praedican<lb n="29" break="no"/>do,
+				et infideles ab errore ini<lb n="30" break="no"/>quitatis
+				reuocando, contume<lb n="31" break="no"/>lias
 				et obprobria multa pro <sic>Christo</sic><lb n="32" />
 				sustinuit.
 				<milestone n="1.5-bis" />
 				Communiter autem cum<lb n="33" />
-				sanctis apostolis degebat,  et consolati<lb n="34" />onem
+				sanctis apostolis degebat,  et consolati<lb n="34" break="no"/>onem
 				maximam praebebat,
 				<milestone n="1.6" />
 				inter<lb n="35" />
-				eos uidelicet, quibus erat cor u<cb n="2" /><lb n="1" />num
+				eos uidelicet, quibus erat cor u<cb n="2" /><lb n="1" break="no"/>num
 				et anima una, quia<lb n="2" />
-				nec quisquam eorum que posside<lb n="3" />bat,
+				nec quisquam eorum que posside<lb n="3" break="no"/>bat,
 				aliquid suum esse dicebat,<lb n="4" />
 				sed erant illis omnia communia.<lb n="5" />
-				Quotquot enim possessores  do<lb n="6" />morum
-				aut agrorum erant, uenden<lb n="7" />tes
-				afferebant precia eorum,  et  po<lb n="8" />nebant
+				Quotquot enim possessores  do<lb n="6" break="no"/>morum
+				aut agrorum erant, uenden<lb n="7" break="no"/>tes
+				afferebant precia eorum,  et  po<lb n="8" break="no"/>nebant
 				ante pedes apostolorum.<lb n="9" />
 			</p>
 			<milestone n="1.7" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio iiiia</seg>
-				Ioseph autem qui cognomi<lb n="10" />natus
+				Ioseph autem qui cognomi<lb n="10" break="no"/>natus
 				est iustus, Barnabas ab<lb n="11" />
 				apostolis dicit<unclear reason="damage" unit="character" quantity="2" />,
-				quod est filius con<lb n="12" />solationis,
+				quod est filius con<lb n="12" break="no"/>solationis,
 				leuites Ciprius genere,<lb n="13" />
 				cum haberet agrum,  uendidit<lb n="14" />
 				illum,  et attulit precium,  et posuit<lb n="15" />
@@ -128,52 +135,52 @@
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio va</seg>
 				<lb n="24" />
-				Plane autem ac diligenter consi<lb n="25" />derare
+				Plane autem ac diligenter consi<lb n="25" break="no"/>derare
 				et ammirari condecet,<lb n="26" />
 				quantum illum diuina gratia<lb n="27" />
-				dilectum atque dignum habu<lb n="28" />it,
-				quando inter <del rend="other">oi</del> tot discipu<lb n="29" />lorum
-				cateruas, non alium ad in<lb n="30" />struendum
+				dilectum atque dignum habu<lb n="28" break="no"/>it,
+				quando inter <del rend="other">oi</del> tot discipu<lb n="29" break="no"/>lorum
+				cateruas, non alium ad in<lb n="30" break="no"/>struendum
 				suum nouum tyronem<lb n="31" />
-				miserit,   nisi illum qui consola<lb n="32" />tionis
+				miserit,   nisi illum qui consola<lb n="32" break="no"/>tionis
 				filius dicebatur, scilicet,<lb n="33" />
-				ut illi Saulo nouo tyroni,  no<lb n="34" />uam
-				fidei gratiam  sagaciter minis<lb n="35" />traret.
+				ut illi Saulo nouo tyroni,  no<lb n="34" break="no"/>uam
+				fidei gratiam  sagaciter minis<lb n="35" break="no"/>traret.
 				<milestone n="1.12" />
 				Uerum apparet, quod non<lb n="36" />
 				tantummodo in praedicationis<pb n="7r" /><cb n="1" /><lb n="1" />
 				gratia sed etiam in hospitalitatis<lb n="2" />
 				misericordia, benignus extitit,<lb n="3" />
 				qui cum sancti apostoli elemosinam<lb n="4" />
-				destinare curarent Iherosoli<lb n="5" />mis,
+				destinare curarent Iherosoli<lb n="5" break="no"/>mis,
 				istum inter omnes eligere<lb n="6" />
 				statuerunt. Sic enim asserit<lb n="7" />
 				euuangelista. Discipuli autem<lb n="8" />
-				prout quisque habebat  propo<lb n="9" />suerunt
+				prout quisque habebat  propo<lb n="9" break="no"/>suerunt
 				mittere in Iudea fratribus,<lb n="10" />
-				quod et fecerunt, mittentes  per ma<lb n="11" />nus
+				quod et fecerunt, mittentes  per ma<lb n="11" break="no"/>nus
 				Barnabe et Pauli.
 			</p>
 			<milestone n="2.15" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio via</seg>
 				<lb n="12" />
-				Ex doctrina autem apostolorum bea<lb n="13" />tus
-				Barnabas euuange<lb n="14" />lium
+				Ex doctrina autem apostolorum bea<lb n="13" break="no"/>tus
+				Barnabas euuange<lb n="14" break="no"/>lium
 				sancti Mathei apostoli secum<lb n="15" />
 				ferebat,  et ubicumque infirmos<lb n="16" />
-				inueniebat,  ponebat illud su<lb n="17" />per
+				inueniebat,  ponebat illud su<lb n="17" break="no"/>per
 				illos,  et continuo sanabantur<lb n="18" />
-				a quocumque languore teneban<lb n="19" />tur.
+				a quocumque languore teneban<lb n="19" break="no"/>tur.
 				<milestone n="2.23" />
 				Hunc Iudei comprehensum<lb n="20" />
-				iudici Salamine ciuitatis tra<lb n="21" />diderunt,
-				et penis multis af<lb n="22" />flixerunt.
-				Et  ne eriperet de mani<lb n="23" />bus
-				eorum,  nocturno tempore li<lb n="24" />gantes
+				iudici Salamine ciuitatis tra<lb n="21" break="no"/>diderunt,
+				et penis multis af<lb n="22" break="no"/>flixerunt.
+				Et  ne eriperet de mani<lb n="23" break="no"/>bus
+				eorum,  nocturno tempore li<lb n="24" break="no"/>gantes
 				funem in collo eius,<lb n="25" />
 				foras ciuitatem traxerunt, et<lb n="26" />
-				dileceratum crudeliter igne  cremaue<lb n="27" />runt,
+				dileceratum crudeliter igne  cremaue<lb n="27" break="no"/>runt,
 				sicque beatus <del rend="strike">migra</del><lb n="28" />
 				apostolus migrauit ad dominum, cui<lb n="29" />
 				est honor et gloria, per infinita saecula<lb n="30" />

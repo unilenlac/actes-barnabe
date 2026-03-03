@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 45)</title>
+				<title>Acta Barnabae (Forme courte 45) - Padoue_Antoniana477</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,12 +18,17 @@
 					<country>Italie</country>
 					<settlement>Padoue</settlement>
 					<repository>Bibliotheca Antoniana</repository>
-					<collection></collection>
+					<collection />
 					<idno>477</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -35,7 +41,7 @@
 		<p>
 						<sic>Anctus</sic> Barnabas Cyprius genere  unus de lxii Christi discipulis<lb n="32" />
 			<milestone n="1.8" />
-			sanctum Paulum nuper conuersum apprehendit et duxit ad apostolos, et nar<lb n="33" />rauit
+			sanctum Paulum nuper conuersum apprehendit et duxit ad apostolos, et nar<lb n="33" break="no" />rauit
 			eis quomodo conuersus erat, sicut dicetur in conuersione sancti Pauli.<lb n="34" />
 			<milestone n="1.14" />
 			Barnabas tantam habuit gratiam Christi, quod a spiritu sancto electus est apostolus cum<lb n="35" />
@@ -48,10 +54,10 @@
 			consobrino eius, apparuit ei uir splendidus dicens. Iohannes constans<lb n="38" />
 			esto, quod amodo non Iohannes sed excelsus uocaberis.
 			<milestone n="2.4" />
-			Quod cum euigi<lb n="39" />lasset
-			sancto Barnaba indicasset. Dixit.  Caue diligenter ne quid <sic>au<lb n="40" />uidisti</sic>
+			Quod cum euigi<lb n="39" break="no" />lasset
+			sancto Barnaba indicasset. Dixit.  Caue diligenter ne quid <sic>au<lb n="40" break="no" />uidisti</sic>
 			alicui dicas. Nam et scilicet hac nocte apparuit dominus<lb n="41" />
-			dicens. Constans esto Barnabas quia eterna praemia percipies, eo quod gen<lb n="42" />tem
+			dicens. Constans esto Barnabas quia eterna praemia percipies, eo quod gen<lb n="42" break="no" />tem
 			tuam reliquisti, et attamen tuam pro meo nomine tradidisti.
 			<milestone n="2.5" />
 			Cum<lb n="43" />
@@ -69,7 +75,7 @@
 			<milestone n="2.9" />
 			Nunc autem Cyprum uado et  ibi uitam<lb n="50" />
 			finiens, te amplius non uidibo, tamen ora pro me ad dominum, ut ei<lb n="51" />
-			placeat ministerium meum.  Et cum flens se ad pedes eius uol<pb n="124r" /><cb n="1" /><lb n="1" />ueret,
+			placeat ministerium meum.  Et cum flens se ad pedes eius uol<pb n="124r" /><cb n="1" /><lb n="1" break="no" />ueret,
 			<milestone n="2.10" />
 			compaciens ei Paulus dixit.
 			Noli flere frater, quia sic est uoluntas<lb n="2" />
@@ -81,13 +87,13 @@
 			<milestone n="2.12" />
 			multos in itinere conuerterunt.
 			<milestone n="2.15" />
-			Secum autem feren<lb n="6" />tes
+			Secum autem feren<lb n="6" break="no" />tes
 			euangelium sancti Mathei, super egros illud imponebant et continuo<lb n="7" />
 			sanabantur.
 		</p>
 		<p>
 			<milestone n="2.18" />
-			De Cypro autem exeuntes inuenerunt Barieu male<lb n="8" />ficum,
+			De Cypro autem exeuntes inuenerunt Barieu male<lb n="8" break="no" />ficum,
 			quem sanctus Paulus dudum lumine priuauerat,
 			<milestone n="2.19" />
 			sed praecibus Sergii<lb n="9" />
@@ -95,9 +101,9 @@
 			<milestone n="2.18-bis" />
 			et ab eo prohibiti intrare Paphum,
 			<milestone n="2.19-bis" />
-			ue<lb n="10" />nerunt
+			ue<lb n="10" break="no" />nerunt
 			ad locum ubi gentiles uiri et femine nudi ludendo<lb n="11" />
-			currebant. Unde indignatus sanctus Barnabas, maledixit templum, et sta<lb n="12" />tim
+			currebant. Unde indignatus sanctus Barnabas, maledixit templum, et sta<lb n="12" break="no" />tim
 			pars templi cecidit et occidit plurimos paganorum.
 		</p>
 		<p>
@@ -109,8 +115,8 @@
 			afflictum iniuriis, quaerebat tradere iudici ciuitatis. Cognito<lb n="16" />
 			autem  quod Eusebius uir magnus et praepotens 	de genere Neronís imperatoris<lb n="17" />
 			illuc aduenerat timuerunt, ne eum caperet de manibus eorum. Et<lb n="18" />
-			ligantes funem in collo eius nocte dillaceratum penis a synago<lb n="19" />ga in
-			<sic>ypodronium</sic> pertraxerunt,  et demum foris portam, et ibi  circun<lb n="20" />dantes
+			ligantes funem in collo eius nocte dillaceratum penis a synago<lb n="19" break="no" />ga in
+			<sic>ypodronium</sic> pertraxerunt,  et demum foris portam, et ibi  circun<lb n="20" break="no" />dantes
 			eum crudeliter combuxerunt.  Impii autem Iudei non sic saciati de<lb n="21" />
 			nece eius tulerunt osa eius, et scrineo plumbeo recludentes<lb n="22" />
 			in mare praecipitare uolebant.

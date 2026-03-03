@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 19)</title>
+				<title>Acta Barnabae (Forme courte 19) - Tours157</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -18,10 +19,16 @@
 					<settlement>Tours</settlement>
 					<repository>Bibliothèque municipale</repository>
 					<collection>157</collection>
-					<idno></idno>
+					<idno />
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -62,7 +69,7 @@
 				<milestone n="1.10" />
 				Peruenit autem sermo ad aures<lb n="21" />
 				ecclesie, que erat Ierosolimis super istis. Et<lb n="22" />
-				miserunt Barnabam Antiochiam. Quo cum ue<lb n="23" />nisset
+				miserunt Barnabam Antiochiam. Quo cum ue<lb n="23" break="no"/>nisset
 				et uidisset gratiam dei gauisus est<lb n="24" />
 				et ortabatur omnes manere in domino, et apposita<lb n="25" />
 				est turba multa fidei.
@@ -70,7 +77,7 @@
 			<milestone n="1.11" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio secunda</seg>
-				<lb n="26" />Unde profectus Tharsum.
+				<lb n="26" break="no"/>Unde profectus Tharsum.
 				Inuenit
 				Paulum<lb n="27" />
 				quem perduxit Antiochiam et per annum<lb n="28" />
@@ -79,7 +86,7 @@
 				Anthiochie discipuli Christiani.
 				<milestone n="1.12" />
 				Cum autem sancti<lb n="31" />
-				apostoli elemosinam destinare  curarent Iero<lb n="32" />solimis
+				apostoli elemosinam destinare  curarent Iero<lb n="32" break="no"/>solimis
 				miserunt ad seniores per manus<pb n="121v" /><lb n="1" />
 				Barnabe et Pauli.
 				<milestone n="1.13" />
@@ -109,16 +116,16 @@
 				<seg type="lectio" place="inline" hand="manus1">Lectio tercia.</seg>
 				<lb n="14" />
 				Beatus Barnabas   euangelium sancti<lb n="15" />
-				Mathei apostoli secum ferebat. Et ubi<lb n="16" />cumque
+				Mathei apostoli secum ferebat. Et ubi<lb n="16" break="no"/>cumque
 				inueniebat infirmos  ponebat illud<lb n="17" />
 				super eos  et continuo sanabantur. Hic<lb n="18" />
 				<milestone n="2.12" />
 				itaque post ascensionem domini ad praedicandum<lb n="19" />
-				directus	cum quod Iohanne suo discipulo ue<lb n="20" />nerunt
+				directus	cum quod Iohanne suo discipulo ue<lb n="20" break="no"/>nerunt
 				in ciuitatem que dicitur Annemora<lb n="21" />
 				In qua inuenerunt iustos uiros quamquam ethnicos<lb n="22" />
 				sagacitate praeclaros.
-				Quos cernentes sa<lb n="23" />gaciter
+				Quos cernentes sa<lb n="23" break="no"/>gaciter
 				eos interrogare ceperunt dicentes.<lb n="24" />
 				O uiri qui estis  Unde
 				et quo uel que<lb n="25" />
@@ -132,7 +139,7 @@
 				domini nostri Iesu Christi creatoris celi et terre.
 			</p>
 			<p>
-			<seg place="inline" hand="manus1" type="lectio"><pb n="122r" /><lb n="1" />Lectio quarta</seg>
+			<seg place="inline" hand="manus1" type="lectio"><pb n="122r" /><lb n="1" break="no"/>Lectio quarta</seg>
 				<lb n="2" />
 				Uenientes ab Ierosolimis pergimus ubique ad<lb n="3" />
 				praedicandum nomen eius,  quia ipse est filius<lb n="4" />
@@ -147,7 +154,7 @@
 				Barnabas. Si consequi uultus  que dicimus<lb n="12" />
 				confitemini peccata uestra credentes <del rend="strike">in</del> dominum Iesum<lb n="13" />
 				Christum et
-				percipientes sacrum baptismum procul<lb n="14" />dubio
+				percipientes sacrum baptismum procul<lb n="14" break="no"/>dubio
 				accipietis  que promittimus.
 			</p>
 			<milestone n="2.13" />
@@ -156,8 +163,8 @@
 				<lb n="15" />
 				Cumque illi sponderent cuncta patrare<lb n="16" />
 				breuiter beatus Barnabas sanctae trinitatis<lb n="17" />
-				misterium exponendo  baptizauit,   induit<lb n="18" />que
-				uestibus sanctae religionis. Cum autem cogno<lb n="19" />uissent
+				misterium exponendo  baptizauit,   induit<lb n="18" break="no"/>que
+				uestibus sanctae religionis. Cum autem cogno<lb n="19" break="no"/>uissent
 				se esse christicolas  reperunt laudare<lb n="20" />
 				et glorificare deum. Conferentes autem<lb n="21" />
 				quedam subsidia conuocatis pauperibus beatus<lb n="22" />
@@ -167,13 +174,13 @@
 			</p>
 			<milestone n="2.14" />
 			<p>
-				<seg place="inline" hand="manus1" type="lectio">vita <lb n="25" />lectio sexta</seg>
+				<seg place="inline" hand="manus1" type="lectio">vita <lb n="25" break="no"/>lectio sexta</seg>
 				<lb n="26" />
 				Nauigantes autem uenerunt Cyprum<lb n="27" />
 				ibique inuenerunt  Timonem et Aristionem<lb n="28" />
 				famulos domini.
 				<milestone n="2.15" />
-				Timon autem  urebatur  fe<lb n="29" />bribus.
+				Timon autem  urebatur  fe<lb n="29" break="no"/>bribus.
 				Cui autem manus ei imposuisset beatus<lb n="30" />
 				Barnabas  et sacrum euangelium per inuocacionem<lb n="31" />
 				domini saluatoris statim febris fugata est<lb n="32" />
@@ -198,7 +205,7 @@
 				<seg place="inline" type="lectio">Septima</seg><lb n="9" />
 			Post hoc inuenerunt quemdam uirum nomine<lb n="10" />
 			Rodonem quamuis ethnicum tamen iustum et<lb n="11" />
-			benignum.  Huic cum beatus apostolus sanctam fidem ex<lb n="12" />poneret
+			benignum.  Huic cum beatus apostolus sanctam fidem ex<lb n="12" break="no"/>poneret
 			continuo credidit in deum  et baptizatus<lb n="13" />
 			secutus est eos. His ita gestis obuium habuerunt<lb n="14" />
 			impium et maleficum Iudeum nomine Barien<lb n="15" />
@@ -231,7 +238,7 @@
 			apostatando transgressor fieret.
 			<milestone n="2.22" />
 			Itaque illis<lb n="3" />
-			introeuntibus in Salamina  Inuenerunt syna<lb n="4" />gogam
+			introeuntibus in Salamina  Inuenerunt syna<lb n="4" break="no"/>gogam
 			Iudeorum quam beatus apostolus exhortari<lb n="5" />
 			cepit et per euangelium ad  Christi gratiam introducere.<lb n="6" />
 			<milestone n="2.23" />
@@ -249,7 +256,7 @@
 			De hinc cum iam maceratum et  quassatum<lb n="8" />
 			ducerent ad iudicandum. Accidit  ut<lb n="9" />
 			deueniret in eandem insulam ex Cyprio quidam<lb n="10" />
-			magnus  nomine Eusebius de progenie imper<lb n="11" />atoris.
+			magnus  nomine Eusebius de progenie imper<lb n="11" break="no"/>atoris.
 			Comperientes autem Iudei aduentum<lb n="12" />
 			eius uerentes nimium  ne illum eriperet de<lb n="13" />
 			manibus eorum ligandum funem in collo eius<lb n="14" />

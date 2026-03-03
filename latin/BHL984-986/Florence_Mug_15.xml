@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Florence_Mug_15</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,24 +48,24 @@
 			<p>
 				<seg type="lectio" hand="manus1" place="inline">Lectio ia</seg>
 				<lb n="26" />
-				Barnabas he<lb n="27" />brayce,
+				Barnabas he<lb n="27" break="no"/>brayce,
 				latine<lb n="28" />
-				dicitur uel interpre<lb n="29" />tatur
-				filius con<lb n="30" />solationis
+				dicitur uel interpre<lb n="29" break="no"/>tatur
+				filius con<lb n="30" break="no"/>solationis
 				uel<lb n="31" />
 				filius prophete. Barnabas qui<lb n="32" />
-				et Ioseph natione Cyprie ci<lb n="33" />uitatis,
+				et Ioseph natione Cyprie ci<lb n="33" break="no"/>uitatis,
 				que ex Cyro rege<lb n="34" />
 				Persarum fundata extitit,<lb n="35" />
-				cum Paulo ingentibus apostola<cb n="2" /><lb n="1" />tum
+				cum Paulo ingentibus apostola<cb n="2" /><lb n="1" break="no"/>tum
 				adeptus est. Deinde propter<lb n="2" />
 				Iohannem discipulum qui etiam<lb n="3" />
-				cognomento Marcus appel<lb n="4" />latur,
+				cognomento Marcus appel<lb n="4" break="no"/>latur,
 				seiunctus a Paulo,<lb n="5" />
 				nichilominus euangelii<lb n="6" />
-				praedicatione sibi opus iniunc<lb n="7" />tum
-				exercuit,  martirio co<lb n="8" />ronatus.
-				Cuius festa <sic>celebran<lb n="9" />tur</sic>
+				praedicatione sibi opus iniunc<lb n="7" break="no"/>tum
+				exercuit,  martirio co<lb n="8" break="no"/>ronatus.
+				Cuius festa <sic>celebran<lb n="9" break="no"/>tur</sic>
 				tertio ydus iunii.
 			</p>
 		</div>

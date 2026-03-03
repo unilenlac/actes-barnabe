@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 4)</title>
+				<title>Acta Barnabae (Forme courte 4) - Beaune8</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -45,26 +51,26 @@
 					<add place="inline" hand="corr1">U</add>
 				</subst>nus<lb n="4" />
 				de sexaginta duodecim Christi <add place="margin-right" hand="corr1">discipulis</add><lb n="5" />
-					sanctum Paulum nuper con<lb n="6" />uersum<del rend="scratched" quantity="1" />,
+					sanctum Paulum nuper con<lb n="6" break="no" />uersum<del rend="scratched" quantity="1" />,
 				apprehendit, et duxit<lb n="7" />
 				ad apostolos, et narrauit eis<lb n="8" />
-				quomodo conuersus erat, si<lb n="9" />cut
-				dicetur in passione sanc<lb n="10" />ti
+				quomodo conuersus erat, si<lb n="9" break="no" />cut
+				dicetur in passione sanc<lb n="10" break="no" />ti
 				Pauli.  Bárnabas autem<lb n="11" />
 				tantam habuit graciam Christi,<lb n="12" />
 				quod a spiritu sancto electus<lb n="13" />
-				apostolus, cum beato Paulo gen<lb n="14" />tibus
+				apostolus, cum beato Paulo gen<lb n="14" break="no" />tibus
 				predicauit, et multa<lb n="15" />
 				miracula fecit.
 			</p>
 			<milestone n="2.3" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio secunda.<lb n="16" /></seg>
-				Cum autem esset Barna<lb n="17" />bas
+				Cum autem esset Barna<lb n="17" break="no" />bas
 				in Ycónio ciuitate,<lb n="18" />
-				uisio apparuit Iohanni disci<lb n="19" />pulo,
-				et consobrino eius, appa<lb n="20" />ruit
-				enim uir splendidus di<lb n="21" />cens.
+				uisio apparuit Iohanni disci<lb n="19" break="no" />pulo,
+				et consobrino eius, appa<lb n="20" break="no" />ruit
+				enim uir splendidus di<lb n="21" break="no" />cens.
 				Constans esto Iohannes,<lb n="22" />
 				quia amodo non Iohannes,<lb n="23" />
 				se<subst>
@@ -74,29 +80,29 @@
 				exclusus uocaberis.
 				<milestone n="2.4" />
 				Quod<lb n="24" />
-				cum euigilans sancto Barna<lb n="25" />be
+				cum euigilans sancto Barna<lb n="25" break="no" />be
 				iudicasset, respondit ei.<lb n="26" />
-				Caue diligenter, ne quod ui<lb n="27" />disti
+				Caue diligenter, ne quod ui<lb n="27" break="no" />disti
 				alicui dicas. Nam et<lb n="28" />
-				michi similiter, hac nocte ap<lb n="29" />paruit
-				dominus dicens. Con<lb n="30" />stans
-				esto Bárnaba, quia eter<lb n="31" />na
+				michi similiter, hac nocte ap<lb n="29" break="no" />paruit
+				dominus dicens. Con<lb n="30" break="no" />stans
+				esto Bárnaba, quia eter<lb n="31" break="no" />na
 				premia percipies, eo
 				quod<cb n="2" /><lb n="1" />
 				gentem tuam reliquisti, et<lb n="2" />
-				animam tuam pro meo no<lb n="3" />mine
+				animam tuam pro meo no<lb n="3" break="no" />mine
 				tradidisti.
 			</p>
 		<milestone n="2.7" />
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio tertia.<lb n="4" /></seg>
 				Cum ergo sanctus Paulus<lb n="5" />
-				cum Barnaba in Anthi<lb n="6" />ochiam
-				predicassent, et add par<lb n="7" />tes
-				occidentis causa praedicatio<lb n="8" />nis,
+				cum Barnaba in Anthi<lb n="6" break="no" />ochiam
+				predicassent, et add par<lb n="7" break="no" />tes
+				occidentis causa praedicatio<lb n="8" break="no" />nis,
 				ire disponerent, rogabat<lb n="9" />
 				Paulum sanctus Bárnabas,<lb n="10" />
-				ut prius iret Ciprum, ad uisitan<lb n="11" />dos
+				ut prius iret Ciprum, ad uisitan<lb n="11" break="no" />dos
 				parentes suos, et post ea<lb n="12" />
 				in Iherúsalem simul irent.<lb n="13" />
 				Interim angelus apparuit<lb n="14" />
@@ -106,8 +112,8 @@
 				expectant.
 				<milestone n="2.8" />
 				Quod cum sanctus<lb n="18" />
-				Paulus sancto Bárnabe dix<lb n="19" />isset,
-				respondit : fiat uolun<lb n="20" />tas
+				Paulus sancto Bárnabe dix<lb n="19" break="no" />isset,
+				respondit : fiat uolun<lb n="20" break="no" />tas
 				dei.
 			</p>
 		<milestone n="2.9" />
@@ -121,22 +127,22 @@
 				et conflens ad pedes eius se<lb n="27" />
 				uolueret,
 				<milestone n="2.10" />
-				compaciens ei Pau<lb n="28" />lus
+				compaciens ei Pau<lb n="28" break="no" />lus
 				dixit. Noli flere frater<lb n="29" />
 				quia sic est uoluntas dei. Nam<lb n="30" />
 				et michi hac nocte apparuit<lb n="31" />
-				dominus dicens. Ne  <sic>prohib<pb n="192v" /><cb n="1" /><lb n="1" />as</sic>
+				dominus dicens. Ne  <sic>prohib<pb n="192v" /><cb n="1" /><lb n="1" break="no" />as</sic>
 				Barnabam ire Cíprum, quia<lb n="2" />
 				multos ibi illuminabit, et<lb n="3" />
 				martyrium consummabit.<lb n="4" />
-				Et cum sic <sic>ab</sic> inuicem disces<lb n="5" />sissent,
+				Et cum sic <sic>ab</sic> inuicem disces<lb n="5" break="no" />sissent,
 				<milestone n="2.11" />
 				Barnabas et Iohannes<lb n="6" />
 				discipulus eius properantes<lb n="7" />
-				Cíprum, multos in itinere con<lb n="8" />uerterunt,
+				Cíprum, multos in itinere con<lb n="8" break="no" />uerterunt,
 				<milestone n="2.15" />
 				secum autem ferens<lb n="9" />
-				euangelium sancti Mathei, su<lb n="10" />per
+				euangelium sancti Mathei, su<lb n="10" break="no" />per
 				egros illud imponebat, et<lb n="11" />
 				continuo sanabantur.
 			</p>
@@ -144,58 +150,58 @@
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio va<lb n="12" /></seg>
 				De Cípro autem exeuntes,<lb n="13" />
-				inuenerunt Baríen ma<lb n="14" />leficum,
-				quem sanctus Pau<lb n="15" />lus
-				dudum lumine priuaue<lb n="16" />rat,
+				inuenerunt Baríen ma<lb n="14" break="no" />leficum,
+				quem sanctus Pau<lb n="15" break="no" />lus
+				dudum lumine priuaue<lb n="16" break="no" />rat,
 				sed precibus Sergii Pauli<lb n="17" />
 				proconsulis sanauerat, et<lb n="18" />
 				ab eo prohibiti intrare Taphum,<lb n="19" />
 				<milestone n="2.19" />
-				uenerunt ad locum ubi gen<lb n="20" />tiles
-				uiri, et femine, nudi luden<lb n="21" />do
-				curebant. Unde indigna<lb n="22" />tus
-				sanctus Barnabas, male<lb n="23" />dixit
+				uenerunt ad locum ubi gen<lb n="20" break="no" />tiles
+				uiri, et femine, nudi luden<lb n="21" break="no" />do
+				curebant. Unde indigna<lb n="22" break="no" />tus
+				sanctus Barnabas, male<lb n="23" break="no" />dixit
 				templum et statim pars<lb n="24" />
-				templi cecidit, et occidit plu<lb n="25" />rimos
+				templi cecidit, et occidit plu<lb n="25" break="no" />rimos
 				paganorum.
 				<milestone n="2.22" />
 				Cum ergo<lb n="26" />
 				inde exissent et in <sic>Salam uia</sic><lb n="27" />
-				predicando multos conuerte<lb n="28" />rent,
+				predicando multos conuerte<lb n="28" break="no" />rent,
 				<milestone n="2.23" />
-				comperiens hoc Baríen se<lb n="29" />ditionem
-				concitauit, et compre<lb n="30" />hensum
+				comperiens hoc Baríen se<lb n="29" break="no" />ditionem
+				concitauit, et compre<lb n="30" break="no" />hensum
 				multisque afflictum<lb n="31" />
 				iniuriis querebant tradere<cb n="2" /><lb n="1" />
 				iudici ciuitatis.
 			</p>
 			<p>
 			<seg place="inline" hand="manus1" type="lectio">Lectio via<lb n="2" /></seg>
-				Cognito autem quod Euse<lb n="3" />bius
+				Cognito autem quod Euse<lb n="3" break="no" />bius
 				uir magnus et<lb n="4" />
-				potens, de genere Neronis im<lb n="5" />peratoris
-				illuc aduenerati ti<lb n="6" />muerunt
+				potens, de genere Neronis im<lb n="5" break="no" />peratoris
+				illuc aduenerati ti<lb n="6" break="no" />muerunt
 				ne eum eriperet de<lb n="7" />
 				manibus eorum, et ligantes<lb n="8" />
-				funem in collo eius, nocte di<lb n="9" />laceratum
+				funem in collo eius, nocte di<lb n="9" break="no" />laceratum
 				penis, a synagoga<lb n="10" />
 				in ypodromium pertraxerunt,<lb n="11" />
-				et deinde foris portam, et ibi cir<lb n="12" />cumdantes
-				eum crudeliter com<lb n="13" />busserunt.
+				et deinde foris portam, et ibi cir<lb n="12" break="no" />cumdantes
+				eum crudeliter com<lb n="13" break="no" />busserunt.
 				Impii autem<lb n="14" />
 				Iudei, nec sic saciati de nece<lb n="15" />
 				eius, tulerunt ossa eius, et<lb n="16" />
-				in scrinio plumbeo recluden<lb n="17" />tes,
-				in mare precipitare uole<lb n="18" />bant.
+				in scrinio plumbeo recluden<lb n="17" break="no" />tes,
+				in mare precipitare uole<lb n="18" break="no" />bant.
 				<milestone n="2.24" />
-				Interim Iohannes disci<lb n="19" />pulus
-				eius, cum duobus aliis noc<lb n="20" />te
+				Interim Iohannes disci<lb n="19" break="no" />pulus
+				eius, cum duobus aliis noc<lb n="20" break="no" />te
 				rapuerunt ea, et sepelierunt<lb n="21" />
 				in quadam cripta,
 				<milestone n="epilogue" />
-				et ibi la<lb n="22" />tuerunt
-				usque ad tempore Ze<lb n="23" />nonis
-				imperatoris, et Gela<lb n="24" />sii
+				et ibi la<lb n="22" break="no" />tuerunt
+				usque ad tempore Ze<lb n="23" break="no" />nonis
+				imperatoris, et Gela<lb n="24" break="no" />sii
 				pape, scilicet usque ad annum<lb n="25" />
 				domini quingentum, et tunc<lb n="26" />
 				ipso reuelante reperta sunt.

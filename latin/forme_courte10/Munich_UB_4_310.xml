@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 10)</title>
+				<title>Acta Barnabae (Forme courte 10) - Munich_UB_4_310</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,12 +48,12 @@
 			Pauli, et Barnabe, et baptizatus per eos,<lb n="15" />
 			<milestone n="2.3" />
 			uidi in uisione post baptismum, uidi uirum<lb n="16" />
-			splendidum,  qui dixit michi : constans e<lb n="17" />sto
-			Iohannes quoniam non amodo Iohannes sed Mar<lb n="18" />cus
+			splendidum,  qui dixit michi : constans e<lb n="17" break="no"/>sto
+			Iohannes quoniam non amodo Iohannes sed Mar<lb n="18" break="no"/>cus
 			uocaberis.
 			<milestone n="2.4" />
-			Cumque euigilarem proci<lb n="19" />di
-			ad pedes Barnabe  sibi quia uisum re<lb n="20" />uelaui.
+			Cumque euigilarem proci<lb n="19" break="no"/>di
+			ad pedes Barnabe  sibi quia uisum re<lb n="20" break="no"/>uelaui.
 			Qui dixit mihi. Et ego uidi Christum<lb n="21" />
 			dicentem mihi. Quoniam pro sancta deuocione primium<lb n="22" />
 			accipies ac tamen conuoca Iohannem ministrum<lb n="23" />
@@ -60,16 +67,16 @@
 			<milestone n="2.8" />
 			Quod cum<lb n="28" />
 			Barnabe panderet, qui fuit Cyprius, genere<lb n="29" />
-			unus ex lxxii discipulis Christi ait. Fiat uolun<lb n="30" />tas
+			unus ex lxxii discipulis Christi ait. Fiat uolun<lb n="30" break="no"/>tas
 			domini
 			<milestone n="2.9" />
 			tamen obsecro, intercede pro me,  nam<lb n="31" />
-			propero Cyprum, ibique finem compleo uite.  <sic>Protho<lb n="32" />lor</sic>
+			propero Cyprum, ibique finem compleo uite.  <sic>Protho<lb n="32" break="no"/>lor</sic>
 			faciem tuam amplius non	uisurus. Hec<lb n="33" />
 			dicens cecidit ad pedes eius flens amare<lb n="34" />
 			<milestone n="2.10" />
 			Cui Paulus compaciens ait. Noli merere.<lb n="35" />
-			Nam apparuit mihi dominus hac nocte dicens. No<lb n="36" />li
+			Nam apparuit mihi dominus hac nocte dicens. No<lb n="36" break="no"/>li
 			Paule prohibere  Barnabam ire Cyprum<cb n="2" /><lb n="1" />
 			quoniam ibi illuminabit multos et  complebit martirium<lb n="2" />
 			Tunc positis genibus orantes et osculantes<lb n="3" />
@@ -80,22 +87,22 @@
 			uenimus<lb n="4" />
 			in ciuitatem, Anemor,
 			ubi uiri et mulieres
-			audien<lb n="5" />tes
+			audien<lb n="5" break="no"/>tes
 			uerba Barnabe compuncti sunt corde,
 			<milestone n="2.13" />
-			baptiza<lb n="6" />tique
+			baptiza<lb n="6" break="no"/>tique
 			induti sunt uestibus religionis christiane<lb n="7" />
 			<milestone n="2.14" />
-			Nauigantes autem inde peruenimus Cyprum,  ibique in<lb n="8" />uenimus
+			Nauigantes autem inde peruenimus Cyprum,  ibique in<lb n="8" break="no"/>uenimus
 			Tymonem et Aristonem, famulos<lb n="9" />
 			domini
 			<milestone n="2.15" />
-				Tymon autem urebatur  febribus. <sic>Consue<lb n="10" />uerat</sic>
-			autem Barnabas euuangelium beati Mathei secum fer<lb n="11" />re,
+				Tymon autem urebatur  febribus. <sic>Consue<lb n="10" break="no"/>uerat</sic>
+			autem Barnabas euuangelium beati Mathei secum fer<lb n="11" break="no"/>re,
 			et super infirmos ponere, et    continuo  sanabantur<lb n="12" />
-			Quod et posuit super Tymonem, qui et stattim cura<lb n="13" />batur.
+			Quod et posuit super Tymonem, qui et stattim cura<lb n="13" break="no"/>batur.
 			<milestone n="2.18" />
-			Hiis itaque gestis obuium habuimus im<lb n="14" />pium
+			Hiis itaque gestis obuium habuimus im<lb n="14" break="no"/>pium
 			Iudeum, quem Paulus lumine priuauerat ad<lb n="15" />
 			tempus. Hic  in commotus prohibuit nos introire<lb n="16" />
 			in Paphum,
@@ -105,28 +112,28 @@
 			currebant, hic cum uidisset  Barnabas  indignatus<lb n="19" />
 			est, super tale facinus, et maledixit templum,<lb n="20" />
 			statimque pars corruit,  et magnam multitudinem<lb n="21" />
-			opprosit.<!--verifier -->
+			opprosit.
 			<milestone n="2.22" />
-			Introeuntibus itaque in Salominam, in<lb n="22" />uenimus
-			synagogam Iudeorum quam apostolus exhor<lb n="23" />tari
-			cepit,  et per euuangelium sancti Mathei Christi gratiam in<lb n="24" />troducere.
+			Introeuntibus itaque in Salominam, in<lb n="22" break="no"/>uenimus
+			synagogam Iudeorum quam apostolus exhor<lb n="23" break="no"/>tari
+			cepit,  et per euuangelium sancti Mathei Christi gratiam in<lb n="24" break="no"/>troducere.
 			<milestone n="2.23" />
 			Hoc cum comperisset Barien,   sedicione<lb n="25" />
-			facta fecit eum comprehendi et quaerebant eum trader<lb n="26" />e
-			consulibus ciuitatis  afflientes eum suppli<lb n="27" />ciis.
+			facta fecit eum comprehendi et quaerebant eum trader<lb n="26" break="no"/>e
+			consulibus ciuitatis  afflientes eum suppli<lb n="27" break="no"/>ciis.
 			Cum igitur peni multatus  ducerent ad<lb n="28" />
 			iudicandum,  accidit ut deueniret in eandem<lb n="29" />
 			insulam quidam magnus de progenie imperatoris<lb n="30" />
-			et timuerunt Iudei, ut ut illum eriperet,   li<lb n="31" />gabant
+			et timuerunt Iudei, ut ut illum eriperet,   li<lb n="31" break="no"/>gabant
 			funem in collo eius nocturno tempore, et<lb n="32" />
 			dilaceratum traxerunt   foras portam, ibique<lb n="33" />
 			igne combusserunt. 	Sic apostolus  adustus, pro Christi<lb n="34" />
-			amore, migrauit ad deum. Im<lb n="35" />pii
+			amore, migrauit ad deum. Im<lb n="35" break="no"/>pii
 			autem Iudei non sic saciati, sustulerunt<lb n="36" />
-			corpus sacratissimum,   et in locello plumbeo reclu<pb n="26r" /><cb n="1" /><lb n="1" />dentes
+			corpus sacratissimum,   et in locello plumbeo reclu<pb n="26r" /><cb n="1" /><lb n="1" break="no"/>dentes
 			in mare praecipitare disponebant.
 			<milestone n="2.24" />
-			E<lb n="2" />go
+			E<lb n="2" break="no"/>go
 			uero cum Tymone et Radono nocturnis<lb n="3" />
 			horis tulimus illud  et collocauimus in cripta  que<lb n="4" />
 			olim erat Iebuseorum, iiio  idus iunii.

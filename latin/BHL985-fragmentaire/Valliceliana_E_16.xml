@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL985 - fragmentaire)</title>
+				<title>Acta Barnabae (BHL985 - fragmentaire) - Valliceliana_E_16</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 					</msIdentifier>
 				</msDesc>
 			</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,42 +48,42 @@
 						<milestone n="1.29" />
 						Quare itaque ? quoniam illos  caritatis<lb n="4" />
 						uinculo irretitos habebat ille<lb n="5" />
-						qui eis preceperat,  in hoc cogno<lb n="6" />scent
-						omnes quia uere mei disci<lb n="7" />puli
+						qui eis preceperat,  in hoc cogno<lb n="6" break="no"/>scent
+						omnes quia uere mei disci<lb n="7" break="no"/>puli
 						estis,  si dilectionem in uobis<lb n="8" />
 						habueritis.
 						<milestone n="1.30" />
 						De sessione autem<lb n="9" />
 						huius sanctissimi apostoli Barnabȩ<lb n="10" />
-						nemo in scrupulum dubitatio<lb n="11" />nis
+						nemo in scrupulum dubitatio<lb n="11" break="no"/>nis
 						incidat, ut non sedeat cum domino<lb n="12" />
 						et cum ceteris apostolis ad iudicandum,<lb n="13" />
 						pro eo  quod non est in duodenario<lb n="14" />
 						ordine illorum,  quoniamquidem sicut<lb n="15" />
-						sancti edocuere patres,  per duode<lb n="16" />narium
-						uniuersitas signifi<lb n="17" />catur.
+						sancti edocuere patres,  per duode<lb n="16" break="no"/>narium
+						uniuersitas signifi<lb n="17" break="no"/>catur.
 						Ergo proculdubio sedebit<lb n="18" />
 						cum sanctis et martyribus  gloriosumque<lb n="19" />
-						iu<gap atLeast="3" atMost="5" />m exhibebi<gap atLeast="2" atMost="4" /> quia quo<lb n="20" />modo
-						non de catalago predica<lb n="21" />tionis,
-						ita non deerit a gloria sessio<lb n="22" />nis.
+						iu<gap atLeast="3" atMost="5" />m exhibebi<gap atLeast="2" atMost="4" /> quia quo<lb n="20" break="no"/>modo
+						non de catalago predica<lb n="21" break="no"/>tionis,
+						ita non deerit a gloria sessio<lb n="22" break="no"/>nis.
 						<milestone n="1.31" />
 						Igitur quia sermo exortus<lb n="23" />
 						de sessione illius rationabiliter<lb n="24" />
 						dissertus est,  opere precium uidetur<lb n="25" />
 						et utile  ut liquidius intelligamus<lb n="26" />
-						quot sunt partes illorum  qui iudi<lb n="27" />cant,
-						et quot eorum qui iudican<lb n="28" />tur.
-						Ergo sanctorum patrum docu<lb n="29" />menta
-						sequen<gap atLeast="3" atMost="5" /> <gap quantity="1" />eraciter tene<lb n="30" />amus
+						quot sunt partes illorum  qui iudi<lb n="27" break="no"/>cant,
+						et quot eorum qui iudican<lb n="28" break="no"/>tur.
+						Ergo sanctorum patrum docu<lb n="29" break="no"/>menta
+						sequen<gap atLeast="3" atMost="5" /> <gap quantity="1" />eraciter tene<lb n="30" break="no"/>amus
 						quia d<gap atLeast="4" atMost="7" />
 						differen<lb n="31" />
 						<gap atLeast="1" atMost="3" />om<unclear reason="damage" atLeast="1" atMost="3" />  uel ordines in iu<lb n="32" />
 						<unclear reason="damage" atLeast="20" atMost="24" /><lb n="33" />
 						<gap /><cb n="2" /><lb n="1" />
-						in duobus pa<gap  /><lb n="2" />
+						in duobus pa<gap /><lb n="2" />
 						qui	 intra sanctam <gap /><lb n="3" />
-						mali, iudica<gap  /><lb n="4" />
+						mali, iudica<gap /><lb n="4" />
 						nandi.
 						<milestone n="1.32" />
 						Nos<gap /><lb n="5" />
@@ -103,7 +110,7 @@
 						sequuntur, et qu<gap /><lb n="25" />
 						nam martyri<gap /><lb n="26" />
 						greco elogio p<gap /><lb n="27" />
-						idel<unclear reason="damage" atLeast="1" atMost="2" /><gap  atLeast="7" atMost="9" /><gap /><lb n="28" />
+						idel<unclear reason="damage" atLeast="1" atMost="2" /><gap atLeast="7" atMost="9" /><gap /><lb n="28" />
 						magu<gap atLeast="7" atMost="9" /><gap /><lb n="29" />
 						fideliter d<unclear reason="damage" atLeast="4" atMost="5" /><gap /><lb n="30" />
 					</p>
@@ -135,7 +142,7 @@
 						<gap />endidum atque<lb n="15" />
 						<gap />tum stolam can<lb n="16" />
 						<gap /><unclear reason="damage" quantity="1" />mihi :  constans<lb n="17" />
-						<gap/>de fiducialiter<lb n="18" />
+						<gap />de fiducialiter<lb n="18" />
 						<gap />modo non Iohannes<lb n="19" />
 						<gap />st excelsus uo<lb n="20" />
 						<gap />excellentiȩ tuȩ<lb n="21" />
@@ -147,7 +154,7 @@
 						<gap />gnoscas myste<lb n="27" />
 						<gap /><gap atLeast="7" atMost="8" />
 						<milestone n="2.4" />
-						Cernen<lb n="28" />do
+						Cernen<lb n="28" break="no"/>do
 						<gap /><gap atLeast="7" atMost="8" />ionem<lb n="29" />
 						<gap /><unclear reason="damage" atLeast="1" atMost="3" /> euigilans<lb n="30" />
 						<gap /><gap atLeast="3" atMost="5" />ti Barna<lb n="31" />
@@ -157,23 +164,23 @@
 						dicens : precaue diligenter,  et<lb n="2" />
 						pone custodiam ori tuo,  ne alicui<lb n="3" />
 						uirtutem mysterii asseras. Nam<lb n="4" />
-						et mihi similiter hac nocte ap<lb n="5" />paruit
-						dominus Iesus Christus dicens : con<lb n="6" />stans
+						et mihi similiter hac nocte ap<lb n="5" break="no"/>paruit
+						dominus Iesus Christus dicens : con<lb n="6" break="no"/>stans
 						esto Barnaba credendo<lb n="7" />
 						uerissime,  quoniam pro sancta deuotione<lb n="8" />
 						qua reliquisti generationem tuam,<lb n="9" />
-						et tradidisti animam tuam pro no<lb n="10" />mine
+						et tradidisti animam tuam pro no<lb n="10" break="no"/>mine
 						meo, in ea perseuerando<lb n="11" />
 						premia aeterna percipies. Attamen<lb n="12" />
 						conuoca Iohannem ministrum tuum,<lb n="13" />
 						quoniamquidem et ipse similiter uidit<lb n="14" />
 						quȩdam misteria. Interim<lb n="15" />
 						conserua omnia  quȩ  uidisti,<lb n="16" />
-						quia ueniet tempus quando ma<lb n="17" />nifestus
+						quia ueniet tempus quando ma<lb n="17" break="no"/>nifestus
 						appareas.
 						<milestone n="2.5" />
-						Hanc commo<lb n="18" />nitionem
-						ab illo percipiendo, com<lb n="19" />morati
+						Hanc commo<lb n="18" break="no"/>nitionem
+						ab illo percipiendo, com<lb n="19" break="no"/>morati
 						<gap atLeast="1" atMost="2" />mus
 						in predi<gap atLeast="1" atMost="3" />o Yco<unclear reason="damage" atLeast="1" atMost="2" />io<lb n="20" />
 						per dies aliquot,  in quo erat quidam<lb n="21" />

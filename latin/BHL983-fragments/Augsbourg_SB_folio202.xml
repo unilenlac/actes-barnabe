@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL983 - fragment)</title>
+				<title>Acta Barnabae (BHL983 - fragment) - Augsbourg_SB_folio202</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -40,11 +47,11 @@
 		<p>
 			Iohannes igitur<lb n="20" />
 			qui et Marcus famulus domini nostri Iesu Christi discipulus uero apostolorum Pauli et<lb n="21" />
-			Barnabe mistica dei opera quae diuinitus uidi et diligenter cognoui, gra<lb n="22" />diendo
+			Barnabe mistica dei opera quae diuinitus uidi et diligenter cognoui, gra<lb n="22" break="no"/>diendo
 			scilicet cum praedictis sanctis apostolis,  et famulando in ministerio illorum in omnibus<lb n="23" />
 			fidelibus in Christi ecclesia commorantibus per gratiam domini fideliter pando. Denique<lb n="24" />
-			cum essem ethnicus et famulator ydolorum. Commorando scilicet in ministerio Cy<lb n="25" />rilli,
-			quondam pontificis nefandissimi templi Iouis. Annuente gratia do<lb n="26" />mini
+			cum essem ethnicus et famulator ydolorum. Commorando scilicet in ministerio Cy<lb n="25" break="no"/>rilli,
+			quondam pontificis nefandissimi templi Iouis. Annuente gratia do<lb n="26" break="no"/>mini
 			Iesu Christi, baptizatus sum per beatum Paulum et Barnabam,  qui digni fuerunt<lb n="27" />
 			uocacione dei, in loco  qui dicitur Yconium.
 			<milestone n="2.3" />
@@ -101,7 +108,7 @@
 				Illis autem abeuntibus ad praedicandum commoratus sum<lb n="25" />
 				ibi  duobus mensibus. Cumque disponerem ire in partibus occidentis,  prohibuit me<lb n="26" />
 				spiritus sanctus.
-				Igitur cum audissem quod idem sancti apostoli Paulus et Barnabas Antio<lb n="27" />chie essent,
+				Igitur cum audissem quod idem sancti apostoli Paulus et Barnabas Antio<lb n="27" break="no"/>chie essent,
 				continuo perrexi ad illos.
 				<milestone n="2.6" />
 				Inuenique beatum Paulum fatigatum<lb n="28" />

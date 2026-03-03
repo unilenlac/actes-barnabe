@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL985 — fragmentaire)</title>
+				<title>Acta Barnabae (BHL985 — fragmentaire) - Vaticanus_Latinus_1195</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -30,26 +37,26 @@
 <text>
 	<body>
 		<div>
-			<milestone  n="titre-partie1" />
+			<milestone n="titre-partie1" />
 			<head type="initial">
 							<pb n="262r" /><cb n="2" /><lb n="31" />
 			Incipit<lb n="32" />
-			sermo in natale sancti Barna<lb n="33" />be
+			sermo in natale sancti Barna<lb n="33" break="no"/>be
 			apostoli.
 			<seg type="reading-date">Menseiunio dies xi.</seg>
 		</head>
 		<milestone n="1.1" />
 		<p>
-		Re<lb n="34" />demp<lb n="35" />tor<pb n="262v" /><cb n="1" /><lb n="1" />
+		Re<lb n="34" break="no"/>demp<lb n="35" break="no"/>tor<pb n="262v" /><cb n="1" /><lb n="1" />
 		et saluator noster<lb n="2" />
-		dominus Christus, antequam de interi<lb n="3" />tu
+		dominus Christus, antequam de interi<lb n="3" break="no"/>tu
 		Sathanȩ triumphasset,<lb n="4" />
 		uictor et exultans penetrat<lb n="5" />
 		regna polorum. Sanctam ecclesiam quam<lb n="6" />
-		pretioso suo sanguine acqui<lb n="7" />siuit,
-		per beatos apostolos,  et apo<lb n="8" />stolicos
+		pretioso suo sanguine acqui<lb n="7" break="no"/>siuit,
+		per beatos apostolos,  et apo<lb n="8" break="no"/>stolicos
 		uiros immobiliter<lb n="9" />
-		muniens fundauit, mirabili<lb n="10" />ter
+		muniens fundauit, mirabili<lb n="10" break="no"/>ter
 		corroborans solidauit.<lb n="11" />
 		Scilicet ut et ipsa inuiolata<lb n="12" />
 		semper et gloriosa maneret,<lb n="13" />
@@ -57,33 +64,33 @@
 		sibi proieniem plurimos filios<lb n="15" />
 		aggregaret.
 		<milestone n="1.2" />
-		Ex quorum con<lb n="16" />sortio
-		et collegio extans beatis<lb n="17" />simus
-		Barnabas, tanto deuotis<lb n="18" />sime
+		Ex quorum con<lb n="16" break="no"/>sortio
+		et collegio extans beatis<lb n="17" break="no"/>simus
+		Barnabas, tanto deuotis<lb n="18" break="no"/>sime
 		pro ipsa decertare studuit,<lb n="19" />
 		quanto diuinitus per spiritus sancti gratiam<lb n="20" />
-		cum beato Paulo apostolo,  et apo<lb n="21" />stolatus
+		cum beato Paulo apostolo,  et apo<lb n="21" break="no"/>stolatus
 		gloriam uocatum se esse<lb n="22" />
 		cognouit. Ergo cum sanctorum<lb n="23" />
 		apostolorum natalicia celebramus,<lb n="24" />
-		dignum ȩquidem atque saluta<lb n="25" />re
-		uidetur, ut eius sollempnita<lb n="26" />tem
+		dignum ȩquidem atque saluta<lb n="25" break="no"/>re
+		uidetur, ut eius sollempnita<lb n="26" break="no"/>tem
 		deuotissime celebremus,<lb n="27" />
 		<milestone n="1.3" />
 		quoniamquidem et si non est<lb n="28" />
-		in ordine duodenario aposto<lb n="29" />latus
+		in ordine duodenario aposto<lb n="29" break="no"/>latus
 		eorum,  non tamen deesse<lb n="30" />
 		de catalogo   predicationis,<lb n="31" />
 		et excellentia miraculorum,<lb n="32" />
 		quem cum beatissimo Paulo<lb n="33" />
 		sicut Lucas ȩuangelista refert<lb n="34" />
 		in actibus apostolorum mirabiliter<lb n="35" />
-		patrauit,  a tempore uideli<lb n="36" />cet
-		quo per uocationem et gra<lb n="37" />tiam
+		patrauit,  a tempore uideli<lb n="36" break="no"/>cet
+		quo per uocationem et gra<lb n="37" break="no"/>tiam
 		spiritus sancti, tertio decimo<lb n="38" />
 		post domini passionem anno, cum<lb n="39" />
-		ipso ad apostolatus celsitudi<lb n="40" />nem
-		<sic>hac</sic> predicationem diui<lb n="41" />nitus
+		ipso ad apostolatus celsitudi<lb n="40" break="no"/>nem
+		<sic>hac</sic> predicationem diui<lb n="41" break="no"/>nitus
 		electus est, uocantem<cb n="2" /><lb n="1" />
 		illos eodem <sic>spiritus sancto</sic> atque dicente :<lb n="2" />
 		segregate michi Barnaban et<lb n="3" />
@@ -95,46 +102,46 @@
 		<milestone n="1.4" />
 		Sed qualiter uir iste domini<lb n="5" />
 		Barnabas deuotissime fidem<lb n="6" />
-		catholicam predicando, et cor<lb n="7" />da
-		infidelium ab errore iniqui<lb n="8" />tatis
+		catholicam predicando, et cor<lb n="7" break="no"/>da
+		infidelium ab errore iniqui<lb n="8" break="no"/>tatis
 		redimendo, opprobrias, et<lb n="9" />
-		contumelias pro Christi amore susti<lb n="10" />nendo.
+		contumelias pro Christi amore susti<lb n="10" break="no"/>nendo.
 		Hac deinde per martyrii<lb n="11" />
 		palmam ad coronam gloriȩ uenit.<lb n="12" />
-		Per autenticam seriem et aucto<lb n="13" />ritatem
-		prephati Lucȩ ȩuangeli<lb n="14" />ste,
-		est Iohannis cognomento Mar<lb n="15" />ci
+		Per autenticam seriem et aucto<lb n="13" break="no"/>ritatem
+		prephati Lucȩ ȩuangeli<lb n="14" break="no"/>ste,
+		est Iohannis cognomento Mar<lb n="15" break="no"/>ci
 		discipuli, atque exadelphi eius<lb n="16" />
-		gradientes,  fida relatione pande<lb n="17" />re
+		gradientes,  fida relatione pande<lb n="17" break="no"/>re
 		curamus.
 		<milestone n="1.5" />
-		Denique est ille Bar<lb n="18" />nabas
-		sanctissimus  qui et Ioseph, u<lb n="19" />nus
-		ex septuaginta duobus disci<lb n="20" />pulis
-		domini saluatoris qui secundum no<lb n="21" />minis
-		sui presagium. Nam Barna<lb n="22" />bas
+		Denique est ille Bar<lb n="18" break="no"/>nabas
+		sanctissimus  qui et Ioseph, u<lb n="19" break="no"/>nus
+		ex septuaginta duobus disci<lb n="20" break="no"/>pulis
+		domini saluatoris qui secundum no<lb n="21" break="no"/>minis
+		sui presagium. Nam Barna<lb n="22" break="no"/>bas
 		hȩbraicȩ, latine autem filius<lb n="23" />
-		consolationis dicitur, commu<lb n="24" />niter
+		consolationis dicitur, commu<lb n="24" break="no"/>niter
 		cum sanctis apostolis degebat, et<lb n="25" />
-		consolationem maximam prebe<lb n="26" />bat,
+		consolationem maximam prebe<lb n="26" break="no"/>bat,
 		<milestone n="1.6" />
 		inter eos uidelicet, quibus<lb n="27" />
-		erat cor et anima una, nec quis<lb n="28" />quam
-		eorum quȩ possidebant ali<lb n="29" />quit
-		suum esse dicebant, sed e<lb n="30" />rant
+		erat cor et anima una, nec quis<lb n="28" break="no"/>quam
+		eorum quȩ possidebant ali<lb n="29" break="no"/>quit
+		suum esse dicebant, sed e<lb n="30" break="no"/>rant
 		illis omnia communia, et<lb n="31" />
 		quotquot possessores agrorum<lb n="32" />
 		hac domorum erant,  uendentes<lb n="33" />
-		afferebant pretia eorum  et pone<lb n="34" />bant
+		afferebant pretia eorum  et pone<lb n="34" break="no"/>bant
 		ante pedes apostolorum.
 		<milestone n="1.7" />
 		Sic et<lb n="35" />
 		enim scriptum est.  Ioseph autem<lb n="36" />
 		qui cognominatus est Bar<subst>
 			<del rend="other">na</del>
-			<add  hand="corr1" place="margin-right">sa</add>
+			<add hand="corr1" place="margin-right">sa</add>
 		</subst>bas<lb n="37" />
-		ab apostolis,  quod est filius consola<lb n="38" />tionis
+		ab apostolis,  quod est filius consola<lb n="38" break="no"/>tionis
 		leuites Cyprius genere,<lb n="39" />
 		cum haberet agrum  uendidit<lb n="40" />
 		illum, et attulit pretia,  et posuit<lb n="41" />
@@ -145,11 +152,11 @@
 		<milestone n="2.23" />
 		<gap />
 		et deinde foris portam. Post <add place="above" hand="corr2">ea</add> autem<lb n="2" />
-		circumdantes illum igne crude<lb n="3" />liter
-		cremauerunt, sicque bea<lb n="4" />tus
+		circumdantes illum igne crude<lb n="3" break="no"/>liter
+		cremauerunt, sicque bea<lb n="4" break="no"/>tus
 		apostolus post <sic>multum</sic>  agones et<lb n="5" />
-		diuturna certamina, pro Christi a<lb n="6" />more
-		adustus migrauit ad gau<lb n="7" />dia
+		diuturna certamina, pro Christi a<lb n="6" break="no"/>more
+		adustus migrauit ad gau<lb n="7" break="no"/>dia
 		sempiterna. Impii autem<lb n="8" />
 		Iudȩi non satiati de nece	illius<lb n="9" />
 		zelo odii concitati, tulerunt<lb n="10" />
@@ -158,28 +165,28 @@
 		in mare precipitare disponebant.<lb n="13" />
 		<milestone n="2.24" />
 		<sic>Interum</sic> ergo prephatus Iohannes qui et<lb n="14" />
-		Marcus una cum predictis  Ti<lb n="15" />mone
-		et Rodone, occultis noc<lb n="16" />turnis
+		Marcus una cum predictis  Ti<lb n="15" break="no"/>mone
+		et Rodone, occultis noc<lb n="16" break="no"/>turnis
 		horis tulimus illud  et<lb n="17" />
 		collocauimus in cripta  quȩ<lb n="18" />
-		olim fuerat habitatio Hiebus<lb n="19" />eorum
+		olim fuerat habitatio Hiebus<lb n="19" break="no"/>eorum
 		tertio idus iunii, hoc<lb n="20" />
 		est undecima diȩ ipsius
 		mensis.<lb n="21" />
 		<milestone n="epilogue" />
-		Propter hanc itaque occultam col<lb n="22" />locationem
-		plurimis annorum cur<lb n="23" />riculis,
-		uenerabilem corpus il<lb n="24" />lius
-		latuit, nec inueniri a christico<lb n="25" />lis
+		Propter hanc itaque occultam col<lb n="22" break="no"/>locationem
+		plurimis annorum cur<lb n="23" break="no"/>riculis,
+		uenerabilem corpus il<lb n="24" break="no"/>lius
+		latuit, nec inueniri a christico<lb n="25" break="no"/>lis
 		ualuit. Sed deus omnipotens qui non<lb n="26" />
-		patitur gloriam occultare sanctorum su<lb n="27" />orum,
+		patitur gloriam occultare sanctorum su<lb n="27" break="no"/>orum,
 		tempore Zenonis imperatoris<lb n="28" />
-		et sancti Gelasii papȩ. Eodem sancto a<lb n="29" />postolo<lb n="30" />
+		et sancti Gelasii papȩ. Eodem sancto a<lb n="29" break="no"/>postolo<lb n="30" />
 		reuelante inuentum est,<lb n="31" />
-		atque cum ymnis et laudibus mi<lb n="32" />rifice
-		collocatum est  ad hono<lb n="33" />rem
+		atque cum ymnis et laudibus mi<lb n="32" break="no"/>rifice
+		collocatum est  ad hono<lb n="33" break="no"/>rem
 		et gloriam  domini nostri Iesu Christi. Qui<lb n="34" />
-		cum patre et spiritu sancto uiuit  et reg<lb n="35" />nat
+		cum patre et spiritu sancto uiuit  et reg<lb n="35" break="no"/>nat
 		deus per infinita saecula saeculorum,  amen.
 	</p>
 	<milestone n="explicit-BHL983" />

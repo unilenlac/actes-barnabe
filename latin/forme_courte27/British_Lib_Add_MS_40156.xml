@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 27)</title>
+				<title>Acta Barnabae (Forme courte 27) - British_Lib_Add_MS_40156</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -43,7 +50,7 @@
 				Natale sancti Barnabe apostoli, qui a discipulis cum<lb n="20" />
 					Paulo gentium apostolus ordinatus est<note type="editorial">Brève reprise du prologue</note>.
 				<milestone n="FC27-invention" />
-				Huius cor<lb n="21" />pus
+				Huius cor<lb n="21" break="no"/>pus
 				tempore Zenonis imperatoris ipso reuelante repertum est.
 				</p>
 				<p><pb n="59r" /><lb n="1" />
@@ -53,8 +60,8 @@
 				De quo libro <c type="justif" /><lb n="3" />
 				Barnabas signabat infirmos.<note type="editorial">Ce passage témoigne en revanche de la connaissance, même indirecte, d'AB 2.15</note>
 				<milestone n="HD" />
-				Hic diuina dispen<lb n="4" />satione,
-				tertio decimo anno post nostri saluatoris pas<lb n="5" />sionem
+				Hic diuina dispen<lb n="4" break="no"/>satione,
+				tertio decimo anno post nostri saluatoris pas<lb n="5" break="no"/>sionem
 				peruenit Mediolanum,
 				ubi spiritualis medicine<lb n="6" />
 				principium fuit. Hic anno quarto antequam beatus<lb n="7" />
@@ -62,14 +69,14 @@
 				ciuitatis Mediolani primus episcopus, qui primo ad fidem Christi<lb n="9" />
 				ciues conuertit, et in  ipso episcopatu septem annis resedit.<lb n="10" />
 				Postmodum diuino instinctum disponeres Cyprium<lb n="11" />
-				remeare, beatum Anathelonem loco sui constituit ar<lb n="12" />chiepiscopum
+				remeare, beatum Anathelonem loco sui constituit ar<lb n="12" break="no"/>chiepiscopum
 				Mediolanensem, quem ipse metropolitano<lb n="13" />
 				sublimauit honore, subitiens ditioni sue omnes<lb n="14" />
 				ciuitates et regiones a lacu Benaco siue Uenaco<lb n="15" />
 				qui modo dicitur lacus de Garda, usque ad Alpes<lb n="16" />
 				Secusie.
 				<milestone n="FC27-reliques-milan" />
-				Huius Barnabe caput est in ecclesia sancti Na<lb n="17" />boris.<note type="editorial">Eglise St Francois Majeure à Milan, détruite au 19eme s. Cf Wikipedia (et autre après déconfinement). Consulter aussi Tomea.</note>
+				Huius Barnabe caput est in ecclesia sancti Na<lb n="17" break="no"/>boris.<note type="editorial">Eglise St Francois Majeure à Milan, détruite au 19eme s. Cf Wikipedia (et autre après déconfinement). Consulter aussi Tomea.</note>
 				De hoc quidam sapiens uersificator asseruit<lb n="18" />
 				dicens : Barnabam  huc  prohibent translatum scripta<lb n="19" />
 				uetusta, fama refert usti cineres et plumbea tumba.

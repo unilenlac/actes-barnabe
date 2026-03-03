@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="gr">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae</title>
+				<title>Acta Barnabae - Parisinus Graecus 1179A</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +23,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="approved">
 			<change />
 		</revisionDesc>
@@ -30,57 +35,57 @@
 <text>
 	<body>
 		<div>
-			<milestone n="24"/><lb n="1" />
+			<milestone n="24" unit="épisode"/><lb n="1" />
 			<gap />
 			<pb n="2r" /><cb n="1" />
 	<p>
 				δωδεκάτου· κατὰ δὲ ῥωμαίους.<lb n="2" />
 		μηνὶ ἰουνίω ι̅α̅·
-		<milestone n="25" />
-		ὡς δὲ ἐκρύ<lb n="3" />βημεν
+		<milestone n="25" unit="épisode" />
+		ὡς δὲ ἐκρύ<lb n="3" break="no" />βημεν
 		ἐν τῶ τόπω. ζήτησιν<lb n="4" />
 		οὐκ  ὀλίγην ἐποιήσαντο  ἰουδαῖοι<lb n="5" />
 		καθ ημῶν· καὶ μόλις εὑρόντες,<lb n="6" />
 		κατεδίωξαν ἡμᾶς ἕως τῆς<lb n="7" />
 		κώμης λεδρῶν· καὶ εὑρόντες<lb n="8" />
-		κακεῖ σπήλαιον ἐν τῶ ὄρει πλη<lb n="9" />σίον
+		κακεῖ σπήλαιον ἐν τῶ ὄρει πλη<lb n="9" break="no" />σίον
 		τῆς κώμης,
 		ἀνελθόντες<lb n="10" />
-		κατεφύγομεν ἐν αὐτῶ· καὶ οὕ<lb n="11" />τως
-		διελίθασαν ἡμας· ἀπἐ<lb n="12" />κρύβημεν
+		κατεφύγομεν ἐν αὐτῶ· καὶ οὕ<lb n="11" break="no" />τως
+		διελίθασαν ἡμας· ἀπἐ<lb n="12" break="no" />κρύβημεν
 		δὲ ἐν τῶ σπηλαίω<lb n="13" />
-		ἡμέρας τρεῖς· καὶ ἀναχωρη<lb n="14" />σάντων
+		ἡμέρας τρεῖς· καὶ ἀναχωρη<lb n="14" break="no" />σάντων
 		τῶν ἰουδαίων,
-		ἐξελ<lb n="15" />θόντες κατελείψαμεν τὸν τόπον·<lb n="16" />
-		προσλαβόμενοι δὲ ἀρίστωνα<lb n="17" /> καὶ
-		ῥόδωνα. ἤλθομεν ἐν κώ<lb n="18" />μη
+		ἐξελ<lb n="15" break="no" />θόντες κατελείψαμεν τὸν τόπον·<lb n="16" />
+		προσλαβόμενοι δὲ ἀρίστωνα<lb n="17" break="no" /> καὶ
+		ῥόδωνα. ἤλθομεν ἐν κώ<lb n="18" break="no" />μη
 		λιμνητὶ·
-		<milestone n="26"/>
-		εὑρόντες δὲ πλοῖ<lb n="19" />ον
+		<milestone n="26" unit="épisode" />
+		εὑρόντες δὲ πλοῖ<lb n="19" break="no" />ον
 		αἰγύπτιον,
-		ἀνήλθομεν ἐν αὐ<lb n="20" />τῶ·
+		ἀνήλθομεν ἐν αὐ<lb n="20" break="no" />τῶ·
 		καὶ πλέυσαντες,
-		κατήχθη<lb n="21" />μεν
-		ἐν ἀλεξανδρεῖα· κακεῖ ἔμει<lb n="22" />να
-		διδάσκων τοὺς προσφυγόν<lb n="23" />τας
+		κατήχθη<lb n="21" break="no" />μεν
+		ἐν ἀλεξανδρεῖα· κακεῖ ἔμει<lb n="22" break="no" />να
+		διδάσκων τοὺς προσφυγόν<lb n="23" break="no" />τας
 		ἀδελφοὺς. τὸν λόγον τοῦ <abbr type="ns">θυ</abbr>·<lb n="24" />
-		φωτίζων αὐτοὺς καὶ εὐαγγελι<lb n="25" />ζόμενος·
+		φωτίζων αὐτοὺς καὶ εὐαγγελι<lb n="25" break="no" />ζόμενος·
 		ἅπερ ἐδιδάχθην<lb n="26" />
 		ὑπὸ τῶν ἁγίων τοῦ <abbr type="ns">χυ</abbr>
 		ἀποστόλων,<lb n="27" />
 		τῶν καὶ βαπτισάντων με εἰς<lb n="28" />
 		τὸ ὄνομα τοῦ <abbr type="ns">πρς</abbr> καὶ τοῦ υἱοῦ<lb n="29" />
 		καὶ τοῦ ἁγίου <abbr type="ns">πνς</abbr>· τῶν καὶ
-		με<lb n="30" />τονομασάντων
+		με<lb n="30" break="no" />τονομασάντων
 		με μάρκον. ἐν<lb n="31" />
-		τῶ ὕδατι τοῦ ἁγίου βαπτίσμα<lb n="32" />τος·
-		ἐν ῶ ἐλπίζω πρὸσἐνέγ<lb n="33" />και
+		τῶ ὕδατι τοῦ ἁγίου βαπτίσμα<lb n="32" break="no" />τος·
+		ἐν ῶ ἐλπίζω πρὸσἐνέγ<lb n="33" break="no" />και
 		πολλοὺς εἰς τὴν δόξαν<lb n="34" />
 		τοῦ <abbr type="ns">κυ</abbr>,  διὰ
-		τῆς αὐτοῦ ἀγαθότη<lb n="35" />τος·
-		ὅτι αὐτῶ πρέπει πᾶσα  δό<lb n="36" />ξα
+		τῆς αὐτοῦ ἀγαθότη<lb n="35" break="no" />τος·
+		ὅτι αὐτῶ πρέπει πᾶσα  δό<lb n="36" break="no" />ξα
 		τιμὴ καὶ προσκύνησιν νῦν<cb n="2" /><lb n="1" />
-		καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας<lb n="2" /> τῶν αἰώνων
+		καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας<lb n="2" break="no" /> τῶν αἰώνων
 		ἀμήν.
 	</p>
 </div>

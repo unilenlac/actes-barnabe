@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 39)</title>
+				<title>Acta Barnabae (Forme courte 39) - Augsbourg_SB_35</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -32,7 +39,7 @@
 	<div>
 		<milestone n="titre-principal" />
 <pb n="32r" />
-				<head type="initial"><lb n="15" />Passio sancti Barnabe apostoli.</head>
+				<head type="initial"><lb n="15" break="no"/>Passio sancti Barnabe apostoli.</head>
 		<milestone n="2.2" />
 		<p>
 			Iohannes igitur qui et Marcus famulus domini Iesu Christi<lb n="16" />
@@ -50,14 +57,14 @@
 			oportet pro eo scilicet  quia tenebre que hactenus fuerunt in te  penitus effugate sunt. Et data<lb n="22" />
 			est gratia et intellectus, ut cognoscas misteria dei omnipotentis.
 			<milestone n="2.4" />
-			Cernendo itaque hanc reue<lb n="23" />lationem
+			Cernendo itaque hanc reue<lb n="23" break="no"/>lationem
 			obstupui fateor et euigilans procidi ad pedes beati Barnabe, ac<lb n="24" />
 			seriatim illi omnia, quae a praedicto uiro cognoui. Interea beatus Paulus non ibi erat,  quando haec<lb n="25" />
-			secreta dei sancto Barnabe pandere studeui. Postquam uero beatus Barnabas diligenter anim<lb n="26" />aduertit
+			secreta dei sancto Barnabe pandere studeui. Postquam uero beatus Barnabas diligenter anim<lb n="26" break="no"/>aduertit
 			nostram reuelationem. Commonuit dicens. Precaue diligenter,  et pone custodiam ori<lb n="27" />
 			tuo,  ne alicui misterii uirtutem, quam uidisti asseras. Nam et mihi similiter ac nocte,<lb n="28" />
 			apparuit dominus Christus dicens. Constans esto Barnabas, credendo uerissime,  quoniam pro sancta deuocione<lb n="29" />
-			ob quam reliquisti generacionem tuam  pro nomine meo, in ea perseuerando, praemia eterna perci<lb n="30" />pias
+			ob quam reliquisti generacionem tuam  pro nomine meo, in ea perseuerando, praemia eterna perci<lb n="30" break="no"/>pias
 			attamen conuoca Iohannem ministrum tuum, quoniamquidem et ipse similiter uidit quaedam<pb n="32v" /><lb n="1" />
 			misteria. Interim conserua omnia  quae uidisti et audisti,  quia ueniet tempus  quando manifestus<lb n="2" />
 			appareas.
@@ -94,7 +101,7 @@
 			decertantes  ut pergeremus Cyprum.
 			<milestone n="2.12" />
 			Deinde uenimus in ciuitatem quae uocatur Anemoria in qua inuenimus<lb n="19" />
-			quosdam uiros quamquam ethnicos, tamen sagacitate pollentes. Qui nos cernentes, saga<lb n="20" />citer
+			quosdam uiros quamquam ethnicos, tamen sagacitate pollentes. Qui nos cernentes, saga<lb n="20" break="no"/>citer
 			interrogare ceperunt dicentes. O uiri qui estis ? Unde ? Et quo ? Uel quae res uos<lb n="21" />
 			attulit in nostris oris ? Animaduertens autem beatus Barnabas, illorum sagacitater<lb n="22" />
 			eis respondere studuit.  Si nosse inquid cupitis  qui sumus. Unde, et quo,  uel quam ob rem uenimus.<lb n="23" />
@@ -143,7 +150,7 @@
 			Propter hanc itaque occultam collocationem,<lb n="17" />
 			plurimis annorum curriculis, uenerabile corpus illius  latuit,  nec inueniri a christicolis ualuit,  deus<lb n="18" />
 			omnipotens qui  patitur gloriam sanctorum suorum occultare.  Tempore Zenonis imperatoris et sancti Gelasii<lb n="19" />
-			papae. Eodem sancto apostolo reuelante inuentum est  atque cum ymnis et laudibus, mirifice col<lb n="20" />locatum
+			papae. Eodem sancto apostolo reuelante inuentum est  atque cum ymnis et laudibus, mirifice col<lb n="20" break="no"/>locatum
 			est. Ad honorem et gloriam domini nostri Iesu Christi,  qui cum patre et spiritu sancto, uiuit  et regnat<lb n="21" />
 		deus	per infinita saecula saeculorum Amen.
 		</p>

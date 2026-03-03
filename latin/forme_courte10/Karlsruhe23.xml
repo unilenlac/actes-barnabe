@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 10)</title>
+				<title>Acta Barnabae (Forme courte 10) - Karlsruhe23</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -34,7 +41,7 @@
 			<pb n="33r" /><cb n="1" />
 						<head type="initial">
 				<lb n="35" />
-				Passio sancti Bar<lb n="36" />nabe
+				Passio sancti Bar<lb n="36" break="no"/>nabe
 				apostoli.<cb n="2" /><lb n="1" />
 			</head>
 			<milestone n="2.2" />
@@ -50,9 +57,9 @@
 				quoniam non ammodo Iohannes sed <c type="justif" /><lb n="6" />
 				Marcus uocaberis.
 				<milestone n="2.4" />
-				Cum  e<lb n="7" />uigilarem
+				Cum  e<lb n="7" break="no"/>uigilarem
 				procidi ad pedes <c type="justif" /><lb n="8" />
-				Barnabe sibique uisum re<lb n="9" />uelaui.
+				Barnabe sibique uisum re<lb n="9" break="no"/>uelaui.
 				Qui dixit mihi. Et cuius<lb n="10" />
 				uidi Christum dicentem mihi.   Quoniam<lb n="11" />
 				pro sancta deuocione praemia eterna<lb n="12" />
@@ -62,32 +69,32 @@
 			</p>
 			<milestone n="2.7" />
 			<p>
-				Cum autem post haec essemus An<lb n="16" />thiochie
+				Cum autem post haec essemus An<lb n="16" break="no"/>thiochie
 				angelica uisio<c type="justif" /><lb n="17" />
-				facta est Paulo dicens. Ce<lb n="18" />lerio
+				facta est Paulo dicens. Ce<lb n="18" break="no"/>lerio
 				dicens. Celerius propera <del rend="dotted">Ie</del><lb n="19" />
 				Ierusalem quoniam quidam fratres<lb n="20" />
 				sunt separati qui praestolantur<lb n="21" />
 				aduentum tuum.
 				<milestone n="2.8" />
-				Quod cum Bar<lb n="22" />nabe
-				panderet qui fuit Cypri<lb n="23" />us
-				genere unus ex lxxii, di<lb n="24" />scipulis
+				Quod cum Bar<lb n="22" break="no"/>nabe
+				panderet qui fuit Cypri<lb n="23" break="no"/>us
+				genere unus ex lxxii, di<lb n="24" break="no"/>scipulis
 				Christi ait Barnabas : <c type="justif" /><lb n="25" />
 				fiat uoluntas dei,
 				<milestone n="2.9" />
-				tantum obse<lb n="26" />cro
+				tantum obse<lb n="26" break="no"/>cro
 				intercede pro me. Nam<lb n="27" />
-				propero Cyprum ibique finem com<lb n="28" />pleo
-				uite,   prochdolor faci<lb n="29" />em
-				tuam non uisurus am<lb n="30" />plius,
+				propero Cyprum ibique finem com<lb n="28" break="no"/>pleo
+				uite,   prochdolor faci<lb n="29" break="no"/>em
+				tuam non uisurus am<lb n="30" break="no"/>plius,
 				hec dicens cecidit<lb n="31" />
-				ad pedes eius flens ama<lb n="32" />re.
+				ad pedes eius flens ama<lb n="32" break="no"/>re.
 				<milestone n="2.10" />
-				Cui Paulus compaci<lb n="33" />ens
+				Cui Paulus compaci<lb n="33" break="no"/>ens
 				ait. 	Noli merere  nam<lb n="34" />
-				apparuit michi dominus ac noc<lb n="35" />te
-				dicens. Noli Paule  pro<lb n="36" />hibere
+				apparuit michi dominus ac noc<lb n="35" break="no"/>te
+				dicens. Noli Paule  pro<lb n="36" break="no"/>hibere
 				Barnabam ire Cyprum<pb n="33v" /><cb n="1" /><lb n="1" />
 				quoniam in  illuminabit multorum<lb n="2" />
 				perficiendum martyrium.
@@ -106,8 +113,8 @@
 				corde
 				<milestone n="2.13" />
 				baptizauitque
-				et induti ue<lb n="10" />stibus
-				religionis christiane et com<lb n="11" />moniti
+				et induti ue<lb n="10" break="no"/>stibus
+				religionis christiane et com<lb n="11" break="no"/>moniti
 				sunt ut in dei gratia<lb n="12" />
 				perseuerarent.
 				<milestone n="2.14" />
@@ -139,82 +146,82 @@
 				<milestone n="2.18" />
 				postea inuenimus<lb n="28" />
 				Rodonem quamuis <sic>ethuicum</sic><lb n="29" />
-				tamen iustum, et benignum, hu<lb n="30" />ic
-				cum apostolus fidem  exponeret bap<lb n="31" />tizatus
+				tamen iustum, et benignum, hu<lb n="30" break="no"/>ic
+				cum apostolus fidem  exponeret bap<lb n="31" break="no"/>tizatus
 				est  et secutus est nos.<lb n="32" />
 				Hiis, in  gestis obuium <c type="justif" /><lb n="33" />
 				habuimus impium Iudeum<lb n="34" />
-				quem olim  Paulus lumine pri<lb n="35" />uauerat
+				quem olim  Paulus lumine pri<lb n="35" break="no"/>uauerat
 				ad tempus, hic  commotus<lb n="36" />
 				inde prohibuit nos introire<cb n="2" /><lb n="1" />
 				in Paphúm,
 				<milestone n="2.19" />
-				proinde reuertentes ue<lb n="2" />nimus
-				in locum in quo <sic>ethin<lb n="3" />ci</sic>
+				proinde reuertentes ue<lb n="2" break="no"/>nimus
+				in locum in quo <sic>ethin<lb n="3" break="no"/>ci</sic>
 				uiri et femine ludendo nudi<lb n="4" />
 				currebant, hoc cum uidisset<lb n="5" />
 				Barnabas  indignatus est super<lb n="6" />
-				tale facinus et  maledixit tem<lb n="7" />plum
+				tale facinus et  maledixit tem<lb n="7" break="no"/>plum
 				statimque pars corruit<lb n="8" />
 				et magnam multitorum oppressit<lb n="9" />
 			</p>
 			<milestone n="2.22" />
 			<p>
-				Introeuntibus itaque in  Sa<lb n="10" />lominam
-				inuenimus synago<lb n="11" />gam
-				Iudeorum. Quam apostolus exhor<lb n="12" />tari
+				Introeuntibus itaque in  Sa<lb n="10" break="no"/>lominam
+				inuenimus synago<lb n="11" break="no"/>gam
+				Iudeorum. Quam apostolus exhor<lb n="12" break="no"/>tari
 				cepit et per euuangelium sancti Mathei Christi<lb n="13" />
 				gratiam introducere,
 				<milestone n="2.23" />
-				hoc comperis<lb n="14" />set
+				hoc comperis<lb n="14" break="no"/>set
 				Baríen   sedicione facta <c type="justif" /><lb n="15" />
 				fecit eum comprehendi, et quaerebant<lb n="16" />
-				eum tradere consuli ci<lb n="17" />uitatis
-				affligentes eum mul<lb n="18" />tis
+				eum tradere consuli ci<lb n="17" break="no"/>uitatis
+				affligentes eum mul<lb n="18" break="no"/>tis
 				suppliciis.
 			</p>
 			<p>
 				Post haec cum<lb n="19" />
 				iam  quassatum penis ducerent<lb n="20" />
-				ad iudicandum  accidit ut deue<lb n="21" />niret
+				ad iudicandum  accidit ut deue<lb n="21" break="no"/>niret
 				in eandem insulam quidam<lb n="22" />
-				uir magnus de progenie im<lb n="23" />peratorum.
+				uir magnus de progenie im<lb n="23" break="no"/>peratorum.
 				Cuius aduentum<lb n="24" />
 				cum comperissent Iudei timuerunt<lb n="25" />
-				ne illum eriperet   ligantes fu<lb n="26" />nem
+				ne illum eriperet   ligantes fu<lb n="26" break="no"/>nem
 				in collo eius nocturno<lb n="27" />
 				tempore dilaceratum a synagoga<c type="justif" /><lb n="28" />
-				pertraxerunt   foras portam. De<lb n="29" />inde
+				pertraxerunt   foras portam. De<lb n="29" break="no"/>inde
 				cum multis contumeliis<lb n="30" />
 				ipsum affecissent circumdederunt<lb n="31" />
 				eum uiri impii et mendates<lb n="32" />
 				et igitur crudeliter combusserunt.<lb n="33" />
 				Sicque apostolus adustus pro Christi amore<lb n="34" />
-				migrauit ad gaudia sem<lb n="35" />piterna.
+				migrauit ad gaudia sem<lb n="35" break="no"/>piterna.
 			</p>
 			<p>
 				Impii autem Iudei<lb n="36" />
 				nec sic saciati de nece eius<pb n="34r" /><cb n="1" /><lb n="1" />
 				zelo diu concitati tulerunt<lb n="2" />
-				sacratissimum corpus eius  et in lo<lb n="3" />cello
+				sacratissimum corpus eius  et in lo<lb n="3" break="no"/>cello
 				plumbeo recludentes<lb n="4" />
-				in mare praecipitare dispone<lb n="5" />bant.
+				in mare praecipitare dispone<lb n="5" break="no"/>bant.
 			</p>
 			<milestone n="2.24" />
 			<p>
 				Interim ego <del rend="dotted">populus</del> praefatus<lb n="6" />
 				Iohannes qui et Marcus una<lb n="7" />
 				cum Timo<del rend="dotted">re</del>ne et Rodone<lb n="8" />
-				occulte nocturnis horis tu<lb n="9" />limus
+				occulte nocturnis horis tu<lb n="9" break="no"/>limus
 				illud  et collocauimus<lb n="10" />
-				in cripta  quae olim erat Iebuse<lb n="11" />orum,
+				in cripta  quae olim erat Iebuse<lb n="11" break="no"/>orum,
 				tercio idus iunii, hoc est xia<lb n="12" />
 				die ipsius mensis,
 				<milestone n="epilogue" />
 				propter hanc<lb n="13" />
-				collocacionem plurimis anno<lb n="14" />rum
+				collocacionem plurimis anno<lb n="14" break="no"/>rum
 				curriculis uenerabile illud<lb n="15" />
-				corpus latuit  nec inueniri  a christi<lb n="16" />anis
+				corpus latuit  nec inueniri  a christi<lb n="16" break="no"/>anis
 				potuit,  et quoniam omnipotens<lb n="17" />
 				non patitur occultari gloriam <c type="justif" /><lb n="18" />
 				sanctorum suorum,  unde tempore Zenonis<lb n="19" />
@@ -222,9 +229,9 @@
 				imperatoris et Gelasii papae<lb n="20" />
 				concitur anno domini quingentisma<lb n="21" />
 				eodem apostolo reuelante inuentum<lb n="22" />
-				est corpus illud  atque cum ymnis et lau<lb n="23" />dibus
+				est corpus illud  atque cum ymnis et lau<lb n="23" break="no"/>dibus
 				mirifice collocatum,<lb n="24" />
-				ad honorem et gloriam domini salua<lb n="25" />toris,
+				ad honorem et gloriam domini salua<lb n="25" break="no"/>toris,
 				qui est benedictus in saecula amen.
 			</p>
 		</div>

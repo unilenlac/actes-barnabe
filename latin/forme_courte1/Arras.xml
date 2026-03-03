@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 1)</title>
+				<title>Acta Barnabae (Forme courte 1) - Arras</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>France</country>
 					<settlement>Arras</settlement>
 					<repository>Bibliothèque municipale</repository>
-					<collection></collection>
+					<collection />
 					<idno>512 (600)</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,35 +48,35 @@
 			Sathane triumphans uictor<lb n="21" />
 			et exultans penetraret regna polorum,<lb n="22" />
 			sanctam ecclesiam, quam pretioso sanguine<lb n="23" />
-			suo adquisiuit, per beatos  apostolos et apo<lb n="24" />stolicos
+			suo adquisiuit, per beatos  apostolos et apo<lb n="24" break="no"/>stolicos
 			uiros immobiliter fundauit,<lb n="25" />
 			mirabiliter corroborans solidauit.<lb n="26" />
 			<milestone n="1.2" />
 			<seg type="lectio" place="margin-left" hand="corr1">ia Lectio</seg>
-			Ergo cum sanctorum apostolorum natalicia cele<lb n="27" />bramus,
-			dignum equidem atque salu<lb n="28" />tare uidetur,
-			ut beati Barnabe nata<lb n="29" />litia
+			Ergo cum sanctorum apostolorum natalicia cele<lb n="27" break="no"/>bramus,
+			dignum equidem atque salu<lb n="28" break="no"/>tare uidetur,
+			ut beati Barnabe nata<lb n="29" break="no"/>litia
 			deuotissime celebremus,
 			<milestone n="1.3" />
 			quoniamquidem,<lb n="30" />
 			et si non est in ordine apostolatus eorum,  non<lb n="31" />
-			tamen deest de cathalogo predicatio<lb n="32" />nis,
+			tamen deest de cathalogo predicatio<lb n="32" break="no"/>nis,
 			quia excellentiam miraculorum<lb n="33" />
 			sicut Lucas euangelista refert in actibus<lb n="34" />
 			apostolorum mirabiliter pat<add place="above" hand="manus1-dubia">ra</add>uit. Nam eo<lb n="35" />
 			fere tempore quo sancta ecclesia gratiam spiritus<lb n="36" />
-			sancti suscepit, tercio uidelicet post passio<lb n="37" />nem
+			sancti suscepit, tercio uidelicet post passio<lb n="37" break="no"/>nem
 			domini	anno, cum Paulo apostolo  ad<lb n="38" />
 			apostolatus celsitudinem et praedicationem<cb n="2" /><lb n="1" />
 			diuinitus electus est, uocante illos<lb n="2" />
-			eodem spiritu sancto, atque dicente. Segre<lb n="3" />gate
+			eodem spiritu sancto, atque dicente. Segre<lb n="3" break="no"/>gate
 			mihi Barnabam et Saulum in opus<lb n="4" />
 			quod assumpsi eos.
 			<milestone n="1.4" />
 			<seg type="lectio" place="margin-right" hand="corr1">iiia Lectio</seg>
 			Sed qualiter uir<lb n="5" />
 			iste domini Barnabas deuotissime<lb n="6" />
-			fidem catholicam predicando, et infi<lb n="7" />deles
+			fidem catholicam predicando, et infi<lb n="7" break="no"/>deles
 			ab errore iniquitatis redimendo,<lb n="8" />
 			opprobria et contumelias pro Christi<lb n="9" />
 			amore sustinuerit, dicere studeamus.<lb n="10" />
@@ -77,24 +84,24 @@
 			Quodam tempore cum uenisset in<lb n="11" />
 			locum  in quo ethnici uiri et femine<lb n="12" />
 			ludendo nudi currebant, indignatus<lb n="13" />
-			super tale facinus beatus Barnabas  male<lb n="14" />dixit
+			super tale facinus beatus Barnabas  male<lb n="14" break="no"/>dixit
 			continuo templum, statimque<lb n="15" />
-			pars templi funditus corruit,  mag<lb n="16" />naque
+			pars templi funditus corruit,  mag<lb n="16" break="no"/>naque
 			contritio ex ethnicis facta est,<lb n="17" />
 			qui sub ruina ipsa mortui sunt.<lb n="18" />
 			<seg type="lectio" place="margin-right" hand="corr1">iiiia Lectio</seg>
-			Ceteri autem qui euaserunt, fuge<lb n="19" />runt
+			Ceteri autem qui euaserunt, fuge<lb n="19" break="no"/>runt
 			in templum Apollinis.
 			<milestone n="2.22" />
-			Intro<lb n="20" />eunte autem illo in Salaminam, inue<lb n="21" />nit
-			synagogam Iudeorum, quam exhorta<lb n="22" />ri
+			Intro<lb n="20" break="no"/>eunte autem illo in Salaminam, inue<lb n="21" break="no"/>nit
+			synagogam Iudeorum, quam exhorta<lb n="22" break="no"/>ri
 			cepit, et per euangelium sancti Mathei<lb n="23" />
 			Christi gratiam introducere.
 			<milestone n="2.23" />
 			At quidam<lb n="24" />
-			Bariesus et plurimi Iudeorum, hoc com<lb n="25" />perientes
-			omnem maliciam iniqui<lb n="26" />tatis
-			sue ostendentes, seditione fa<lb n="27" />cta
+			Bariesus et plurimi Iudeorum, hoc com<lb n="25" break="no"/>perientes
+			omnem maliciam iniqui<lb n="26" break="no"/>tatis
+			sue ostendentes, seditione fa<lb n="27" break="no"/>cta
 			contra sanctum apostolum, fecerunt eum<lb n="28" />
 			comprehendere, et querebant tradere<lb n="29" />
 			consuli eiusdem Salamine ciuitatis,<lb n="30" />
@@ -102,22 +109,22 @@
 			et uariis cruciatibus.
 			<seg place="margin-right" type="lectio" hand="corr1">va Lectio</seg>
 			Post hec autem<lb n="32" />
-			ligantes funem in collo eius, no<lb n="33" />cturno
-			tempore dilaceratum a sy<lb n="34" />nagoga,
+			ligantes funem in collo eius, no<lb n="33" break="no"/>cturno
+			tempore dilaceratum a sy<lb n="34" break="no"/>nagoga,
 			in ypodromum pertraxerunt,<lb n="35" />
-			et deinde foris portam, circum<lb n="36" />dantesque
-			illum, igne crudeliter crema<lb n="37" />uerunt.
-			Sicque beatus apostolus post mul<lb n="38" />tos
+			et deinde foris portam, circum<lb n="36" break="no"/>dantesque
+			illum, igne crudeliter crema<lb n="37" break="no"/>uerunt.
+			Sicque beatus apostolus post mul<lb n="38" break="no"/>tos
 			agones, et diuturna certamina<pb n="119v" /><cb n="1" /><lb n="1" />
 			pro Christi amore adustus, migrauit<lb n="2" />
 			ad gaudia sempiterna.
 			<seg place="margin-left" type="lectio" hand="corr1">via Lectio</seg> Impii autem<lb n="3" />
 			Iudȩi non satiati de nece illius, zelo<lb n="4" />
 			diu concitati, tulerunt sacratissimum<lb n="5" />
-			corpus eius, et in locello plumbeo recluden<lb n="6" />tes
+			corpus eius, et in locello plumbeo recluden<lb n="6" break="no"/>tes
 			in mare precipitare disponebant.<lb n="7" />
 			<milestone n="2.24" />
-			Interim ego Iohannes qui et Mar<lb n="8" />cus,
+			Interim ego Iohannes qui et Mar<lb n="8" break="no"/>cus,
 			occulte nocturnis horis tuli<lb n="9" />
 			illud, et collocaui in cripta que olim<lb n="10" />
 			fuerat habitatio Ihebuseorum, iiio idus iunii.

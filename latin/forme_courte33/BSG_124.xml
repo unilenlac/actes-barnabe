@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 33)</title>
+				<title>Acta Barnabae (Forme courte 33) - BSG_124</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>France</country>
 					<settlement>Paris</settlement>
 					<repository>Bibliothèque Sainte-Geneviève</repository>
-					<collection></collection>
+					<collection />
 					<idno>124</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,7 +48,7 @@
 				de septuaginta duobus discipulis domini saluatoris,<lb n="19" />
 				qui secundum nominis sui praesagium tali nomine uocatus est.<lb n="20" />
 				Nam Barnabas ebraice, latine filius consolationis<lb n="21" />
-				dicitur. Communiter autem cum apostolis degebat, et consolatio<lb n="22" />nem
+				dicitur. Communiter autem cum apostolis degebat, et consolatio<lb n="22" break="no"/>nem
 				maximam prebebat,
 				<milestone n="1.6" />
 				inter eos uidelicet quibus<lb n="23" />
@@ -52,8 +59,8 @@
 			<seg place="inline" hand="manus1" type="lectio">Lectio secunda</seg>
 			<lb n="24" />
 				Ex doctrina apostolorum beatus Barnabas euangelium sancti<lb n="25" />
-				Mathei secum ferebat, et ubicumque inueniebat in<lb n="26" />firmos
-				ponebat illud super eos, et continuo sana<lb n="27" />bantur
+				Mathei secum ferebat, et ubicumque inueniebat in<lb n="26" break="no"/>firmos
+				ponebat illud super eos, et continuo sana<lb n="27" break="no"/>bantur
 				a quocumque languore tenebantur.
 				<milestone n="2.19" />
 				Quodam tempore<lb n="28" />
@@ -70,10 +77,10 @@
 			<lb n="34" />
 				Comperientes autem Iudei aduentum eius uerentes<lb n="35" />
 				nimium ire eriperetur de manibus eorum, ligantes<lb n="36" />
-				funem in collo eius, nocturno tempore dilaceratum a sy<lb n="37" />nagoga
+				funem in collo eius, nocturno tempore dilaceratum a sy<lb n="37" break="no"/>nagoga
 				in yppodromum pertraxerunt, et deinde foris<lb n="38" />
-				portam. Post haec autem circumdantes illum igne, crude<lb n="39" />liter
-				cremauerunt. Sicque beatus apostolus post multos ago<lb n="40" />nes,
+				portam. Post haec autem circumdantes illum igne, crude<lb n="39" break="no"/>liter
+				cremauerunt. Sicque beatus apostolus post multos ago<lb n="40" break="no"/>nes,
 				et diuturna certamina, pro Christi amore adustus,<lb n="41" />
 				migrauit ad gaudia sempiterna.
 			</p>

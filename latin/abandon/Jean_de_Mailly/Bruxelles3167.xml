@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (martyre 4)</title>
+				<title>Acta Barnabae (martyre 4) - Bruxelles3167</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,12 +18,17 @@
 					<country>Belgique</country>
 					<settlement>Bruxelles</settlement>
 					<repository>KBR</repository>
-					<collection></collection>
+					<collection />
 					<idno>3167 (olim 5149)</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -39,11 +45,11 @@
 		<p><lb n="19" />
 			Sanctus Barnabas apostolus Cyprius genere unus de lxxii discipulis Christi<lb n="20" />
 			sanctum Paulum nuper conuersum apprehendit et duxit ad apostolos et<lb n="21" />
-			narrauit eis quomodo conuersus erat sicut dicitur in passione sancti Pauli Bar<lb n="22" />nabas
+			narrauit eis quomodo conuersus erat sicut dicitur in passione sancti Pauli Bar<lb n="22" break="no" />nabas
 			autem tantam habuit gratiam Christi, quod a spiritu sancto electus apostolus Christi cum beato<lb n="23" />
 			Paulo gentilibus praedicauit et multa miracula fecit
 			<milestone n="2.3" />
-			Cum autem esset Bar<lb n="24" />nabas
+			Cum autem esset Bar<lb n="24" break="no" />nabas
 			in Ydonia ciuitate uisio apparuit Iohanni discipulo et consobrino<lb n="25" />
 			eius Apparuit enim ei uir splendidus dicens Constans  esto Iohannes quia<lb n="26" />
 			ammodo non Iohannes sed excelsus uocaberis
@@ -55,7 +61,7 @@
 			et praemia eterna percipies eo quod gentem tuam reliquisti, et animam tuam<lb n="30" />
 			pro nomine meo tradidisti
 			<milestone n="2.7" />
-			Cum ergo sanctus Paulus cum Barnaba in Anthio<lb n="31" />chia
+			Cum ergo sanctus Paulus cum Barnaba in Anthio<lb n="31" break="no" />chia
 			praedicissent et ad partes occidentis causa praedicationis ire disponerent<lb n="32" />
 			rogabat Paulum sanctus Barnabas ut prius iret Cyprum ad uisitandum<lb n="33" />
 			parentes suos et postea scilicet irent in Iherusalem Interim angelus domini apparuit<lb n="34" />
@@ -79,31 +85,31 @@
 			<milestone n="2.15" />
 			Secum<pb n="36r" /><lb n="1" />
 			autem ferens euangelium Mathei super <unclear reason="illegible" unit="character" atLeast="4" atMost="6" />
-			egros illud ponebat et continuo sa<lb n="2" />nabantur.
+			egros illud ponebat et continuo sa<lb n="2" break="no" />nabantur.
 			<milestone n="2.18" />
 			De Cypro autem exeuntes inuenerunt Barieu maledictum  quem<lb n="3" />
 			sanctus Paulus dudum ad tempus lumine priuauerat Sed precibus Sergii<lb n="4" />
 			Pauli  consulis sanauerat et ab eo prohibiti intrare <del rend="strike" quantity="2" /> Panphum
 			<milestone n="2.19" />
 			Uenerunt<lb n="5" />
-			ad locum ubi  gentiles uiri et femine nudi ludendo currebant Uerum indig<lb n="6" />natus
+			ad locum ubi  gentiles uiri et femine nudi ludendo currebant Uerum indig<lb n="6" break="no" />natus
 			sanctus Barnabas maledixit templum et statim pars templi cecidit<lb n="7" />
 			et occidit plurimos paganorum.
 			<milestone n="2.22" />
-			Cum ergo inde exissent et in Salamíni prae<lb n="8" />dicando
+			Cum ergo inde exissent et in Salamíni prae<lb n="8" break="no" />dicando
 			multos conuerterant
 			<milestone n="2.23" />
-			comperiens hic Barieu sedicionem excita<lb n="9" />uit
+			comperiens hic Barieu sedicionem excita<lb n="9" break="no" />uit
 			et comprehensum multisque afflictum iniuriis quaerebant tradere iudici<lb n="10" />
 			ciuitatis Cognito autem quod Eusebius uir magnus et praepotens de genere<lb n="11" />
-			Neronis imperatoris illuc aduenerat timuerunt ne eum eriperet de ma<lb n="12" />nibus
+			Neronis imperatoris illuc aduenerat timuerunt ne eum eriperet de ma<lb n="12" break="no" />nibus
 			eorum et ligantes funem in  collo eius nocte dilaceratum penis<lb n="13" />
-			ad synagogam in ydromium perrexerunt et deinde foris portam et ibi cir<lb n="14" />cumdantes
+			ad synagogam in ydromium perrexerunt et deinde foris portam et ibi cir<lb n="14" break="no" />cumdantes
 			eum crudeliter combusserunt Impii autem Iudei nec sic saciati de<lb n="15" />
 			nece eius tulerunt ossa eius et in scrinio plumbeo recludentes in mari<lb n="16" />
 			praecipitare uolebant
 			<milestone n="2.24" />
-			Interim Iohannes discipulus eius cum duobus aliis noc<lb n="17" />te
+			Interim Iohannes discipulus eius cum duobus aliis noc<lb n="17" break="no" />te
 			rapuerunt ea et sepelierunt ea in quadam cripta
 			<milestone n="epilogue" />
 			et ibi latuerunt ea<lb n="18" />

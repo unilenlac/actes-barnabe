@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 2)</title>
+				<title>Acta Barnabae (Forme courte 2) - Vaticanus_Reg_lat_593</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -48,23 +55,23 @@
 				pars templi funditus corruit,  magnaque contritio ex<lb n="14" />
 				ethnicis facta est,  qui sub ruina ipsa mortui sunt.<lb n="15" />
 				<milestone n="2.22" />
-				Introeunte autem eo in Sálaminam,  inuenit synago<lb n="16" />gam
+				Introeunte autem eo in Sálaminam,  inuenit synago<lb n="16" break="no"/>gam
 				Iudeorum quam exortari cȩpit, et per ȩuangelium<lb n="17" />
 				sancti Mathei Christi gratiam introducere.
 				<milestone n="2.23" />
-				At quidam   Ba<lb n="18" />riseus
+				At quidam   Ba<lb n="18" break="no"/>riseus
 				et plurimi Iudeorum hoc comperientes omnem<lb n="19" />
 				maliciam iniquitatis suȩ ostendentes  seditione<lb n="20" />
 				facta contra sanctum apostolum fecerunt eum  comprehendi,<lb n="21" />
-				et querebant tradere consuli eiusdem Salamine ciui<lb n="22" />tatis
-				affligentes eum multis suppliciis et uariis cru<lb n="23" />ciatibus.
+				et querebant tradere consuli eiusdem Salamine ciui<lb n="22" break="no"/>tatis
+				affligentes eum multis suppliciis et uariis cru<lb n="23" break="no"/>ciatibus.
 				Post hȩc autem  ligantes funem in collo eius,<lb n="24" />
 				nocturn<subst>
 					<del rend="dotted">a</del>
 					<add place="above" hand="manus1">o</add>
 				</subst>
-				tempore dilaceratum a synagoga in ypo<pb n="75r" /><lb n="1" />dromum
-				pertraxerunt,  et deinde foris portam, circum<lb n="2" />dantes
+				tempore dilaceratum a synagoga in ypo<pb n="75r" /><lb n="1" break="no"/>dromum
+				pertraxerunt,  et deinde foris portam, circum<lb n="2" break="no"/>dantes
 				<del rend="scratched" atLeast="1" atMost="2" unit="character" />
 				illum igne crudeliter cremauerunt.  Sicque beatus<lb n="3" />
 				apostolus post multos agones et diuturna certamina pro<lb n="4" />

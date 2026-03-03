@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Prologue - fragmentaire)</title>
+				<title>Acta Barnabae (Prologue - fragmentaire) - Napoli_Miscellanea_1_VI</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -38,17 +45,17 @@
 		</head>
 				<milestone n="prologue" />
 				<p><lb n="10" />
-				Bar<lb n="11" />nabas
-				hebrai<lb n="12" />ce,
-				latine in<lb n="13" />terpretatur
-				filius pro<lb n="14" />phete,
-				uel filius conso<lb n="15" />lationis.
+				Bar<lb n="11" break="no"/>nabas
+				hebrai<lb n="12" break="no"/>ce,
+				latine in<lb n="13" break="no"/>terpretatur
+				filius pro<lb n="14" break="no"/>phete,
+				uel filius conso<lb n="15" break="no"/>lationis.
 				Barnabas<lb n="16" />
 				qui et Ioseph, natione<lb n="17" />
 				Cire ciuitatis, ex Cyro<lb n="18" />
-				rege Persarum funda<lb n="19" />ta.
-				Cum Paulo ingen<lb n="20" />tibus
-				apostolatus ad<lb n="21" />eptus
+				rege Persarum funda<lb n="19" break="no"/>ta.
+				Cum Paulo ingen<lb n="20" break="no"/>tibus
+				apostolatus ad<lb n="21" break="no"/>eptus
 				est, deinde propter<lb n="21" />
 				Iohannem discipulum, qui<lb n="22" />
 				etiam cognomento Marcus<gap />

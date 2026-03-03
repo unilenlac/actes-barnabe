@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae</title>
+				<title>Acta Barnabae - Bonnet</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -28,7 +28,8 @@
 	<body>
 		<div>
 			<milestone n="titre" unit="episode" /><pb n="292" />
-			<head type="initial"><lb n="1" />Περίοδοι καὶ μαρτύριον τοῦ ἁγίου Βαρνάβα τοῦ ἀποστόλου.</head>
+			<head type="initial">
+				<lb n="1" />Περίοδοι καὶ μαρτύριον τοῦ ἁγίου Βαρνάβα τοῦ ἀποστόλου.</head>
 			<p>
 		<milestone n="1" unit="episode" /><lb n="2" />
 		Ἐπειδήπερ ἀπὸ τῆς καθόδου τῆς τοῦ σωτῆρος ἡμῶν<lb n="3" />

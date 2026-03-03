@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Padoue_BU_1120</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>Italie</country>
 					<settlement>Padoue</settlement>
 					<repository>Biblioteca Universitaria</repository>
-					<collection></collection>
+					<collection />
 					<idno>1120</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -35,21 +42,21 @@
 				<head type="initial">In sancti Barnabe apostoli.</head>
 		<milestone n="prologue" />
 		<p>
-			<seg place="inline" hand="manus1" type="lectio"><lb n="15" />Lectio ia</seg>
+			<seg place="inline" hand="manus1" type="lectio"><lb n="15" break="no"/>Lectio ia</seg>
 			Barnabas hebrayce,<lb n="16" />
 			latine interpretatur filius<lb n="17" />
-			prophetȩ uel filius consolati<lb n="18" />onis.
-			Barnabas qui et Ioseph na<lb n="19" />tione
-			Cyprie ciuitatis ex Cyro re<lb n="20" />ge
+			prophetȩ uel filius consolati<lb n="18" break="no"/>onis.
+			Barnabas qui et Ioseph na<lb n="19" break="no"/>tione
+			Cyprie ciuitatis ex Cyro re<lb n="20" break="no"/>ge
 			Persarum fundata extitit,  cum<lb n="21" />
-			Paulo ingentibus apostolatum a<lb n="22" />deptus
+			Paulo ingentibus apostolatum a<lb n="22" break="no"/>deptus
 			est. Deinde propter Iohannem<lb n="23" />
-			discipulum qui etiam cognomen<lb n="24" />to
+			discipulum qui etiam cognomen<lb n="24" break="no"/>to
 			Marcus appellatur  seiunctus<lb n="25" />
-			a Paulo,  nichilominus euange<lb n="26" />lice
-			predicationis sibi opus in<lb n="27" />iunctum
-			exercuit,  martirio co<lb n="28" />ronatus.
-			Cuius festiuitas cele<lb n="29" />bratur
+			a Paulo,  nichilominus euange<lb n="26" break="no"/>lice
+			predicationis sibi opus in<lb n="27" break="no"/>iunctum
+			exercuit,  martirio co<lb n="28" break="no"/>ronatus.
+			Cuius festiuitas cele<lb n="29" break="no"/>bratur
 			tercio ydus iunii.
 		</p>
 </div>

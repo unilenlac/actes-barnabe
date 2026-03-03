@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+				<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="transcription-inprocessing">
 			<change />
 		</revisionDesc>
@@ -31,7 +37,7 @@
 <body>
 	<div><pb n="64r" /><cb n="1" />
 		<head type="initial"><lb n="22" />
-			Incipit passio sancti Barna<lb n="23" />be
+			Incipit passio sancti Barna<lb n="23" break="no"/>be
 			apostoli.
 		</head>
 		<head type="lectio">
@@ -42,15 +48,15 @@
 			filius uenientis, uel<lb n="26" />
 			filius consolationis, aut<lb n="27" /><note>Jérôme, liber interpretationis hebraicorum nominum</note>
 			filius prophete, aut filius<lb n="28" />
-			concludens. Quatuor incibus po<lb n="29" />nitur
+			concludens. Quatuor incibus po<lb n="29" break="no"/>nitur
 			filius, propter quatuor<lb n="30" />
 			modos filiatonis ipsius,<note>le i du début ressemble à r, mais en fait la droite du i est la gauche du p</note>
-			di<lb n="31" />citur
+			di<lb n="31" break="no"/>citur
 			enim filius in scriptura<cb n="2" /><lb n="1" />
-			ratione generationis, erudi<lb n="2" />tionis,
-			imitationis,<note>on pourrait lire mutationis, mais la phrase suivante qui parle de l'imitation par le martyre empeĉhe cette lecture</note> et adoptio<lb n="3" />nis.
+			ratione generationis, erudi<lb n="2" break="no"/>tionis,
+			imitationis,<note>on pourrait lire mutationis, mais la phrase suivante qui parle de l'imitation par le martyre empeĉhe cette lecture</note> et adoptio<lb n="3" break="no"/>nis.
 			Fuit enim a Christo<note>xp>Chr</note>
-			per la<lb n="4" />ptisimum<note>pour latissimum (superlatif de latus), la phrase complète signifiant "par le Christ, il a été fait régnant sur une trés grande étendue". A mon avis, il y a corruption du texte parce que pour les 3 autres formes de filiation on a un // clair entre les deux phrases
+			per la<lb n="4" break="no"/>ptisimum<note>pour latissimum (superlatif de latus), la phrase complète signifiant "par le Christ, il a été fait régnant sur une trés grande étendue". A mon avis, il y a corruption du texte parce que pour les 3 autres formes de filiation on a un // clair entre les deux phrases
 				eruriditionis > eriditus per euangelium
 				imitationis > imitatus per martirium
 				adoptionis > adoptatus
@@ -58,29 +64,29 @@
 				ici par contre on aurait generationis > regnatus. A moins qu'il ne s'agisse d'une allusion scripturaire (genre je t'ai engendré roi)... à creuser.
 			</note>
 			regnatus, eruditus<lb n="5" />
-			per euangelium. Est ipsum imita<lb n="6" />tus
-			per martirium, et  ab i<lb n="7" />pso
-			adoptagtus per celeste praemi<lb n="8" />um.
-			Et hoc quantum ad se. Quan<lb n="9" />tum
-			neom ad alios fiut  adueni<lb n="10" />ens,
+			per euangelium. Est ipsum imita<lb n="6" break="no"/>tus
+			per martirium, et  ab i<lb n="7" break="no"/>pso
+			adoptagtus per celeste praemi<lb n="8" break="no"/>um.
+			Et hoc quantum ad se. Quan<lb n="9" break="no"/>tum
+			neom ad alios fiut  adueni<lb n="10" break="no"/>ens,
 			consolans<note>folio suivant, col 1, ligne 24, on a un o̧ pour con, il manque juste la cédille ici</note>
 			concludens et<lb n="11" />
-			prophetans.  Aduemens discur<lb n="12" />rendo
+			prophetans.  Aduemens discur<lb n="12" break="no"/>rendo
 			et predicando ubicumque<lb n="13" />
-			quod pater qui fuit socius Pau<lb n="14" />li
+			quod pater qui fuit socius Pau<lb n="14" break="no"/>li
 			consolans
 			pauperes<note>le trait gauche du a se confond avec le trait droit du p</note>
 			et desolatos,<lb n="15" />
 			pauperes, quibus elemosinam<lb n="16" />
 			detulit, desolatos, quibus ex<lb n="17" />
-			parte apostolum epistolam desti<lb n="18" />nauit,
-			prophetans, quia pro<lb n="19" />phecie
-			spiritu daruit, con<lb n="20" />cludens
-			qui magnam multitudi<lb n="21" />nem
-			in fide conclusit et adu<lb n="22" />nauit<note>adunare > voir Ducange, DMLBS "to unite, unify, combine, to annex"</note>,
+			parte apostolum epistolam desti<lb n="18" break="no"/>nauit,
+			prophetans, quia pro<lb n="19" break="no"/>phecie
+			spiritu daruit, con<lb n="20" break="no"/>cludens
+			qui magnam multitudi<lb n="21" break="no"/>nem
+			in fide conclusit et adu<lb n="22" break="no"/>nauit<note>adunare > voir Ducange, DMLBS "to unite, unify, combine, to annex"</note>,
 			sicut pater cum missus<lb n="23" />
 			fuit in Antiochiam, de hiis<lb n="24" />
-			quatuor actuum apostolorum undeci<lb n="25" />mo
+			quatuor actuum apostolorum undeci<lb n="25" break="no"/>mo
 			capitulo. Erat uir id est<lb n="26" />
 			uirilis quantum ad primum,<lb n="27" />
 			bonus quantum ad secundum, plenus<lb n="28" />
@@ -97,27 +103,27 @@
 		</head>
 		<p>
 			Eius passionem compilauit<pb n="64v" /><cb n="1" /><lb n="1" />
-			Iohannes qui et Marcus eius con<lb n="2" />sobrinus,
+			Iohannes qui et Marcus eius con<lb n="2" break="no"/>sobrinus,
 			maximum a uisione<lb n="3" />
 			ipsius Iohannis usque fere in finem<lb n="4" />
 			quam Beda de greco in latinum creditur<lb n="5" />
 			transtulisse<note> pas certain de la lecture, mais seul qui aurait un peu de nses> l'auteur attribuerait la traduction des Ab du grec vers le latin à Bede,  cf  Iohannes Aegidius Zamorensis - Legendae sanctorum et festiuitatum aliarum de quibus ecclesia sollemnizat - LLT-B, pag.: 266, linea: 2</note>.
 			Barnabas leuites<lb n="6" />
-			cyprius genere, unus de septu<lb n="7" />aginta
-			domini discipulis, ab hysto<lb n="8" />ria
+			cyprius genere, unus de septu<lb n="7" break="no"/>aginta
+			domini discipulis, ab hysto<lb n="8" break="no"/>ria
 			actuum in multis extollitur<lb n="9" />
-			et laudatur. Fuit namque opti<lb n="10" />me
+			et laudatur. Fuit namque opti<lb n="10" break="no"/>me
 			informatus et ordinatus,<lb n="11" />
 			et hoc quantum ad se et quantum ad<lb n="12" />
 			deum et quantum ad proximum.<lb n="13" />
-			Quantum ad se ordinatus exti<lb n="14" />tit
-			secundum tres uires, scilicet ratio<lb n="15" />nabilem
+			Quantum ad se ordinatus exti<lb n="14" break="no"/>tit
+			secundum tres uires, scilicet ratio<lb n="15" break="no"/>nabilem
 			concupiscibilem<note>terme pas forcément pejoratif, cf Sg 6, 18</note>
 			et<lb n="16" />
-			irascibilem. Habuit namque ra<lb n="17" />tionabilem
-			illustratam lumi<lb n="18" />ne
+			irascibilem. Habuit namque ra<lb n="17" break="no"/>tionabilem
+			illustratam lumi<lb n="18" break="no"/>ne
 			cognitionis, unded dicitur<lb n="19" />
-			actuum apostolorum decimo quar<lb n="20" />to
+			actuum apostolorum decimo quar<lb n="20" break="no"/>to
 			capitulo, fuerant autem in ecclesia<lb n="21" />
 			quae est Antiochie prophete et doctores<lb n="22" />
 			in quibus Barnabas et Simon et<lb n="23" />
@@ -133,14 +139,14 @@
 		</head>
 		<p><lb n="24" />
 			Secundo <sic>hunic</sic><note>trait au dessus du u > un + i avant le c</note>
-			sanctus Barna<lb n="25" />bas
-			concupisci<lb n="26" />bilem,
-			purgatam a puluere mun<lb n="27" />dane
+			sanctus Barna<lb n="25" break="no"/>bas
+			concupisci<lb n="26" break="no"/>bilem,
+			purgatam a puluere mun<lb n="27" break="no"/>dane
 			affectionis. Unide dicitur<lb n="28" />
 			actuum apostolorum quarto capitulo,<lb n="29" />
 			quod Ioseph qui cognominatus<lb n="30" />
 			est Barnabas, cum haberet  agrum<lb n="31" />
-			uendidit illum, et attulit preci<cb n="2" /><lb n="1" />um
+			uendidit illum, et attulit preci<cb n="2" /><lb n="1" break="no"/>um
 		</div>
 </body>
 </text>

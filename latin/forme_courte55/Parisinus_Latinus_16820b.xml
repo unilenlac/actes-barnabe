@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 55)</title>
+				<title>Acta Barnabae (Forme courte 55) - Parisinus_Latinus_16820b</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -40,22 +47,22 @@
 			<p>
 				<seg type="lectio" place="inline" hand="manus1">Lectio i.</seg>
 				<lb n="12" />
-				Redemptor et salua<lb n="13" />tor
+				Redemptor et salua<lb n="13" break="no"/>tor
 				noster dominus Iesus<lb n="14" />
 				Christus antequam de<lb n="15" />
 				interitu Sathanȩ<lb n="16" />
-				triumphans ui<lb n="17" />ctor
+				triumphans ui<lb n="17" break="no"/>ctor
 				et exultans pen<subst>
 					<del rend="dotted">i</del>
 					<add place="above" hand="manus1-dubia">e</add>
-				</subst>traret re<lb n="18" />gna
+				</subst>traret re<lb n="18" break="no"/>gna
 				polorum,  sanctam ȩcclesiam quam<lb n="19" />
 				pretioso suo sanguine adquisiuit,<lb n="20" />
 				per beatos apostolos et apostolicos uiros<lb n="21" />
 				immobiliter muniens fundauit,<lb n="22" />
 				mirabiliter corroborans<lb n="23" />
 				solidauit, scilicet ut<lb n="24" />
-				et ipsa inuiolata sem<lb n="25" />per
+				et ipsa inuiolata sem<lb n="25" break="no"/>per
 				gloriosa maneret,<lb n="26" />
 				et illorum predicatione<lb n="27" />
 				nouam sibi progeniem<lb n="28" />

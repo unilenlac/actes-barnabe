@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 41)</title>
+				<title>Acta Barnabae (Forme courte 41) - Wolfenbuttel_145_2</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="transcription-inprocessing">
 			<change />
 		</revisionDesc>
@@ -39,32 +45,31 @@
 			Exaudi domine populum tuum<lb n="12" />
 			cum apostoli tui Barnabe<lb n="13" />
 			patrocinio supplicantem,<lb n="14" />
-			ut uto semper auxilio mu<lb n="15" />nitus,
+			ut uto semper auxilio mu<lb n="15" break="no" />nitus,
 			secuta tibi posuit<lb n="16" />
 			deuotione seruire.
 		</p>
-		<div>
 			<head type="lectio">i</head><lb n="17" />
 			<p>
 			Barnabas leuites Cyprius<lb n="18" />
 			genere, unus de <num value="72">lxxii</num> domini<lb n="19" />
-			discipulis ab ystoria ac<lb n="20" />tuum
-			in multiis extolli<lb n="21" />tur
+			discipulis ab ystoria ac<lb n="20" break="no" />tuum
+			in multiis extolli<lb n="21" break="no" />tur
 			et laudatur. Fuit namque<lb n="22" />
-			optime informatus et or<lb n="23" />dinatus
+			optime informatus et or<lb n="23" break="no" />dinatus
 			et quantum ad se, et<lb n="24" />
 			quantum ad deum, et quantum ad<lb n="25" />
-			primum. Quantum ad se ordi<lb n="26" />natus
+			primum. Quantum ad se ordi<lb n="26" break="no" />natus
 			extitit, secundum <num value="3">tres</num><cb n="2" /><lb n="1" />
-			uires sed rationalem con<lb n="2" />cupiscabilem,
+			uires sed rationalem con<lb n="2" break="no" />cupiscabilem,
 			et irascibilem.<lb n="3" />
 			Huic namque rationalem<lb n="4" />
-			illustratam, lumine cogni<lb n="5" />tionis.
-			Unde dicitur actuum  <num value="14">xiiii</num>. E<lb n="6" />rant
+			illustratam, lumine cogni<lb n="5" break="no" />tionis.
+			Unde dicitur actuum  <num value="14">xiiii</num>. E<lb n="6" break="no" />rant
 			autem in ecclesia que est<lb n="7" />
 			Antiochie prophete et doctores,<lb n="8" />
 			in quibus Barnabas et Symon,<lb n="9" />
-			et caetera. Secundo habuerit concupisci<lb n="10" />bilem
+			et caetera. Secundo habuerit concupisci<lb n="10" break="no" />bilem
 			purgatam a puluere<lb n="11" />
 			mundane affectionis, unde<lb n="12" />
 			diciture actuum <num value="14">xiiii</num> quod Ioseph<lb n="13" />
@@ -75,7 +80,7 @@
 			cum haberet agrum,<lb n="15" />
 			uendidit illum et attulit<lb n="16" />
 			precium, et posuit ante pedes<lb n="17" />
-			apostolorum, ubid dicit glosa : de<lb n="18" />stituendum
+			apostolorum, ubid dicit glosa : de<lb n="18" break="no" />stituendum
 			probat quod tangere<lb n="19" />
 			deuitat, et docet calcandum<lb n="20" />
 			esse aurum quod subdit gressibus<lb n="21" />
@@ -85,18 +90,18 @@
 	<div>
 		<head type="lectio">ii</head>
 		<p>
-			<num value="3">Tercio</num> ha<lb n="22" />buit
-			irascibiliem robora<lb n="23" />tam
-			magnitudine probi<lb n="24" />tatis,
-			et hoc uel uiriliter ag<lb n="25" />gregiendo
-			ardua uel perse<lb n="26" />ueranter
+			<num value="3">Tercio</num> ha<lb n="22" break="no" />buit
+			irascibiliem robora<lb n="23" break="no" />tam
+			magnitudine probi<lb n="24" break="no" />tatis,
+			et hoc uel uiriliter ag<lb n="25" break="no" />gregiendo
+			ardua uel perse<lb n="26" break="no" />ueranter
 			agendo forcia, uel<pb n="210v" /><cb n="1" /><lb n="1" />
-			uel constanter suscensendo aduer<lb n="2" />sa.
-			Uiriliter aggrediendo ar<lb n="3" />dua,
+			uel constanter suscensendo aduer<lb n="2" break="no" />sa.
+			Uiriliter aggrediendo ar<lb n="3" break="no" />dua,
 			sicut patet in hoc,<lb n="4" />
-			quod illam maximam ciui<lb n="5" />tatem
+			quod illam maximam ciui<lb n="5" break="no" />tatem
 			Antiochian, ad<lb n="6" />
-			conuertendum accepit, si<lb n="7" />cut
+			conuertendum accepit, si<lb n="7" break="no" />cut
 			et patet actuum <num value="9">ix</num> quia cum<lb n="8" />
 			post couersionem Paulus<lb n="9" />
 			Ierosolimam uenisset, et discipulis<lb n="10" />
@@ -110,11 +115,11 @@
 			afflixit. Under dicitur actuum <num value="13">xiii</num><lb n="18" />
 			de Barnaba et quibusdam<lb n="19" />
 			aliis ministrantibus et caetera.<lb n="20" />
-			Constanter sufferendo ad<lb n="21" />uersa,
+			Constanter sufferendo ad<lb n="21" break="no" />uersa,
 			sicut apostoli prohiberet ei<lb n="22" />
 			testimonium dicentes : tunc<lb n="23" />
 			carissimis nostris Barnaba,<lb n="24" />
-			et Paulo hominibus <add place="above" hand="manus1">qui</add> tradi<lb n="25" />derunt
+			et Paulo hominibus <add place="above" hand="manus1">qui</add> tradi<lb n="25" break="no" />derunt
 			animas suas pro<lb n="26" />
 			nomine domini Iesu Christi.
 		</p>
@@ -122,7 +127,7 @@
 	<div>
 		<head type="lectio">iii</head>
 		<p><cb n="2" /><lb n="1" />
-			Secundo fuit ordinatus quan<lb n="2" />tum
+			Secundo fuit ordinatus quan<lb n="2" break="no" />tum
 			ad deum deferendo dei<lb n="3" />
 			acutoritati, maiestati, et<lb n="4" />
 			bonitati. Auctoritati quod<lb n="5" />
@@ -130,30 +135,30 @@
 				<del rend="scratched" atLeast="2" atMost="3" />
 				<add place="above" hand="manus1">ex</add>
 			</subst>
-			hoc quia officium praedi<lb n="6" />cationis
-			sibi non usur<lb n="7" />pauit,
-			sed hoc ex auctorita<lb n="8" />te
+			hoc quia officium praedi<lb n="6" break="no" />cationis
+			sibi non usur<lb n="7" break="no" />pauit,
+			sed hoc ex auctorita<lb n="8" break="no" />te
 			dei accipere uoluit sicut<lb n="9" />
 			habetur ait, <num value="13">xiii</num>: dixit spiritus<lb n="10" />
-			sanctus : segregate michi Bar<lb n="11" />nabam
-			et Saulum in o<lb n="12" />pus
+			sanctus : segregate michi Bar<lb n="11" break="no" />nabam
+			et Saulum in o<lb n="12" break="no" />pus
 			ad <add place="above" hand="manus1">quod</add> misi eos. Secundo dei<lb n="13" />
-			maiestati. Cum enim si<lb n="14" />cut
-			habetur ait,  <num value="14">xiiii</num>: ma<lb n="15" />iestatem
-			diuinam sibi qui<lb n="16" />dam
+			maiestati. Cum enim si<lb n="14" break="no" />cut
+			habetur ait,  <num value="14">xiiii</num>: ma<lb n="15" break="no" />iestatem
+			diuinam sibi qui<lb n="16" break="no" />dam
 			uellent attribuere,<lb n="17" />
 			et ei tanquam deo hostias<lb n="18" />
 			immolare uocantes eum<lb n="19" />
 			Iouem, tamquam priorem<lb n="20" />
-			et Paulum mercurium tan<lb n="21" />quam
-			prudetem, et eloquen<lb n="22" />tem,
+			et Paulum mercurium tan<lb n="21" break="no" />quam
+			prudetem, et eloquen<lb n="22" break="no" />tem,
 			continuo Barnabas<lb n="23" />
-			et Paulus conscissis tu<lb n="24" />nicis
+			et Paulus conscissis tu<lb n="24" break="no" />nicis
 			clamauerunt uiri quod<lb n="25" />
 			facitis, et nos mortales<lb n="26" />
-			sumus similes uobis <unclear reason="reproduction" atLeast="1" atMost="2" /> ho<pb n="211r" /><cb n="1" /><lb n="1" />mines,
+			sumus similes uobis <unclear reason="reproduction" atLeast="1" atMost="2" /> ho<pb n="211r" /><cb n="1" /><lb n="1" break="no" />mines,
 			annuntiantes<lb n="2" />
-			uobis ab hiis uaris con<lb n="3" />uerti
+			uobis ab hiis uaris con<lb n="3" break="no" />uerti
 			ad deum uiium.
 		</p>
 	</div>
@@ -167,7 +172,6 @@
 
 
 <milestone n="1.1" />
-		<p>
 Redemptor et saluator noster dominus Iesus Christus antequam de interitu Sathanae
 triumphans uictor et exultans penetraret regna polorum : sanctam ecclesiam quam
 pretioso sanguine acquisiuit per beatos apostolos et apostolicos uiros immobiliter

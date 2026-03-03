@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Sarnen_Membr_27</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+				<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -34,14 +40,14 @@
 		<pb n="368r" /><cb n="2" />
 		<div>
 						<head type="initial"><lb n="1" />
-				In sancti Barna<lb n="2" />be
+				In sancti Barna<lb n="2" break="no" />be
 				apostoli oratio.
 			</head>
 			<milestone n="priere-sarn" />
 			<p>
-				Deus qui nos beati Bar<lb n="3" />nabe
+				Deus qui nos beati Bar<lb n="3" break="no" />nabe
 				apostoli tui meritis et<lb n="4" />
-				intercessione letificas concede pro<lb n="5" />pitius,
+				intercessione letificas concede pro<lb n="5" break="no" />pitius,
 				ut qui eius beneficia poscimus<lb n="6" />
 				dono tue gratie consequamur per<note type="editorial">Sous entendu : invocation de Dieu ou du Christ.</note>.
 			</p>
@@ -51,19 +57,19 @@
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio</seg>
 				Barnabas hebraice<lb n="7" />
-				latine interpretatur filius pro<lb n="8" />phete
-				uel filius conso<lb n="9" />lacionis.
-				Barnabas qui et Io<lb n="10" />seph,
+				latine interpretatur filius pro<lb n="8" break="no" />phete
+				uel filius conso<lb n="9" break="no" />lacionis.
+				Barnabas qui et Io<lb n="10" break="no" />seph,
 				nacione Cyprie ciuitatis,<lb n="11" />
 				qui ex Ciro rege Persarum fundata<lb n="12" />
 				extitit, cum Paulo ingentibus<lb n="13" />
 				apostolatum adeptus est. Deinde<lb n="14" />
 				propter Iohannem discipulum qui etiam<lb n="15" />
 				cognomento Marcus appellatur,<lb n="16" />
-				seiunctus a Paulo nichilomi<lb n="17" />nus
+				seiunctus a Paulo nichilomi<lb n="17" break="no" />nus
 				euangelice praedicationis sibi<lb n="18" />
 				opus iniunctum exercuit,  martyrio<lb n="19" />
-				coronatur. Cuius festiuitas ce<lb n="20" />lebratur
+				coronatur. Cuius festiuitas ce<lb n="20" break="no" />lebratur
 				tercio idus iunias.<lb n="21" />
 				<seg type="devotional">Tu autem domine,  miserere nobis.
 					Deo gratias.

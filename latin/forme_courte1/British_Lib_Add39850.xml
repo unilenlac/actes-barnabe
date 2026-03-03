@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 1)</title>
+				<title>Acta Barnabae (Forme courte 1) - British_Lib_Add39850</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -38,10 +45,10 @@
 		<milestone n="1.1" />
 		<p><lb n="8" />
 			Redemptor et saluator noster dominus Iesus Christus antequam<lb n="9" />
-			de interitu Sathane triumphans uictor et exul<lb n="10" />tans
+			de interitu Sathane triumphans uictor et exul<lb n="10" break="no"/>tans
 			penetraret regna cȩlorum sanctam ȩcclesiam<lb n="11" />
 			quam precioso suo sanguine acquisiuit, per beatos apostolos<lb n="12" />
-			et apostolicos uiros immobiliter muniens fundauit, mi<lb n="13" />rabiliter
+			et apostolicos uiros immobiliter muniens fundauit, mi<lb n="13" break="no"/>rabiliter
 			corroborans solidauit.
 			<milestone n="1.2" />
 			Ergo cum sanctorum apostolorum<lb n="14" />
@@ -64,19 +71,19 @@
 		<p>
 			Nam eo fere  tempore quo<lb n="20" />
 			sancta ȩcclesia gratiam spiritus sancti suscepit, tercio uidelicet post domini<lb n="21" />
-			passionem anno cum Paulo apostolo ad apostolatus  celsitudi<lb n="22" />nem,
+			passionem anno cum Paulo apostolo ad apostolatus  celsitudi<lb n="22" break="no"/>nem,
 			et predicationem diuinitus electus est, uocante illos<lb n="23" />
 			eodem spiritu sancto atque dicente. Segregate mihi Barnabam et<lb n="24" />
 			Saulum, in opus quo assumpsi eos.
 			<milestone n="1.4" />
 			Sed qualiter iste uir domini<lb n="25" />
-			Barnabas deuotissime fidem catholicam praedicando et infi<lb n="26" />deles
-			ab errore iniquitatis redimendo uel qualiter obpro<lb n="27" />bria
+			Barnabas deuotissime fidem catholicam praedicando et infi<lb n="26" break="no"/>deles
+			ab errore iniquitatis redimendo uel qualiter obpro<lb n="27" break="no"/>bria
 			et contumelias pro Christi amore sustinuerit, dicere<lb n="28" />
 			studeamus.
 			<milestone n="2.19" />
 			Quodam tempore dum uenisset in locum  in quo<lb n="29" />
-			ethnici uiri et femine ludendo nudi currebant indignatus<pb n="21r"  /><lb n="1" />
+			ethnici uiri et femine ludendo nudi currebant indignatus<pb n="21r" /><lb n="1" />
 			super tale facinus beatus Barnabas  maledixit continuo<lb n="2" />
 			templum, statimque pars templi funditus corruit,  magnaque<lb n="3" />
 			contricio ex ethnicis facta est,  qui sub ruina ipsa mortui<lb n="4" />
@@ -93,14 +100,14 @@
 			seditione facta contra sanctum apostolum fecerunt eum  comprehendere,<lb n="10" />
 			et querebant tradere consuli eiusdem Salaminȩ ciuitatis,<lb n="11" />
 			affligentes eum multis suppliciis et uariis cruciatibus. Post<lb n="12" />
-			hȩc autem  ligantes funem in collo eius nocturno tempore di<lb n="13" />laceratum
+			hȩc autem  ligantes funem in collo eius nocturno tempore di<lb n="13" break="no"/>laceratum
 			a sinagoga in ipodromum pertraxerunt  et deinde<lb n="14" />
 			foris portam circumdantesque illum igne crudeliter cremauerunt,<lb n="15" />
-			sicque beatus apostolus post multos agones et diuturna cer<lb n="16" />tamina
+			sicque beatus apostolus post multos agones et diuturna cer<lb n="16" break="no"/>tamina
 			pro Christi amore adustus migrauit ad gaudia<lb n="17" />
 			sempiterna. Impii autem Iudei non saciati de nece illius zelo<lb n="18" />
-			diu <sic>conertati</sic> tulerunt sacratissimum corpus eius, in locel<lb n="19" />lo
-			plumbeo recludentes in mare precipitare dispo<lb n="20" />nebant.
+			diu <sic>conertati</sic> tulerunt sacratissimum corpus eius, in locel<lb n="19" break="no"/>lo
+			plumbeo recludentes in mare precipitare dispo<lb n="20" break="no"/>nebant.
 			<milestone n="2.24" />
 			Interim ego Iohannes qui et Marcus occulte nocturnis<lb n="21" />
 			horis tuli illud, et collocaui in cripta quȩ olim fuerat<lb n="22" />

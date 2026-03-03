@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 14)</title>
+				<title>Acta Barnabae (Forme courte 14) - Arundel330</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,6 +24,11 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
 		</revisionDesc>
@@ -52,9 +58,9 @@
 			corde et corpore consociatus
 			plenus spiritu sancto<lb n="4" />
 			<milestone n="Ac11" />
-			ab apostolis Anthiochiam mittitur, et in humi<lb n="5" />litatis
+			ab apostolis Anthiochiam mittitur, et in humi<lb n="5" break="no" />litatis
 			spiritu putans se tante gente non<lb n="6" />
-			sufficere, Paulum a Tarso adduxit, et tot con<lb n="7" />uerterunt
+			sufficere, Paulum a Tarso adduxit, et tot con<lb n="7" break="no" />uerterunt
 			ut Anthiochie primum discipuli sunt<lb n="8" />
 			christiani. Collectam factam in sanctos Ierusalimis<lb n="9" />
 			per Barnabam et Paulum apostolis miserunt<lb n="10" />
@@ -64,9 +70,9 @@
 			fuit.  Seleuciam et Ciprum deuenerunt<lb n="13" />
 			Bariem qui Elymas hunc ad tempus priuauerunt<lb n="14" />
 			Sergium qui et Paulus conuerterunt. Iudeis<lb n="15" />
-			eorum praedicationem  respuentibus ad gen<lb n="16" />tes
+			eorum praedicationem  respuentibus ad gen<lb n="16" break="no" />tes
 			se conuerterunt, et multi fidem per<lb n="17" />
-			eos susceperunt.  Unde Iudei etiam religi<lb n="18" />osas
+			eos susceperunt.  Unde Iudei etiam religi<lb n="18" break="no" />osas
 			mulieres contra eos concicauerunt,
 			et eos<lb n="19" />
 			a finibus suis eiecerunt, claudum sanant<lb n="20" />
@@ -74,16 +80,16 @@
 			Dii putantur, Barnabas Mercurius<lb n="21" />
 			Paulus Iouis, corone et <del rend="strike">alienis</del>
 			alia eis<lb n="22" />
-			offeruntur, sed cuncta respuunt, quoniam exaltan<lb n="23" />tur.
+			offeruntur, sed cuncta respuunt, quoniam exaltan<lb n="23" break="no" />tur.
 			Deinde Derben
 			<milestone n="Ac15" />
 			postea Ierosolimam ad<lb n="24" />
 			apostolos uenerunt  narrantes mirabilia Christi.<lb n="25" />
 			Iterum Anthiochiam remittuntur<del rend="scratched" atLeast="3" atMost="5" />
 			ut<lb n="26" />
-			fideles confortet, et ab heresibus defen<lb n="27" />dant,
+			fideles confortet, et ab heresibus defen<lb n="27" break="no" />dant,
 			post dies aliquod placuit Paulo<lb n="28" />
-			ut Ierusalem reliteruntur<!--relitere = se cacher à nouveau, donc peut être se retirer? -->, sed <sic>Barnabas</sic><lb n="29" />
+			ut Ierusalem reliteruntur, sed <sic>Barnabas</sic><lb n="29" />
 			cognomento Marcum, quem
 			in Iconio ab<lb n="30" />
 			ydolorum cultura conuerterant,<note type="editorial">Cf. AB 2.2.</note>
@@ -100,7 +106,7 @@
 			<milestone n="2.3-4" />
 			Nam et Iohanni uir<lb n="37" />
 			splendidus apparuit, et Marcum id est excelsum<lb n="38" />
-			nominauit, et multa passurum  praedixit silic<lb n="39" />et
+			nominauit, et multa passurum  praedixit silic<lb n="39" break="no" />et
 			apostolo.
 			<milestone n="2.10" />
 			Barnabe apostolo deo
@@ -110,16 +116,16 @@
 			sibi adeo reuelatum, quod
 			Cypri esset passurus<pb n="23v" /><cb n="1" /><lb n="1" />
 			Dantes ergo
-			sibi oscula <sic>ab</sic> inuicem re<lb n="2" />cesserunt.
+			sibi oscula <sic>ab</sic> inuicem re<lb n="2" break="no" />cesserunt.
 			<milestone n="2.12" />
 			Uenit ergo Barnabas cum<lb n="3" />
 			Iohanne in ciuitatem Anemoria multos<lb n="4" />
-			sagaces ethnicos conuertens sua sagaci<lb n="5" />tace.
+			sagaces ethnicos conuertens sua sagaci<lb n="5" break="no" />tace.
 			<milestone n="2.14" />
-			Ciprum autem uenientes inuenerint<!--pourquoi ce futur antérieur? a moins que ce soit un u?--><lb n="6" />
+			Ciprum autem uenientes inuenerint<lb n="6" />
 			Timonem et Aristonem famulos Christi.
 			<milestone n="2.15" />
-			Timo<lb n="7" />nem
+			Timo<lb n="7" break="no" />nem
 			<sic>fabricantem</sic>,
 			sanctus Barnabas euangelio<lb n="8" />
 			Mathei quod secundum mandatum apostolorum secum<lb n="9" />
@@ -134,7 +140,7 @@
 			<milestone n="2.18" />
 			<lb n="12" />
 			et Rodonem quem baptizauerat a quibus
-			benig<lb n="13" />ne fuit susceptus.
+			benig<lb n="13" break="no" />ne fuit susceptus.
 			Tandem occurrit ei<lb n="14" />
 			Elymas magus de quo est  praedictum
 			quod omnem<lb n="15" />
@@ -157,7 +163,7 @@
 			ipsum igne cremauerunt, et corpus in uase<lb n="27" />
 			plumbeo conditum in mare submiserunt<lb n="28" />
 			<milestone n="2.24" />
-			sed a dicto Iohanne inuentum, et ab eo, et Timo<lb n="29" />ne
+			sed a dicto Iohanne inuentum, et ab eo, et Timo<lb n="29" break="no" />ne
 			et Aristone occulte sepultum,
 			<milestone n="epilogue" />
 			tempore<lb n="30" />

@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Padoue_Cap_B12</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -39,25 +46,25 @@
 		<milestone n="prologue" />
 		<p>
 			Barnabas<lb n="3" />
-			ebraice, lati<lb n="4" />ne
-			interpreta<lb n="5" />tur
-			filius pro<lb n="6" />phete,
-			uel filius conso<lb n="7" />lationis.
+			ebraice, lati<lb n="4" break="no"/>ne
+			interpreta<lb n="5" break="no"/>tur
+			filius pro<lb n="6" break="no"/>phete,
+			uel filius conso<lb n="7" break="no"/>lationis.
 			Barnabas qui<lb n="8" />
-			et Ioseph natione Cy<lb n="9" />prie
+			et Ioseph natione Cy<lb n="9" break="no"/>prie
 			ciuitatis, <add place="above" hand="corr1">que</add> ex Cyro<lb n="10" />
 			rege Persarum fundata,<lb n="11" />
 			cum Paulo ingentibus<lb n="12" />
 			apostolatum adeptus est.<lb n="13" />
-			Deinde propter Iohannem di<lb n="14" />scipulum,
-			qui etiam cogno<lb n="15" />mento
-			Marcus appel<lb n="16" />latur
-			seiunctus a Pau<lb n="17" />lo,
-			nichilominus euangeli<lb n="18" />ce
-			praedicationis sibi o<lb n="19" />pus
+			Deinde propter Iohannem di<lb n="14" break="no"/>scipulum,
+			qui etiam cogno<lb n="15" break="no"/>mento
+			Marcus appel<lb n="16" break="no"/>latur
+			seiunctus a Pau<lb n="17" break="no"/>lo,
+			nichilominus euangeli<lb n="18" break="no"/>ce
+			praedicationis sibi o<lb n="19" break="no"/>pus
 			iniunctum exercuit,<lb n="20" />
-			martirio coronatus. Cu<lb n="21" />ius
-			festiuitas, celebra<lb n="22" />tur
+			martirio coronatus. Cu<lb n="21" break="no"/>ius
+			festiuitas, celebra<lb n="22" break="no"/>tur
 			tercio ydus iunii.
 		</p>
 	</div>

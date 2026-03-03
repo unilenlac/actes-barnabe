@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL985+BHL986)</title>
+				<title>Acta Barnabae (BHL985+BHL986) - Turin_FV16</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -23,13 +24,17 @@
 			</msDesc>
 		</sourceDesc>
 		</fileDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
 		<revisionDesc status="transcription-inprocessing">
 			<change />
 		</revisionDesc>
 	</teiHeader>
 <text>
 	<body>
-	<div>
 		<pb n="71v" />
 		<div>
 			<head type="initial"><lb n="15" />
@@ -45,7 +50,7 @@
 				uel filius consolationis. Barnabas  natione Cyprie<lb n="19" />
 				ciuitatis, ex Cyro rege Persarum fundata. Cum<lb n="20" />
 				Paulo apostolo ingentibus apostolatum adeptus est.<lb n="21" />
-				Deinde propter Iohannem discipulum qui etiam cogno<lb n="22" />mento
+				Deinde propter Iohannem discipulum qui etiam cogno<lb n="22" break="no" />mento
 				Marcus appellatur  seiunctus a Paulo,<lb n="23" />
 				nichil hominus euangelii predicatione sibi opus<lb n="24" />
 				iniunctum <unclear reason="damage" unit="character" atLeast="14" atMost="20" />
@@ -58,7 +63,7 @@
 				Incipit sermo <add place="inline" hand="corr1-dubia">in beati Barnabe apostoli</add>
 			</head>
 			<p><lb n="27" />
-				Redemptor et saluator noster dominus  Christus,  ante<lb n="28" />quam
+				Redemptor et saluator noster dominus  Christus,  ante<lb n="28" break="no" />quam
 				de interitu Sathane triumphans uictor et<lb n="29" />
 				exultans penetraret regna polorum sanctam ecclesiam<lb n="30" />
 				quam precioso suo sanguine <seg>
@@ -79,8 +84,8 @@
 				dignum equidem atque salutare uidetur.  Ut eius solemnitatem<lb n="4" />
 				deuotissime celebremus,  quoniamquidem et si non est in<lb n="5" />
 				ordine duodenario apostolatus eorum,  non tamen<lb n="6" />
-				deest de <sic>decatalogo</sic> praedicationis, et excellentia mira<lb n="7" />culorum,
-				que cum beato Paulo sicut Lucas euange<lb n="8" />lista
+				deest de <sic>decatalogo</sic> praedicationis, et excellentia mira<lb n="7" break="no" />culorum,
+				que cum beato Paulo sicut Lucas euange<lb n="8" break="no" />lista
 				refert in actibus apostolorum mirabiliter patrauit,<lb n="9" />
 				a tempore uidelicet  quo per uocationem et gratiam spiritus<lb n="10" />
 				sancti, tertio decimo post domini passionem anno, cum<lb n="11" />
@@ -102,7 +107,7 @@
 				beati Luce euangeliste et Iohannis cognomento<lb n="21" />
 				Marci discipuli atque exadelfi eius gradientes<lb n="22" />
 				fida relatione pandere curabimus. Denique iste<lb n="23" />
-				est ille Barnabas sanctissimus  unus ex septua<lb n="24" />ginta
+				est ille Barnabas sanctissimus  unus ex septua<lb n="24" break="no" />ginta
 				duobus discipulis domini saluatoris,  qui secundum<lb n="25" /><note>je me suis arrêté là</note>
 				nominis sui presagium signum pro meruit. Nam
 Barnabas hebraice : latine autem filius consolationis dicitur. Communiter cum sanctis

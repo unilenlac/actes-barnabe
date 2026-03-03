@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Latran_A78</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>Italie</country>
 					<settlement>Rome</settlement>
 					<repository>Archivio capitolare Lateranense</repository>
-					<collection></collection>
+					<collection />
 					<idno>A 78 (Alias A)</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -38,17 +45,17 @@
 			<milestone n="prologue" />
 			<p><lb n="16" />
 				Barnabas hebraicȩ,
-				latine inter<lb n="17" />pretatur
+				latine inter<lb n="17" break="no"/>pretatur
 				filius prophetȩ, uel filius<lb n="18" />
 				consolationis. Barnabas qui et<lb n="19" />
 				Ioseph natione Cyprie ciuitatis<lb n="20" />
 				a  Cyro rege Persarum fundata,<lb n="21" />
 				cum Paulo ingentibus apostolatum<lb n="22" />
 				adeptus est. Deinde propter Iohannem<lb n="23" />
-				discipulum, qui etiam cognomen<lb n="24" />to
+				discipulum, qui etiam cognomen<lb n="24" break="no"/>to
 				Marcus appellatur  seiunctus<lb n="25" />
 				a Paulo,  nichilominus euangelii<lb n="26" />
-				predicationem sibi iniunctam exer<lb n="27" />cuit.
+				predicationem sibi iniunctam exer<lb n="27" break="no"/>cuit.
 				Martirio coronatur. Cuius<lb n="28" />
 				festiuitas celebratur tertio idus<lb n="29" />
 				iunii.

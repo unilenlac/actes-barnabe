@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 49)</title>
+				<title>Acta Barnabae (Forme courte 49) - BSG_125</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>France</country>
 					<settlement>Paris</settlement>
 					<repository>Bibliothèque Sainte-Geneviève</repository>
-					<collection></collection>
+					<collection />
 					<idno>125</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -45,40 +52,40 @@
 				inuenimus hominem<lb n="15" />
 				nomine Eraclium,<lb n="16" />
 				<milestone n="2.17" />
-				quem beatus Pau<lb n="17" />lus
+				quem beatus Pau<lb n="17" break="no"/>lus
 				apostolus cum <sic>sanctus</sic><pb n="110r" /><cb n="1" /><lb n="1" />
-				Barnaba baptizaue<lb n="2" />rat,
-				et recepto spiri<lb n="3" />tu
-				sancto episcopum ordina<lb n="4" />uerat
-				ad commu<lb n="5" />nionem
+				Barnaba baptizaue<lb n="2" break="no"/>rat,
+				et recepto spiri<lb n="3" break="no"/>tu
+				sancto episcopum ordina<lb n="4" break="no"/>uerat
+				ad commu<lb n="5" break="no"/>nionem
 				fidelium. Hic<lb n="6" />
 				nos cum magno<lb n="7" />
 				gaudio excepit, et<lb n="8" />
-				hospitalitatem pre<lb n="9" />cipuam
+				hospitalitatem pre<lb n="9" break="no"/>cipuam
 				exhibuit.<lb n="10" />
 				<milestone n="2.18" />
-				Post hec autem inue<lb n="11" />nimus
-				quendam ui<lb n="12" />rum
-				nomine Rodo<lb n="13" />nem,
-				quamuis ethni<lb n="14" />cum
+				Post hec autem inue<lb n="11" break="no"/>nimus
+				quendam ui<lb n="12" break="no"/>rum
+				nomine Rodo<lb n="13" break="no"/>nem,
+				quamuis ethni<lb n="14" break="no"/>cum
 				tamen iustum<lb n="15" />
 				atque benignum.<lb n="16" />
 				Huic cum beatus<lb n="17" />
-				apostolus sanctam fidem ex<cb n="2" /><lb n="1" />poneret,
+				apostolus sanctam fidem ex<cb n="2" /><lb n="1" break="no"/>poneret,
 				continuo<lb n="2" />
 				credidit in dominum,<lb n="3" />
 				et baptizatus secutus<lb n="4" />
-				est nos. His ita ge<lb n="5" />stis,
-				obuium habu<lb n="6" />imus
+				est nos. His ita ge<lb n="5" break="no"/>stis,
+				obuium habu<lb n="6" break="no"/>imus
 				impium et<lb n="7" />
 				maleficum Iudeum<lb n="8" />
 				nomine Barieum<lb n="9" />
 				quem beatus Paulus<lb n="10" />
-				olim nomine priua<lb n="11" />uerat.
+				olim nomine priua<lb n="11" break="no"/>uerat.
 				Hic namque<lb n="12" />
-				cum cognouisset be<lb n="13" />atum
-				apostolum, ma<lb n="14" />licia
-				commotus, pro<lb n="15" />hibuit
+				cum cognouisset be<lb n="13" break="no"/>atum
+				apostolum, ma<lb n="14" break="no"/>licia
+				commotus, pro<lb n="15" break="no"/>hibuit
 				nos introire<lb n="16" />
 				in Paphum.
 			</p>

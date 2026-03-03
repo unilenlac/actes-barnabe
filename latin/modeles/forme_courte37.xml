@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -14,14 +12,20 @@
 		<sourceDesc>
 			<msDesc>
 				<msIdentifier>
-					<country></country>
-					<settlement></settlement>
-					<repository></repository>
-					<collection></collection>
-					<idno></idno>
+					<country />
+					<settlement />
+					<repository />
+					<collection />
+					<idno />
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="transcription-inprocessing">
 			<change />
@@ -34,6 +38,8 @@
 			Incipit passio sancti Barnabe
 			apostoli.
 		</head>
+		<milestone unit="1" />
+		<p>
 				Redemptor
 				et saluator noster
 				dominus Iesus Christus antequam
@@ -193,7 +199,6 @@
 				Interim ego Iohannes qui
 				et Marchus cognominatus
 			</p>
-		</div>
 	</div>
 </body>
 </text>

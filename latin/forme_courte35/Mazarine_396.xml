@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 35)</title>
+				<title>Acta Barnabae (Forme courte 35) - Mazarine_396</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -17,11 +18,17 @@
 					<country>France</country>
 					<settlement>Paris</settlement>
 					<repository>Bibliothèque Mazarine</repository>
-					<collection></collection>
+					<collection />
 					<idno>396</idno>
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision2-finished">
 			<change />
@@ -33,7 +40,7 @@
 		<milestone n="titre-principal" />
 		<pb n="202r" /><cb n="2" />
 				<head type="initial"><lb n="18" />
-			<!--- lecture sur original -->
+			
 			Incipit passio<lb n="19" />
 			sancti Barnabe apostoli, edita a beato Iohanne qui<lb n="20" />
 			et Marcus.
@@ -44,9 +51,9 @@
 			<lb n="21" />
 						Iohannes igitur qui et Marcus<lb n="22" />
 						famulus domini nostri Iesu Christi discipulus<lb n="23" />
-						uero sanctorum apostolorum Pauli et Barnabe,  mi<lb n="24" />stica
-						dei opera que diuinitus<!-- lecture sur ms -->
-						uidi  et di<lb n="25" />ligenter
+						uero sanctorum apostolorum Pauli et Barnabe,  mi<lb n="24" break="no"/>stica
+						dei opera que diuinitus
+						uidi  et di<lb n="25" break="no"/>ligenter
 						cognoui gradiendo scilicet cum<lb n="26" />
 						predictis sanctis apostolis   et famulando in<lb n="27" />
 						ministerio illorum, omnibus fidelibus in Christi<lb n="28" />
@@ -55,13 +62,13 @@
 					</p>
 					<p>
 					<seg place="inline" hand="manus1" type="lectio">Lectio iia</seg>
-					Denique cum essem ethnicus et famu<lb n="30" />lator
+					Denique cum essem ethnicus et famu<lb n="30" break="no"/>lator
 					ydolorum  commorando scilicet in<lb n="31" />
-					ministerio Cyrilli  quondam pontificis ne<lb n="32" />fandissimi<del rend="scratched" quantity="1" />
+					ministerio Cyrilli  quondam pontificis ne<lb n="32" break="no"/>fandissimi<del rend="scratched" quantity="1" />
 					templi Iouis, annuente<lb n="33" />
 					gratia domini nostri Iesu Christi baptizatus sum per<lb n="34" />
 					beatum Paulum et Barnabam  qui digni<lb n="35" />
-					fuerunt<!-- lecture sur ms -->
+					fuerunt
 					uocatione dei in loco  qui dicitur<lb n="36" />
 					Yconium.
 					<milestone n="2.5" />
@@ -73,39 +80,39 @@
 				<p>
 					<seg place="inline" hand="manus1" type="lectio">Lectio 	iiia</seg>
 					<lb n="2" />
-						Deinde uenimus Seleutiam in qua man<lb n="3" />simus
-						diebus tribus. Inde nauigan<lb n="4" />tes
-						uenimus Cyprum,  eramque in ministeri<lb n="5" />o
-						illorum, donec ex Cypro egrederemur. Eun<lb n="6" />tes
+						Deinde uenimus Seleutiam in qua man<lb n="3" break="no"/>simus
+						diebus tribus. Inde nauigan<lb n="4" break="no"/>tes
+						uenimus Cyprum,  eramque in ministeri<lb n="5" break="no"/>o
+						illorum, donec ex Cypro egrederemur. Eun<lb n="6" break="no"/>tes
 						autem de Cypro uenimus Pergen <c type="justif" /><lb n="7" />
-						Pamphilie. Illis autem abeuntibus ad pre<lb n="8" />dicandum
-						commoratus sum ibi mensibus du<lb n="9" />obus.
+						Pamphilie. Illis autem abeuntibus ad pre<lb n="8" break="no"/>dicandum
+						commoratus sum ibi mensibus du<lb n="9" break="no"/>obus.
 						Cum disponerem ire in partes occidentis<lb n="10" />
 						prohibuit me spiritus sanctus.
 					</p>
 					<p>
 						<seg place="inline" hand="manus1" type="lectio">Lectio iiiia</seg>
 						<lb n="11" />
-						Igitur cum audissem quod idem sancti apostoli Pau<lb n="12" />lus
-						et Barnabas Anthiochie essent  con<lb n="13" />tinuo
+						Igitur cum audissem quod idem sancti apostoli Pau<lb n="12" break="no"/>lus
+						et Barnabas Anthiochie essent  con<lb n="13" break="no"/>tinuo
 						perrexi ad illos.
 						<milestone n="2.6" />
 						Inuenique beatum<lb n="14" />
-						Paulum fatigatum ex itinere atque in gra<lb n="15" />bato
+						Paulum fatigatum ex itinere atque in gra<lb n="15" break="no"/>bato
 						requiescentem. Qui cum me cerneret<lb n="16" />
 						gauisus est,  set arguere <add place="above" hand="corr1">me</add> cepit pro eo<lb n="17" />
-						quod moram fecissem uenire de Pamphi<lb n="18" />lia
+						quod moram fecissem uenire de Pamphi<lb n="18" break="no"/>lia
 						et detinuissem libros predicationis.<lb n="19" />
 						Recreati autem ex itinere ceperunt uerbum<lb n="20" />
 						domini predicare. Ad quorum predicationem<lb n="21" />
-						plurimi Iudeorum atque gentilium illu<lb n="22" />minati
+						plurimi Iudeorum atque gentilium illu<lb n="22" break="no"/>minati
 						crediderunt in dominum Iesum Christum.<lb n="23" />
 					</p>
 					<milestone n="2.7" />
 					<p>
 					<seg type="lectio" place="inline" hand="manus1">Lectio va</seg>
 						Expleta uero in
-						eisdem<!--lisible sur ms -->
+						eisdem
 						partibus<lb n="24" />
 						predicatione statuerunt ire ad<lb n="25" />
 						predicandum  in orientem,   et tunc demum<lb n="26" />
@@ -113,36 +120,36 @@
 						in quibus uerbum domini predicauerant.<lb n="28" />
 						Set beatus Barnabas exorabat  ut prius<lb n="29" />
 						iret Cyprum ad uisitandos parentes<lb n="30" />
-						suos,  et postea communiter Ierusalem per<lb n="31" />gerent.
+						suos,  et postea communiter Ierusalem per<lb n="31" break="no"/>gerent.
 						Inter hec autem angelica uisio<lb n="32" />
 						per noctem facta est beato Paulo apostolo dicens.<lb n="33" />
-						Celerius propera Iherusalem, nec moram faci<lb n="34" />as,
-						quoniamquidem fratres prestolantur aduen<lb n="35" />tum
+						Celerius propera Iherusalem, nec moram faci<lb n="34" break="no"/>as,
+						quoniamquidem fratres prestolantur aduen<lb n="35" break="no"/>tum
 						tuum.
 					</p>
 					<milestone n="2.8" />
 					<p>
 						<seg place="inline" hand="manus1" type="lectio">Lectio via</seg>
 						<lb n="36" />
-						Quod cum sanctus Paulus beato Barna<lb n="37" />be
-						panderet  ait. Quia uolunta<lb n="38" />ti
-						dei contradicere non expedit,  fiat uo<cb n="2" /><lb n="1" />luntas
+						Quod cum sanctus Paulus beato Barna<lb n="37" break="no"/>be
+						panderet  ait. Quia uolunta<lb n="38" break="no"/>ti
+						dei contradicere non expedit,  fiat uo<cb n="2" /><lb n="1" break="no"/>luntas
 						domini.
 						<milestone n="2.9" />
 						Tantum obsecro  intercede pro<lb n="2" />
-						me ad dominum  ut decertatio mea fiat accep<lb n="3" />tabilis
+						me ad dominum  ut decertatio mea fiat accep<lb n="3" break="no"/>tabilis
 						in conspectu eius secundum deuotionem<lb n="4" />
 						qua famulati sumus in ministerio<lb n="5" />
-						quod datum est nobis. Nunc autem propero Cy<lb n="6" />prum,
+						quod datum est nobis. Nunc autem propero Cy<lb n="6" break="no"/>prum,
 						ibique finem complebo uite,  faciem tuam<lb n="7" />
 						amplius prothdolor  non uisurus. Hec<lb n="8" />
 						proloquens  procidit ad pedes eius et<lb n="9" />
 						fleuit amare.
 						<milestone n="2.10" />
-						Cuius dolori beatus Pau<lb n="10" />lus
-						compaciens noli inquit merere fra<lb n="11" />ter,
+						Cuius dolori beatus Pau<lb n="10" break="no"/>lus
+						compaciens noli inquit merere fra<lb n="11" break="no"/>ter,
 						non enim hoc sine diuino misterio agitur.
-						<!-- le texte d'après à une note de marge, ne pas en tenir compte pour les AB -->
+						
 					</p>
 			</div>
 </body>

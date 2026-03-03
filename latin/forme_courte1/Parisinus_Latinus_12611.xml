@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 1)</title>
+				<title>Acta Barnabae (Forme courte 1) - Parisinus_Latinus_12611</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -40,17 +47,17 @@
 		<p><lb n="6" />
 			Redemptor et saluator noster dominus<lb n="7" />
 			Iesus Christus antequam de interitu<lb n="8" />
-			Sathanȩ triumphans uictor et exul<lb n="9" />tans
+			Sathanȩ triumphans uictor et exul<lb n="9" break="no"/>tans
 			penetraret regna polorum, sanctam<lb n="10" />
 			ȩcclesiam quam precioso sanguine suo<lb n="11" />
 			adquisiuit, per beatos  apostolos et apostolicos<lb n="12" />
-			uiros immobiliter fundauit, mira<lb n="13" />biliter
+			uiros immobiliter fundauit, mira<lb n="13" break="no"/>biliter
 			corroborans solidauit.
 			<milestone n="1.2" />
 			Ergo<lb n="14" />
 			cum sanctorum apostolorum natalicia celebramus<lb n="15" />
 			dignum equidem, atque salutare uidetur,<lb n="16" />
-			ut beati Barnabe natalicia deuotis<lb n="18" />sime
+			ut beati Barnabe natalicia deuotis<lb n="18" break="no"/>sime
 			celebremus,
 			<milestone n="1.3" />
 			quoniamquidem, et non<lb n="19" />
@@ -64,54 +71,54 @@
 			domini	anno, cum Paulo apostolo  ad apostolatus<lb n="27" />
 			celsitudinem, et prȩdicationem diuinitus<lb n="28" />
 			electus est uocante illos eodem spiritu<lb n="29" />
-			sancto, atque dicente. Segregate mihi Barna<lb n="30" />bam
+			sancto, atque dicente. Segregate mihi Barna<lb n="30" break="no"/>bam
 			et Saulum, in opus quod assumpsi<lb n="31" />
 			eos.
 			<milestone n="1.4" />
-			Sed qualiter uir iste domini Barna<lb n="32" />bas,
+			Sed qualiter uir iste domini Barna<lb n="32" break="no"/>bas,
 			deuotissime fidem catholicam,<pb n="123v" /><cb n="1" /><lb n="1" />
-			prȩdicando, et infideles  ab errore iniqui<lb n="2" />tatis
-			redimendo, opprobria, et contume<lb n="3" />lias
-			pro Christi amore sustinuerit, dicere stu<lb n="4" />deamus.
+			prȩdicando, et infideles  ab errore iniqui<lb n="2" break="no"/>tatis
+			redimendo, opprobria, et contume<lb n="3" break="no"/>lias
+			pro Christi amore sustinuerit, dicere stu<lb n="4" break="no"/>deamus.
 			<milestone n="2.19" />
 			Quodam tempore dum uenisset,<lb n="5" />
 			in locum  in quo ethnici uiri et feminȩ<lb n="6" />
 			ludendo nudi currebant, indignatus<lb n="7" />
-			super tale facinus beatus Barnabas  male<lb n="8" />dixit
+			super tale facinus beatus Barnabas  male<lb n="8" break="no"/>dixit
 			continuo templum, statimque pars<lb n="9" />
 			templi funditus corruit,  magnaque<lb n="10" />
 			contritio ex ethnicis facta est,  qui<lb n="11" />
 			sub ruina ipsa mortui sunt. Cȩteri<lb n="12" />
-			autem qui euaserunt, fugerunt in tem<lb n="13" />plum
+			autem qui euaserunt, fugerunt in tem<lb n="13" break="no"/>plum
 			Apollinis.
 			<milestone n="2.22" />
 			Introeunte autem eo<lb n="14" />
 			in Salaminam, inuenit synagogam<lb n="15" />
-			Iudeorum, quam exhortari cepit, et per euan<lb n="16" />gelium
-			sancti Mathei, Christi gratiam introdu<lb n="17" />cere.
+			Iudeorum, quam exhortari cepit, et per euan<lb n="16" break="no"/>gelium
+			sancti Mathei, Christi gratiam introdu<lb n="17" break="no"/>cere.
 			<milestone n="2.23" />
 			At quidam Bariesus, et plurimi<lb n="18" />
-			Iudeorum, hoc comperientes omnem malici<lb n="19" />am
-			iniquitatis suȩ ostendentes, sediti<lb n="20" />one
+			Iudeorum, hoc comperientes omnem malici<lb n="19" break="no"/>am
+			iniquitatis suȩ ostendentes, sediti<lb n="20" break="no"/>one
 			facta contra sanctum apostolum, fecerunt<lb n="21" />
-			eum  comprȩhendere, et que<add place="above" hand="corr1">re</add>bant tra<lb n="22" />dere
-			consuli, eiusdem Salamine ciui<lb n="23" />tatis,
-			affligentes eum multis suppli<lb n="24" />ciis,
-			et uariis cruciatibus. Post hȩc au<lb n="25" />tem
-			ligantes funem in collo eius, noctur<lb n="26" />no
+			eum  comprȩhendere, et que<add place="above" hand="corr1">re</add>bant tra<lb n="22" break="no"/>dere
+			consuli, eiusdem Salamine ciui<lb n="23" break="no"/>tatis,
+			affligentes eum multis suppli<lb n="24" break="no"/>ciis,
+			et uariis cruciatibus. Post hȩc au<lb n="25" break="no"/>tem
+			ligantes funem in collo eius, noctur<lb n="26" break="no"/>no
 			tempore dilaceratum, a synagoga,<lb n="27" />
 			in ipodromum pertraxerunt,  et deinde<lb n="28" />
 			foris portam, circumdantes<add place="above" hand="manus1-dubia">que</add> illum igne<lb n="29" />
 			crudeliter cremauerunt.  Sicque beatus<lb n="30" />
-			apostolus post multos agones, et diutur<lb n="31" />na
+			apostolus post multos agones, et diutur<lb n="31" break="no"/>na
 			certamina, pro Christi amore adustus,<cb n="2" /><lb n="1" />
 			migrauit ad gaudia sempiterna. Impii<lb n="2" />
 			autem Iudȩi non satiati de nece illius,<lb n="3" />
-			zelo diu concitati, tulerunt sacratissi<lb n="4" />mum
+			zelo diu concitati, tulerunt sacratissi<lb n="4" break="no"/>mum
 			corpus eius, et in locello plumbeo<lb n="5" />
-			recludentes in mare prȩcipitare dis<lb n="6" />ponebant.
+			recludentes in mare prȩcipitare dis<lb n="6" break="no"/>ponebant.
 			<milestone n="2.24" />
-			Interim ego Iohannes qui et Mar<lb n="7" />cus
+			Interim ego Iohannes qui et Mar<lb n="7" break="no"/>cus
 			occulte nocturnis horis tuli illud<lb n="8" />, et
 			collocaui in cripta, quȩ olim fuerat<lb n="9" />
 			habitatio Hiebuseorum, iii idus iunii.

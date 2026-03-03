@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Jean Gielemans)</title>
+				<title>Acta Barnabae (Jean Gielemans) - Wien_Ser_12813</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -61,13 +68,13 @@
 			<milestone n="2.3" />
 			Qui succedente tempore uidit in uisione<lb n="40" />
 			uirum splendidum,  amictum stola candida,  qui dixit ei. Constans esto Iohannes,  et crede<lb n="41" />
-			fiducialiter, quoniam amodo non Iohannes sed Marcus hoc est excelsus uocaberis,  et gloriam tue  ex<pb n="822v" /><lb n="1" />cellentie
+			fiducialiter, quoniam amodo non Iohannes sed Marcus hoc est excelsus uocaberis,  et gloriam tue  ex<pb n="822v" /><lb n="1" break="no"/>cellentie
 			ubique praedicari oportet,  pro eo scilicet  quia tenebre quae hactenus fuerunt in te penitus effugate sint,<lb n="2" />
 			et data sit tibi gratia et intellectus,  ut cognoscas misteria dei omnipotentis.
 			<milestone n="2.4" />
 			Cernendo igitur<lb n="3" />
 			hanc uisionem obstupuit, et euigilans procidit ad pedes beati Barnabe,  et seriatim eidem<lb n="4" />
-			confessus est. Postquam uero idem beatus Barnabas diligenter animaduertit istam uisionem,  com<lb n="5" />monuit
+			confessus est. Postquam uero idem beatus Barnabas diligenter animaduertit istam uisionem,  com<lb n="5" break="no"/>monuit
 			eum dicens. Precaue diligenter,  et pone custodiam ori tuo,  ne alicui uirtutem<lb n="6" />
 			misterii quod uidisti disseras. Nam et michi similiter hac nocte apparuit dominus Iesus Christus<lb n="7" />
 			dicens. Constans esto Barnaba, credens uerissime me,  quoniam pro sancta deuotione tua<lb n="8" />
@@ -89,13 +96,13 @@
 			Barnabe panderet, ille ait : fiat uoluntas dei.
 			<milestone n="2.9" />
 			Tantum obsecro  intercede pro me ad dominum.<lb n="18" />
-			Ut decertatio mea fiat acceptabilis in conspectum eius, secundum deuotionem  qua fa<lb n="19" />mulati
+			Ut decertatio mea fiat acceptabilis in conspectum eius, secundum deuotionem  qua fa<lb n="19" break="no"/>mulati
 			sumus in ministerio  quod datum est nobis. Nunc autem propero Cyprum  ibique finem compleo,<lb n="20" />
 			heu amplius faciem tuam prohdolor  amplius non uisurus. Hec proloquens procidit ad<lb n="21" />
 			pedes eius, et fleuit diu amare.
 			<milestone n="2.10" />
 			Cuius dolori beatus Paulus compatiens, noli inquit<lb n="22" />
-			merere frater,  non enim  sine misterio diuino agitur. Nempe apparuit michi dominus in hac noc<lb n="23" />te
+			merere frater,  non enim  sine misterio diuino agitur. Nempe apparuit michi dominus in hac noc<lb n="23" break="no"/>te
 			dicens. Ne prohibeas ire Barnabam in Cyprum,  quoniam illic praeparata est ei gratia dei  ad<lb n="24" />
 			illuminationem multorum et ad sacrum misterium perficiendum. Tu autem in  Iherusalem perge,<lb n="25" />
 			ad loca sacra uisitanda. Tunc positis genibus orantes  et sese osculantes inuicem<lb n="26" />
@@ -107,7 +114,7 @@
 		<milestone n="2.12" />
 		<p>
 			Deinde uenerunt in ciuitatem quae uocatur Auemória,  in qua inuenerunt<lb n="28" />
-			quosdam uiros ethnicos tamen sagacitate pollentes,  et interrogauerunt eos di<lb n="29" />centes.
+			quosdam uiros ethnicos tamen sagacitate pollentes,  et interrogauerunt eos di<lb n="29" break="no"/>centes.
 			O uiri qui estis ? unde uenitis,  quo pergitis, uel quae res in nostras uos attulit<lb n="30" />
 			oras ? Animaduertens autem beatus Barnabas illorum sagacitatem,  sagaciter illis respondere studuit.<lb n="31" />
 			Si inquit cupitis scire qui sumus,  unde et quo  uel ob quam rem uenimus,  scitote  quia<lb n="32" />
@@ -132,7 +139,7 @@
 			Nauigantes de hinc uenerunt<lb n="3" />
 			Cyprum,  ibique inuenerunt Tymonem et Aristonem famulos dei.
 			<milestone n="2.15" />
-			Tymon autem  urebatur mag<lb n="4" />nis
+			Tymon autem  urebatur mag<lb n="4" break="no"/>nis
 			febribus. Cui cum manus imposuisset beatus Barnabas, statim febris fugata est, et ita<lb n="5" />
 			curatus est ut cum gaudio sequeretur sanctos. Ex doctrina itaque sanctorum apostolorum beatissimus<lb n="6" />
 			Barnabas euangelium sancti Mathei secum ferebat, quod cum super infirmos posuisset<lb n="7" />
@@ -147,13 +154,13 @@
 			Post hec inuenerunt<lb n="10" />
 			uirum nomine Rodónem, quamuis ethnicum tamen benignum.  Huic cum beatus Barnabas sanctam<lb n="11" />
 			fidem exponeret,  credidit,  et baptizatus secutus est eum. Hiis ita gestis obuium<lb n="12" />
-			habuimus impium et maleficum Iudeum nomine Bariésum,  quem olim beatus Paulus lumine priua<lb n="13" />uerat.
+			habuimus impium et maleficum Iudeum nomine Bariésum,  quem olim beatus Paulus lumine priua<lb n="13" break="no"/>uerat.
 			Hic cum agnouisset beatum apostolum, malicia commotus prohibuit eum intrare in<lb n="14" />
 			Paphum.
 			<milestone n="2.19" />
-			Proinde reuertens uenit in locum  in quo ethnici uiri et mulieres lu<lb n="15" />dendo
+			Proinde reuertens uenit in locum  in quo ethnici uiri et mulieres lu<lb n="15" break="no"/>dendo
 			nudi currebant. Hoc cum uidisset beatus Barnabas, indignatus super tale facinus<lb n="16" />
-			maledixit continuo templo.  Statimque pars templi funditus corruit,  magnaque con<lb n="17" />tritio
+			maledixit continuo templo.  Statimque pars templi funditus corruit,  magnaque con<lb n="17" break="no"/>tritio
 			ex ethnicis facta fuit.  Ceteri uero qui euaserunt,  fugerunt in templum Apollinis.<lb n="18" />
 		</p>
 		<milestone n="2.22" />
@@ -163,7 +170,7 @@
 			<milestone n="2.23" />
 			Hoc cum praefatus<lb n="20" />
 			comperisset Barihesus,   seditionem commouit. In quia apprehensus apostolus traditur  suppliciis<lb n="21" />
-			et cruciatibus. De hinc cum duceretur ad <sic>duiidicandum</sic>,<!-- Cf le trait sur le second i. Erreur visiblement pour diiudi*-->
+			et cruciatibus. De hinc cum duceretur ad <sic>duiidicandum</sic>,
 			accidit  ut deueniret in eandem<lb n="22" />
 			insulam	Cyprum quidam uir magnus et praepotens nomine Eusebius de progenie Neronis cesaris.<lb n="23" />
 			Comperto  autem Iudei aduentu eius, uerentes ne illum eriperet de manibus eorum, ligantes<lb n="24" />
@@ -179,7 +186,7 @@
 			habitatio Iebuseorum iiio ydus iunii.
 			<milestone n="epilogue" />
 			Sed deus qui non patitur occultari gloriam<lb n="32" />
-			sanctorum suorum, tempore Zenonis imperatoris et Pelagii pape reuelauit eum, sicque cum ho<lb n="33" />nore
+			sanctorum suorum, tempore Zenonis imperatoris et Pelagii pape reuelauit eum, sicque cum ho<lb n="33" break="no"/>nore
 			ac laudibus humatus est, ad laudem domini nostri Ihesu Christi.
 		</p>
 	</div>

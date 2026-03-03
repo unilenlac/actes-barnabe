@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 20)</title>
+				<title>Acta Barnabae (Forme courte 20) - PalLat439</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -51,7 +58,7 @@
 					euuangelista refert in<lb n="5" />
 					actibus apostolorum tercio decimo<lb n="6" />
 					anno post passionem domini<lb n="7" />
-					cum beato Paulo ad praedica<lb n="8" />cionem
+					cum beato Paulo ad praedica<lb n="8" break="no"/>cionem
 					diuinitus esse electus<lb n="9" />
 					conuocante illo spiritu sancto<lb n="10" />
 					atque dicente Segregate<lb n="11" />
@@ -61,28 +68,28 @@
 					<milestone n="2.22" />
 					Introeunte<lb n="14" />
 					itaque eo in Salaminam<lb n="15" />
-					ciuitatem, inuenit synago<lb n="16" />gam
-					Iudeorum quamd ex<lb n="17" />hortari
+					ciuitatem, inuenit synago<lb n="16" break="no"/>gam
+					Iudeorum quamd ex<lb n="17" break="no"/>hortari
 					cepit, et per<lb n="18" />
 					euuangelium sancti Mathei<lb n="19" />
 					gratiam Christi introducere<lb n="20" />
 					<milestone n="2.23" />
 					Unde cum multi Iudeorum<lb n="21" />
-					eis praedicacionem recepis<lb n="22" />sent,
+					eis praedicacionem recepis<lb n="22" break="no"/>sent,
 					quidam Bariem<lb n="23" />
 					nomine facta sedicione<lb n="24" />
 					cum Iudeis comprehendit<lb n="25" />
 					apostolum ut traderet eum<lb n="26" />
 					suppliciis et cruciatibus<lb n="27" />
-					Dehinc iam cum mace<lb n="28" />ratum
+					Dehinc iam cum mace<lb n="28" break="no"/>ratum
 					et quassatum penis<lb n="29" />
 					ad iudicandum ducerent<pb n="147v" /><cb n="1" /><lb n="1" />
 					accidit ut deueniret<lb n="2" />
 					quidam uir magnus<lb n="3" />
 					et praepotens nomine Eusebius<lb n="4" />
-					de progenie Neronis im<lb n="5" />peratoris,
+					de progenie Neronis im<lb n="5" break="no"/>peratoris,
 					qui nepos eius<lb n="6" />
-					Comperientes Iudei ad<lb n="7" />uentum
+					Comperientes Iudei ad<lb n="7" break="no"/>uentum
 					eius, uerentesque<lb n="8" />
 					nimium ne illum de<lb n="9" />
 					manibus eorum eriperet,<lb n="10" />
@@ -101,13 +108,13 @@
 					migrauit ad dominum.<lb n="23" />
 					Impii autem Iudei non<lb n="24" />
 					saciati de nece illius<lb n="25" />
-					zelo odii concitati, tu<lb n="26" />lerunt
+					zelo odii concitati, tu<lb n="26" break="no"/>lerunt
 					sanctissimum corpus<lb n="27" />
 					eius, et in locello<lb n="28" />
 					plumbeo recludentes in<lb n="29" />
-					mare praecipitare dispo<cb n="2" /><lb n="1" />nebant
+					mare praecipitare dispo<cb n="2" /><lb n="1" break="no"/>nebant
 					<milestone n="2.24" />
-					Interim Iohan<lb n="2" />nes
+					Interim Iohan<lb n="2" break="no"/>nes
 					qui et Marcus cum<lb n="3" />
 					Tiemone et Rodolie<lb n="4" />
 					nocte tulerunt illud<lb n="5" />
@@ -122,13 +129,13 @@
 					latuit, nec a christicolis<lb n="12" />
 					inueniri ualuit Sed<lb n="13" />
 					deus omnipotens qui non patitur<lb n="14" />
-					gloriam sanctorum occul<lb n="15" />tari,
-					tempore Zenonis im<lb n="16" />peratoris
+					gloriam sanctorum occul<lb n="15" break="no"/>tari,
+					tempore Zenonis im<lb n="16" break="no"/>peratoris
 					et sancti Gelasii<lb n="17" />
 					pape eodem sancto apostolo<lb n="18" />
 					reuelantum inuentum est<lb n="19" />
-					atque cum ymnis et lau<lb n="20" />dibus
-					mirifice colloca<lb n="21" />tum
+					atque cum ymnis et lau<lb n="20" break="no"/>dibus
+					mirifice colloca<lb n="21" break="no"/>tum
 					est, ad honorem<lb n="22" />
 					et gloriam domini nostri Iesu<lb n="23" />
 					Christi qui cum patre et spiritu<lb n="24" />

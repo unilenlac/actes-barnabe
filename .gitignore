@@ -6,3 +6,4 @@ relations.txt
 .DS_Store
 *.log
 .existdb.json
+/misc/add_collections.py

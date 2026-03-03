@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (Forme courte 29)</title>
+				<title>Acta Barnabae (Forme courte 29) - Parisinus_Latinus_12602</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,12 +48,12 @@
 			<p><lb n="26" />
 				Beatus Barnabas qui et Ioseph Ciprius genere, eo fere tempore<lb n="27" />
 				quo sancta  ȩcclesia gratiam spiritus sancti suscepit, tertio 	uidelicet  post domini passionem<lb n="28" />
-				anno, cum Paulo ad apostolatus celsitudinem et gentium predi<lb n="29" />cationem
+				anno, cum Paulo ad apostolatus celsitudinem et gentium predi<lb n="29" break="no"/>cationem
 				uocante  spiritu sancto  electus est.  Qui qualiter quamque perfecte<lb n="30" />
 				in assignato sibi diuinitus ministerio desudauerit, Lucas euangelista<lb n="31" />
 				in actibus apostolorum luculento sermone declarat.
 				<milestone n="1.4" />
-				Quomodo uero per mar<lb n="32" />tirii
+				Quomodo uero per mar<lb n="32" break="no"/>tirii
 				palmam ad coronam gloriȩ uenerit Iohannes discipulus eiusdem<pb n="63r" /><lb n="1" />
 				Barnabe 		cognomento Marcus,  fideli relatione ostendit.
 				<milestone n="1.33" />
@@ -58,7 +65,7 @@
 			<p>
 				<seg place="margin-right" hand="corr1-dubia" type="lectio">Lectio ii</seg>
 				Barnabas igitur cum esset apud Ichonium cum beato Paulo<lb n="4" />
-				apostolo, apparuit ei per uisum dominus Iesus Christus dicens. 	Constans esto Barnaba, cre<lb n="5" />dendo
+				apostolo, apparuit ei per uisum dominus Iesus Christus dicens. 	Constans esto Barnaba, cre<lb n="5" break="no"/>dendo
 				uerissime  quoniam pro sancta deuotione qua reliquisti generationem<lb n="6" />
 				tuam  pro nomine meo, prȩmia percipies ȩterna.
 				<milestone n="2.5" />
@@ -78,7 +85,7 @@
 				fiat uoluntas domini.
 				<milestone n="2.9" />
 				Tantum obsecro  intercede pro me ad dominum,  ut decertatio mea<lb n="12" />
-				fiat acceptabilis in conspectu eius.  Nunc enim  propero Ciprum, et post mo<lb n="13" />dicum
+				fiat acceptabilis in conspectu eius.  Nunc enim  propero Ciprum, et post mo<lb n="13" break="no"/>dicum
 				finem complebo uite,  faciem tuam prohdolor ultra corporaliter non uisurus.<lb n="14" />
 			</p>
 			<p>
@@ -86,24 +93,24 @@
 				Tunc procidit Barnabas ad pedes Pauli, et fleuit diu amare.
 				<milestone n="2.10" />
 				Cuius dolori<lb n="15" />
-				Paulus compatiens, noli inquit merere frater,  non enim  sine diuino miste<lb n="16" />rio
-				id agitur. Nanque apparuit michi hac nocte dominus dicens. Ne prohibe<lb n="17" />as
-				Barnabam ire Ciprum,  quoniam prȩparata est ei gratia mea  ad illumi<lb n="18" />nationem
+				Paulus compatiens, noli inquit merere frater,  non enim  sine diuino miste<lb n="16" break="no"/>rio
+				id agitur. Nanque apparuit michi hac nocte dominus dicens. Ne prohibe<lb n="17" break="no"/>as
+				Barnabam ire Ciprum,  quoniam prȩparata est ei gratia mea  ad illumi<lb n="18" break="no"/>nationem
 				multorum, et sacrum martirium perficiendum. Tu autem perge Hierusalem,<lb n="19" />
-				ad loca sancta uisitanda. Tunc positis genibus et oscula sibi dantes, ad  in<lb n="20" />uicem
+				ad loca sancta uisitanda. Tunc positis genibus et oscula sibi dantes, ad  in<lb n="20" break="no"/>uicem
 				uale fecerunt.
 			</p>
 			<milestone n="2.11" />
 			<p>
 				<seg place="margin-right" hand="corr1-dubia" type="lectio">Lectio v</seg>
-				Beatus uero Barnabas ascendens nauem,  descen<lb n="21" />dit
+				Beatus uero Barnabas ascendens nauem,  descen<lb n="21" break="no"/>dit
 				Laoditiam, decertans  ut pergeret Ciprum.
 				<milestone n="2.14" />
 				Cum autem peruenisset Ciprum<lb n="22" />
 				inuenit ibi  Timonem et Aristionem famulos domini.
 				<milestone n="2.15" />
-				Timon autem  urebatur  fe<lb n="23" />bribus.
-				Cui cum manus imposuisset beatus Barnabas, et sacrum euangelium per		in<lb n="24" />uocationem
+				Timon autem  urebatur  fe<lb n="23" break="no"/>bribus.
+				Cui cum manus imposuisset beatus Barnabas, et sacrum euangelium per		in<lb n="24" break="no"/>uocationem
 				domini saluatoris, statim febris fugata est, et adeo corroboratus est<lb n="25" />
 				infirmus,  ut continuo apostolum cum gaudio sequeretur. Ex doctrina namque<lb n="26" />
 				apostolorum, beatus Barnabas euangelium sancti Mathei semper secum ferebat,  et ubicunque<lb n="27" />
@@ -113,27 +120,27 @@
 			<milestone n="2.19" />
 				<p>
 				<seg place="margin-right" hand="corr1-dubia" type="lectio">Lectio vi</seg>
-				Uisitatis igitur et in fide consortatis pa<lb n="29" />rentibus
-				suis exiuit a Cipro, inde Paphum transiturus. Cum itaque a Cipro Pa<lb n="30" />phum
-				transiret, obuium habuit impium et maleficum Iudeum Barieu no<lb n="31" />mine
+				Uisitatis igitur et in fide consortatis pa<lb n="29" break="no"/>rentibus
+				suis exiuit a Cipro, inde Paphum transiturus. Cum itaque a Cipro Pa<lb n="30" break="no"/>phum
+				transiret, obuium habuit impium et maleficum Iudeum Barieu no<lb n="31" break="no"/>mine
 				quem fidei resistentem olim beatus Paulus non perpetualiter sed ad tempus<lb n="32" />
 				lumine oculorum priuauerat dicens. Eris cecus usque ad tempus. De quo liquido<lb n="33" />
-				constat, quod ad precem Sergii Pauli proconsulis per beatum Paulum apostolum con<pb n="63v" /><lb n="1" />uersus
+				constat, quod ad precem Sergii Pauli proconsulis per beatum Paulum apostolum con<pb n="63v" /><lb n="1" break="no"/>uersus
 				lumen receperit sed postmodum sicut ille Simon magus apostatando<lb n="2" />
 				transgressor factis sit.
 			</p>
 			<milestone n="2.18" />
 			<p>
 				<seg place="margin-left" hand="corr1-dubia" type="lectio">Lectio vii</seg>
-				Hic itaque cum cognouisset beatum Barnabam, malitia com<lb n="3" />motus
+				Hic itaque cum cognouisset beatum Barnabam, malitia com<lb n="3" break="no"/>motus
 				prohibuit eum introire Paphum.
 				<milestone n="2.22" />
-				Proinde apostolus reuertens introuit  Sala<lb n="4" />mínam.
+				Proinde apostolus reuertens introuit  Sala<lb n="4" break="no"/>mínam.
 				Inuenit itaque apostolus Barnabas in Salamina sinagogam Iudeorum. Quam<lb n="5" />
-				ingressus, exhortari cȩpit ad fidem, et  per euangelium sancti Mathei Christi gloriam praedica<lb n="6" />re.
+				ingressus, exhortari cȩpit ad fidem, et  per euangelium sancti Mathei Christi gloriam praedica<lb n="6" break="no"/>re.
 				<milestone n="2.23" />
 				Hoc cum praefatus
-				comperisset Barieú,  et quia plurimi Iudeorum recepissent praedica<lb n="7" />tionem
+				comperisset Barieú,  et quia plurimi Iudeorum recepissent praedica<lb n="7" break="no"/>tionem
 				sancti apostoli, omnem malitiam iniquitatis suȩ ostendens  seditione excitata<lb n="8" />
 				contra sanctum apostolum fecit comprehendi.
 			</p>
@@ -141,12 +148,12 @@
 			<seg type="lectio" place="margin-left" hand="corr1-dubia">Lectio viii</seg>
 				Quȩrebant ergo impii Iudei eum<lb n="9" />
 				tradere consuli eiusdem Salamine,  affligentes illum multis suppliciis<lb n="10" />
-				et uariis cruciatibus. Sed uaria nimium  ne eriperet de manibus eorum ligan<lb n="11" />tes
-				funem in collo eius, nocturno tempore de sinagoga in ippodromum per<lb n="12" />traxerunt,
+				et uariis cruciatibus. Sed uaria nimium  ne eriperet de manibus eorum ligan<lb n="11" break="no"/>tes
+				funem in collo eius, nocturno tempore de sinagoga in ippodromum per<lb n="12" break="no"/>traxerunt,
 				et deinde foris portam. Post hȩc autem circundantes eum<lb n="13" />
-				igne crudeliter cremauerunt. Sicque beatus apostolus post multos agones et diuturna cer<lb n="14" />tamina
+				igne crudeliter cremauerunt. Sicque beatus apostolus post multos agones et diuturna cer<lb n="14" break="no"/>tamina
 				pro Christi amore adustus, migrauit ad gaudia sempiterna. Impii autem<lb n="15" />
-				Iudei non saciati de nece illius, zelo concitati tulerunt sanctum  corpus eius,  et in locello plum<lb n="16" />beo
+				Iudei non saciati de nece illius, zelo concitati tulerunt sanctum  corpus eius,  et in locello plum<lb n="16" break="no"/>beo
 				recludentes in mari praecipitare disponebant.
 				<milestone n="2.24" />
 				Interim praefatus Iohannes discipulus qui et<lb n="17" />
@@ -154,9 +161,9 @@
 				in cripta,  quȩ olim fuerat habitatio Iebuseorum, iii idus iunii,  hoc est undecima die  mensis<lb n="19" />
 				ipsius.
 				<milestone n="epilogue" />
-				Propter hanc itaque occultam collocationem plurimis annorum curriculis uenerabi<lb n="20" />le
+				Propter hanc itaque occultam collocationem plurimis annorum curriculis uenerabi<lb n="20" break="no"/>le
 				corpus illud latuit,  nec inueniri a christicolis ualuit,  sed  tempore Zenonis imperatoris<lb n="21" />
-				et sancti Gelasii pape eodem sancto apostolo reuelante repertum est corpus eius,  atque cum imnis et lau<lb n="22" />dibus
+				et sancti Gelasii pape eodem sancto apostolo reuelante repertum est corpus eius,  atque cum imnis et lau<lb n="22" break="no"/>dibus
 				decentissime collocatum,
 				per gratiam illius   qui non patitur latere gloriam sanctorum suorum<lb n="23" />
 				qui uiuit et  regnat per omnia saecula saeculorum amen.

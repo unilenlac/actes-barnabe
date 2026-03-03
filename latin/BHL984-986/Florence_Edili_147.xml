@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Florence_Edili_147</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -39,22 +46,22 @@
 			<p>
 				<seg type="lectio" place="inline" hand="manus1">Lectio ia</seg>
 				<lb n="23" />
-				Barnabas he<lb n="24" />braice,
+				Barnabas he<lb n="24" break="no"/>braice,
 				latine<lb n="25" />
 				interpretatur<lb n="26" />
 				filius prophete<lb n="27" />
-				uel filius con<lb n="28" />solationis.
+				uel filius con<lb n="28" break="no"/>solationis.
 				Barnabas qui<lb n="29" />
-				et Ioseph natione Cipriȩ ci<lb n="30" />uitatis,
-				que ex Cyro rege Per<lb n="31" />sarum
-				fundata est, cum Pau<lb n="32" />lo
-				ingentibus apostolatum ad<cb n="2" /><lb n="1" />eptus
+				et Ioseph natione Cipriȩ ci<lb n="30" break="no"/>uitatis,
+				que ex Cyro rege Per<lb n="31" break="no"/>sarum
+				fundata est, cum Pau<lb n="32" break="no"/>lo
+				ingentibus apostolatum ad<cb n="2" /><lb n="1" break="no"/>eptus
 				est. Deinde propter Iohannem<lb n="2" />
-				discipulum, qui etiam cogno<lb n="3" />mento
+				discipulum, qui etiam cogno<lb n="3" break="no"/>mento
 				Marcus appellatur,<lb n="4" />
-				seiunctus a Paulo  nichilo<lb n="5" />minus
+				seiunctus a Paulo  nichilo<lb n="5" break="no"/>minus
 				euangelii praedicatione<lb n="6" />
-				sibi opus iniunctum exercu<lb n="7" />it,
+				sibi opus iniunctum exercu<lb n="7" break="no"/>it,
 				martirio coronatus.<lb n="8" />
 				Cuius festiuitas celebratur<lb n="9" />
 				tercio ydus iunii.

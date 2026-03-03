@@ -1,10 +1,11 @@
 <?xml version="1.0"?>
+<?xml-model href="../../../misc/tei_enlac_irsb.dtd" type="application/xml-dtd"?>
 <!DOCTYPE TEI PUBLIC "TEI" "https://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_all.dtd">
-<TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="la">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Acta Barnabae (BHL984-986)</title>
+				<title>Acta Barnabae (BHL984-986) - Florence_Plut_XX_5</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>IRSB - Projet FNS « Éditer la littérature apocryphe chrétienne » </publisher>
@@ -22,6 +23,12 @@
 				</msIdentifier>
 			</msDesc>
 		</sourceDesc>
+		<encodingDesc>
+			<refsDecl>
+				<citeStructure unit="milestone" match="//milestone" use="@n" />
+			</refsDecl>
+		</encodingDesc>
+		
 		</fileDesc>
 		<revisionDesc status="revision1-finished">
 			<change />
@@ -41,18 +48,18 @@
 			<p>
 				<seg place="inline" hand="manus1" type="lectio">Lectio</seg>
 				<lb n="14" />
-				Barnabas hebra<lb n="15" />ice,
-				latine inter<lb n="16" />pretatur
+				Barnabas hebra<lb n="15" break="no"/>ice,
+				latine inter<lb n="16" break="no"/>pretatur
 				filius prophete,<lb n="17" />
-				uel filius consolationis. Barna<lb n="18" />bas
+				uel filius consolationis. Barna<lb n="18" break="no"/>bas
 				qui Ioseph natione Cyprie<lb n="19" />
-				ciuitatis, que ex  Cyro rege Per<lb n="20" />sarum
+				ciuitatis, que ex  Cyro rege Per<lb n="20" break="no"/>sarum
 				fundata extitit, cum Paulo<lb n="21" />
 				ingentibus apostolatum adeptus<lb n="22" />
-				est. Deinde propter Iohannem disci<lb n="23" />pulum,
-				qui etiam cognomento Mar<lb n="24" />chus
-				appellatur  seiunctus a Pau<lb n="25" />lo,
-				nichilominus euangelii pre<lb n="26" />dicatione
+				est. Deinde propter Iohannem disci<lb n="23" break="no"/>pulum,
+				qui etiam cognomento Mar<lb n="24" break="no"/>chus
+				appellatur  seiunctus a Pau<lb n="25" break="no"/>lo,
+				nichilominus euangelii pre<lb n="26" break="no"/>dicatione
 				sibi opus iniunctum<lb n="27" />
 				exercuit,  martyrio coronatus. Cuius<lb n="28" />
 				festiuitas celebratur tertio idus<lb n="29" />
